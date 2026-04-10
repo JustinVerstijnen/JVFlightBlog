@@ -18786,18 +18786,27 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
     display: flex;
     align-items: center;
     gap: 0.5rem; }
-    .td-navbar .navbar-brand__logo {
-      height: 50px;
-      width: 50px;
-      display: flex;
-      align-items: center; }
+.td-navbar .navbar-brand__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 50px;
+  max-height: 50px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
     .td-navbar .navbar-brand__name {
       font-weight: 600; }
-    .td-navbar .navbar-brand svg {
-      height: 50px;
-      width: 50px; }
-  .td-navbar .navbar-nav {
-    white-space: nowrap; }
+.td-navbar .navbar-brand__logo svg,
+.td-navbar .navbar-brand__logo img
+{
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+}
   .td-navbar .nav-link {
     font-weight: 600; }
     .td-navbar .nav-link:focus, .td-navbar .nav-link:focus-visible {
