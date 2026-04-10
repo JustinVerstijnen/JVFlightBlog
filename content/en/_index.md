@@ -24,7 +24,7 @@ params:
 
 
 <div class="td-cta-buttons my-5">
-  <a class="btn btn-lg btn-primary" href="/docs/">
+  <a class="btn btn-lg btn-primary" href="/blog/">
     Click here for my blog
   </a>
 </div>
