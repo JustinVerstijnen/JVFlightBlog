@@ -13,7 +13,6 @@ params:
 >}}
 
 {{< param "description" >}}
-{: .display-6 }
 
 <div class="td-cta-buttons my-5">
   <a class="btn btn-lg btn-primary" href="/docs/">
