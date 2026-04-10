@@ -1,9 +1,9 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/JustinVerstijnenskre/Downloads/JVFlightBlog",
+	"sourceRoot": "C:/Users/InfoJustinVerstijnen/Downloads/JVFlightBlog",
 	"sources": [
-		"C:/Users/JustinVerstijnenskre/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.14.3/assets/scss/main.scss",
+		"C:/Users/InfoJustinVerstijnen/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.14.3/assets/scss/main.scss",
 		"../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.14.3/assets/scss/td/_main.scss",
 		"../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/twbs/bootstrap@v5.3.8+incompatible/scss/_functions.scss",
 		"../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.14.3/assets/scss/td/_variables_forward.scss",
