@@ -26,12 +26,6 @@ params:
   <a {{% _param btn-lg primary %}} href="docs/">
     Learn more
   </a>
-  <a {{% _param btn-lg secondary %}}
-    href="{{% param github_repo %}}"
-    target="_blank" rel="noopener noreferrer">
-    Get the code
-    {{% _param FA brands github "" %}}
-  </a>
 </div>
 
 {{% blocks/link-down color="info" %}}
