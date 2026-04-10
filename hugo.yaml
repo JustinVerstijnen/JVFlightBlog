@@ -54,9 +54,6 @@ outputFormats:
     mediaType: text/redirects
     root: true
 
-permalinks:
-  blog: /:section/:year/:month/:day/:slugorcontentbasename
-
 imaging:
   resampleFilter: CatmullRom
   quality: 75
