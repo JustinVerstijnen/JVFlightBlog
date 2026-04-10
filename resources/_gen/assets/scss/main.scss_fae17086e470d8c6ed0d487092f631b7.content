@@ -14,7 +14,7 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
    */
 :root,
 [data-bs-theme="light"] {
-  --bs-blue: #0d6efd;
+  --bs-blue: #8EAFDA;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
