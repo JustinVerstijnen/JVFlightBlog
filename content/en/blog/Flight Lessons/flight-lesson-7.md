@@ -202,3 +202,17 @@ Due to repeated cancellations, I was assigned homework to improve understanding 
 ### 1. Flaps vs. flapless take‑off
 
 The first exercise involved drawing a graph representing altitude versus distance from the start of the take‑off roll through rotation and initial climb, comparing flapless and flaps‑assisted take‑offs.
+
+
+
+## Succeeded lesson
+
+After another two months, we were finally able to successfully complete the stalls lesson on **March 27**. During this lesson, we reviewed all previously discussed information and repeated the stalls exercises in full.
+
+Key items that needed extra review:
+
+- **Wind corrections and yoke control**
+- **Walk‑around inspection scheme**
+- **Correct and timely rudder use during slow flight and stall approach**
+  - **Full power:** right rudder
+  - **Idle power:** left rudder
