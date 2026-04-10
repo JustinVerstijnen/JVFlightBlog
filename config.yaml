@@ -15,7 +15,12 @@ module:
     min: 0.110.0
 
 # /Blog en datum uitschakelen
-permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:title/
 
 # Nodig voor het navigatiemenu
 params:
