@@ -18,9 +18,12 @@ menu:
     - name: Blog
       url: /blog/
       weight: 10
-    - name: PPL
-      url: /ppl/
+    - name: Tools
+      url: /tools/
       weight: 20
+    - name: About
+      url: /about/
+      weight: 30
 
 taxonomies:
   tag: tags
