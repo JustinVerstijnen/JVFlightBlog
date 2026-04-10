@@ -13,21 +13,3 @@ module:
   hugoVersion:
     extended: true
     min: 0.110.0
-
-menu:
-  main:
-    - name: Home
-      url: /
-      weight: 1
-
-    - name: Blog
-      url: /blog/
-      weight: 10
-
-    - name: PPL
-      url: /ppl/
-      weight: 20
-
-    - name: Over mij
-      url: /about/
-      weight: 30
