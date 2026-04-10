@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1000 1000"
-  width="50"
-  height="50"
+  viewBox="-300 -300 1600 1600"
   preserveAspectRatio="xMidYMid meet"
   role="img"
   aria-label="JV logo"
 >
 
-  <!-- ORIGINAL PATHS - ONGEWIJZIGD -->
+  <!-- jouw paden blijven exact hetzelfde -->
   <path d="M0 0 C1.19377721 -0.00440486 ..." fill="#77B0DE"
         transform="translate(157.82853889465332,-0.26564884185791016)"/>
 
