@@ -1,6 +1,7 @@
 ---
 title: Flight Lesson 1
 date: 2025-07-25
+slug: "flight-lesson-1"
 description: >
   In my first flight lesson for my Private Pilot Lesson, I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2500 feet, but only controlled the yoke, rudder pedals and trims.
 ---
