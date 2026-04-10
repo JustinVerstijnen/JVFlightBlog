@@ -12,13 +12,25 @@ params:
   image_anchor="top"
 >}}
 
+
+
+
+
+
 {{< param "description" >}}
+
+
+
+
 
 <div class="td-cta-buttons my-5">
   <a class="btn btn-lg btn-primary" href="/docs/">
     Click here for my blog
   </a>
 </div>
+
+
+
 
 {{< /blocks/cover >}}
 
