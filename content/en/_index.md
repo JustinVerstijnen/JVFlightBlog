@@ -1,6 +1,6 @@
 ---
-title: Goldydocs
-description: Porridge temperature assessment &mdash; in the cloud!
+title: Justin Verstijnen
+description: Cloud mysteries revealed for you
 params:
   body_class: td-navbar-links-all-active
 ---
