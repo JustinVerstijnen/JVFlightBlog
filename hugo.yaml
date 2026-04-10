@@ -9,17 +9,9 @@ enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 enableGitInfo: true
 
-# /Blog en datum uitschakelen
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      permalink: /:title/
-
-collections:
-  posts:
-    permalink: /:title/
+# /Blog en datum uitschakelen uit URL
+permalinks:
+  blog: "/:slug/"
 
 # Nodig voor het navigatiemenu
 params:
