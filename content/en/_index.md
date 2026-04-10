@@ -5,26 +5,26 @@ params:
   body_class: td-navbar-links-all-active
 ---
 
-{{% blocks/cover
+{{< blocks/cover
   title="Justin Verstijnen Flight Blog"
-  height="full td-below-navbar"
+  height="full"
+  color="primary"
   image_anchor="top"
-%}}
+>}}
 
+{{< param "description" >}}
+{: .display-6 }
 
-<!-- prettier-ignore -->
-{{% _param description %}}
-{.display-6}
-
-<!-- prettier-ignore -->
 <div class="td-cta-buttons my-5">
-  <a {{% _param btn-lg primary %}} href="docs/">
+  <a class="btn btn-lg btn-primary" href="/docs/">
     Click here for my blog
   </a>
 </div>
 
-{{% /blocks/cover %}}
+{{< /blocks/cover >}}
 
-{{% blocks/lead color="white" %}}
+{{< blocks/lead color="white" >}}
 
-On this website, I will share my aviation experiences including theory and practice in my Private Pilot License achieving journey.
+On this website, I will share my aviation experiences, including both theory and practice, during my journey towards achieving a Private Pilot License (PPL).
+
+{{< /blocks/lead >}}
