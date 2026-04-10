@@ -14,6 +14,9 @@ module:
     extended: true
     min: 0.110.0
 
+# /Blog en datum uitschakelen
+permalink: /:title/
 
+# Nodig voor het navigatiemenu
 params:
   sectionPagesMenu: false
