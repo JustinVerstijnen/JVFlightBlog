@@ -108,8 +108,8 @@ params:
   archived_version: false
   version: 0.14.3
   versionWithBuildId: 0.14.3
-  github_repo: https://github.com/google/docsy-example
-  github_project_repo: https://github.com/google/docsy
+  github_repo: https://github.com/JustinVerstijnen/JVFlightBlog
+  github_project_repo: https://github.com/JustinVerstijnen/JVFlightBlog
   github_branch: main
   gcs_engine_id: d72aa9b2712488cc3
   offlineSearch: false
