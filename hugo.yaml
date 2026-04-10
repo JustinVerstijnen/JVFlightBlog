@@ -17,6 +17,10 @@ defaults:
     values:
       permalink: /:title/
 
+collections:
+  posts:
+    permalink: /:title/
+
 # Nodig voor het navigatiemenu
 params:
   sectionPagesMenu: false
