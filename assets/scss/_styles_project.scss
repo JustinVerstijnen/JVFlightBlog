@@ -21,3 +21,11 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
     color: tint-color($primary, 80%) !important;
   }
 }
+
+.btn-primary, .td-blog .td-rss-button {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #8EAFDA;
+  --bs-btn-border-color: #8daed9;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #7691b5;
+  --bs-btn-hover-border-color: #7a96bb; }
