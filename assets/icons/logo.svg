@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="-300 -300 1600 1600"
+  viewBox="0 0 1000 1000"
   preserveAspectRatio="xMidYMid meet"
   role="img"
-  aria-label="JV logo"
->
+  aria-label="JV logo">
+  <g transform="translate(500 500) scale(0.001) translate(-500 -500)">
 
-  <!-- jouw paden blijven exact hetzelfde -->
-  <path d="M0 0 C1.19377721 -0.00440486 ..." fill="#77B0DE"
-        transform="translate(157.82853889465332,-0.26564884185791016)"/>
+    <!-- ALLE bestaande paths ongewijzigd -->
+    <path d="M0 0 C1.19377721 -0.00440486 ..." fill="#77B0DE" />
+    <path d="M0 0 C3.26873736 0.00314255 ..." fill="#FEFEFE" />
+    <path d="M0 0 C7.3973076 -0.04629419 ..." fill="#FDFEFE" />
+    <path d="M0 0 C7.52969652 -0.02526648 ..." fill="#FDFEFE" />
 
-  <path d="M0 0 C3.26873736 0.00314255 ..." fill="#FEFEFE"
-        transform="translate(477.69873046875,159.684326171875)"/>
-
-  <path d="M0 0 C7.3973076 -0.04629419 ..." fill="#FDFEFE"
-        transform="translate(483,536)"/>
-
-  <path d="M0 0 C7.52969652 -0.02526648 ..." fill="#FDFEFE"
-        transform="translate(404,536)"/>
-
+  </g>
 </svg>
