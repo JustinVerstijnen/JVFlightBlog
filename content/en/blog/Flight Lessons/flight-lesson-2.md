@@ -1,5 +1,5 @@
 ---
-title: Lesson 1.2 – Effect of controls
+title: Flight Lesson 2
 date: 2025-08-08
 slug: "flight-lesson-2"
 description: >
