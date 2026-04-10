@@ -38,8 +38,9 @@ background-color: #8eafda;
   --bs-bg-opacity: 0.45; }
 
 .td-navbar .td-lang-menu {
-    position: unset !important;
     display: none;
-    align-items: center;
-    justify-content: center;
+}
+
+.td-page-meta__edit .td-page-meta__child .td-page-meta__project-issue {
+  display: none;
 }
