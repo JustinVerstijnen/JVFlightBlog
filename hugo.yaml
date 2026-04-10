@@ -5,20 +5,10 @@ title: JV Flight Blog
 contentDir: content/en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-# Useful when translating.
 enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
-
-# Will give values to .Lastmod etc.
 enableGitInfo: true
 
-# Comment out to disable taxonomies in Docsy
-# disableKinds: [taxonomy]
-
-# Menu Pages
-sectionPagesMenu: main
-
-# You can add your own taxonomies
 taxonomies:
   tag: tags
   category: categories
@@ -26,10 +16,7 @@ taxonomies:
 # Highlighting config
 pygmentsCodeFences: true
 pygmentsUseClasses: false
-# Use the new Chroma Go highlighter in Hugo.
 pygmentsUseClassic: false
-# pygmentsOptions: "linenos=table"
-# See https://help.farbox.com/pygments.html
 pygmentsStyle: tango
 
 mediaTypes:
@@ -43,11 +30,9 @@ outputFormats:
     mediaType: text/redirects
     root: true
 
-# Configure how URLs look like per section.
 permalinks:
   blog: /:section/:year/:month/:day/:slugorcontentbasename
 
-# Image processing configuration.
 imaging:
   resampleFilter: CatmullRom
   quality: 75
@@ -109,11 +94,6 @@ params:
 
   privacy_policy: https://policies.google.com/privacy
 
-  # First one is picked as the Twitter card image if not set on page.
-  # images: [images/project-illustration.png]
-
-  # Menu title if your navbar has a versions selector to access old versions of your site.
-  # This menu appears only if you have at least one [params.versions] set.
   version_menu: Releases
   archived_version: false
   version: 0.14.3
@@ -128,30 +108,23 @@ params:
 # #ooter
   copyright:
     authors: >-
-      Justin Verstijnen |
-    from_year: 2018
+      | Justin Verstijnen |
+    from_year: 2024
     to_year: present
 
   # User interface configuration
   ui:
-    # Set to true to disable breadcrumb navigation.
     breadcrumb_disable: false
-    # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
     navbar_logo: true
-    # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
     navbar_translucent_over_cover_disable: false
 
     sidebar_menu_foldable: true
-    # Enable to show the side bar menu in its compact state.
     sidebar_menu_compact: false
-    # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
     sidebar_search_disable: false
-    # Enable light/dark mode toggle menu in the navbar
     showLightDarkModeMenu: true
 
     feedback:
-      enable: true
-      # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
+      enable: false
       yes: >-
         Glad to hear it! Please <a
         href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we
@@ -168,7 +141,6 @@ params:
   FA: <i class="fa-{1} fa-{2} text-{3} px-1"></i>
 
   links:
-    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: Site information
         url: /site/
