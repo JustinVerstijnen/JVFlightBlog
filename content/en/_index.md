@@ -1,12 +1,12 @@
 ---
 title: Justin Verstijnen
-description: Cloud mysteries revealed for you
+description: On this website, I share all my aviation experiences
 params:
   body_class: td-navbar-links-all-active
 ---
 
 {{% blocks/cover
-  title="Welcome to Goldydocs: A Docsy Example and Starter Project!"
+  title="Justin Verstijnen Flight Blog"
   height="full td-below-navbar"
   image_anchor="top"
 %}}
@@ -40,12 +40,7 @@ params:
 
 {{% blocks/lead color="white" %}}
 
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
-
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+On this website, I will share my aviation experiences including theory and practice in my Private Pilot License achieving journey.
 
 {{% /blocks/lead %}}
 
