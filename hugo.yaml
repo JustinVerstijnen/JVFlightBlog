@@ -9,6 +9,18 @@ enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 enableGitInfo: true
 
+# /Blog en datum uitschakelen
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:title/
+
+# Nodig voor het navigatiemenu
+params:
+  sectionPagesMenu: false
+
 # Navbar menu
 menu:
   main:
