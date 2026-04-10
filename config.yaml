@@ -17,4 +17,3 @@ module:
 
 params:
   sectionPagesMenu: false
-  disableLanguages: true
