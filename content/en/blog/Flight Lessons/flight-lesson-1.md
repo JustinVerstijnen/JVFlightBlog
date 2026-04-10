@@ -115,7 +115,7 @@ In aviation, multiple organizations oversee safety and regulations:
 
 Before every flight we must perform a pre-flight inspection to avoid surprises in the air.
 
-[![Flight lesson 1 image](https://storage.justinverstijnen.nl/flightblog/flight-lesson-1-4509/jv-media-4509-7917ca2d7164.png)](https://storage.justinverstijnen.nl/flightblog/flight-lesson-1-4509/jv-media-4509-7917ca2d7164.png)
+https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-1-4509/jv-media-4509-7917ca2d7164.png
 
 During the walk-around we check:
 
