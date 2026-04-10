@@ -1,46 +1,69 @@
-name: Deployment to GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
-  workflow_dispatch:
   push:
     branches:
-      - main # <-- specify the branch you want to deploy from
-  pull_request:
+      - main
 
-env:
-  REPO_NAME: ${{ github.event.repository.name }}
-  REPO_OWNER: ${{ github.repository_owner }}
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  deploy:
-    runs-on: ubuntu-22.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  build:
+    runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          submodules: recursive
+          fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: '0.155.3'
-          extended: true
-
-      - name: Setup Node
+      - name: Setup Node.js (for PostCSS)
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 20
           cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
 
-      - run: npm ci
-      - run: >-
-          hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME}
-          --minify
+      - name: Install Node dependencies (PostCSS, etc.)
+        run: |
+          if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found, skipping npm install"
+          fi
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          hugo-version: "0.145.0"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify --gc
+
+      - name: Sanity check build output
+        run: test -f public/index.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
