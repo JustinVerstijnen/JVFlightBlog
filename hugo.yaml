@@ -13,10 +13,6 @@ enableGitInfo: true
 permalinks:
   blog: "/:slug/"
 
-# Nodig voor het navigatiemenu
-params:
-  sectionPagesMenu: false
-
 # Navbar menu
 menu:
   main:
