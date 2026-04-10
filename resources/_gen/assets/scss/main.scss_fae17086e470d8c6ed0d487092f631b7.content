@@ -18787,12 +18787,15 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
     align-items: center;
     gap: 0.5rem; }
     .td-navbar .navbar-brand__logo {
+      height: 32px;
+      width: auto;
       display: flex;
       align-items: center; }
     .td-navbar .navbar-brand__name {
       font-weight: 600; }
     .td-navbar .navbar-brand svg {
-      height: 2rem; }
+      height: 32px;
+      width: auto; }
   .td-navbar .navbar-nav {
     white-space: nowrap; }
   .td-navbar .nav-link {
