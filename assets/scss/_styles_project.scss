@@ -36,3 +36,10 @@ background-color: #8eafda;
 
 .td-navbar.td-navbar-cover.td-navbar-transparent {
   --bs-bg-opacity: 0.45; }
+
+.td-navbar .td-lang-menu {
+    position: unset !important;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
