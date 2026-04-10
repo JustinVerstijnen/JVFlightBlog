@@ -57,7 +57,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Goldydocs
+    title: Flight Blog | Justin Verstijnen
     params:
       description: A Docsy example site
   # cSpell:disable
