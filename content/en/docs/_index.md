@@ -1,7 +1,7 @@
 ---
 title: Documentation
 linkTitle: Docs
-menu: { main: { weight: 20 } }
+# menu: { main: { weight: 20 } }
 ---
 
 {{% pageinfo color="warning td-max-width-on-larger-screens mx-0" %}}
