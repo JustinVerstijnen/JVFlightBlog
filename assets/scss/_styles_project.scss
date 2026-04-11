@@ -208,3 +208,19 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
   color: var(--bs-body-color) !important;
   opacity: 1 !important;
 }
+
+/* Show the table of contents above the page meta block in the blog section */
+.td-section.td-blog .td-sidebar-toc {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Move the table of contents to the top */
+.td-section.td-blog .td-sidebar-toc .td-toc {
+  order: 1;
+}
+
+/* Move the page meta block below the table of contents */
+.td-section.td-blog .td-sidebar-toc .td-page-meta {
+  order: 2;
+}
