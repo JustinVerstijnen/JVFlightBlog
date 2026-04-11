@@ -148,4 +148,4 @@ I hope you find the educational content, technical explanations, and shared know
 
 ---
 
-© {{< year >}} Justin Verstijnen. Thank you for reading.
+© 2026 Justin Verstijnen. Thank you for reading.
