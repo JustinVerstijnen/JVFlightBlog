@@ -103,7 +103,7 @@ params:
     taxonomyCloudTitle: [Tag Cloud, Categories]
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: /terms-and-conditions/
 
   version_menu: Releases
   archived_version: false
