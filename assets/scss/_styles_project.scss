@@ -7,17 +7,14 @@
 @import 'td/extra/buttons';
 @import 'td/extra/main-container';
 
-/* Improve link contrast inside primary content blocks */
+/* Style primary content blocks */
 .td-box--primary {
+  color: #fff;
+  background-color: #8EAFDA;
+
   a {
     color: tint-color($primary, 80%) !important;
-    background-color: #8EAFDA;
   }
-}
-
-.td-box--primary {
-    color: #fff;
-    background-color: #8EAFDA;
 }
 
 /* Primary button colors */
@@ -77,13 +74,38 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
 
 /* Make the navbar transparent only on the homepage */
 .home-navbar-transparent .td-navbar,
-.home-navbar-transparent .td-navbar::before,
-.home-navbar-transparent .td-navbar::after {
+.home-navbar-transparent .td-navbar::before {
   background: transparent !important;
   background-image: none !important;
   border: 0 !important;
   border-bottom: none !important;
   box-shadow: none !important;
+}
+
+.home-navbar-transparent .td-navbar {
+  position: relative;
+  z-index: 1030;
+}
+
+/* Add a soft gradient shadow below the transparent homepage navbar */
+.home-navbar-transparent .td-navbar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  height: 56px;
+  pointer-events: none;
+  border: 0 !important;
+  box-shadow: none !important;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.28) 0%,
+    rgba(0, 0, 0, 0.18) 22%,
+    rgba(0, 0, 0, 0.10) 48%,
+    rgba(0, 0, 0, 0.04) 72%,
+    rgba(0, 0, 0, 0) 100%
+  ) !important;
 }
 
 /* Make navbar text white on the homepage */
