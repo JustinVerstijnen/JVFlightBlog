@@ -196,6 +196,38 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
   opacity: 1 !important;
 }
 
+/* Make the navbar transparent only on the homepage, but keep a subtle bottom shadow */
+.home-navbar-transparent .td-navbar {
+  background: transparent !important;
+  background-image: none !important;
+  border: 0 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  position: relative;
+  z-index: 10;
+}
+
+.home-navbar-transparent .td-navbar::before {
+  background: transparent !important;
+  background-image: none !important;
+  border: 0 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.home-navbar-transparent .td-navbar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -14px;
+  height: 18px;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.26), rgba(0, 0, 0, 0));
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
 /* Make homepage feature blocks fully clickable */
 .homepage-feature-link {
   display: block;
