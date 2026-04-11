@@ -19,6 +19,36 @@
     background-color: #8EAFDA;
 }
 
+/* Homepage box animations */
+/* Make homepage feature blocks fully clickable */
+.homepage-feature-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Keep feature links clean on hover and focus */
+.homepage-feature-link:hover,
+.homepage-feature-link:focus {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Add spacing and a subtle hover effect */
+.homepage-feature-item {
+  height: 100%;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Highlight the feature block on hover */
+.homepage-feature-link:hover .homepage-feature-item,
+.homepage-feature-link:focus .homepage-feature-item {
+  transform: translateY(-4px);
+  box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.12);
+}
+
 /* Primary button colors */
 .btn-primary,
 .td-blog .td-rss-button {
