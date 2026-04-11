@@ -10,7 +10,7 @@ description: >
   In my first flight lesson for my Private Pilot Lesson, I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2500 feet, but only controlled the yoke, rudder pedals and trims.
 ---
 
-> **Lesson 1.1 – Basics**
+> **Lesson 1.1 - Basics**
 > **Date:** 25-07-2025
 
 ---
@@ -19,7 +19,7 @@ description: >
 
 ## Introduction
 
-In my first flight lesson for my Private Pilot Lesson, I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2500 feet, but only controlled the yoke, rudder pedals and trims.
+In my first flight lesson for my Private Pilot Lesson, I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2.500 feet, but only controlled the yoke, rudder pedals and trims.
 
 This lesson it was the first time after around 300 hours of Microsoft Flight Simulator where I controlled the plane for the full flight except the landing phase. In the PPL learning curve, you will perform this after around 8–9 lessons when doing take-off and landing/circuit exercises.
 
@@ -98,9 +98,9 @@ Weather is one of the most unpredictable factors. We check:
 
 In the briefing phase we inform crew and passengers about:
 
-- The **route**
+- The route
 - Destination aerodrome
-- **Threat and Error Management (TEM)**
+- Threat and Error Management (TEM)
 - Questions from passengers
 
 These were all points from the flight preparation.
@@ -149,18 +149,19 @@ After confirming airworthiness, we proceed with engine start.
 
 https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4509-0afa8a350fd1.png
 
-Most training aircraft have a **hot prop**, meaning the propeller can start the engine if the magnetos are active.  
+Most training aircraft have a hot prop, meaning the propeller can start the engine if the magnetos are active. This is when the key is turned to R, L, Both or Start.  
 Therefore:
-- Key **must be removed** when outside the aircraft
+- Key must be removed when outside the aircraft
 - Propeller rotation can power magnetos
 
 We then:
 
 - Set seats and seatbelts
 - Close doors and windows
-- Complete *Before Start* checklist
-- Mixture **full rich**
-- Call: **“On the brakes”**
+- Complete Before Start checklist
+- Mixture full rich
+- Call: “On the brakes”
+- Start the engine
 
 ---
 
@@ -185,9 +186,9 @@ The run-up ensures engine reliability before take-off.
 
 Before entering runway:
 
-- Transponder: **ALT**
-- Flaps: **10°**
-- Trim: **Take-off position**
+- Transponder: ALT
+- Flaps: 10 degrees
+- Trim: Take-off position
 
 ---
 
