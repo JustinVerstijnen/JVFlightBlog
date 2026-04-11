@@ -2,4 +2,4 @@
 title: PPL Theory
 ---
 
-Hello
+This category contains pages about Private Pilot License theory.
