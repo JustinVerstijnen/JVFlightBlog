@@ -87,19 +87,20 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
   color: #fff !important;
 }
 
-/* Make the navbar search field fully white in both light and dark mode */
-.td-navbar .td-search__input,
-.td-navbar .td-search .form-control {
+/* Make the navbar search field white only on the homepage */
+.home-navbar-transparent .td-navbar .td-search__input,
+.home-navbar-transparent .td-navbar .td-search .form-control {
   color: #fff !important;
   border-color: rgba(255, 255, 255, 0.9) !important;
   background-color: transparent !important;
   box-shadow: none !important;
   caret-color: #fff !important;
+  border-width: 1px !important;
 }
 
-/* Keep the search field white while focused */
-.td-navbar .td-search__input:focus,
-.td-navbar .td-search .form-control:focus {
+/* Keep the homepage search field white while focused */
+.home-navbar-transparent .td-navbar .td-search__input:focus,
+.home-navbar-transparent .td-navbar .td-search .form-control:focus {
   color: #fff !important;
   border-color: #fff !important;
   background-color: transparent !important;
@@ -107,41 +108,35 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
   outline: none !important;
 }
 
-/* Make placeholder text white */
-.td-navbar .td-search__input::placeholder,
-.td-navbar .td-search .form-control::placeholder {
+/* Make homepage search placeholder text white */
+.home-navbar-transparent .td-navbar .td-search__input::placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control::placeholder {
   color: #fff !important;
   opacity: 1 !important;
 }
 
-/* Browser-specific placeholder support */
-.td-navbar .td-search__input::-webkit-input-placeholder,
-.td-navbar .td-search .form-control::-webkit-input-placeholder {
+/* Browser-specific placeholder support for the homepage search field */
+.home-navbar-transparent .td-navbar .td-search__input::-webkit-input-placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control::-webkit-input-placeholder {
   color: #fff !important;
   opacity: 1 !important;
 }
 
-.td-navbar .td-search__input::-moz-placeholder,
-.td-navbar .td-search .form-control::-moz-placeholder {
+.home-navbar-transparent .td-navbar .td-search__input::-moz-placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control::-moz-placeholder {
   color: #fff !important;
   opacity: 1 !important;
 }
 
-.td-navbar .td-search__input:-ms-input-placeholder,
-.td-navbar .td-search .form-control:-ms-input-placeholder {
+.home-navbar-transparent .td-navbar .td-search__input:-ms-input-placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control:-ms-input-placeholder {
   color: #fff !important;
 }
 
-/* Make the search icon white */
-.td-navbar .td-search__icon,
-.td-navbar .td-search__icon::before,
-.td-navbar .td-search .fa-search,
-.td-navbar .td-search i {
+/* Make the homepage search icon white */
+.home-navbar-transparent .td-navbar .td-search__icon,
+.home-navbar-transparent .td-navbar .td-search__icon::before,
+.home-navbar-transparent .td-navbar .td-search .fa-search,
+.home-navbar-transparent .td-navbar .td-search i {
   color: #fff !important;
-}
-
-/* Make the search field border slightly more consistent */
-.td-navbar .td-search__input,
-.td-navbar .td-search .form-control {
-  border-width: 1px !important;
 }
