@@ -28,9 +28,18 @@ background-color: #8eafda;
     display: none;
 }
 
+/* Navbar enhancements for Frontpage */
 .home-navbar-transparent .td-navbar {
   background-color: transparent !important;
   background-image: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.home-navbar-transparent .td-navbar .nav-link,
+.home-navbar-transparent .td-navbar .navbar-brand,
+.home-navbar-transparent .td-navbar .dropdown-toggle {
+  color: #fff;
 }
 
 .home-navbar-transparent .td-navbar .nav-link,
