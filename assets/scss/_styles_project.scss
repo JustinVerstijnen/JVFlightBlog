@@ -229,6 +229,7 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
   order: 1;
 }
 
+/* Disables meta buttons on blog/docs pages */
 .td-sidebar-toc .td-page-meta {
   display: none;
 }
