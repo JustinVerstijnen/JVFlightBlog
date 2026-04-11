@@ -13,7 +13,7 @@
   background-color: #8EAFDA;
 
   a {
-    color: tint-color($primary, 80%) !important;
+    color: #ffffff !important;
   }
 }
 
@@ -72,22 +72,33 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
   background-color: var(--td-navbar-bg-color);
 }
 
-/* Make the navbar transparent only on the homepage */
-.home-navbar-transparent .td-navbar,
-.home-navbar-transparent .td-navbar::before {
-  background: transparent !important;
+/* Keep the homepage navbar fully transparent */
+.home-navbar-transparent .td-navbar {
+  position: relative;
+  z-index: 1030;
+  background-color: transparent !important;
   background-image: none !important;
   border: 0 !important;
   border-bottom: none !important;
   box-shadow: none !important;
+  backdrop-filter: none !important;
 }
 
-.home-navbar-transparent .td-navbar {
-  position: relative;
-  z-index: 1030;
+/* Keep navbar inner containers transparent on the homepage */
+.home-navbar-transparent .td-navbar .container,
+.home-navbar-transparent .td-navbar .container-fluid {
+  background: transparent !important;
 }
 
-/* Add a soft gradient shadow below the transparent homepage navbar */
+/* Remove any extra navbar background layers on the homepage */
+.home-navbar-transparent .td-navbar::before {
+  content: none !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Add a gradient shadow below the homepage navbar only */
 .home-navbar-transparent .td-navbar::after {
   content: "";
   position: absolute;
@@ -96,8 +107,7 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
   top: 100%;
   height: 56px;
   pointer-events: none;
-  border: 0 !important;
-  box-shadow: none !important;
+  z-index: -1;
   background: linear-gradient(
     to bottom,
     rgba(0, 0, 0, 0.28) 0%,
@@ -283,7 +293,8 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
 }
 
 /* Footer background color */
-.td-box--dark, .td-footer {
-    color: #fff;
-    background-color: #0E202C;
+.td-box--dark,
+.td-footer {
+  color: #fff;
+  background-color: #0E202C;
 }
