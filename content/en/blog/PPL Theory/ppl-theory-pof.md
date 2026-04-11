@@ -34,7 +34,7 @@ Lift works basically with these 4 components:
 - **Drag:** The drag component is how much air resistance we have in a particular situation. The higher the angle of attack, the more drag and how harder the engine must work to compensate for it, which can evantually result in a stall
 - **Lift force:** The lift force is the resultant of the wind velocity, drag and the angle of attack and states how much the wing is pushed up
 
-Let's take these 4 compontents into a simple drawing:
+Let's take these 4 components into a simple drawing:
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)
 
