@@ -42,15 +42,8 @@
   display: none;
 }
 
-/* Background color dark/light mode selector */
-.dropdown-item.active, .dropdown-item:active {
-    color: var(--bs-dropdown-link-active-color);
-    text-decoration: none;
-    background-color: #8EAFDA;
-}
-
 /* Hide the project issue link in page meta */
-.td-page-meta {
+.td-page-meta--edit .td-page-meta--child .td-page-meta--project-issue {
   display: none;
 }
 
@@ -83,13 +76,34 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
 }
 
 /* Make the navbar transparent only on the homepage */
-.home-navbar-transparent .td-navbar,
-.home-navbar-transparent .td-navbar::before,
-.home-navbar-transparent .td-navbar::after {
+.home-navbar-transparent .td-navbar {
   background: transparent !important;
   background-image: none !important;
   border: 0 !important;
   border-bottom: none !important;
+  box-shadow: none !important;
+  position: relative;
+  z-index: 10;
+}
+
+.home-navbar-transparent .td-navbar::before {
+  background: transparent !important;
+  background-image: none !important;
+  border: 0 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.home-navbar-transparent .td-navbar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -14px;
+  height: 18px;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.26), rgba(0, 0, 0, 0));
+  border: 0 !important;
   box-shadow: none !important;
 }
 
@@ -194,38 +208,6 @@ body:not(.home-navbar-transparent) .td-navbar .td-search__input:-ms-input-placeh
 body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input-placeholder {
   color: var(--bs-body-color) !important;
   opacity: 1 !important;
-}
-
-/* Make the navbar transparent only on the homepage, but keep a subtle bottom shadow */
-.home-navbar-transparent .td-navbar {
-  background: transparent !important;
-  background-image: none !important;
-  border: 0 !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-  position: relative;
-  z-index: 10;
-}
-
-.home-navbar-transparent .td-navbar::before {
-  background: transparent !important;
-  background-image: none !important;
-  border: 0 !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-}
-
-.home-navbar-transparent .td-navbar::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -14px;
-  height: 18px;
-  pointer-events: none;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.26), rgba(0, 0, 0, 0));
-  border: 0 !important;
-  box-shadow: none !important;
 }
 
 /* Make homepage feature blocks fully clickable */
