@@ -263,3 +263,58 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
 .td-sidebar-toc .td-page-meta {
   display: none;
 }
+
+/* Make homepage feature blocks fully clickable */
+.homepage-feature-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Keep feature links clean on hover and focus */
+.homepage-feature-link:hover,
+.homepage-feature-link:focus {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Add spacing and a subtle hover effect */
+.homepage-feature-item {
+  height: 100%;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Highlight the feature block on hover */
+.homepage-feature-link:hover .homepage-feature-item,
+.homepage-feature-link:focus .homepage-feature-item {
+  transform: translateY(-4px);
+  box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.12);
+}
+
+/* Style the latest blog post cards on the homepage */
+.homepage-post-card {
+  height: 100%;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.75rem;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
+}
+
+/* Keep blog post titles clean */
+.homepage-post-title {
+  color: inherit;
+  text-decoration: none;
+}
+
+.homepage-post-title:hover,
+.homepage-post-title:focus {
+  text-decoration: underline;
+}
+
+/* Style the blog post date */
+.homepage-post-date {
+  font-size: 0.95rem;
+  color: var(--bs-secondary-color);
+  margin-bottom: 0.75rem;
+}
