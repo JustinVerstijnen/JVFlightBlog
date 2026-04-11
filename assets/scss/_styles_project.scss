@@ -1,22 +1,12 @@
-/*
-Project-specific styles. For details, see:
-https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
-*/
+// Import of external modules
 
-// Dark mode enhancements
 @import 'td/color-adjustments-dark';
 @import 'td/code-dark';
 @import 'td/gcs-search-dark';
 @import 'td/extra/buttons';
 @import 'td/extra/main-container';
 
-// Example of color tuning
-
 .td-box--primary {
-  // TODO: rework the td-box--* classes so that they don't override `color`;
-  // otherwise we can't use Bootstrap's CSS variables:
-  // --bs-link-color: $color !important;
-  // --bs-link-color-rgb: red !important;
   a {
     color: tint-color($primary, 80%) !important;
   }
@@ -34,11 +24,19 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
 background-color: #8eafda;
     border-color: #8eafda;}
 
-.td-navbar.td-navbar-cover.td-navbar-transparent {
-  --bs-bg-opacity: 0.45; }
-
 .td-navbar .td-lang-menu {
     display: none;
+}
+
+.home-navbar-transparent .td-navbar {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+.home-navbar-transparent .td-navbar .nav-link,
+.home-navbar-transparent .td-navbar .navbar-brand,
+.home-navbar-transparent .td-navbar .dropdown-toggle {
+  color: #fff;
 }
 
 .td-page-meta--edit .td-page-meta--child .td-page-meta--project-issue {

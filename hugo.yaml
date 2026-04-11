@@ -127,7 +127,7 @@ params:
   ui:
     breadcrumb_disable: false
     navbar_logo: true
-    navbar_translucent_over_cover_disable: false
+    navbar_translucent_over_cover_disable: true
 
     sidebar_menu_foldable: true
     sidebar_menu_compact: false
