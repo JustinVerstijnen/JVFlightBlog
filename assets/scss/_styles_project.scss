@@ -7,14 +7,17 @@
 @import 'td/extra/buttons';
 @import 'td/extra/main-container';
 
-/* Style primary content blocks */
+/* Improve link contrast inside primary content blocks */
 .td-box--primary {
-  color: #fff;
-  background-color: #8EAFDA;
-
   a {
-    color: #ffffff !important;
+    color: tint-color($primary, 80%) !important;
+    background-color: #8EAFDA;
   }
+}
+
+.td-box--primary {
+    color: #fff;
+    background-color: #8EAFDA;
 }
 
 /* Primary button colors */
@@ -72,76 +75,21 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
   background-color: var(--td-navbar-bg-color);
 }
 
-/* Keep the homepage navbar fully transparent */
-.home-navbar-transparent .td-navbar {
-  position: relative;
-  z-index: 1030;
+/* Make the navbar transparent only on the homepage */
+.home-navbar-transparent .td-navbar,
+.home-navbar-transparent .td-navbar::before,
+.home-navbar-transparent .td-navbar::after {
   background: transparent !important;
-  background-color: transparent !important;
   background-image: none !important;
   border: 0 !important;
-  border-bottom: 0 !important;
+  border-bottom: none !important;
   box-shadow: none !important;
-  backdrop-filter: none !important;
-  -webkit-backdrop-filter: none !important;
-}
-
-/* Keep all relevant navbar wrappers transparent on the homepage */
-.home-navbar-transparent .td-navbar .container,
-.home-navbar-transparent .td-navbar .container-fluid,
-.home-navbar-transparent .td-navbar .navbar-collapse,
-.home-navbar-transparent .td-navbar .navbar-nav,
-.home-navbar-transparent .td-navbar .nav-item,
-.home-navbar-transparent .td-navbar .nav-link,
-.home-navbar-transparent .td-navbar .navbar-brand,
-.home-navbar-transparent .td-navbar .td-search,
-.home-navbar-transparent .td-navbar .td-search .form-control {
-  background: transparent !important;
-  background-color: transparent !important;
-  background-image: none !important;
-  box-shadow: none !important;
-}
-
-/* Remove any separator lines from homepage navbar wrappers */
-.home-navbar-transparent .td-navbar,
-.home-navbar-transparent .td-navbar .container,
-.home-navbar-transparent .td-navbar .container-fluid {
-  border-top: 0 !important;
-  border-bottom: 0 !important;
-  outline: 0 !important;
-}
-
-/* Remove generated overlay layers on the homepage navbar */
-.home-navbar-transparent .td-navbar::before {
-  content: none !important;
-  display: none !important;
-}
-
-/* Add a gradient shadow below the homepage navbar only */
-.home-navbar-transparent .td-navbar::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 100%;
-  height: 56px;
-  pointer-events: none;
-  z-index: -1;
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.28) 0%,
-    rgba(0, 0, 0, 0.18) 22%,
-    rgba(0, 0, 0, 0.10) 48%,
-    rgba(0, 0, 0, 0.04) 72%,
-    rgba(0, 0, 0, 0) 100%
-  ) !important;
 }
 
 /* Make navbar text white on the homepage */
 .home-navbar-transparent .td-navbar .nav-link,
 .home-navbar-transparent .td-navbar .navbar-brand,
-.home-navbar-transparent .td-navbar .dropdown-toggle,
-.home-navbar-transparent .td-navbar .navbar-brand__name {
+.home-navbar-transparent .td-navbar .dropdown-toggle {
   color: #fff !important;
 }
 
