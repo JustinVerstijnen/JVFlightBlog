@@ -2,6 +2,8 @@
 title: Flight Lesson 5
 date: 2025-09-26
 slug: "flight-lesson-5"
+categories:
+  - Flight Lessons
 description: >
   Airwork lesson covering climbing and descending techniques, memory items, magneto checks, airborne checks, and structured briefings.
 ---

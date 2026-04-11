@@ -2,6 +2,8 @@
 title: Flight Lesson 2
 date: 2025-08-08
 slug: "flight-lesson-2"
+categories:
+  - Flight Lessons
 description: >
   Technical limitations of the Cessna 172, mass and balance calculations, take-off and landing performance, emergency equipment, and slow-flight basics.
 ---

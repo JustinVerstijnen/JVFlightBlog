@@ -2,6 +2,8 @@
 title: Flight Lesson 6
 date: 2025-10-13
 slug: "flight-lesson-6"
+categories:
+  - Flight Lessons
 description: >
   Slow flight and fast flight exercises focusing on aircraft control at extreme speeds, taxi checks from memory, and improvements in preparation and SOP usage.
 ---

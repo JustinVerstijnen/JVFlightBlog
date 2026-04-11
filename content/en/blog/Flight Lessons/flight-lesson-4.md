@@ -2,6 +2,8 @@
 title: Flight Lesson 4
 date: 2025-09-02
 slug: "flight-lesson-4"
+categories:
+  - Flight Lessons
 description: >
   Airwork lesson focusing on nose attitude, take-off speeds, throttle effects, gliding, trimming, and standard flight briefings.
 ---

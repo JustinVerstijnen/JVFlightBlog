@@ -2,6 +2,8 @@
 title: Flight Lesson 3
 date: 2025-08-22
 slug: "flight-lesson-3"
+categories:
+  - Flight Lessons
 description: >
   Preflight inspection, fuel calculations, basic aircraft forces, visual flying techniques, carburetor heat, and slow flight principles.
 ---

@@ -2,6 +2,8 @@
 title: Flight Lesson 7
 date: 2025-11-03
 slug: "flight-lesson-7"
+categories:
+  - Flight Lessons
 description: >
   Stalls training including multiple cancelled and repeated lessons due to weather,
   full stall and stall-approach recovery techniques, theory, and reflections.
