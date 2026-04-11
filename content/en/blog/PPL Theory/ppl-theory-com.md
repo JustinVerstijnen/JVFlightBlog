@@ -5,7 +5,6 @@ slug: "ppl-theory-com"
 categories:
   - PPL Theory
 tags:
-  - AI-Generated-Content
 description: >
   This page contains only some theoretical additions to this page: https://justinverstijnen.nl/flight-rt-course-notes/
 ---

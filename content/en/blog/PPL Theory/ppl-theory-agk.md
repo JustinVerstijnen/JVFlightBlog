@@ -5,7 +5,6 @@ slug: "ppl-theory-agk"
 categories:
   - PPL Theory
 tags:
-  - AI-Generated-Content
 description: >
   This page contains all notes of the Aircraft Genreral Knowledge course.
 ---

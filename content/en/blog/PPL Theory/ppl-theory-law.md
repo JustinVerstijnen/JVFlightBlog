@@ -5,7 +5,6 @@ slug: "ppl-theory-law"
 categories:
   - PPL Theory
 tags:
-  - AI-Generated-Content
 description: >
   This page contains all notes of the Aviation Law course.
 ---

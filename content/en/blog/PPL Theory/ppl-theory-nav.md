@@ -5,7 +5,6 @@ slug: "ppl-theory-nav"
 categories:
   - PPL Theory
 tags:
-  - AI-Generated-Content
 description: >
   Navigation and Flight Planning is a very important part of preparing your flights and knowing where to go in the air. When a flight is not properly prepared you can get several different kind of issues. These are the most pilot-caused problems in the air:
 ---
