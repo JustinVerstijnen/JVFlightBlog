@@ -42,6 +42,11 @@
   display: none;
 }
 
+/* Dark/Lightmode selector background color (active) */
+.dropdown-menu {
+  --bs-dropdown-link-active-bg: #8EAFDA;
+}
+
 /* Hide the project LinkS in page */
 .td-page-meta {
   display: none;
