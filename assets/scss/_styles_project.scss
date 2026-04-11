@@ -1,69 +1,64 @@
-// Import of external modules
+/* Project-specific styles */
 
+// Import external Docsy modules
 @import 'td/color-adjustments-dark';
 @import 'td/code-dark';
 @import 'td/gcs-search-dark';
 @import 'td/extra/buttons';
 @import 'td/extra/main-container';
 
+/* Improve link contrast inside primary content blocks */
 .td-box--primary {
   a {
     color: tint-color($primary, 80%) !important;
   }
 }
 
-.btn-primary, .td-blog .td-rss-button {
+/* Primary button colors */
+.btn-primary,
+.td-blog .td-rss-button {
   --bs-btn-color: #fff;
   --bs-btn-bg: #8EAFDA;
   --bs-btn-border-color: #8daed9;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #7691b5;
-  --bs-btn-hover-border-color: #7a96bb; }
+  --bs-btn-hover-border-color: #7a96bb;
+}
 
+/* Disabled button colors */
 .btn.disabled {
-background-color: #8eafda;
-    border-color: #8eafda;}
+  background-color: #8eafda;
+  border-color: #8eafda;
+}
 
+/* Hide the language selector in the navbar */
 .td-navbar .td-lang-menu {
-    display: none;
+  display: none;
 }
 
-/* Navbar enhancements for Frontpage */
-.home-navbar-transparent .td-navbar {
-  background-color: transparent !important;
-  background-image: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-}
-
-.home-navbar-transparent .td-navbar .nav-link,
-.home-navbar-transparent .td-navbar .navbar-brand,
-.home-navbar-transparent .td-navbar .dropdown-toggle {
-  color: #fff;
-}
-
-.home-navbar-transparent .td-navbar .nav-link,
-.home-navbar-transparent .td-navbar .navbar-brand,
-.home-navbar-transparent .td-navbar .dropdown-toggle {
-  color: #fff;
-}
-
+/* Hide the project issue link in page meta */
 .td-page-meta--edit .td-page-meta--child .td-page-meta--project-issue {
   display: none;
 }
 
+/* Default link styling */
 a {
   color: #6e89ab;
   text-decoration: none;
 }
 
+/* Self-link color for headings */
 .td-heading-self-link {
-    color: #8EAFDA; }
+  color: #8EAFDA;
+}
 
+/* Default navbar styling */
 .td-navbar {
-    --bs-link-underline-opacity: 0.65;
-    --td-navbar-bg-color: #8eafda; }
+  --bs-link-underline-opacity: 0.65;
+  --td-navbar-bg-color: #8eafda;
+}
 
+/* Keep the navbar solid on all non-home pages */
 body:not(.td-home) .td-navbar.td-navbar-cover {
   --bs-bg-opacity: 1;
   --td-navbar-backdrop-filter: none;
@@ -72,4 +67,81 @@ body:not(.td-home) .td-navbar.td-navbar-cover {
 
 body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
   background-color: var(--td-navbar-bg-color);
+}
+
+/* Make the navbar transparent only on the homepage */
+.home-navbar-transparent .td-navbar,
+.home-navbar-transparent .td-navbar::before,
+.home-navbar-transparent .td-navbar::after {
+  background: transparent !important;
+  background-image: none !important;
+  border: 0 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Make navbar text white on the homepage */
+.home-navbar-transparent .td-navbar .nav-link,
+.home-navbar-transparent .td-navbar .navbar-brand,
+.home-navbar-transparent .td-navbar .dropdown-toggle {
+  color: #fff !important;
+}
+
+/* Make the navbar search field fully white in both light and dark mode */
+.td-navbar .td-search__input,
+.td-navbar .td-search .form-control {
+  color: #fff !important;
+  border-color: rgba(255, 255, 255, 0.9) !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  caret-color: #fff !important;
+}
+
+/* Keep the search field white while focused */
+.td-navbar .td-search__input:focus,
+.td-navbar .td-search .form-control:focus {
+  color: #fff !important;
+  border-color: #fff !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Make placeholder text white */
+.td-navbar .td-search__input::placeholder,
+.td-navbar .td-search .form-control::placeholder {
+  color: #fff !important;
+  opacity: 1 !important;
+}
+
+/* Browser-specific placeholder support */
+.td-navbar .td-search__input::-webkit-input-placeholder,
+.td-navbar .td-search .form-control::-webkit-input-placeholder {
+  color: #fff !important;
+  opacity: 1 !important;
+}
+
+.td-navbar .td-search__input::-moz-placeholder,
+.td-navbar .td-search .form-control::-moz-placeholder {
+  color: #fff !important;
+  opacity: 1 !important;
+}
+
+.td-navbar .td-search__input:-ms-input-placeholder,
+.td-navbar .td-search .form-control:-ms-input-placeholder {
+  color: #fff !important;
+}
+
+/* Make the search icon white */
+.td-navbar .td-search__icon,
+.td-navbar .td-search__icon::before,
+.td-navbar .td-search .fa-search,
+.td-navbar .td-search i {
+  color: #fff !important;
+}
+
+/* Make the search field border slightly more consistent */
+.td-navbar .td-search__input,
+.td-navbar .td-search .form-control {
+  border-width: 1px !important;
 }
