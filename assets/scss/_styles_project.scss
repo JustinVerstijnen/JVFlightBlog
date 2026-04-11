@@ -1,4 +1,4 @@
-/* Project-specific styles */
+/* Site style overrides */
 
 // Import external Docsy modules
 @import 'td/color-adjustments-dark';
@@ -21,7 +21,7 @@
 }
 
 /* Primary button colors */
-.btn-primary, .td-blog .td-rss-button .btn.disabled .btn-outline-primary.btn-outline-primary {
+.btn-primary, .td-blog .td-rss-button .btn.disabled .btn-outline-primary {
   --bs-btn-color: #fff;
   --bs-btn-bg: #8EAFDA;
   --bs-btn-border-color: #8daed9;
@@ -40,7 +40,7 @@
   --bs-dropdown-link-active-bg: #8EAFDA;
 }
 
-/* Hide the project LinkS in page */
+/* Hide the project Links in page */
 .td-page-meta {
   display: none;
 }
