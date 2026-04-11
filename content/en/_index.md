@@ -28,7 +28,7 @@ On this website, I will share my aviation experiences, including both theory and
 
 {{< /blocks/lead >}}
 
-{{% blocks/section color="primary" %}}
+{{< blocks/section color="primary" >}}
 
 <div class="container text-center">
   <div class="row justify-content-center">
@@ -78,4 +78,4 @@ On this website, I will share my aviation experiences, including both theory and
   </div>
 </div>
 
-{{% /blocks/section %}}
+{{< /blocks/section >}}
