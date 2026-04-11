@@ -30,12 +30,12 @@ On this website, I will share my aviation experiences, including both theory and
 
 {{< blocks/section color="primary" >}}
 
-<div class="container text-center">
-  <div class="row justify-content-center">
+<div class="container my-5">
+  <div class="row g-4 justify-content-center">
 
-    <div class="col-lg-4 mb-4">
-      <a href="/blog/" class="homepage-feature-link">
-        <div class="homepage-feature-item">
+    <div class="col-md-10 col-lg-4 d-flex">
+      <a href="/blog/" class="homepage-feature-link w-100">
+        <div class="homepage-feature-item homepage-equal-card w-100 text-center">
           <div class="mb-3">
             <i class="fa-solid fa-file-pen fa-3x"></i>
           </div>
@@ -47,9 +47,9 @@ On this website, I will share my aviation experiences, including both theory and
       </a>
     </div>
 
-    <div class="col-lg-4 mb-4">
-      <a href="/about/" class="homepage-feature-link">
-        <div class="homepage-feature-item">
+    <div class="col-md-10 col-lg-4 d-flex">
+      <a href="/about/" class="homepage-feature-link w-100">
+        <div class="homepage-feature-item homepage-equal-card w-100 text-center">
           <div class="mb-3">
             <i class="fa-solid fa-user-tie fa-3x"></i>
           </div>
@@ -61,9 +61,9 @@ On this website, I will share my aviation experiences, including both theory and
       </a>
     </div>
 
-    <div class="col-lg-4 mb-4">
-      <a href="/portfolio/" class="homepage-feature-link">
-        <div class="homepage-feature-item">
+    <div class="col-md-10 col-lg-4 d-flex">
+      <a href="/portfolio/" class="homepage-feature-link w-100">
+        <div class="homepage-feature-item homepage-equal-card w-100 text-center">
           <div class="mb-3">
             <i class="fa-solid fa-address-card fa-3x"></i>
           </div>

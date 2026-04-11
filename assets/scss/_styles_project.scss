@@ -13,41 +13,6 @@
     color: tint-color($primary, 80%) !important;
   }
 }
-/* Homepage box color */
-.td-box--primary {
-    color: #fff;
-    background-color: #8EAFDA;
-}
-
-/* Homepage box animations */
-/* Make homepage feature blocks fully clickable */
-.homepage-feature-link {
-  display: block;
-  color: inherit;
-  text-decoration: none;
-}
-
-/* Keep feature links clean on hover and focus */
-.homepage-feature-link:hover,
-.homepage-feature-link:focus {
-  color: inherit;
-  text-decoration: none;
-}
-
-/* Add spacing and a subtle hover effect */
-.homepage-feature-item {
-  height: 100%;
-  padding: 1.5rem;
-  border-radius: 0.75rem;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-/* Highlight the feature block on hover */
-.homepage-feature-link:hover .homepage-feature-item,
-.homepage-feature-link:focus .homepage-feature-item {
-  transform: translateY(-4px);
-  box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.12);
-}
 
 /* Primary button colors */
 .btn-primary,
@@ -160,24 +125,11 @@ body:not(.td-home) .td-navbar.td-navbar-cover.td-navbar-transparent {
 
 /* Make homepage search placeholder text white */
 .home-navbar-transparent .td-navbar .td-search__input::placeholder,
-.home-navbar-transparent .td-navbar .td-search .form-control::placeholder {
-  color: #fff !important;
-  opacity: 1 !important;
-}
-
-/* Browser-specific placeholder support for the homepage */
+.home-navbar-transparent .td-navbar .td-search .form-control::placeholder,
 .home-navbar-transparent .td-navbar .td-search__input::-webkit-input-placeholder,
-.home-navbar-transparent .td-navbar .td-search .form-control::-webkit-input-placeholder {
-  color: #fff !important;
-  opacity: 1 !important;
-}
-
+.home-navbar-transparent .td-navbar .td-search .form-control::-webkit-input-placeholder,
 .home-navbar-transparent .td-navbar .td-search__input::-moz-placeholder,
-.home-navbar-transparent .td-navbar .td-search .form-control::-moz-placeholder {
-  color: #fff !important;
-  opacity: 1 !important;
-}
-
+.home-navbar-transparent .td-navbar .td-search .form-control::-moz-placeholder,
 .home-navbar-transparent .td-navbar .td-search__input:-ms-input-placeholder,
 .home-navbar-transparent .td-navbar .td-search .form-control:-ms-input-placeholder {
   color: #fff !important;
@@ -220,48 +172,15 @@ body:not(.home-navbar-transparent) .td-navbar .td-search__input.form-control:foc
 
 /* Restore normal placeholder colors on all non-home pages */
 body:not(.home-navbar-transparent) .td-navbar .td-search__input::placeholder,
-body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::placeholder {
-  color: var(--bs-body-color) !important;
-  opacity: 1 !important;
-}
-
-/* Browser-specific placeholder support for non-home pages */
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::placeholder,
 body:not(.home-navbar-transparent) .td-navbar .td-search__input::-webkit-input-placeholder,
-body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::-webkit-input-placeholder {
-  color: var(--bs-body-color) !important;
-  opacity: 1 !important;
-}
-
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::-webkit-input-placeholder,
 body:not(.home-navbar-transparent) .td-navbar .td-search__input::-moz-placeholder,
-body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::-moz-placeholder {
-  color: var(--bs-body-color) !important;
-  opacity: 1 !important;
-}
-
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::-moz-placeholder,
 body:not(.home-navbar-transparent) .td-navbar .td-search__input:-ms-input-placeholder,
 body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input-placeholder {
   color: var(--bs-body-color) !important;
   opacity: 1 !important;
-}
-
-/* Show the table of contents above the page meta block in the blog section */
-.td-section.td-blog .td-sidebar-toc {
-  display: flex;
-  flex-direction: column;
-}
-
-.td-sidebar-toc {
-  display: flex;
-  flex-direction: column;
-}
-
-.td-sidebar-toc .td-toc {
-  order: 1;
-}
-
-/* Disables meta buttons on blog/docs pages */
-.td-sidebar-toc .td-page-meta {
-  display: none;
 }
 
 /* Make homepage feature blocks fully clickable */
@@ -271,33 +190,38 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
   text-decoration: none;
 }
 
-/* Keep feature links clean on hover and focus */
+/* Keep homepage feature links clean on hover and focus */
 .homepage-feature-link:hover,
 .homepage-feature-link:focus {
   color: inherit;
   text-decoration: none;
 }
 
-/* Add spacing and a subtle hover effect */
+/* Shared card sizing for homepage feature blocks and latest post cards */
+.homepage-equal-card {
+  min-height: 100%;
+  padding: 2rem;
+  border-radius: 0.9rem;
+}
+
+/* Homepage feature block styling */
 .homepage-feature-item {
   height: 100%;
-  padding: 1.5rem;
-  border-radius: 0.75rem;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Highlight the feature block on hover */
+/* Highlight feature blocks on hover */
 .homepage-feature-link:hover .homepage-feature-item,
 .homepage-feature-link:focus .homepage-feature-item {
   transform: translateY(-4px);
   box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.12);
 }
 
-/* Style the latest blog post cards on the homepage */
+/* Homepage latest post card styling */
 .homepage-post-card {
   height: 100%;
   border: 1px solid var(--bs-border-color);
-  border-radius: 0.75rem;
+  border-radius: 0.9rem;
   box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
 }
 
@@ -310,6 +234,17 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
 .homepage-post-title:hover,
 .homepage-post-title:focus {
   text-decoration: underline;
+}
+
+/* Style the blog post category */
+.homepage-post-category {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--bs-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
 /* Style the blog post date */
