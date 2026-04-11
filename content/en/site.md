@@ -1,7 +1,7 @@
 ---
 title: Website information
 likeTitle: Site info
-description: Information about the website.
+description: Information about this website.
 type: docs
 params:
   body_class: td-no-left-sidebar
