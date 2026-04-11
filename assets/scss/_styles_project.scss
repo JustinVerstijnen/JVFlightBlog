@@ -13,6 +13,11 @@
     color: tint-color($primary, 80%) !important;
   }
 }
+/* Homepage box color */
+.td-box--primary {
+    color: #fff;
+    background-color: #8EAFDA;
+}
 
 /* Primary button colors */
 .btn-primary,
@@ -215,12 +220,15 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
   flex-direction: column;
 }
 
-/* Move the table of contents to the top */
-.td-section.td-blog .td-sidebar-toc .td-toc {
+.td-sidebar-toc {
+  display: flex;
+  flex-direction: column;
+}
+
+.td-sidebar-toc .td-toc {
   order: 1;
 }
 
-/* Move the page meta block below the table of contents */
-.td-section.td-blog .td-sidebar-toc .td-page-meta {
-  order: 2;
+.td-sidebar-toc .td-page-meta {
+  display: none;
 }
