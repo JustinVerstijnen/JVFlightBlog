@@ -281,3 +281,9 @@ body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input
   color: var(--bs-secondary-color);
   margin-bottom: 0.75rem;
 }
+
+/* Footer background color */
+.td-box--dark, .td-footer {
+    color: #fff;
+    background-color: #0E202C;
+}
