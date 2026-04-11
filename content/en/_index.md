@@ -31,10 +31,10 @@ On this website, I will share my aviation experiences, including both theory and
 
 {{% blocks/section color="primary" type="row" %}}
 
-{{% blocks/feature icon="fa-lightbulb" title="See Docsy in action!" url="examples/" %}} As well as our example site, there's a growing number of projects using Docsy for their doc sites. {{% /blocks/feature %}}
+{{% blocks/feature icon="fa-solid fa-file-pen" title="Blog" url="examples/" %}} On my technical blog, I share insights and step-by-step guides based on my professional experience, covering topics such as Microsoft Azure, Microsoft 365, Entra ID, Microsoft Intune, and more. {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}} We do a Pull Request contributions workflow on GitHub. New users are always welcome! {{% /blocks/feature %}}
+{{% blocks/feature icon="fa-solid fa-user-tie" title="About me" url="https://github.com/google/docsy" %}} On the About me page, I’ll introduce myself, share what I like doing and explaining the things I enjoy; professionally and personally. You can also find more like my socials and other information. {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-brands fa-x-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}} Find out about new features and how our users are using Docsy. {{% /blocks/feature %}}
+{{% blocks/feature icon="fa-solid fa-address-card" title="Portfolio" url="https://twitter.com/docsydocs" %}} This webpage and subpages also serve as my personal portfolio and documentation system, where I showcase what I am now researching, found out and working on. {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
