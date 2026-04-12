@@ -1,6 +1,7 @@
 ---
 title: Flight Lesson 6
-date: 2025-10-13
+date: 2025-10-20
+
 slug: "flight-lesson-6"
 categories:
 - Flight Lessons
