@@ -135,3 +135,7 @@ We practiced creating standardized briefings following the principle:
 ## The flight details
 
 https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4498-393b981f138d.png
+
+{{< ads >}}
+
+{{< article-footer >}}

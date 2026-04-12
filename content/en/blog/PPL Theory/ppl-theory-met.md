@@ -1434,3 +1434,7 @@ That was it for Meteorology.
 - Anabatic/katabatic processes
 - Coriolis effect and forces
 - Frontmist is caused by warm fronts and its precipitation
+
+{{< ads >}}
+
+{{< article-footer >}}

@@ -1346,3 +1346,7 @@ Holding at (ombekend punt), Papa Bravo Alpha
 Cleared for landing, runway 06, Papa Bravo Alpha
 
 Rotterdam Tower, Papa Bravo Alpha
+
+{{< ads >}}
+
+{{< article-footer >}}

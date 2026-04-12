@@ -181,3 +181,7 @@ In slow flight, control dynamics change:
 - **Altitude** → Throttle / RPM  
 - **Speed** → Nose attitude  
 - **Direction** → Rudder
+
+{{< ads >}}
+
+{{< article-footer >}}

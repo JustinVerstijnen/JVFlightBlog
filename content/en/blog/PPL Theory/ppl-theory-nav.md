@@ -900,3 +900,7 @@ To do examenvoorbereiding:
 1. VOR Beacons
 2. Trekfout
 3. ADF/Relative bearings
+
+{{< ads >}}
+
+{{< article-footer >}}

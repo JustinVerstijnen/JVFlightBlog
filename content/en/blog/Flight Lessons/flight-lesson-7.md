@@ -286,3 +286,7 @@ Some things to review;
 *   Adequate use of rudder at slow flight/approach to stall
     *   Full power: right rudder
     *   Idle power: left rudder
+
+    {{< ads >}}
+
+{{< article-footer >}}

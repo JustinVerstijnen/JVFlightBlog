@@ -286,3 +286,7 @@ Some ground stations have multiple stations which can directly give a fix, which
 - Class D: Less accuracy than Class C
 
 To learn more about Q-codes, visit: <https://wiki.ivao.aero/en/home/training/documentation/Q_code_definition>
+
+{{< ads >}}
+
+{{< article-footer >}}

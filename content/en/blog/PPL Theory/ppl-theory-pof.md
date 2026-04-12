@@ -39,3 +39,7 @@ Let's take these 4 components into a simple drawing:
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)
 
 The black line represents the chord of the wing.
+
+{{< ads >}}
+
+{{< article-footer >}}

@@ -1204,3 +1204,7 @@ The RCC itself is purely a coordination center and only notifies other parties l
 - The OVV does research for accidents in the netherlands with netherlands plane, netherlands plane in other countries, other country plane in the netherlands and netherlands plane on the sea
 
 ---
+
+{{< ads >}}
+
+{{< article-footer >}}

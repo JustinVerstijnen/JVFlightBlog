@@ -200,3 +200,7 @@ Before entering runway:
 Before flying circuits (Upwind, Crosswind, Base leg), it helps to understand the pattern:
 
 https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4509-f90ca74abc45.png
+
+{{< ads >}}
+
+{{< article-footer >}}

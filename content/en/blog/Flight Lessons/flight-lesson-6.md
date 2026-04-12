@@ -123,3 +123,7 @@ Going forward, I will:
 - Only then perform them in the real aircraft
 
 This should improve safety, confidence, and consistency during future lessons.
+
+{{< ads >}}
+
+{{< article-footer >}}

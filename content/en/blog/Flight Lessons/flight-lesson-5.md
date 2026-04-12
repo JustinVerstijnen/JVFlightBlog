@@ -263,3 +263,7 @@ Brief:
 - Go‑around procedure:
   - Complete circuit
   - Line up for another attempt
+
+{{< ads >}}
+
+{{< article-footer >}}

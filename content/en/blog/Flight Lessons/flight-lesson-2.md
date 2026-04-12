@@ -184,3 +184,7 @@ We also practiced with flaps extended, which increases lift and makes slow fligh
 ## Finishing up
 
 After completing the exercises, we returned to the airstrip for a smooth landing and taxied back to the flight school.
+
+{{< ads >}}
+
+{{< article-footer >}}

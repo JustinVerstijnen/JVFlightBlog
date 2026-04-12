@@ -1170,3 +1170,7 @@ Human performance (Rasmussen model)
 
 Personality = genetics and environment.
 Non-punitive vs Just Culture → no punishment approach.
+
+{{< ads >}}
+
+{{< article-footer >}}

@@ -244,3 +244,7 @@ The airspeed will be measured by both the static port and pitot port. It measure
 - A gyroscope is rigidity (standvastigheid) and preccession in turns
 - The vaccum is the part after the engine which sucks air and provides force to the gyroscopes
 - Skidding and slipping turns
+
+{{< ads >}}
+
+{{< article-footer >}}
