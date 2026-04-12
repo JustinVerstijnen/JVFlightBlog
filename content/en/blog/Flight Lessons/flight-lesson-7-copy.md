@@ -10,6 +10,8 @@ description: >
   This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted.
 ---
 
+Post ID: 6656
+
 > 1.7 Stalls
 >
 > *03-11-2025*
