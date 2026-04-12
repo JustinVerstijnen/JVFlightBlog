@@ -37,11 +37,11 @@ On this website, I will share my aviation experiences, including both theory and
       <a href="/blog/" class="homepage-feature-link w-100">
         <div class="homepage-feature-item homepage-equal-card w-100 text-center">
           <div class="mb-3">
-            <i class="fa-solid fa-file-pen fa-3x"></i>
+            <i class="fa-solid fa-plane-departure fa-3x"></i>
           </div>
           <h3>Blog</h3>
           <p>
-            On my technical blog, I share insights and step-by-step guides based on my professional experience, covering topics such as Microsoft Azure, Microsoft 365, Entra ID, Microsoft Intune, and more.
+            On my flight blog, I write about my aviation experiences. This mostly consists of my flying lessons on a Cessna 172 airplane and the theory to achieve the Private Pilot License (PPL).
           </p>
         </div>
       </a>
