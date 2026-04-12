@@ -22,7 +22,7 @@ Do not use specific information given like fuel flow, landing/take-off distances
 
 ## Introduction
 
-In this lesson, we went more into the technical limitations of the Cessna 172 aircraft. Also we did some slow-flight exercises to be somewhat ahead of schedule and we had some spare time.
+In this lesson, we went more into the technical limitations of the Cessna 172 aircraft. Also we did some slow-flight exercises to be somewhat ahead of schedule as we had some spare time.
 
 ---
 
@@ -48,6 +48,8 @@ For landing and take-off distance, this is ensured during flight preparation, wh
 ## Mass and Balance sheet
 
 Before we begin our flight, we must calculate both weight and balance. They play a critical role in aircraft performance. The total mass must always remain below the maximum take-off weight, which is specific to each aircraft type.
+
+The root of why we calculate this before the flight is to ensure we stay within the aircrafts performance envelope and not to create imbalance. Doing this incorrectly can lead to decreased flight perforrmance and even worse results.
 
 ![Mass and Balance diagram](https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4511-55dae8418f5a.png)
 
