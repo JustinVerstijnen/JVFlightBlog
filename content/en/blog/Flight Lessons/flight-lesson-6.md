@@ -3,10 +3,17 @@ title: Flight Lesson 6
 date: 2025-10-13
 slug: "flight-lesson-6"
 categories:
-  - Flight Lessons
+- Flight Lessons
+tags:
 description: >
   Slow flight and fast flight exercises focusing on aircraft control at extreme speeds, taxi checks from memory, and improvements in preparation and SOP usage.
 ---
+
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.6 – Slow Flight**
 > **Date:** 13-10-2025 & 20-10-2025

@@ -3,10 +3,17 @@ title: Flight Lesson 5
 date: 2025-09-26
 slug: "flight-lesson-5"
 categories:
-  - Flight Lessons
+- Flight Lessons
+tags:
 description: >
   Airwork lesson covering climbing and descending techniques, memory items, magneto checks, airborne checks, and structured briefings.
 ---
+
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.5 – Airwork 3**
 > **Date:** 26-09-2025

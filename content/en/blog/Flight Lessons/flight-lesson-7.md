@@ -1,220 +1,295 @@
 ---
-title: Flight Lesson 7
-date: 2025-11-03
-slug: "flight-lesson-7"
+title: 'Flight Lesson 7'  
+date: 2026-04-03  
+slug: "flight-lesson-7"  
 categories:
-  - Flight Lessons
-description: >
-  Stalls training including multiple cancelled and repeated lessons due to weather,
-  full stall and stall-approach recovery techniques, theory, and reflections.
+- Flight Lessons  
+tags:
+description: >  
+    This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted.
+
 ---
 
-> **Lesson 1.7 – Stalls**
-> **Dates:** 03-11-2025 · 30-01-2026 · 27-03-2026 · 03-04-2026
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
+
+> 1.7 Stalls
+> 
+> _03-11-2025_
+> 
+> 30-01-2026
+> 
+> 27-03-2026
+> 
+> 03-04-2026
+
+For a live overview of my flight lessons, visit: \<https://flighttools.justinverstijnen.nl/flightlessontracker\>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
 
 ---
 
 ## Introduction
 
-This page contains all my notes for **Lesson 1.7 – Stalls**.
+This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted.
 
-This was one of the hardest lessons so far, mainly due to the weather conditions in late 2025 and early 2026. The lesson was cancelled about **five times**, and on **two occasions** we were already airborne but had to abort because the weather deteriorated beyond the forecast.
+For the stalls lesson we needed the following weather parameters:
 
-For stalls training, the following weather conditions were required:
+*   Flying on 3000ft to have enough altitude (potential energy) to recover from a stall.
+    *   As we are flying VFR, we need to be 1000ft under the cloud base
+*   No significant weather
+*   10km visibility
+*   Wind at most 15 knots
 
-- Flying at **3000 ft** to ensure sufficient altitude for stall recovery
-  - As VFR traffic, we must remain **1000 ft below cloud base**
-- No significant weather
-- **10 km visibility**
-- Wind **≤ 15 knots**
-
-As a result, this lesson was flown **four times**, but only the **last two** were fully valid stalls lessons. Due to time constraints and repetition, multiple sessions were required.
+This means I have done this lesson about 4 times, where only the last 2 were really valid as stalls lessons. I had to do two lessons because of the time shortage we had on the first valid lesson and the several attempts.
 
 ---
 
 ## 03-11-2025
 
-The lesson was scheduled in the afternoon. Due to the transition from UTC+2 to UTC+1 (end of daylight saving time), darkness came earlier than usual.
+Today we had a lesson scheduled in the afternoon. As the clock was going back from UTC+2 to UTC+1 due to daylight savings, we have dark at an earlier time than before. We also had around 14 knots of wind which was completely crosswind to the runway.
 
-Wind was around **14 knots**, completely crosswind relative to the runway.
+We started doing the Stalls briefing and theory of a stall. Then we continued checking the aircraft and doing the rest of the preparations. Then we took off, but quickly realized that the flight will be ended soon due to the weather.
 
-We completed the stalls briefing and theoretical explanation, performed pre‑flight checks, and departed. Shortly after take‑off it became clear that weather conditions would not allow a proper lesson.
-
-After approximately **25 minutes airborne**, we returned and scheduled a new flight.
-
----
+After around 25 minutes after taking off, we landed and scheduled a new flight.
 
 ## 30-01-2026
 
-This was my first flight lesson in **three months**, after roughly four cancellations.
+Today it was my first flight lesson in 3 months after around 4 cancellations. In the mean while, i've been very busy succeeding in the following items:
 
-In the meantime, I successfully completed:
+*   Radio Telephony rating
+*   Navigation PPL theory exam
+*   Communication PPL theory exam
 
-- Radio Telephony (RT) rating
-- PPL Navigation theory exam
-- PPL Communication theory exam
-
-Weather was again the limiting factor. It was a cold winter day with snow from earlier in the week, providing beautiful winter scenery.
-
-At around **2000 ft (600 m)** after take-off, we decided to abort the stall exercises due to an approaching cloud front. This resulted in a very nice *airliner-like* experience flying above the cloud layer before descending back to base for a smooth landing by my instructor.
-
----
+The weather was our bottleneck, once again today. It was a cool and cold winter day with snow from earlier this week. This gave us beautiful winter sights from the plane. At around 2000ft (600 meters) after take-off we decided to not do the exercises today because of the cloud front coming to our way. This gave us a great and nice airliner-like view of flying above the coming cloud layer. We have descended and then headed back to our base for a butter landing by my instructor.
 
 ## 27-03-2026
 
-After another cancellation and a vacation period, the weather finally cooperated.
+Finally after another cancelled lesson and a vacation, we were finally able to do a lesson again. The weather was great with a layer of stratiform clouds at around 9700ft.
 
-Conditions:
-- Stratiform cloud layer around **9700 ft**
-- Good visibility
+We reviewed the theory about stalls and the briefings done before executing the exercise. Then we prepared the flight reviewing the NOTAMs, aircraft and potential risks, and taxied to the fuel station where we filled up the aircraft.
 
-We reviewed stall theory and briefings, checked NOTAMs, aircraft status and risks, and refueled the aircraft.
+We did the exercises and this went better as we proceeded doing more stalls. At first, I was too gentle at pulling back and also by recovering the stall. After around 4 times, I did this prociently according to the instructor.
 
-The stall exercises improved with repetition. Initially, I was too gentle both with inducing the stall and during recovery. After approximately **four repetitions**, the execution was considered proficient by the instructor.
+We did these 2 exercises:
 
-Exercises performed:
+*   Stall recovery in clean (flapless) configuration
+*   Stall recovery in approach configuration (20 degrees of flaps)
 
-- Stall recovery in **clean (flapless) configuration**
-- Stall recovery in **approach configuration (20° flaps)**
-
-I learned that stalls can occur **at any time**, especially with reduced focus or during circuit flying. Fast and correct recovery is essential for the safety of both pilot and passengers.
-
----
+I learned that stalls can happen at anytime, when not having full focus or flying in circuits so a fast and adequate recovery action is needed to save yourself and passengers.
 
 ## 03-04-2026
 
-This was the second full stalls lesson.
+Today we had the second full stalls lesson with somewhat less good weather than last week but still proficient to do our lesson. As we only did 2 of the 3 stall exercises, I needed to do another lesson which was good.
 
-Weather was slightly less favorable than the previous week but still good enough:
-- Crosswind ~8 knots
-- Cloud base around **7900 ft**
-- Stratiform clouds
+We had good weather, once again a little crosswind of around 8 knots and a cloud base on 7900ft of stratiform clouds. In all words, good weather for a nice flight.
 
-Exercises performed:
+We did 3 exercises this lesson:
 
-- Stall recovery in clean (flapless) configuration
-- Stall recovery in approach configuration (20° flaps)
-- Stall recovery in landing configuration (30° flaps)
+*   Stall recovery in clean (flapless) configuration
+*   Stall recovery in approach configuration (20 degrees of flaps)
+*   Stall recovery in landing configuration (30 degrees of flaps)
 
-Recovery went better than the previous lesson, but several learning points remained:
+Recovering stalls went a bit better than the lesson before, but I needed to remind some things that must be done better:
 
-- A stall is recovered **only** by reducing the angle of attack
-- Do **not** immediately apply full throttle reflexively
-- Use **rudder**, not ailerons
-- Manage flaps carefully (flaps retract faster than extend in flight)
-- Pushing the yoke during recovery is natural — do not hesitate
+*   The stall can be recovered by only decreasing the angle of attack
+*   Not directly push full throttle, which happens out of reaction
+*   Steer with rudder, and not with ailerons
+*   Better managability of the flaps, flaps go faster up than down in flight
+*   Pushing the yoke is natual when recovering from stalls, so don't be scared
 
-Overall, the lesson went very well.  
-The **crosswind take-off** was the best so far, including crabbing technique, correct tracking, and altitude control. It remains a strange but fascinating sensation when heading and track differ due to wind.
+Overal the lesson went great, the crosswind takeoff was the best so far, doing everything right from the taxi to the leave of the circuit, including crabbing take-off and holding altitude. Its a very strange feeling when taking off and having some crosswind, that your plane points into the wing, while having an other track as your heading.
 
-Homework objectives for the next lesson:
+The objectives for me to do at home for the next lesson are:
 
-- Review taxi, take‑off and exercise briefings
-- Review exact RT phraseology
+*   Review briefings of the taxi, take-off and exercise
+*   Review exact RT
+
+Overall, great lesson and looking forward to the next one.
 
 ---
 
 ## Stalls theory
 
-A stall occurs when the wing exceeds its **critical angle of attack**, regardless of airspeed.
+We did some theory about stalls, what they are and how they happen and must be answered. We can have 2 stages of stalls:
 
-There are two main stages:
+*   Stall approach -> A stall is coming, some symphons are available
+*   Full stall -> The actual stall where you will feel a result, like a wing dip, nose dip or airspeed loss
 
-- **Stall approach**  
-  - A stall is imminent, warning signs appear
-- **Full stall**  
-  - The stall occurs, with a noticeable aircraft reaction
+I will describe both of those further.
 
 ---
 
-## Stall approach recovery
+## Stall Approach Recovery
 
-Symptoms of stall approach:
+In the Stall approach, we are close to a stall and are in the phase that the full stall can be avoided by taking action. In this situation, we can identify a stall approach by looking for these symthoms:
 
-1. Stall warning (≈ 5 knots before stall)
-2. **Buffet** — vibration due to disrupted airflow
-3. Airspeed near end of green arc (or white arc with flaps)
+1.  Stall warning beep (around 5kts before the actual stall)
+2.  **Buffet**, this means that the aircraft shakes a bit due to the disrupted airflow on the wings
+3.  Airspeed indicator, the end of the green arc, or white arc if flaps are deployed
 
-Immediate recovery actions:
+When having these symtoms, immediately do the following actions:
 
-1. Release back pressure and apply slight forward pressure
-2. Apply **full throttle**
-3. Carburetor heat **OFF**
-4. Level the aircraft
+1.  Release yoke back pressure and some forward pressure to end the stall and unload the wings
+2.  Full throttle power
+3.  Disable the carb heat to have the highest engine RPM
+4.  Level the plane
 
-> ⚠️ **Important**
->
-> Never use **ailerons** during stall recovery.  
-> This worsens the asymmetrical angle of attack and reduces recovery effectiveness.
+Remember to never use the ailerons when recovering from stalls as this changes the angle of attack of the wings even further, increasing your stall and decreasing change of recovery.
 
-Follow-up checks (bottom‑to‑top, left scan):
+Then we do some checks from bottom to up to the left to double check if we doing things right:
 
-1. Fuel selector (both)
-2. Mixture rich
-3. Throttle
-4. Carburetor heat
-5. Ignition
-6. Magnetos
-7. Engine instruments (oil pressure/temp, CHT/EGT, ammeter, vacuum)
+1.  Fuel Selector (both unless instructed otherwise)
+2.  Mixture rich
+3.  Throttle
+4.  Carberateur heat
+5.  Ignition
+6.  Magnetos
+7.  Engine instruments (Oil temperature, pressure, cylinder head temperature (CHT) and/or exhaust gas temperature (EGT), ammeter and suction/vacuum)
 
-Outside checks (**APOS**):
+And complete the exercise with some outside checks (APOS):
 
-1. Altitude
-2. Position
-3. Orientation
-4. Sky 180° scan (traffic / weather)
+1.  Altitude
+2.  Position
+3.  Orientation
+4.  Sky 180 scan for traffic/weather
 
 ---
 
 ## Full stall recovery
 
-A full stall may present as:
+In the full stall, we are stalling and one of these three things are happening:
 
-1. Nose drop
-2. Wing drop (one side)
-3. Significant altitude loss
+1.  Nose drop
+2.  Wing dip (always one of the 2)
+3.  Altitude loss
 
-Recovery actions are similar to stall‑approach recovery:
+When having these symtoms, immediately do the following actions:
 
-1. Reduce angle of attack (release back pressure)
-2. Full throttle
-3. Carburetor heat OFF
-4. Level aircraft
+1.  Release yoke back pressure and maybe some forward pressure to end the stall
+2.  Full throttle power
+3.  Disable the carb heat to have the highest engine RPM
+4.  Level the plane
 
-> ⚠️ **Reminder**
->
-> Never use ailerons during full stall recovery.
+Remember to never use the ailerons when recovering from stalls as this changes the angle of attack of the wings even further.
 
-Follow with the same **engine checks** and **APOS** scan as after stall approach recovery.
+Then we do some checks from bottom to up to the left to double check if we doing things right:
 
-When performing stalls in **landing configuration**, flaps must be reduced during recovery to decrease drag and increase acceleration.
+1.  Fuel Selector (both unless instructed otherwise)
+2.  Mixture rich
+3.  Throttle
+4.  Carberateur heat
+5.  Ignition
+6.  Magnetos
+7.  Engine instruments (Oil temperature, pressure, cylinder head temperature (CHT) and/or exhaust gas temperature (EGT), ammeter and suction/vacuum)
+
+And complete the exercise with some outside checks (APOS):
+
+1.  Altitude
+2.  Position
+3.  Orientation
+4.  Sky 180 scan for traffic/weather
+
+One thing to add, if doing stalls in landing configuration, we need to simultaneously decrease the flaps to also decrease the drag, which means more engine power resulting in more speed.
 
 ---
 
-## Homework – Altitude vs. Distance
+## Homework Altitude vs. Distance
 
-Due to repeated cancellations, I was assigned homework to improve understanding of the relationship between:
+Because of the bad weather in the past weeks and no chance to do the stalls elsson, I was asked to do some homework. This concisted of these questions to get a better understanding of power, pitch, speed, flaps and range.
 
-- Power
-- Pitch
-- Speed
-- Flaps
-- Range
+### 1\. Flaps and Flapless at take-off
 
-### 1. Flaps vs. flapless take‑off
+In the first question, I was asked to draw a graphic of what happens with the altitude and distance at the start of the take-off till rotation and somewhat after that.
 
-The first exercise involved drawing a graph representing altitude versus distance from the start of the take‑off roll through rotation and initial climb, comparing flapless and flaps‑assisted take‑offs.
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-0v6quwm6ubkr.png)
 
+In this graphic, I drew 2 lines, one for flaps 10 and one for flapless. As we have less lift without flaps, we will need a longer runway and therefore climbing later than with flaps extended. Both at a speed of around 65 kts.
 
+### 2\. Flaps 10 and Flaps 30 at take-off
+
+The second question was about answering what would perform better at take-off, flaps 10 or 30.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-pa96lfnlxkya.png)
+
+Flaps 10 is in terms the most efficient take-off flap setting, as this is a nice combination of lift and drag. Flaps 30 has an earlier lift-off point of the ground but at the cost of a low speed as result of the enormous drag it creates. We only use Flaps 30 in case of a short field take-off or needing to avoind objects at the end of a (short) runway.
+
+### 3\. Zero wind and 15 knots headwind
+
+In the third question, I have to display the difference of a headwind. I chose an headwind of 15 knots, as this displays a nice difference and its a moderate wind speed for a better lift off.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-umtjzra9givn.png)
+
+As you can see, with 15 knots headwind, we will lift of earlier because of the extra 15 knots true airspeed. The horizontal flow of air is already 15 knots, so our plane could lift of at about 40-45 knots instead of the normal 55-60 knots.
+
+### 4\. 65 knots vs. 75 knots
+
+In the 4th question I was asked to draw the difference of 65 knots and 75 knots.
+
+For the Cessna 172, these are exactly these values:
+
+*   Vx: Best climb speed for short distance -> 65 knots
+*   Vy: Best climb speed for short time -> 75 knots
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-wdjf2z391ss3.png)
+
+So I drew this graphic where you see that to clear a certain distance, 65 knots is a better speed but when you take time, 75 knots is a better speed.
+
+### 5\. Descending with and without flaps
+
+In the fifth question, we switch to the descending process. Here I was asked to draw the difference between descending with 1700 RPM and 95 knots with a speed of -500fpm vertical.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-zirjt4ntludq.png)
+
+As Flaps increase or drag and lift and decreases our speed, we are able to descend faster in the same period of time.
+
+### 6\. Descending with and without headwind
+
+The 6th question was about the descending distance. Here we talk about horizontal distance we clear during descending.
+
+As we want to descend, and we have 15 kts headwind, we are able to descend steeper. In the same time, we are descended further while flying less horizontal distance. This means a faster and steeper descent.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-z13rqbdwas7b.png)
+
+This is a result of the headwind decreasing our ground speed.
+
+### 7\. Descending - 1700RPM and 1500RPM
+
+When descending with 1500RPM and 1700RPM, we have a little difference in terms of power. We have less forward trust, so somewhat more drag and a lower ground speed. This makes it possible to descend a bit faster relative to the ground distance.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-ey9mhchayq39.png)
+
+### 8\. Descending - Power Idle to touchdown
+
+When descending with 3 different speeds, some strange will happen without knowing the theory behind it.
+
+*   50 knots: You will descend steeply as you fly at the edge of a stall, this makes you descend fast relative to the ground and you have lots of parasite drag
+*   65 knots: this is the best glide speed of the Cessna 172 and gives you the best distance to altitude ratio, and in this graphic so the furthest distance. You are perfectly in the middle of parasite drag and induced drag at this speed
+*   75 knots: this is faster than best glide speed and makes you descend too fast, too much induced drag
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-d93bcfe4b87b.png)
+
+### 9\. Descending - Best glide speed heavy and light aircraft
+
+In a cessna 172, the default best glide speed is around 65 knots. However, if we increase the weight of the aircraft, we have to also increase the lift to compensate for the extra weight. To create this more lift we need a little more speed. Heavier aircraft means you need a higher best-glide speed.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-xz1bn3mid4kj.png)
+
+However, a higher speed relative to the ground means that we need more horizontal distance than flying in a light aircraft, so you need to descend earlier.
 
 ## Succeeded lesson
 
-After another two months, we were finally able to successfully complete the stalls lesson on **March 27**. During this lesson, we reviewed all previously discussed information and repeated the stalls exercises in full.
+After another 2 months, we finally were able to complete the stalls lesson om March 27. We reviewed the information above and reviewed the stalls lesson and information.
 
-Key items that needed extra review:
+Some things to review;
 
-- **Wind corrections and yoke control**
-- **Walk‑around inspection scheme**
-- **Correct and timely rudder use during slow flight and stall approach**
-  - **Full power:** right rudder
-  - **Idle power:** left rudder
+*   Winds and yoke settings
+*   Walk around scheme
+*   Adequate use of rudder at slow flight/approach to stall
+    *   Full power: right rudder
+    *   Idle power: left rudder

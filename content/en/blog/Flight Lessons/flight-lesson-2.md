@@ -4,9 +4,16 @@ date: 2025-08-08
 slug: "flight-lesson-2"
 categories:
   - Flight Lessons
+tags:
 description: >
   Technical limitations of the Cessna 172, mass and balance calculations, take-off and landing performance, emergency equipment, and slow-flight basics.
 ---
+
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.2 – Effect of controls**
 > **Date:** 08-08-2025

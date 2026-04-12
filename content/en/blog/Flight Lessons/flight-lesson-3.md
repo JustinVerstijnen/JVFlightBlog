@@ -4,9 +4,16 @@ date: 2025-08-22
 slug: "flight-lesson-3"
 categories:
   - Flight Lessons
+tags:
 description: >
   Preflight inspection, fuel calculations, basic aircraft forces, visual flying techniques, carburetor heat, and slow flight principles.
 ---
+
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.3 – Airwork 1**
 > **Date:** 22-08-2025
