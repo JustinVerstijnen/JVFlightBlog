@@ -63,13 +63,13 @@ You can compare it to balancing a pencil on your finger: the point where it stay
 ![CG explanation](https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4511-f470b08d0a13.png)
 
 In an aircraft, CG is calculated along the fuselage. For the Cessna 172 this is measured in inches.  
-For example: a baggage CG of **95** means the weight is centered 95 inches from the front of the fuselage.
+For example: a baggage CG of 95 means the weight is centered 95 inches from the front of the fuselage.
 
 ---
 
 ## Emergency equipment
 
-In a Cessna 172, the following **7 emergency items** must always be on board:
+In a Cessna 172, the following 7 emergency items must always be on board:
 
 1. First aid kit
 2. Fire extinguisher
@@ -94,11 +94,11 @@ Runway lengths for all Dutch aerodromes can be found via the AIP:
 
 ![Runway info](https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4511-3c3c2f16a141.png)
 
-Cessna publishes the **basic required take-off and landing distances** in the POH (Pilot Operating Handbook):
+Cessna publishes the basic required take-off and landing distances in the POH (Pilot Operating Handbook):
 
 ![POH table](https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4511-a2c21758e721.png)
 
-These values assume **perfect conditions**: zero wind, ideal temperature, dry asphalt runway.  
+These values assume perfect conditions: zero wind, ideal temperature, dry asphalt runway.  
 Because this rarely happens, we apply penalties and always calculate using worst‑case scenarios.
 
 ### Take-off distance penalties
@@ -117,7 +117,7 @@ Because this rarely happens, we apply penalties and always calculate using worst
 | Gravel | +7% |
 | Flapless take-off | +60% |
 
-This prevents discovering at **45 knots** that the runway is too short.  
+This prevents discovering at 45 knots that the runway is too short.  
 Worst‑case thinking is essential.
 
 ### Landing distance penalties
@@ -136,8 +136,8 @@ Worst‑case thinking is essential.
 | Gravel | +7% |
 | Flapless landing | +60% |
 
-Always verify the **Landing Distance Available (LDA)** — the space between the white runway stripes.  
-Do **not** confuse this with TORA or TODA, which apply to take‑off.
+Always verify the Landing Distance Available (LDA) — the space between the white runway stripes.  
+Do not confuse this with TORA or TODA, which apply to take‑off.
 
 ![LDA example](https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4511-5504fbb0d635.png)
 
@@ -150,8 +150,8 @@ There are four runway surface conditions:
 - **Wet** – Shiny runway, water < 3 mm
 - **Contaminated** – Water > 3 mm or snow
 
-Always assess the **worst section** of the runway.  
-If 1100 m is dry but 400 m is wet, the runway is considered **wet**.
+Always assess the worst section of the runway.  
+If 1100 m is dry but 400 m is wet, the runway is considered wet.
 
 ### Example of my flight preparation
 
@@ -169,13 +169,13 @@ I used worst‑case values and rounded everything up when converting from feet t
 We finished the lesson with slow‑flight exercises.  
 Slow flight is the art of controlling the aircraft at low airspeeds. Less airflow means less control authority.
 
-As airspeed decreases, lift decreases. To compensate, we must increase the **angle of attack** by raising the nose.
+As airspeed decreases, lift decreases. To compensate, we must increase the angle of attack by raising the nose.
 
 Aircraft control in slow flight (~60 knots):
 
-1. **Direction / heading** — Rudder
-2. **Airspeed** — Elevator
-3. **Altitude** — Throttle
+1. **Direction / heading**": Rudder
+2. **Airspeed**: Elevator
+3. **Altitude**: Throttle
 
 We also practiced with flaps extended, which increases lift and makes slow flight easier.
 
