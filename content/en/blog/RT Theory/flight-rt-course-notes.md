@@ -18,25 +18,6 @@ Do not use specific information given like fuel flow, landing/take-off distances
 
 ---
 
-
-## Note to self: Practice pages
-
-The practice pages with different words, communication parts and abbreviations to pronounce can be found on pages of book RT for VFR:
-
-- 45
-- 62 and 63
-- 75, 76 and 77
-- 86 and 87
-- 91
-- 106, 107 and 108
-- 111 and 112
-
-Ahead of the RT exam, we have some practices with real departures we could get in the exam. These are on pages
-
-- 69 till 74
-
----
-
 ## Module 1: Introduction to Radio Technology
 
 In aviation, we communicate by radio technology. A plane and a ground station both use radio's to communicate with each other, so an aircraft knows how to fly a route and the tower can communicate with the pilots to give them clearance and such.
