@@ -81,6 +81,7 @@ outputs:
 
 params:
   offlineSearch: true
+  offlineSearchMaxResults: 7
   taxonomy:
     taxonomyCloud: [tags, categories]
     taxonomyCloudTitle: [Tag Cloud, Categories]
