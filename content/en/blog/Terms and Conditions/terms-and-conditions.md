@@ -1,6 +1,7 @@
 ---
 title: "Terms and Conditions"
-description: "Terms and Conditions for justinverstijnen.nl"
+description: "This page contains my general Terms and COnditions. Please review them accordingly before using my website."
+date: 2024-06-19
 ---
 
 # Terms and Conditions
