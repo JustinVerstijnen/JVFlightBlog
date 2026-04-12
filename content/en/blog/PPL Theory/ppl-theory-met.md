@@ -319,6 +319,8 @@ This state curve can present 4 types of stability in the air:
 
 When we speak of absolute instability, then the temperature decrease is faster than a dry-adiabatic process. This is as we discussed earlier, more than 3 degrees celcius per 1000ft (1c per 100m). In this situation, the rising air package is warmer than its surroundings, so will continuously rise because of its lighter mass.
 
+This is also a recipe for thunderstorms if the air is saturated enough. Air will continue to rise all the way to the Stratosphere creating cumulonimbus clouds.
+
 ### Absolute stability
 
 When we speak of stability, the temperature of the atmosphere will cool down slower than a wet-adiabatic process. Here the atmosphere is stable and there is not much air rising. A possible rising package of air will cool down to its environment and will stay in its vicinity.
