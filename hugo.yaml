@@ -80,6 +80,7 @@ outputs:
   section: [HTML, print, RSS]
 
 params:
+  offlineSearch: true
   taxonomy:
     taxonomyCloud: [tags, categories]
     taxonomyCloudTitle: [Tag Cloud, Categories]
@@ -95,7 +96,6 @@ params:
   github_project_repo: https://github.com/JustinVerstijnen/JVFlightBlog
   github_branch: main
   gcs_engine_id: d72aa9b2712488cc3
-  offlineSearch: true
   prism_syntax_highlighting: false
 
 # #ooter
