@@ -81,7 +81,7 @@ I remain the final person responsible for reviewing, editing, and publishing the
 
 ### 8.1 AI Content Tagging
 
-To maintain transparency, pages that contain AI-generated content are tagged with:
+To maintain transparency, pages that contain AI-generated content are tagged  on the top of the page with:
 
 `AI-Generated-Content`
 
@@ -89,7 +89,7 @@ This tag means that **any part** of the page may contain AI-generated content, e
 
 You can view all tagged pages here:
 
-[AI-Generated-Content tag overview](https://justinverstijnen.nl/tag/ai-generated-content/)
+[AI-Generated-Content tag overview](https://flightblog.justinverstijnen.nl/tags/ai-generated-content/)
 
 ### 8.2 Scope of AI Usage
 
@@ -129,7 +129,7 @@ These Terms and Conditions apply only to content and tools provided directly thr
 
 This also includes my tools pages and the tools hosted there. Once you leave these domains, you are subject to the terms and policies of the external website or service you visit.
 
-## 11. Changes to These Terms
+## 11. Changes to these terms
 
 I reserve the right to update or modify these Terms and Conditions at any time without prior notice.
 
@@ -141,7 +141,7 @@ If you have questions, concerns, or feedback regarding these Terms and Condition
 
 Whether you are asking for clarification, reporting an issue, or sharing suggestions, I appreciate your message and value transparency and respectful communication.
 
-You can find my contact details on the [About](/about/) page.
+You can find my contact details on the [About](https://justinverstijnen.nl/about) page.
 
 ## 13. Conclusion
 
@@ -151,4 +151,4 @@ I hope you find the educational content, technical explanations, and shared know
 
 ---
 
-© 2026 Justin Verstijnen. Thank you for reading.
+© Justin Verstijnen. Thank you for reading.
