@@ -80,6 +80,7 @@ outputs:
   section: [HTML, print, RSS]
 
 params:
+  offlineSearch: true
   taxonomy:
     taxonomyCloud: [tags, categories]
     taxonomyCloudTitle: [Tag Cloud, Categories]
