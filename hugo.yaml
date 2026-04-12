@@ -84,7 +84,7 @@ params:
   offlineSearchMaxResults: 7
   taxonomy:
     taxonomyCloud: [tags, categories]
-    taxonomyCloudTitle: [Tag Cloud, Categories]
+    taxonomyCloudTitle: [Tags, Categories]
     taxonomyPageHeader: [tags, categories]
 
   privacy_policy: /terms-and-conditions/
