@@ -16,15 +16,8 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> 1.7 Stalls
-> 
-> _03-11-2025_
-> 
-> 30-01-2026
-> 
-> 27-03-2026
-> 
-> 03-04-2026
+> **Lesson 1.7 – Stalls**
+> **Date:** 03-11-2025, 30-01-2026, 27-03-2026 and 03-04-2026
 
 For a live overview of my flight lessons, visit: \<https://flighttools.justinverstijnen.nl/flightlessontracker\>
 
