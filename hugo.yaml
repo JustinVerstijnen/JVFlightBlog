@@ -61,7 +61,7 @@ languages:
     languageName: English
     title: Flight Blog | Justin Verstijnen
     params:
-      description: A Docsy example site
+      description: On this website, I will share my aviation experiences, including both theory and practice, during my journey towards achieving a Private Pilot License (PPL).
   # cSpell:disable
 
 markup:
