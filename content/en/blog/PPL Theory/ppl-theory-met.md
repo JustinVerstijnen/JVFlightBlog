@@ -630,13 +630,13 @@ Wind shears are rapidly changes of wind speeds and directions. Wind shears can b
 - **Horizontal windshear** is when the cross winds are changing rapidly, which can cause us to get of track for landing. Buildings are the most important cause of this happening. As ground resistance rises but then catching some of the winds, we can go off track
 - **Updrafts and downdrafts** are a result of convection and will have vertical winds, pulling you up or pushing you down. This mostly happens in the vicinity of thunderstorms
 
-The 4 most important causes of wind shears are:
+The 5 most important causes of wind shears are:
 
-1. A front passing by
+1. Front passing by
 2. Thunderstorms
-3. Ground resistance in the form of buildings, forests or obstacles
+3. Ground resistance (wrijving) in the form of buildings, forests or obstacles
 4. Inversions
-5. At the top of a layer of friction
+5. At the top of a layer of friction (wrijving)
 
 ### Results of wind shears
 
