@@ -2,11 +2,10 @@
 title: "Terms and Conditions"
 description: "This page contains my general Terms and Conditions. Please review them accordingly before using my website."
 date: 2024-06-19
+build:
+  render: always
+  list: never
 ---
-
-# Terms and Conditions
-
-
 
 Welcome to **justinverstijnen.nl**. By accessing or using this website, its pages, posts, and tools, you agree to be bound by these Terms and Conditions.
 
