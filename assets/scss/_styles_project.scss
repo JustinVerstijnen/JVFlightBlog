@@ -90,59 +90,58 @@ body:not(.home-navbar-transparent) .td-navbar {
   box-shadow: none !important;
 }
 
-/* Homepage: glass-effect navbar on every breakpoint, including mobile */
+/* Homepage: glass-effect navbar */
 .home-navbar-transparent .td-navbar,
 .home-navbar-transparent .td-navbar.td-navbar-cover,
 .home-navbar-transparent .td-navbar.td-navbar-cover.td-navbar-transparent {
   --td-navbar-bg-color: rgba(255, 255, 255, 0.08) !important;
   --td-navbar-backdrop-filter: blur(10px) saturate(140%) !important;
   --td-navbar-border-bottom: 1px solid rgba(255, 255, 255, 0.18) !important;
-  background: var(--td-navbar-bg-color) !important;
   background-color: var(--td-navbar-bg-color) !important;
   background-image: none !important;
-  -webkit-backdrop-filter: blur(10px) saturate(140%) !important;
-  backdrop-filter: blur(10px) saturate(140%) !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.18) !important;
+  -webkit-backdrop-filter: var(--td-navbar-backdrop-filter) !important;
+  backdrop-filter: var(--td-navbar-backdrop-filter) !important;
+  border-bottom: var(--td-navbar-border-bottom) !important;
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.16) !important;
 }
 
-/* Keep the inner mobile navbar layers transparent so they cannot render a white bar */
-.home-navbar-transparent .td-navbar .td-navbar-container,
-.home-navbar-transparent .td-navbar .td-navbar-nav-scroll,
-.home-navbar-transparent .td-navbar .navbar-collapse,
-.home-navbar-transparent .td-navbar .navbar-nav,
-.home-navbar-transparent .td-navbar .dropdown-menu {
-  background: transparent !important;
-  background-color: transparent !important;
-  background-image: none !important;
-}
-
-/* Remove extra overlay layers that can create ugly bars */
+/* Remove generated overlays that can create a solid bar above the hero image */
 .home-navbar-transparent .td-navbar::before,
 .home-navbar-transparent .td-navbar::after,
 .home-navbar-transparent .td-navbar-container::before,
-.home-navbar-transparent .td-navbar-container::after {
+.home-navbar-transparent .td-navbar-container::after,
+.home-navbar-transparent .td-navbar__main::before,
+.home-navbar-transparent .td-navbar__main::after {
   content: none !important;
   background: none !important;
   box-shadow: none !important;
   border: 0 !important;
 }
 
-/* Kill any extra overlay layers */
-.home-navbar-transparent .td-navbar::before,
-.home-navbar-transparent .td-navbar::after,
-.home-navbar-transparent .td-navbar-container::before,
-.home-navbar-transparent .td-navbar-container::after {
-  content: none !important;
-  background: none !important;
-  box-shadow: none !important;
-  border: 0 !important;
-}
+/* Mobile only: keep navbar wrappers transparent so the glass effect stays visible */
+@media (max-width: 991.98px) {
+  .home-navbar-transparent .td-navbar .td-navbar-container,
+  .home-navbar-transparent .td-navbar .td-navbar__main,
+  .home-navbar-transparent .td-navbar .td-navbar-nav-scroll,
+  .home-navbar-transparent .td-navbar .td-navbar-nav-scroll--indicator,
+  .home-navbar-transparent .td-navbar .navbar-collapse,
+  .home-navbar-transparent .td-navbar .navbar-nav {
+    background: transparent !important;
+    background-color: transparent !important;
+    background-image: none !important;
+  }
 
-/* Remove extra generated layers that can create a white bar */
-.home-navbar-transparent .td-navbar::before,
-.home-navbar-transparent .td-navbar::after {
-  content: none !important;
+  /* Keep utility/dropdown menus readable instead of glassy */
+  .home-navbar-transparent .td-navbar .dropdown-menu,
+  .home-navbar-transparent .td-navbar .td-light-dark-menu .dropdown-menu,
+  .home-navbar-transparent .td-navbar .td-lang-menu .dropdown-menu {
+    background-color: var(--bs-dropdown-bg) !important;
+    background-image: none !important;
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+    border: var(--bs-dropdown-border-width) solid var(--bs-dropdown-border-color) !important;
+    box-shadow: var(--bs-dropdown-box-shadow) !important;
+  }
 }
 
 /* Make navbar text white on the homepage */
