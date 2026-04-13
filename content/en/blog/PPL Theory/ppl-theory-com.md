@@ -1,5 +1,5 @@
 ---
-title: 'PPL Theory - Communication (COM)'
+title: 'Communication (COM)'
 date: 2025-07-03
 slug: "ppl-theory-com"
 categories:

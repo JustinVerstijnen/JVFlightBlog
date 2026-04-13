@@ -1,5 +1,5 @@
 ---
-title: 'PPL Theory - Human Performance & Limitations (HPL)'
+title: 'Human Performance & Limitations (HPL)'
 date: 2025-07-05
 slug: "ppl-theory-hpl"
 categories:

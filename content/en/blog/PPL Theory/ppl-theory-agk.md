@@ -1,5 +1,5 @@
 ---
-title: 'PPL Theory - Aircraft General Knowledge (AGK)'
+title: 'Aircraft General Knowledge (AGK)'
 date: 2025-07-07
 slug: "ppl-theory-agk"
 categories:

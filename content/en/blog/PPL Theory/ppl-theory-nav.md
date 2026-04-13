@@ -1,5 +1,5 @@
 ---
-title: 'PPL Theory - Navigation (NAV)'
+title: 'Navigation (NAV)'
 date: 2025-07-02
 slug: "ppl-theory-nav"
 categories:
