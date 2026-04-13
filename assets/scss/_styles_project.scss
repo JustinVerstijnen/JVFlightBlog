@@ -90,16 +90,31 @@ body:not(.home-navbar-transparent) .td-navbar {
   box-shadow: none !important;
 }
 
-/* Homepage: glass-effect navbar */
+/* Homepage: glass-effect navbar on every breakpoint, including mobile */
 .home-navbar-transparent .td-navbar,
 .home-navbar-transparent .td-navbar.td-navbar-cover,
 .home-navbar-transparent .td-navbar.td-navbar-cover.td-navbar-transparent {
-  background: rgba(255, 255, 255, 0.08) !important;
+  --td-navbar-bg-color: rgba(255, 255, 255, 0.08) !important;
+  --td-navbar-backdrop-filter: blur(10px) saturate(140%) !important;
+  --td-navbar-border-bottom: 1px solid rgba(255, 255, 255, 0.18) !important;
+  background: var(--td-navbar-bg-color) !important;
+  background-color: var(--td-navbar-bg-color) !important;
   background-image: none !important;
   -webkit-backdrop-filter: blur(10px) saturate(140%) !important;
   backdrop-filter: blur(10px) saturate(140%) !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.18) !important;
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.16) !important;
+}
+
+/* Keep the inner mobile navbar layers transparent so they cannot render a white bar */
+.home-navbar-transparent .td-navbar .td-navbar-container,
+.home-navbar-transparent .td-navbar .td-navbar-nav-scroll,
+.home-navbar-transparent .td-navbar .navbar-collapse,
+.home-navbar-transparent .td-navbar .navbar-nav,
+.home-navbar-transparent .td-navbar .dropdown-menu {
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
 }
 
 /* Remove extra overlay layers that can create ugly bars */
