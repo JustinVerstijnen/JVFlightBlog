@@ -6,7 +6,7 @@ params:
 ---
 
 {{< blocks/cover
-  title="Justin Verstijnen Flight Blog"
+  title="Welcome!"
   height="full"
   color="primary"
   image_anchor="top"
