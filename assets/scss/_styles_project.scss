@@ -11,48 +11,44 @@
 .td-box--primary {
   a {
     color: #ffffff !important;
-    background-color: #8eafda;
+    background-color: #8EAFDA;
   }
 }
 
 .td-box--primary {
-  color: #fff;
-  background-color: #8eafda;
+    color: #fff;
+    background-color: #8EAFDA;
 }
 
 /* Button colors */
-.btn-primary,
-.td-blog .td-rss-button .btn.disabled .btn-outline-primary {
+.btn-primary, .td-blog .td-rss-button .btn.disabled .btn-outline-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #8eafda;
+  --bs-btn-bg: #8EAFDA;
   --bs-btn-border-color: #8daed9;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #7691b5;
   --bs-btn-hover-border-color: #7a96bb;
-  background-color: #8eafda;
+  background-color: #8EAFDA;
 }
 
-.btn-outline-primary,
-div.drawio button {
-  --bs-btn-color: #8eafda;
-  --bs-btn-border-color: #8eafda;
-  --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #8eafda;
-  --bs-btn-hover-border-color: #8eafda;
+  .btn-outline-primary, div.drawio button {
+    --bs-btn-color: #8EAFDA;
+    --bs-btn-border-color: #8EAFDA;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #8EAFDA;
+    --bs-btn-hover-border-color: #8EAFDA;
 }
 
-.page-link.active,
-.active > .page-link {
-  z-index: 3;
-  color: var(--bs-pagination-active-color);
-  background-color: #8eafda;
-  border-color: #8eafda;
+.page-link.active, .active>.page-link {
+    z-index: 3;
+    color: var(--bs-pagination-active-color);
+    background-color: #8EAFDA;
+    border-color: #8EAFDA;
 }
 
 .taxonomy-terms-cloud .taxonomy-title {
-  color: #8eafda;
+    color: #8EAFDA;
 }
-
 /* Hide the language selector in the navbar */
 .td-navbar .td-lang-menu {
   display: none;
@@ -60,10 +56,10 @@ div.drawio button {
 
 /* Dark/Lightmode selector background color (active) */
 .dropdown-menu {
-  --bs-dropdown-link-active-bg: #8eafda;
+  --bs-dropdown-link-active-bg: #8EAFDA;
 }
 
-/* Hide the project links in page meta */
+/* Hide the project Links in page */
 .td-page-meta {
   display: none;
 }
@@ -76,7 +72,7 @@ a {
 
 /* Self-link color for headings */
 .td-heading-self-link {
-  color: #8eafda;
+  color: #8EAFDA;
 }
 
 /* Default navbar styling */
@@ -85,86 +81,79 @@ a {
   --td-navbar-bg-color: #8eafda;
 }
 
-/* =========================
-   NON-HOMEPAGE NAVBAR
-   ========================= */
-body:not(.td-home) .td-navbar {
+/* Non-home pages: normal solid navbar */
+body:not(.home-navbar-transparent) .td-navbar {
   background-color: var(--td-navbar-bg-color) !important;
   background-image: none !important;
-  -webkit-backdrop-filter: none !important;
   backdrop-filter: none !important;
   border-bottom: 1px solid var(--bs-border-color) !important;
   box-shadow: none !important;
 }
 
-/* =========================
-   HOMEPAGE ONLY: transparent navbar
-   ========================= */
-body.td-home .td-navbar,
-body.td-home .td-navbar.td-navbar-cover,
-body.td-home .td-navbar.td-navbar-cover.td-navbar-transparent,
-body.td-home .td-navbar .td-navbar-container,
-body.td-home .td-navbar .td-navbar__main,
-body.td-home .td-navbar .td-navbar-nav-scroll,
-body.td-home .td-navbar .navbar-nav,
-body.td-home .td-navbar .dropdown-menu {
-  background: transparent !important;
-  background-color: transparent !important;
+/* Homepage: glass-effect navbar */
+.home-navbar-transparent .td-navbar,
+.home-navbar-transparent .td-navbar.td-navbar-cover,
+.home-navbar-transparent .td-navbar.td-navbar-cover.td-navbar-transparent {
+  background: rgba(255, 255, 255, 0.08) !important;
   background-image: none !important;
-  -webkit-backdrop-filter: none !important;
-  backdrop-filter: none !important;
-  border-bottom: 0 !important;
-  box-shadow: none !important;
+  -webkit-backdrop-filter: blur(10px) saturate(140%) !important;
+  backdrop-filter: blur(10px) saturate(140%) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.18) !important;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.16) !important;
 }
 
-/* Remove generated overlay layers on homepage */
-body.td-home .td-navbar::before,
-body.td-home .td-navbar::after,
-body.td-home .td-navbar .td-navbar-container::before,
-body.td-home .td-navbar .td-navbar-container::after,
-body.td-home .td-navbar .td-navbar__main::before,
-body.td-home .td-navbar .td-navbar__main::after,
-body.td-home .td-navbar .td-navbar-nav-scroll::before,
-body.td-home .td-navbar .td-navbar-nav-scroll::after {
+/* Remove extra overlay layers that can create ugly bars */
+.home-navbar-transparent .td-navbar::before,
+.home-navbar-transparent .td-navbar::after,
+.home-navbar-transparent .td-navbar-container::before,
+.home-navbar-transparent .td-navbar-container::after {
   content: none !important;
   background: none !important;
-  border: 0 !important;
   box-shadow: none !important;
+  border: 0 !important;
 }
 
-/* Homepage navbar text white */
-body.td-home .td-navbar .nav-link,
-body.td-home .td-navbar .navbar-brand,
-body.td-home .td-navbar .dropdown-toggle,
-body.td-home .td-navbar .navbar-brand__name,
-body.td-home .td-navbar .td-light-dark-menu .btn,
-body.td-home .td-navbar .td-light-dark-menu .bi,
-body.td-home .td-navbar .navbar-toggler {
-  color: #fff !important;
-  fill: #fff !important;
+/* Kill any extra overlay layers */
+.home-navbar-transparent .td-navbar::before,
+.home-navbar-transparent .td-navbar::after,
+.home-navbar-transparent .td-navbar-container::before,
+.home-navbar-transparent .td-navbar-container::after {
+  content: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  border: 0 !important;
 }
 
-/* Keep toggler icon white on homepage */
-body.td-home .td-navbar .navbar-toggler-icon {
-  filter: brightness(0) invert(1);
+/* Remove extra generated layers that can create a white bar */
+.home-navbar-transparent .td-navbar::before,
+.home-navbar-transparent .td-navbar::after {
+  content: none !important;
 }
 
-/* Homepage search white */
-body.td-home .td-navbar .td-search,
-body.td-home .td-navbar .td-search:not(:focus-within),
-body.td-home .td-navbar .td-search__icon,
-body.td-home .td-navbar .td-search__icon::before,
-body.td-home .td-navbar .td-search .fa-search,
-body.td-home .td-navbar .td-search i,
-body.td-home .td-navbar .td-search__input,
-body.td-home .td-navbar .td-search .form-control,
-body.td-home .td-navbar .td-search__input.form-control {
+/* Make navbar text white on the homepage */
+.home-navbar-transparent .td-navbar .nav-link,
+.home-navbar-transparent .td-navbar .navbar-brand,
+.home-navbar-transparent .td-navbar .dropdown-toggle {
   color: #fff !important;
 }
 
-body.td-home .td-navbar .td-search__input,
-body.td-home .td-navbar .td-search .form-control,
-body.td-home .td-navbar .td-search__input.form-control {
+/* Make the navbar search white only on the homepage */
+.home-navbar-transparent .td-navbar .td-search,
+.home-navbar-transparent .td-navbar .td-search:not(:focus-within),
+.home-navbar-transparent .td-navbar .td-search__icon,
+.home-navbar-transparent .td-navbar .td-search__icon::before,
+.home-navbar-transparent .td-navbar .td-search .fa-search,
+.home-navbar-transparent .td-navbar .td-search i,
+.home-navbar-transparent .td-navbar .td-search__input,
+.home-navbar-transparent .td-navbar .td-search .form-control,
+.home-navbar-transparent .td-navbar .td-search__input.form-control {
+  color: #fff !important;
+}
+
+/* Style the homepage search input */
+.home-navbar-transparent .td-navbar .td-search__input,
+.home-navbar-transparent .td-navbar .td-search .form-control,
+.home-navbar-transparent .td-navbar .td-search__input.form-control {
   border-color: rgba(255, 255, 255, 0.9) !important;
   background-color: transparent !important;
   background-image: none !important;
@@ -173,9 +162,10 @@ body.td-home .td-navbar .td-search__input.form-control {
   border-width: 1px !important;
 }
 
-body.td-home .td-navbar .td-search__input:focus,
-body.td-home .td-navbar .td-search .form-control:focus,
-body.td-home .td-navbar .td-search__input.form-control:focus {
+/* Keep the homepage search field white while focused */
+.home-navbar-transparent .td-navbar .td-search__input:focus,
+.home-navbar-transparent .td-navbar .td-search .form-control:focus,
+.home-navbar-transparent .td-navbar .td-search__input.form-control:focus {
   color: #fff !important;
   border-color: #fff !important;
   background-color: transparent !important;
@@ -183,33 +173,33 @@ body.td-home .td-navbar .td-search__input.form-control:focus {
   outline: none !important;
 }
 
-body.td-home .td-navbar .td-search__input::placeholder,
-body.td-home .td-navbar .td-search .form-control::placeholder,
-body.td-home .td-navbar .td-search__input::-webkit-input-placeholder,
-body.td-home .td-navbar .td-search .form-control::-webkit-input-placeholder,
-body.td-home .td-navbar .td-search__input::-moz-placeholder,
-body.td-home .td-navbar .td-search .form-control::-moz-placeholder,
-body.td-home .td-navbar .td-search__input:-ms-input-placeholder,
-body.td-home .td-navbar .td-search .form-control:-ms-input-placeholder {
+/* Make homepage search placeholder text white */
+.home-navbar-transparent .td-navbar .td-search__input::placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control::placeholder,
+.home-navbar-transparent .td-navbar .td-search__input::-webkit-input-placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control::-webkit-input-placeholder,
+.home-navbar-transparent .td-navbar .td-search__input::-moz-placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control::-moz-placeholder,
+.home-navbar-transparent .td-navbar .td-search__input:-ms-input-placeholder,
+.home-navbar-transparent .td-navbar .td-search .form-control:-ms-input-placeholder {
   color: #fff !important;
   opacity: 1 !important;
 }
 
-/* =========================
-   NON-HOMEPAGE SEARCH RESET
-   ========================= */
-body:not(.td-home) .td-navbar .td-search,
-body:not(.td-home) .td-navbar .td-search:not(:focus-within),
-body:not(.td-home) .td-navbar .td-search__icon,
-body:not(.td-home) .td-navbar .td-search__icon::before,
-body:not(.td-home) .td-navbar .td-search .fa-search,
-body:not(.td-home) .td-navbar .td-search i {
+/* Restore normal search colors on all non-home pages */
+body:not(.home-navbar-transparent) .td-navbar .td-search,
+body:not(.home-navbar-transparent) .td-navbar .td-search:not(:focus-within),
+body:not(.home-navbar-transparent) .td-navbar .td-search__icon,
+body:not(.home-navbar-transparent) .td-navbar .td-search__icon::before,
+body:not(.home-navbar-transparent) .td-navbar .td-search .fa-search,
+body:not(.home-navbar-transparent) .td-navbar .td-search i {
   color: var(--bs-body-color) !important;
 }
 
-body:not(.td-home) .td-navbar .td-search__input,
-body:not(.td-home) .td-navbar .td-search .form-control,
-body:not(.td-home) .td-navbar .td-search__input.form-control {
+/* Restore normal search input colors on all non-home pages */
+body:not(.home-navbar-transparent) .td-navbar .td-search__input,
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control,
+body:not(.home-navbar-transparent) .td-navbar .td-search__input.form-control {
   color: var(--bs-body-color) !important;
   border-color: var(--bs-border-color) !important;
   background-color: transparent !important;
@@ -219,9 +209,10 @@ body:not(.td-home) .td-navbar .td-search__input.form-control {
   border-width: 1px !important;
 }
 
-body:not(.td-home) .td-navbar .td-search__input:focus,
-body:not(.td-home) .td-navbar .td-search .form-control:focus,
-body:not(.td-home) .td-navbar .td-search__input.form-control:focus {
+/* Restore normal search colors while focused on all non-home pages */
+body:not(.home-navbar-transparent) .td-navbar .td-search__input:focus,
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:focus,
+body:not(.home-navbar-transparent) .td-navbar .td-search__input.form-control:focus {
   color: var(--bs-body-color) !important;
   border-color: var(--bs-border-color) !important;
   background-color: transparent !important;
@@ -229,14 +220,15 @@ body:not(.td-home) .td-navbar .td-search__input.form-control:focus {
   outline: none !important;
 }
 
-body:not(.td-home) .td-navbar .td-search__input::placeholder,
-body:not(.td-home) .td-navbar .td-search .form-control::placeholder,
-body:not(.td-home) .td-navbar .td-search__input::-webkit-input-placeholder,
-body:not(.td-home) .td-navbar .td-search .form-control::-webkit-input-placeholder,
-body:not(.td-home) .td-navbar .td-search__input::-moz-placeholder,
-body:not(.td-home) .td-navbar .td-search .form-control::-moz-placeholder,
-body:not(.td-home) .td-navbar .td-search__input:-ms-input-placeholder,
-body:not(.td-home) .td-navbar .td-search .form-control:-ms-input-placeholder {
+/* Restore normal placeholder colors on all non-home pages */
+body:not(.home-navbar-transparent) .td-navbar .td-search__input::placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search__input::-webkit-input-placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::-webkit-input-placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search__input::-moz-placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control::-moz-placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search__input:-ms-input-placeholder,
+body:not(.home-navbar-transparent) .td-navbar .td-search .form-control:-ms-input-placeholder {
   color: var(--bs-body-color) !important;
   opacity: 1 !important;
 }
@@ -257,10 +249,10 @@ body:not(.td-home) .td-navbar .td-search .form-control:-ms-input-placeholder {
 
 /* Styling homepage blocks in picture */
 .td-cover-block {
-  min-height: 100vh;
+  min-height: 100vh; /* volledige schermhoogte */
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: center;      /* verticaal centreren */
+  justify-content: center;  /* horizontaal centreren */
   text-align: center;
 }
 
@@ -329,19 +321,19 @@ body:not(.td-home) .td-navbar .td-search .form-control:-ms-input-placeholder {
 .td-box--dark,
 .td-footer {
   color: #fff;
-  background-color: #0e202c;
+  background-color: #0E202C;
 }
 
 /* Background color homepage */
 .-bg-primary {
-  color: #fff;
-  background-color: #8eafda;
+    color: #fff;
+    background-color: #8EAFDA;
 }
 
 /* Blog posts pages styles */
 .td-toc #TableOfContents a.active {
-  color: #2b4975;
-  border-left-color: #8eafda;
+    color: #2b4975;
+    border-left-color: #8EAFDA;
 }
 
 /* Theme colors on hover */
@@ -359,5 +351,5 @@ body:not(.td-home) .td-navbar .td-search .form-control:-ms-input-placeholder {
 .td-sidebar-nav .td-sidebar-link__page:focus,
 .td-sidebar-nav .nav-item summary:hover,
 .td-sidebar-nav .nav-item summary:focus {
-  color: #8eafda !important;
+  color: #8EAFDA !important;
 }
