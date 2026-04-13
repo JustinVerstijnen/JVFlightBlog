@@ -2,7 +2,7 @@
 title: Justin Verstijnen
 description: On this website, I share all my aviation experiences
 params:
-  body_class: td-navbar-links-all-active
+  body_class: td-navbar-links-all-active home-navbar-transparent
 ---
 
 {{< blocks/cover
