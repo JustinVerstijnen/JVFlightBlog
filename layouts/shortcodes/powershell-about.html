@@ -11,10 +11,13 @@
 <span class="ps-output"></span><span class="ps-cursor" aria-hidden="true">█</span></pre>
   </div>
 
-  <div class="ps-markdown about-hidden">
+  <div class="ps-markdown about-hidden" hidden aria-hidden="true">
     {{ $rendered }}
   </div>
 </div>
 
+<script>
+  document.body && document.body.classList.add("ps-about-intro-active");
+</script>
 <link rel="stylesheet" href="/css/powershell-about.css">
 <script src="/js/powershell-about.js" defer></script>
