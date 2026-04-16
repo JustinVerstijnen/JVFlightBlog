@@ -26,7 +26,7 @@ menu:
       url: https://flighttools.justinverstijnen.nl
       weight: 20
     - name: About
-      url: https://justinverstijnen.nl/about
+      url: /about/
       weight: 30
 
 taxonomies:
@@ -136,6 +136,10 @@ params:
 
   links:
     developer:
+      - name: Header photo
+        url: /blog/header-photo/
+        icon: fa-regular fa-camera
+        desc: Header picture
       - name: Site information
         url: /site/
         icon: fa-solid fa-hammer
