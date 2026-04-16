@@ -140,14 +140,14 @@ params:
         url: /blog/header-photo/
         icon: fa-regular fa-camera
         desc: Header picture
-      - name: Site information
-        url: /site/
-        icon: fa-solid fa-hammer
-        desc: Site build information.
       - name: Send me an email
         url: mailto:info@justinverstijnen.nl
         icon: fa fa-envelope
         desc: Discuss development issues around the project
+      - name: Sitemap
+        url: /sitemap.xml
+        icon: fa-solid fa-rss
+        desc: Sitemap
 
 security:
   funcs: # cspell:disable-line
