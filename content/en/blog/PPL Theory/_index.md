@@ -1,6 +1,5 @@
 ---
 title: PPL Theory
-weight:2
 ---
 
 This category contains pages about Private Pilot License theory.
