@@ -1,6 +1,6 @@
 ---
 title: Briefings
-weight:1000
+weight:5
 ---
 
 This category contains my briefings when flying.
