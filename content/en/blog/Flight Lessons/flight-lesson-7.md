@@ -17,7 +17,7 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.7 – Stalls**
-> **Date:** 03-11-2025, 30-01-2026, 27-03-2026 and 03-04-2026
+> **Date:** 03-11-2025, 30-01-2026, 27-03-2026, 03-04-2026 and 17-04-2026
 
 For a live overview of my flight lessons, visit: \<https://flighttools.justinverstijnen.nl/flightlessontracker\>
 
@@ -104,6 +104,22 @@ The objectives for me to do at home for the next lesson are:
 *   Review exact RT
 
 Overall, great lesson and looking forward to the next one.
+
+---
+
+## 17-04-2026
+
+Today we did another pre-circuit lesson, covering every aspect I have learned before in one lesson. This to completely prepare for the upcoming circuit lessons, where every aspect is very important as we are much closer to the ground.
+
+- Basic ascending and descending
+- Airwork, maintaining different altitudes and headings
+- Trimming the aircraft
+- Every stall exercise
+- Slow flight
+
+I finally flown some of the circuit, all the way to late final where the controls were transferred to the instructor but there was a lot of progress after this lesson.
+
+This is also the last lesson where we actively did the stalls, and now we are ready for the real work.
 
 ---
 
