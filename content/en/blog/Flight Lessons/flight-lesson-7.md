@@ -1,7 +1,7 @@
 ---
 title: "Flight Lesson 7"
 date: 2026-04-03
-description: ">"
+description: "This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted."
 tags: []
 categories: []
 type: "docs"
