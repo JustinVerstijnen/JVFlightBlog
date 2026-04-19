@@ -100,13 +100,13 @@ Level‑off technique:
 ## Memory items in checklists
 
 Aircraft Quick Reference Handbooks (QRH) contain checklists for various scenarios.  
-Some checklist items are marked as **memory items** — these must be known by heart, as there is no time to read during the event.
+Some checklist items are marked as memory items which must be known by heart, as there is no time to read during the event.
 
 ### Example: Fire during start
 
 If fire occurs during engine start:
 
-- Continue cranking for **5–10 seconds** to try to suck the flames into the engine
+- Continue cranking for 5–10 seconds to try to suck the flames into the engine
 
 **If engine starts:**
 
@@ -115,23 +115,23 @@ If fire occurs during engine start:
 - Wait max. 2 minutes
 - Prepare seatbelts, doors, fire extinguisher
 - If fire continues:
-  - Mixture **cut‑off**
-  - Throttle **full open**
-  - Fuel selector **OFF**
-  - Ignition **OFF**
-  - Master switch **OFF**
+  - Mixture cut‑off
+  - Throttle full open
+  - Fuel selector OFF
+  - Ignition OFF
+  - Master switch OFF
 
 **If engine does not start:**
 
-- Mixture **cut‑off**
-- Throttle **full open**
+- Mixture cut‑off
+- Throttle full open
 - Continue cranking briefly
-- Ignition & Master switch **OFF**
-- Fuel selector **OFF**
+- Ignition & Master switch OFF
+- Fuel selector OFF
 - Extinguish fire
 
-Memory items exist because **delay can cost the aircraft and lives**.  
-They must be learned **per aircraft type**.
+Memory items exist because delay can cost the aircraft and lives.  
+They must be learned per aircraft type.
 
 https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4506-c381dd5277f4.png
 
