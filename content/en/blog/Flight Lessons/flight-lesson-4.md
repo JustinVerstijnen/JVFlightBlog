@@ -7,6 +7,7 @@ categories:
 tags:
 description: >
   Airwork lesson focusing on nose attitude, take-off speeds, throttle effects, gliding, trimming, and standard flight briefings.
+hidden: false
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
