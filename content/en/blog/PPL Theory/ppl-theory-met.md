@@ -10,7 +10,7 @@ description: >
   The atmosphere is the layer around the earth, which is around 100 to 200km from the ground up. Worldwide, we use the International Standard Atmosphere which is a mean set of conditions which will be somewhat different depending on the weather conditions, location etc. This is a mean of the conditions at 45 degrees north latitude.
 ---
 
-{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+{{% alert title="Exam passed on April 20." %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
 
