@@ -1,11 +1,11 @@
 ---
-title: "Flight Lesson 7"
+title: "1.7 Stalls"
 date: 2026-04-03
-description: "This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted."
+slug: "1-7-stalls"
+description: "This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted. Then we did 3 lessons full of stalls till this was proficient enough to succcesfully restore them."
 tags: []
 categories: []
 type: "docs"
-hidden: false
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: https://flighttools.justinverstijnen.nl/flightlessontracker
@@ -35,7 +35,7 @@ For the stalls lesson we needed the following weather parameters:
 
 *   Wind at most 15 knots
 
-This means I have done this lesson about 4 times, where only the last 2 were really valid as stalls lessons. I had to do two lessons because of the time shortage we had on the first valid lesson and the several attempts.
+This means I have done this lesson about 5 times, where only the last 3 were really valid as stalls lessons. I had to do two lessons because of the time shortage we had on the first valid lesson and the several attempts.
 
 ---
 

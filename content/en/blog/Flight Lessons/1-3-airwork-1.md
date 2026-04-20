@@ -1,7 +1,7 @@
 ---
-title: Flight Lesson 3
+title: 1.3 Airwork 1
 date: 2025-08-22
-slug: "flight-lesson-3"
+slug: "1-3-airwork-1"
 categories:
   - Flight Lessons
 tags:

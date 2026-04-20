@@ -1,7 +1,7 @@
 ---
-title: Flight Lesson 1
+title: 1.1 Basics
 date: 2025-07-25
-slug: "flight-lesson-1"
+slug: "1-1-basics"
 categories:
   - Flight Lessons
 tags:

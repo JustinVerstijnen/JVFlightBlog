@@ -1,11 +1,12 @@
 ---
-title: "Flight Lesson 5"
+title: "1.5 Airwork 3"
 date: 2025-09-26
+slug: "1-5-airwork-3"
 description: ">"
+categories:
+  - Flight Lessons
 tags: []
-categories: []
 type: "docs"
-hidden: false
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

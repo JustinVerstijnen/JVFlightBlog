@@ -1,8 +1,7 @@
 ---
-title: Flight Lesson 6
+title: 1.6 Slow Flight
 date: 2025-10-20
-
-slug: "flight-lesson-6"
+slug: "1-6-slow-flight"
 categories:
 - Flight Lessons
 tags:

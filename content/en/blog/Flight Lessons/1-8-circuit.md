@@ -1,11 +1,12 @@
 ---
-title: "Flight Lesson 8"
+title: "1.8 Circuit 1"
 date: 2026-04-20
+slug: "1-8-circuit-1"
 description: ">"
 tags: []
-categories: []
+categories:
+  - Flight Lessons
 type: "docs"
-hidden: true
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
@@ -15,7 +16,6 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.8 – Circuit 1**
-
 > **Date:** 20-04-2026
 
 ---

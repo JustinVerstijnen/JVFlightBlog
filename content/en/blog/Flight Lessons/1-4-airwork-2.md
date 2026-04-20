@@ -1,13 +1,12 @@
 ---
-title: Flight Lesson 4
+title: 1.4 Airwork 2
 date: 2025-09-02
-slug: "flight-lesson-4"
+slug: "1-4-airwork-2"
 categories:
   - Flight Lessons
 tags:
 description: >
   Airwork lesson focusing on nose attitude, take-off speeds, throttle effects, gliding, trimming, and standard flight briefings.
-hidden: false
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

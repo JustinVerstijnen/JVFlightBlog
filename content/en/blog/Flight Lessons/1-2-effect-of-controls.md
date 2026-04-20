@@ -1,7 +1,7 @@
 ---
-title: Flight Lesson 2
+title: 1.2 Effect of controls
 date: 2025-08-08
-slug: "flight-lesson-2"
+slug: "1-2-effect-of-controls"
 categories:
   - Flight Lessons
 tags:
