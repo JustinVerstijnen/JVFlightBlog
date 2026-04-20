@@ -22,7 +22,7 @@ Do not use specific information given like fuel flow, landing/take-off distances
 
 ## Introduction
 
-Today was the day that we do circuit training for the first time. An hour before this flight lesson, I passed the meteorology theory exam which i'm very happy about. Now I need to do just 2 more exams to be done with the theory.
+Today was the day that we do circuit training for the first time. An hour before this flight lesson, I passed the meteorology theory exam which I'm very happy about, after some doubts the night before. Now I need to do just 2 more exams (AGK and POF) to be done with the theory.
 
 Before looking further into the required steps and procedures, I will first review how an aerodrome circuit looks like. Every part of it has an name, which makes it easy to communicate with ATC and other traffic about where you are around the aerodrome. Saying phrases like "North of the runway" or "Approaching runway" are very vague phrases which we avoid.
 
@@ -70,7 +70,7 @@ In the circuit, some rules apply to flying the circuit to make it safe for yours
 2. Do **not** perform the after take-off checklist in the circuit
 3. On crosswind leg, pay attention for possible new traffic joining the circuit at mid-downwind. This is the traffic entry point
 4. Descend power is 1500RPM
-5. Turn to final with at least 70 kts IAS and max 20 degrees bank to avoid a stall
+5. Turn to final with at least 70 kts IAS and max 20 degrees bank to avoid a stall, preferably fly every turn at 20 degrees max: when not climbing
 6. You should have 350ft HAA after completing the turn to final
 7. Landing flaps must be extended at 150ft HAA
 
@@ -90,6 +90,30 @@ At some points, the tower and other traffic expect you do do various radio calls
 When leaving the circuit
 
 - Leaving circuit area
+
+## The lesson itself
+
+The lesson itself went great. The weather was okay but not great. We had a slight crosswind coming from the north at around 7-8 knots. This was completely opposing the runway at a 90 degrees angle. It was around 12 degrees and a sky filled with cumulus clouds with a layer of altostratus above. A typical occlusion-front weather type.
+
+After doing the pre-flight inspection on my own we taxied to the runway and took off. We exited the circuit to re-enter it again, just to practice this. Then we did 6 circuits and landings with flaps and a last circuit without flaps.
+
+The most important sentence of this lesson is: "Pitch for speed, power for altitude". This means:
+
+- Increase power to gain altitude, decrease power to lose altitude
+- Increase pitch angle to lose speed, decrease pitch angle to gain speed
+
+As we had a crosswind, we needed to do some other actions too. We had to crab the airplane into the wind to maintain the track to the runway and we need to land on the wind-facing wheel first. This prevents us from overrunning the runway by the wind.
+
+The lesson went great and after some touch-and-go's I think taking off went a lot smoother.
+
+## Remarks
+
+The set of real reminders which I need to remember for future lessons are the following:
+
+- Starting the pre-flight inspection, check magneto's set to OFF -> this prevents a hot prop
+- Carb heat must be set on downwind leg and kept on till after landing and completing the after landing checklist
+- Keep the plane into the wind with Ailerons
+- Review and practice the briefings for take-off and approach
 
 {{< ads >}}
 
