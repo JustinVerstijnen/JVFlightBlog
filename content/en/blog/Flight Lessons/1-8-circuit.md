@@ -2,7 +2,7 @@
 title: "1.8 Circuit 1"
 date: 2026-04-20
 slug: "1-8-circuit-1"
-description: ">"
+description: "Today was the day that we do circuit training for the first time. An hour before this flight lesson, I passed the meteorology theory exam which I'm very happy about, after some doubts the night before. Now I need to do just 2 more exams (AGK and POF) to be done with the theory. Before looking further into the required steps and procedures, I will first review how an aerodrome circuit looks like. Every part of it has an name, which makes it easy to communicate with ATC and other traffic about where you are around the aerodrome. Saying phrases like North of the runway or Approaching runway are very vague phrases which we avoid."
 tags: []
 categories:
   - Flight Lessons
