@@ -18,9 +18,22 @@ Do not use specific information given like fuel flow, landing/take-off distances
 ---
 
 
-## The airframe (14)
+## 1. The airframe
 
-The frame of a plane
+The frame of a plane consists of several parts, which all make flying and steering in the air possible by various actions. I will describe all parts in English and Dutch:
+
+- Wing - Vleugel -> The horizontal part which makes flying an aircraft possible in the first place by generating lift
+- Aileron - Rolroer -> These are the parts at the end of the wings, making roll-turns (banking) possible. They are at the end of the wing due to force x moment
+- Elevator - Hoogteroer -> This part makes going up and down in an aircraft possible
+- Rudder - Richtingsroer -> This part at the end of the tail can move to change direction in flight and is being used to make small corrections
+- Flaps - Landingskleppen -> These are parts on the wing which can be used in take-off and landings to fly at lower speeds nearby the ground. They extend to induce more drag, which equals a lower speed and they generate some lift
+- Vertical stabilizer - Kielvlak -> This is the standing part of the tail of an airplane, stabilizing the airflow and makes the plane fly into one single direction
+- Horizontal stabilizer - Stabilo -> This is the horizontal part of the tail of an airplane, stabilizing the airplane in horizontal flight
+
+
+### Aircraft construction
+
+The aircraft itself can be constructed in several different ways. The most important thing here is the type of aircraft. Bush planes are very light and will be less likely to use heavy stainless steel.
 
 - **Monocoque**: A construction method where the external skin of the aircraft carries almost all of the loads. There is little or no internal framework. It’s lightweight but can be less tolerant to damage, since the skin itself is the main structure.
   - *Outside supports all forces*
@@ -30,16 +43,46 @@ The frame of a plane
 - **Truss contruction:** This method will support all forces on the inside of the plane. Here the outside could be any material, like leather or vinyl.
   - *Inside supports all of the forces*
 
-## The wings (14)
+### The wings
 
 We could have two types of wings:
 
 - Cessna 172 has the wings above the cockpit: high-wing (hoogdekker)
-  - This needs support of the wings which we call: braced wings
+  - This needs support of the wings which we call: **braced wings**
 - Piper PA-28 tas the wings below the cockpit: low-wing (laagdekker)
-  - This doesnt need support of the wings which we call: cantilever wing
+  - This doesnt need support of the wings which we call: **cantilever wing**
 
-## The piston engine (15)
+Both of this types of planes have their pro's and cons. A Cessna doesnt need a fuel pump, as gravity does its thing. Als we cannot see traffic above us very good in a Cessna, but not very good under us with a cantilever wing.
+
+There are also planes which have a V shaped tail with a rudder and elevator combined. These types of tails are called a **ruddervator**.
+
+### Tires
+
+We can have 2 types of tyres on arplanes:
+
+- Tube-type: This type has an inside and outside tyre, just like your bicycle
+- Tubeless: This only has an outside tyre
+
+Tyres can slip over the rim during landings, this is the reason maintenance does a little slipmarker on the tyre and rim. This is mostly red.
+
+### Hydraulic systems
+
+Hydraulic means litteraly transfer using liquids (hydro). We can transfer different forces using liquids using this formula:
+
+- Force = Pressure x Surface
+
+This means, the less surface and the more pressure, the higher the force.
+
+Liquids are a great way to transfer force, as fluids can not be compressed, like air.
+
+### Brakes
+
+Brakes are systems built on the axes of the airplane to brake it, to lose power. This process converts the kinetic energy of the plane into energy in the brakes, which is warmth.
+
+### Fire and smoke in the plane
+
+
+## 2. The piston engine
 
 In planes, the most used engine type is a four-stroke (viertakt) gasoline engine. Four strokes means that the engine uses 4 strokes to complete the fuel burn process. The engine is obviously the most important part of getting the propellor to turn.
 
