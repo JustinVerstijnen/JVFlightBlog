@@ -5,6 +5,7 @@ slug: "ppl-theory-pof"
 categories:
   - PPL Theory
 tags:
+- AI Generated Content
 description: >
   This page contains my notes for the Principles of Flight (POF) exam. This contains various subjects like lift, aircraft performance and why an aircraft flies.
 ---
@@ -136,7 +137,11 @@ Let's take these 4 components into a simple drawing:
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)
 
-The black line represents the chord of the wing.
+The black line represents the chord of the wing. This is the same with the outline of an wing:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f0c9683e824e.png)
+
+We also have the resulting air-force, which is a line 90 degrees of the wing profile, based on the oncoming wind.
 
 ### Static and Dynamic pressure
 
@@ -165,8 +170,13 @@ Bernoulli's law states that for example water or air going into a narrow space a
 
 ### Air flow around a wing-profile
 
+The air will flow around a wing-profile. Because of the leading edge of the wing, the incoming air will divert up and down, bringing the flow-lines closer together.
 
+Just like the two laws already predicted, the airflow will increase and the static pressure will decrease. At the leading edge of the wing, the lines will be closer together. Here the pressure is relatively low. Near the trailing edge of the wing, the flow lines will be less close. The speed of the airflow decreases and the pressure increases.
 
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-7ee45387fa20.png)
+
+Under the wing, the airflow will have to make a smaller angle and path, causing the air to move at a slower speed but at an higher pressure.
 
 
 {{< ads >}}
