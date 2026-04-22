@@ -1,6 +1,6 @@
 ---
 title: 'Communication (COM)'
-date: 2025-07-03
+date: 2026-01-26
 slug: "ppl-theory-com"
 categories:
   - PPL Theory

@@ -1,6 +1,6 @@
 ---
 title: 'Law and Operational Procedures (LAW)'
-date: 2025-07-04
+date: 2026-02-09
 slug: "ppl-theory-law"
 categories:
   - PPL Theory

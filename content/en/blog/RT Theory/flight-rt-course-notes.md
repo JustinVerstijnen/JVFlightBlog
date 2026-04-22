@@ -1,6 +1,6 @@
 ---
 title: 'Flight RT Course notes'
-date: 2025-07-01
+date: 2025-11-14
 slug: "flight-rt-course-notes"
 categories:
   - RT Theory

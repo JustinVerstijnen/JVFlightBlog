@@ -1,6 +1,6 @@
 ---
 title: 'Meteorology (MET)'
-date: 2025-07-06
+date: 2026-04-20
 slug: "ppl-theory-met"
 categories:
   - PPL Theory
