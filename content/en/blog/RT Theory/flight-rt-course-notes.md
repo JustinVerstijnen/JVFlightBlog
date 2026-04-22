@@ -3,9 +3,8 @@ title: 'Flight RT Course notes'
 date: 2025-07-01
 slug: "flight-rt-course-notes"
 categories:
-  - Flight Lessons
+  - RT Theory
 tags:
-  - AI-Generated-Content
 description: >
   This page contains the notes I wrote down while following the Radio-telephony VFR course.  I have completed the VFR Radio Telephony rating on November 14 in 2025.
 ---
