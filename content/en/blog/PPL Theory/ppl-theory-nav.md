@@ -75,7 +75,7 @@ We have multiple layers in the air:
 
 ### Pressure Altitude
 
-Pressure altitude is the altitude corrected to the International Standard Atmosphere. For performing take-off calculations, we will want to know how our plane performs which can be different with different pressures. This is a live indicator of being above or below earth's standard atmosphere.
+Pressure altitude is the altitude corrected to the International Standard Atmosphere, namely 1013 hPa (which is also called QNE). For performing take-off calculations, we will want to know how our plane performs which can be different with different pressures. This is a live indicator of being above or below earth's standard atmosphere.
 
 In short:
 
@@ -83,7 +83,7 @@ In short:
   - More oxygen and more air molecules
 - Lower pressures (High altitudes): Less engine performance, less propellor performance and less lift
 
-### Pressure altitude examples
+#### Pressure altitude examples
 
 In an airport which mostly is lower or higher than mean sea level, there will be a small correction needed. For example, our airport is at 17 feet above sea level, and the actual pressure is 1032 hPa on sea level at a day with nice weather, the pressure altitude is -489 ft. This means our take-off performance will be better as we have more air molecules which is better for our engine.
 
@@ -95,13 +95,15 @@ Check out this tool to calculate and visiualize Pressure/Density altitude: <http
 
 ### Density altitude
 
-Now we know the pressure altitude, we need to correct it for Density altitude, because warmer air is thinner than colder air. This is because warmer air expands, just take a look at a hot air balloon. This means that on 5000ft pressure altitude and on a hot day of 35 degrees, the density altitude (also known as "performance altirude") will be almost 9000ft. So we can expect our plane to behave as it is on 9000ft in normal ISA conditions.
+Now we know the pressure altitude, we need to correct it for Density altitude, because warmer air is thinner than colder air. This is because warmer air expands, just take a look at a hot air balloon. This means that on 5000ft pressure altitude and on a hot day of 35 degrees, the density altitude (also known as "performance altitude") will be almost 9000ft. So we can expect our plane to behave as it is on 9000ft in normal ISA conditions.
 
-Thinner air means less oxygen and less air, denser air means more air for lift for both propellor and the wings. Less oxygen also means less engine performance but a higher true airspeed.
+Thinner air means less oxygen and less air molecules, denser air means more air for lift for both propellor and the wings. Less oxygen also means less engine performance but a higher true airspeed due of less resistance from air molecules.
 
 To calculate the density altitude from pressure altude, you can use the E6B or the tool below:
 
 Check out this tool to calculate and visiualize Pressure/Density altitude: <https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator>
+
+> Tip: Use an E6B calculator for a quick and thorough calculation of Density altitude based on the outside air temperature (OAT) and pressure altitude.
 
 ---
 
