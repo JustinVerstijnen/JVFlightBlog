@@ -244,6 +244,7 @@ Static pressure in this formula is also very important. This is directly depende
 The lift coefficient is a sum of the angle of attack, amount of lift and drag. In a graph, this looks like this:
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
+* A fun fact is that because of the angle of incidence of a Cessna 172, a plane wil always have a higher angle of attack than 0.
 
 This graph outlines that the more angle of attack we have, the more lift. However, there is a bount that this stops which is called the critical angle of attack. In a Cessna 172, this is around 15-16 degrees nose up. Pulling even more on the yoke causes the plane to stall and dip from the sky. This can be very dangerous at lower altitudes.
 
@@ -271,8 +272,19 @@ Then in straight and level flight, there is a great connection between the speed
 - A *high* speed needs a *low* angle of attack
 - A *low* speed needs a *high* angle of attack
 
+### Symmetric and asymmetric wing profiles
 
+- An Asymmetric wing profile is where the top of the wing has more camber, this is what most planes have
+- A symmetric wing profile is where the top and bottom of the wing are the same, mostly in aerobatic planes
 
+This also means something for the lift coefficient and the angle of attack performances. For example, a symmetric wing profile will start with 0 lift coefficient. This gives it somewhat less lift than an asymmetric profile, as shown in this graph:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0ae28aa5418f.png)
+
+- Red: Ssymmetric
+- Green: Symmetric
+
+Here an asymmetric wing profiles will eventually reach a lift coefficient at a negative angle of attack.
 
 {{< ads >}}
 
