@@ -286,6 +286,10 @@ This also means something for the lift coefficient and the angle of attack perfo
 
 Here an asymmetric wing profiles will eventually reach a lift coefficient at a negative angle of attack.
 
+### Three-dimensional airflow over a wing
+
+
+
 {{< ads >}}
 
 {{< article-footer >}}
