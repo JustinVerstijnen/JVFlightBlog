@@ -1,6 +1,6 @@
 ---
 title: Take-off briefing
-date: 2026-04-28
+date: 2026-04-17
 slug: "takeoff-briefing"
 categories:
   - Briefings
