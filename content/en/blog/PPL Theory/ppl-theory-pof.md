@@ -178,6 +178,43 @@ Just like the two laws already predicted, the airflow will increase and the stat
 
 Under the wing, the airflow will have to make a smaller angle and path, causing the air to move at a slower speed but at an higher pressure.
 
+### Upwash and Downwash
+
+The upwash is an uplifting movement as result of the pressure differences. The leading edge of the wing needs to split the airflow. This point is called the "**stagnation point**", the point of air coming to a small temporary stop and then leaded over or under the wing. In the picture below, you can see that the airspeed is 0 at the stagnation point.
+
+The downwash is a descending movement of the airflow after it hit the wings. As Bernoulli's law already stated, the dynamic pressure increases then the static pressure decreases, so the air above the wing goes at a faster speed.
+
+Too see this all put into perspective, view this image:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f108f3b80f2f.png)
+* Airspeeds are a reference
+
+### An wing profile described
+
+A wing profile has various parts, which we will describe now:
+
+- Leading edge: The frontal part of the wing where the airflow first hit the wing
+- Trailing edge: The aft-part of the wing where the airflow leaves the wing
+- Chord: The imaginable line from leading edge to the trailing edge
+- Camber line: The camber line which is the skeleton-line, is a line which is in the middle of the top and bottom
+- Camber: The maximum distance between the camber line and the chord
+- Thickness: The maximum distance between top and bottom. This will sometimes be referred as the "thickness-to-chord" ratio
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-d6d4e8ca01d7.png)
+
+### Angle of incidence vs. Angle of attack
+
+- **The angle of incidence** (Instelhoek) is the angle between the longitudinal axis of the plane and the chord. This is how the aircraft is built and is by design, so the plane generates enough lift in straight and level flight.
+- **The angle of attack** (Invalshoek) is the angle between the longitudinal axis of the plane and completely horizontal. This is the pitch angle you can set with the yoke, which controls the elevator.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png) ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)
+
+
+### Glide angle
+
+The glide angle (baanhoek in Dutch) is the angle between horizontal and the flight path. The flight path is the path the center of gravity flies through the air.
+
+
 
 {{< ads >}}
 
