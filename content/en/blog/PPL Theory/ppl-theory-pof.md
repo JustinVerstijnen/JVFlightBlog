@@ -202,17 +202,75 @@ A wing profile has various parts, which we will describe now:
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-d6d4e8ca01d7.png)
 
-### Angle of incidence vs. Angle of attack
+### Angle of incidence and Angle of attack
 
 - **The angle of incidence** (Instelhoek) is the angle between the longitudinal axis of the plane and the chord. This is how the aircraft is built and is by design, so the plane generates enough lift in straight and level flight.
-- **The angle of attack** (Invalshoek) is the angle between the longitudinal axis of the plane and completely horizontal. This is the pitch angle you can set with the yoke, which controls the elevator.
+- **The angle of attack** (Invalshoek) is the angle between incoming airflow and the chord. This is the pitch angle you can set with the yoke, which controls the elevator.
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png) ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)
 
+The angle of attack will often be reffered as "α". It also is an result of sum angle of incidence, the pitch angle and the glide angle.
 
 ### Glide angle
 
 The glide angle (baanhoek in Dutch) is the angle between horizontal and the flight path. The flight path is the path the center of gravity flies through the air.
+
+### The lift formula
+
+The lift formula is an outline of the resulting airforce on a wing profile. Lift is dependent on these 3 things:
+
+1. Dynamic pressure of the incoming airflow
+2. The lift co-efficient
+3. Wing surface
+
+The formula goes like this:
+
+- Lift = 1/2 ρ V² CL S
+
+| 1/2 ρ V² | CL | Surface |
+| :---: | :---: | :---: |
+| The dynamic pressure of the incoming airflow (TAS) | Lift Coefficient | The surface of the wing |
+
+So all these components work somewhat together to produce lift. This means the result of all must be positive, where one value can be less or more than another at certain parts of a flight. We will take a deeper look into the Lift components.
+
+### Dynamic Pressure
+
+The dynamic pressure is the pressure of the free airflow just before the wings. 1/2 ρ V² altogether is a sum of static and dynamic pressure, where V² means only the dynamic pressure. The V factor is equal to the True Airspeed. Headwind is also counted within this V factor, which means that the more headwind, the more lift.
+
+Static pressure in this formula is also very important. This is directly dependent on the static air pressure in the air you fly in. The higher the static pressure, the more lift. This also means that if we climb with a plane to about 34.000ft where the air pressure is about 25% of the pressure on earths surface, you will need much more speed to retain a specific amount of lift.
+
+### Lift coefficient
+
+The lift coefficient is a sum of the angle of attack, amount of lift and drag. In a graph, this looks like this:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
+
+This graph outlines that the more angle of attack we have, the more lift. However, there is a bount that this stops which is called the critical angle of attack. In a Cessna 172, this is around 15-16 degrees nose up. Pulling even more on the yoke causes the plane to stall and dip from the sky. This can be very dangerous at lower altitudes.
+
+<a class="btn btn-primary" href="https://flightblog.justinverstijnen.nl/1-7-stalls/#stall-approach-recovery" target="_blank" rel="noreferrer">Stalls lesson</a>
+
+A high angle of attack results in the air not gluing anymore to the wing but to transform into rotor flows. To get a better view of what exactly happens:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-371e89355207.png)
+
+### Wing Surface
+
+The wing surface is a factor that directly influences the lift of a plane. In the formula, this will be in the value square meters (m²).
+
+How bigger a wings' surface is, the more lift it can deliver. We can also do some things with our wings to produce even more lift as they increase the wing surface area. Think about:
+
+1. Flaperons (flaps)
+2. Slats (on airliners)
+
+We set flaps on take-off to produce more lift at a lower speed. This means we need less runway to take-off from. When landing, we use more flaps to create more drag and decrease the speed. Flaps help us in these parts of the flight to have more time, see the runway a lot better and to descend in a much steeper line.
+
+### Indicated Airspeed and Lift coefficient
+
+Then in straight and level flight, there is a great connection between the speed and the lift coefficient. The lift equals the weight of the plane and the speed is higher than the amount of drag. However, if the angle of attack increases -> the lift coefficient will also increase. If preventing that the lift increases, the airspeed must be decreased.
+
+- A *high* speed needs a *low* angle of attack
+- A *low* speed needs a *high* angle of attack
+
 
 
 
