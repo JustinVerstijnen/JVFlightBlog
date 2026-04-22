@@ -27,8 +27,8 @@ We then start the take-off roll with these speeds:
 When a non flyable failure occurs, we will do one of these steps:
 
 - Stop at or before rotation (or 55 knots)
-- Land the aircraft on the same runway when having enough runway (33 meter per second average)
-- Emergency landing in a 30 degree angle, preferably in the wind
+- After rotation, we land the aircraft on the same runway when having enough runway (33 meter per second average)
+- After rotation, with not enough runway we perform a Emergency landing in a 30 degree angle, preferably into the wind
 
 ## 3. Flyable failure
 
