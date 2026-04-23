@@ -281,12 +281,85 @@ This also means something for the lift coefficient and the angle of attack perfo
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0ae28aa5418f.png)
 
-- Red: Ssymmetric
+- Red: Asymmetric
 - Green: Symmetric
 
 Here an asymmetric wing profiles will eventually reach a lift coefficient at a negative angle of attack.
 
 ### Three-dimensional airflow over a wing
+
+The airflow over the wings looks like this in three-dimensional setting:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-3ed915c7c26d.png)
+
+On the left, the airflow underneath and above the wing is illustrated and on the right we have the difference in pressure (Up = low and under = high). This difference in pressure will tend to flow to the wingtips. This movement actually causes the wake turbulence to happen. This movement however induces a decrease of lift and an increase of drag, **induced drag**, to be pronounced correctly.
+
+### Wake turbulence
+
+Wake turbulence (zogturbulentie) is caused by lift, and will show as two opposing turning rotors behind the wingtips. This is an excellent example of Newtons third law in action, which states that for every action in the universe there is an opposing reaction. The force of the lift creates an reaction in the form of wake turbulence.
+
+The reaction of two opposing wings will cause this wake turbulence. The strength of the wake turbulence is affected by the amount of lift the plane generates. A Boeing 777 will generate lots of lift to fight its huge mass compared to a Cessna 172 and so generates more wake turbulence.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9a367d698770.png)
+
+A good advice is if taking of behind an airliner, to wait for at least 3 minutes for the wake turbulence to completely dissipate. Heavy wake turbulence can cause huge problems as the airflow for light planes will be disrupted.
+
+[I found a great video explaining the effects of wake turbulence and wingtip vortices here.](https://www.youtube.com/watch?v=xyKwrU7fRY4)
+
+Some other facts:
+
+- The strength of the wingtip vortices are caused by the amount of ligt
+- The strength of the wingtip vortices are also caused by the angle of attach, where a higher angle of attack will generate more wingtip vortices
+- The wingtip vortices are the strongest during take-off and landing
+- An aircraft in clean configuration produces the most wingtip vortices
+- Wake turbulence will move the direction of the wind
+
+#### The risks of wake turbulence
+
+The greatest risks of wake-turbulence are:
+
+- Rapid roll-movements which will be so powerful steering against it will not be possible
+- Structural damage to the plane
+- Loss of height
+- Greatly reduced climb performance
+- Not enough lift at take-off (if taking of after a HEAVY aircraft)
+
+
+### Wing shapes
+
+The shape of an wing from the top view is called the wing shape. We have mostly two types of wing shapes:
+
+- Straight wings
+- Tapered wing
+
+These wings also have some more properties:
+
+- The **wing-root** is the part which is sticked to the fuselage
+- The end part of the wing is called the **wingtip**
+- The wing span is the total length of both wings from the wingtip of the left to the right wing
+
+The distance of the wing leading edge to the trailing edge is called the chord as we already saw. Sometimes this chord is not a straight line. We then speak of a mean chord.
+
+We can calculate the wing aspect-ratio using this formula:
+
+*Aspect ratio = Wingspan divided by (/) the mean chord.*
+
+Now the aspect ratio also helps producing lift. The higher this ratio, the more steep the lift-curve is. Take a look at this graph:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-c67733ec5e49.png)
+
+For reference, here a glider plane as a much steeper line than a fighter jet. This is like we already discussed, a result of the wingspan divided by the mean chord.
+
+#### Wing surface
+
+The wing surface is the total surface area of a wing. We calculate also the part above the fuselage, and is called the gross surface.
+
+---
+
+## Drag (3)
+
+Drag (weerstand) is the resistance of the air a plane flies through. Oncoming wind slams into the cockpit, leading edge wings and wheels and this partly slows us down. More information about this component will be discussed further in this module.
+
 
 
 
