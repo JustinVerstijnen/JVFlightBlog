@@ -204,8 +204,8 @@ A wing profile has various parts, which we will describe now:
 
 ### Angle of incidence and Angle of attack
 
-- **The angle of incidence** (Instelhoek) is the angle between the longitudinal axis of the plane and the chord. This is how the aircraft is built and is by design, so the plane generates enough lift in straight and level flight.
-- **The angle of attack** (Invalshoek) is the angle between incoming airflow and the chord. This is the pitch angle you can set with the yoke, which controls the elevator.
+- **The angle of incidence** (AoI) (Instelhoek) is the angle between the longitudinal axis of the plane and the chord. This is how the aircraft is built and is by design, so the plane generates enough lift in straight and level flight.
+- **The angle of attack** (AoA) (Invalshoek) is the angle between incoming airflow and the chord. This is the pitch angle you can set with the yoke, which controls the elevator.
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png) ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)
 
@@ -360,8 +360,89 @@ The wing surface is the total surface area of a wing. We calculate also the part
 
 Drag (weerstand) is the resistance of the air a plane flies through. Oncoming wind slams into the cockpit, leading edge wings and wheels and this partly slows us down. More information about this component will be discussed further in this module.
 
+We can feel drag especially when on a bike and going really fast (25 km/h or higher), this is the exact same on a plane.
 
+### The drag formula
 
+The drag formula is similar to the already discussed lift formula, and looks like this:
+
+- Drag = 1/2 ρ V² CD S
+
+| 1/2 ρ V² | CD | Surface |
+| :---: | :---: | :---: |
+| The dynamic pressure of the incoming airflow (TAS) | Drag Coefficient | The surface of the wing |
+
+The only difference is that we replace the lift coefficient with the drag coefficient. This drag coefficient is also dependent on the angle of attack (AoA). More angle of attack means more drag, as the leading surface of the plane increases a bit.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-2f45e64240c1.png)
+
+### Types of drag
+
+We have two types of drag, which we can separate into two categories:
+
+- **Induced drag** (geinduceerde weerstand): Induced drag is caused by generating lift. When no lift is produced, no induced drag is produced either. We also can call this lift-dependent drag. This drag mostly happens at low speeds.
+- **Parasite drag** (schadelijke weerstand): Parasite drag (schadelijke weerstand) is another type of drag, which increases as the speed increases. We also call this speed-dependent drag. This drag mostly happens at high speeds.
+
+Here again we see the third law of Newton into place; where a specific force is reacted with another opposing force.
+
+### Induced drag
+
+So induced drag is produced and a reaction of generating lift. This is caused by the fact that the air over a wing has a lower pressure than under the wing. Because of this pressure difference and high pressure wants to flow to low pressure, some lift will leak away which causes some extra drag.
+
+#### Induced angle of attack (AoA)
+
+This air can also flow away to the wingtips, which causes some downwash behind the wings. This causes the incoming airflow to get a descending motion and causes the aerodynamic force to tilt somewhat. This also increases the drag component.
+
+We can also have an induced angle of attack where the induced drag is counted from our effective drag.
+
+#### Induced drag and speed
+
+The induced drag is dependent on the lift as we already stated. The angle of attack also directly impacts this type of drag, where high angles of attack result in more induced drag. The induced drag also increases at low speeds and decreases at high speeds.
+
+- High TAS: low induced drag
+- Low TAS: High induced drag
+
+#### Other factors for Induced drag
+
+Some other factors that can influence the induced drag are:
+
+- **Wing aspect ratio**: The aspect ratio (ratio between wingspan and mean chord) has a great effect on the induced drag. A thin and long wing (glider) has a short tip and therefore less room for air leakage from under the wing to above the wing.
+- **Wingtip construction**: The construction of the wingtips are also influencing the amount of induced drag. An example is the Beech Bonanza V35 which has somewhat thicker wingtips where some fuel tanks are attached. This reduces the induced drag.
+- **Ground effect**: In the ground effect the aerodynamic properties of a wing will have a minor difference. As there is less air mass just above the ground (0 - 2 meters), there is less room for wing vortices and downwash. This has some profitable results for us: more lift and less drag.
+
+#### Ground effect
+
+Ground effect gives us more lift, and therefore also a steeper lift coefficient curve. Keep in mind that leaving the ground effect changes the profit back to normal. Ground effect is at its most at a half wingspan above the ground. At 10% of a wingspan, the induced drag will decrease with almost 50%.
+
+We have to take this change in properties into account, especially with landing:
+
+- More lift means a slower descend or even some climbing
+- Because of the decreased drag the plane will glide for a longer distance
+- The decreased downwash will also decrease the angle of attach of the vertical stabilizer, making the nose descend a little
+
+When taking off, keep this properties into account:
+
+- When climbing out of ground effect, drag increases and lift decreases making us dip a little
+- You can rotate with a slightly lower speed but you need ground effect to win speed to get to Vx
+- In soft field take-offs you can use the ground effect to eject early from the ground and then win speed in the ground effect
+
+### Parasite drag
+
+Parasite drag (schadelijke weerstand) is another type of drag, which increases as the speed increases. This has nothing to do with producing lift.
+
+Parasite drag can be divided into 3 categories:
+
+- Share-drag
+- Friction-drag
+- Interference drag
+
+### Total drag
+
+The total drag of that we experience during flights is a sum of induced drag + parasite drag. We can see an exaple of this put into a graph:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-06d2eaee385a.png)
+
+Here we have in the middle a point where we have the least drag. This is the V minimum drag (Vmd) speed. Often very similar to our best glide (Vg) speed, used to glide the most distance over a certain amount of distance.
 
 {{< ads >}}
 
