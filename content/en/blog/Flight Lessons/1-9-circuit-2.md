@@ -1,6 +1,6 @@
 ---
 title: "1.9 Circuit 2"
-date: 2026-04-20
+date: 2026-04-24
 slug: "1-9-circuit-2"
 description: "Now that we have completed the first circuit training, in this lesson we will do lesson 2 of the circuit."
 tags: []
