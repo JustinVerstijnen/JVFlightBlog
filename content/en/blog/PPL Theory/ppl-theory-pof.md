@@ -360,7 +360,9 @@ The wing surface is the total surface area of a wing. We calculate also the part
 
 Drag (weerstand) is the resistance of the air a plane flies through. Oncoming wind slams into the cockpit, leading edge wings and wheels and this partly slows us down. More information about this component will be discussed further in this module.
 
-We can feel drag especially when on a bike and going really fast (25 km/h or higher), this is the exact same on a plane.
+We can feel drag especially when on a bike and going really fast (25-30 km/h or higher). You feel alot of upcoming air which slows you down. This is the exact same on a plane.
+
+To let an aircraft actually fly, the thrust component of the engine must be higher than the total drag at all times. In an horizontal flight, the amount of drag is equal to the amount of thrust, bringing you forward in a constant speed.
 
 ### The drag formula
 
@@ -432,17 +434,59 @@ Parasite drag (schadelijke weerstand) is another type of drag, which increases a
 
 Parasite drag can be divided into 3 categories:
 
-- Share-drag
+- Form drag
 - Friction-drag
 - Interference drag
 
+#### Form drag
+
+Form drag is caused by the shape/design of the aircraft. As the air flows upon the leading edge, the air will be separated and a pressure difference occurs. By this separation the airflow gets disrupted, building up a new pressure opposing the movement direction. This is called wake.
+
+A brief description is; the more streamlined an aircraft part is, the better the air will follow that part. This will cause less separation and less wake.
+
+A great illustration of this in action:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-29127908e35b.png)
+
+This is the reason planes like the Cessna 172 have wheel-fairings.
+
+#### Friction drag
+
+When air flows over a fixed surface, air molecules will be braked due to this friction. These slower molecules then will also be slowed down by the molecules farther away from that surface. The further the molecules are away, the less this slowing force is.
+
+Even though air feels light, it sticks slightly to the skin of the aircraft. This creates a thin layer of slowed-down air called the boundary layer. The smoother and cleaner the aircraft surface, the lower the friction drag. Rough surfaces, dirt, ice, rivets, or exposed parts can increase it.
+
+In the cruising phase of a flight, the most drag you feel is an result of the friction drag.
+
+#### Interference drag
+
+Interference drag is caused by the close placement of all airplane parts close together. All those different parts have their own airflow which can (partly) disrupt each others airflow. This often happens where parts join together, such as the wing and fuselage, struts and wings, or landing gear and body. The airflow becomes more turbulent in these junction areas, which increases drag.
+
+To minimize interference drag, aircraft manufacturers apply fairings to different parts, like from wing to struts.
+
 ### Total drag
 
-The total drag of that we experience during flights is a sum of induced drag + parasite drag. We can see an exaple of this put into a graph:
+The total drag of that we experience during flights is a sum of induced drag + parasite drag. We can see an example of this put into a graph:
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-06d2eaee385a.png)
 
-Here we have in the middle a point where we have the least drag. This is the V minimum drag (Vmd) speed. Often very similar to our best glide (Vg) speed, used to glide the most distance over a certain amount of distance.
+Here we have in the middle a point where we have the least drag, this is where both amounts of drag are exactly the same. This is the V minimum drag (Vmd) speed. Often very similar to our best glide (Vg) speed, used to glide the most distance over a certain amount of distance.
+
+### Speed stability of the total drag
+
+We have a graph to get a better understanding of the two parts of drag and your airspeed.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-cf51feabafdb.png)
+
+- Red: Backside of the power curve, here is the plane not stable in terms of speed. A small decrease in speed means a increase in drag as the line is steeper. The speed will therefore decrease if not corrected with the throttle.
+- Blue: Normal operating area, here the plane is more stable in terms of speed. Light corrections will be applied automatically due to the higher speed.
+
+---
+
+## Stall and spin flight (4)
+
+
+
 
 {{< ads >}}
 
