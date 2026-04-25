@@ -485,6 +485,168 @@ We have a graph to get a better understanding of the two parts of drag and your 
 
 ## Stall and spin flight (4)
 
+A stall means exceeding the critical angle of attack. Stalling will occur when the plane has such a high pitch up momentum that the airflow is disrupted. The wing will instantly stop producing lift and the drag will increase substantionally.
+
+Stalling does not neccesarily apply when flying at low speeds. When flying at a low speed, you need to pitch up to retain your altitude. There is a moment that the wings are so high up, causing a wing drop, nose drop or a heavy decrease of altitude occurs. This is a stall. But a plane can also stall when at its top speed, just because the airflow is disrupted.
+
+In aerodynamic terms, we determine the cause of a stalling wing the behaviour of the boundary layer of the wing.
+
+### Boundary layer
+
+The boundary layer (grenslaag) is the small layer of air which hits the wing surface. At the surface of the wing, the flow of air will be slowed down as result of resistance. At the surface, the air will even be completely still (no-slip). From the surface the boundary layer will span up to where the flow of air is not disrupted anymore.
+
+A good picture of this happening in both laminar and turbulent air, check out this picture:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-34555f39fb28.png)
+
+#### Laminar vs Turbulent
+
+Laminar and Turbulent are each others complete opposites. Laminar beans that the air is very clean (organized) without movement, laminating the air over and under the wings. Turbulent means that this air is very unorganized which can happen by convection (rise of warm air), clean air turbulence or wake turbulence.
+
+When the air is laminar, the following properties are:
+
+- All air molecules will move from left to right
+- Nice and orderly
+- In parralel lines from each other
+
+#### Boundary layer separation
+
+When flying at greater angles of attack, the boundary layer will eject from the wing. This separation will result in a loss of lift, and is caused by the pressure gradient from the leading edge of the wing over the top.
+
+From the leading edge of the wing, the pressure drops to a minimum. The point where this minimum is reached is at the front of this wing. After the front the pressure will increase again where at the trailing edge of the wing, the pressure is equal to just before the wing.
+
+After the point of minimum pressure, the boundary layer has to flow in the opposite way, which is not easy by nature. This will increase to happen if the angle of attack also is increases until the wing is in a complete stall. At this stalling point, the separation point has made all its way to the leading edge of the wing.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-476566d80d79.png)
+
+{{% alert title="Info" color="info" %}}
+A golf ball has some small dents in its skin. These have a very important cause, namely decreasing the size of the separation layer and so decreasing the total drag of the ball.
+{{% /alert %}}
+
+### Effects of increasing AoA
+
+The effects of increasing the Angle of Attack (AoA) are the following:
+
+- Stagnation point will change to the leading edge -> alerting the artificial stall warning of the Cessna 172
+- The static pressure on the top side of the wing decreases
+- At a asymmetric wing profile, the rpessure point will change forward to the leading edge at first but at hitting the critical angle back to the trailing edge
+- The lift coefficient increases and decreases rapidly after hitting the critical AoA
+- The drag coefficient increases slowly but very fast after hitting the critical AoA
+- The total drag decreases at a certain angle but increases at a higher AoA
+
+### Stall speed
+
+When practicing stalls in a plane, we will close the throttle making the engine run stationary and keep our altitude. We do this because power-off stalls are less dangerous than power-on stalls. As we lose speed, we need to correct for it by increasing the angle of attack. All the way to the critical AoA. In the formula of lift coefficient, the lift-coefficient factor increases where the speed factor decreases. 
+
+Just for fun, here is the formula again:
+
+- Lift = 1/2 ρ V² CL S
+
+| 1/2 ρ V² | CL | Surface |
+| :---: | :---: | :---: |
+| The dynamic pressure of the incoming airflow (TAS) | Lift Coefficient | The surface of the wing |
+
+You can find the stall speed (Vs) in the pilot operating handbook (POH) of the plane. V speeds are always referenced at the Indicated Airspeed (IAS), which is what you see on your speed meter in the cockpit.
+
+For more information about stalls and my stalls lessons, visit this page:
+
+<a class="btn btn-primary" href="https://flightblog.justinverstijnen.nl/1-7-stalls/" target="_blank" rel="noreferrer">Stalls lessons</a>
+
+### Stall speed factors
+
+There are some factors that influence the stall speed of the plane. Because the speed is not a hard value, especially in the atmosphere which can change from time to time, they are all calculated using the following properties and are worst case scenarios:
+
+- No flaps: Flaps help reducing the stall speed by around 5 knots on a Cessna 172
+- Straight and level horizontal flight
+- No engine power
+- Center of gravity is in the front position
+- The plane is at its maximum take-off weight (MTOW)
+
+#### Weight
+
+According to the lift formula, the lift factor must be equal to the weight factor to stay in the air. The lift factor must be higher if you want to climb. The POH always refers to the maximum take-off weight, so the worst case scenario here.
+
+Womething which also is an option is to look at the ratio between weight and wing surface, which we call the wing loading:
+
+- Weight/Surface = 1/2 ρ V² CL
+
+How more the wing loading factor is, the more the stall speed.
+
+#### Load factor
+
+The load factor is the ratio between lift and weight. We will pronounce this in simple numbers: in straight and level flight, this ratio is 1. When manoeuvering, like turns or climbing this ratio will increase. At an angle of 60 degrees while climbing the load factor will be 2.
+
+We can make this load factor visible with a little addition to the lift formula:
+
+- Load factor x Weight = Lift = 1/2 ρ V² CL S
+
+Here is described that the lift must not only be equal to the weight, but on the weight multiplied by the load factor. This makes clear that a change to the load factor has the same effect as on weight increase of difference.
+
+For reference, here we have some numbers where we describe the load factor and increase of stall speeds in different turns:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Load factor | 1 | 1,15 | 1,4 | 2 | 3,9 |
+| Increase in stall speed | 0% | 7,5% | 19% | 41% | 97% |
+
+{{% alert title="Info" color="info" %}}
+Fun fact, the load factor is equal to the G-force.
+{{% /alert %}}
+
+#### Thrust
+
+The thrust is the forward power the engine(s) and propellor(s) generates and will influence the stall speed in two ways:
+
+- Thrust increases the vertical power/component
+- Thrust increases the airspeed over the wings
+
+At higher angles of attack, the thrust gets a upward component. The thrust reduces somewhat of the weight, where the lift decreases without stalling. The stall speed will get somewhat lower because of this when having full engine power.
+
+Extra thrust on the propellor will also increase the flow of air over the inside - parts of the wings. The inside parts of the wings will get more air decreasing the stall factor there. This is great, as we keep control over the ailerons. However, when stalling, you must only steer with the rudder to avoid a spiral dive/spin.
+
+#### Center of gravity
+
+Another factor on the stall speed is the center of gravity. Ever tried to balance a straw on your finger? The point where the straw stays into plane without tilting to one of the sides is called the center of gravity.
+
+In a plane we have also a center of gravity as we must be in balance. If the center of gravity is at the front section of the fuselage, the stall speed will increase. This is due to the extra correction the horizontal stabilizer needs to make to keep the plane level and this increases the stall speed. The POH refers to the most forward center of gravity possible while still inside of the Mass and Balance envelope as worst case scenario.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9379051b3709.png)
+
+#### Turbulence
+
+Turbulence is also a factor which can influence the stall speed. In turbulent weather, the wind speed and direction will constantly change. This results in a angle of attack which also changes in small differences. At low speeds with high angles of attack, a upward wind can pull the plane into the critical angle of attack, resulting in a stall.
+
+### Stalls in climbing or descending turns
+
+When climbing or descending, the wings have both a different angle of attack. This difference occurs because the outside wing has a longer distance than the inside wing. Because both wings are vertically making the same distance, the flight path of the outside wing has a flattened curve.
+
+In a climbing turn, the angle of attack of the outside wing is the highest. If the speed decreases, the outside wing will stall first. At a descending turn, the inside will stall first. This is the reason the turn from base to final in the circuit is the most dangerous turn, which is commonly flown with somewhat more speed and a less steep turn (around 20 degrees in a Cessna 172).
+
+While climbing:
+
+- Outside wing stalls first
+
+While descending:
+
+- Inside wing stalls first
+
+### Stall warning
+
+When an aircraft is in a stall, the plane will lose altitude very fast and the plane can become uncontrollable. A stall warning is therefore very important, as this can (re)gain your attention. The stall warning sounds just before a real stall happens, giving you enough time to remediate the risk instead of fixing the stall.
+
+We call it an approach to stall when a stall is around the corner but not fully developed. You can see this as the point in the lift coefficient curve where the line stops to increase.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
+
+Sympthoms of an approach to stall are:
+
+- Stall warning horn makes some noise
+- Buffeting, this is an aerodynamic clue that the plane is about to stall where the drag of the separation layer takes over the lift making the aircraft shake somewhat
+  - This effect is not that audible on a Cessna 172
+  - It does on low-wing aircraft like Piper, Diamond Aircraft or Cirrus types
+- Airspeed too low
+- Controls becoming sloppy -> lower airspeed means lower air and less "grip"
+
 
 
 
