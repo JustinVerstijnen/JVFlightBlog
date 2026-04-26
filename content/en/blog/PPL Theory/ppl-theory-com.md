@@ -26,7 +26,7 @@ This page contains only some theoretical additions to this page: <https://justin
 
 ## The International Aeronautical Telecommunication Service (IATS)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-com-5655/jv-media-5655-d81273cd73e9.png)
+[![jv-media-5655-d81273cd73e9.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-com-5655/jv-media-5655-d81273cd73e9.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-com-5655/jv-media-5655-d81273cd73e9.png)
 
 ## Clearances
 

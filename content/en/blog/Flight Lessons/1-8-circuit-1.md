@@ -42,7 +42,7 @@ A circuit around an aerodrome is divided in several legs, where we will always t
 
 Here is the full picture of all legs:
 
-![Aerodrome_Circuit_1.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-8/Aerodrome_Circuit_1.png)
+[![Aerodrome_Circuit_1.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-8/Aerodrome_Circuit_1.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-8/Aerodrome_Circuit_1.png)
 
 The rest of this page, I will use these phrases.
 

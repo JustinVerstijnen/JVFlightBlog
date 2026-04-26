@@ -256,7 +256,7 @@ Because of the bad weather in the winter weeks and no chance to do the stalls le
 
 In the first question, I was asked to draw a graphic of what happens with the altitude and distance at the start of the take-off till rotation and somewhat after that.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-0v6quwm6ubkr.png)
+[![jv-media-6656-0v6quwm6ubkr.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-0v6quwm6ubkr.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-0v6quwm6ubkr.png)
 
 In this graphic, I drew 2 lines, one for flaps 10 and one for flapless. As we have less lift without flaps, we will need a longer runway and therefore climbing later than with flaps extended. Both at a speed of around 65 kts.
 
@@ -264,7 +264,7 @@ In this graphic, I drew 2 lines, one for flaps 10 and one for flapless. As we ha
 
 The second question was about answering what would perform better at take-off, flaps 10 or 30.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-pa96lfnlxkya.png)
+[![jv-media-6656-pa96lfnlxkya.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-pa96lfnlxkya.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-pa96lfnlxkya.png)
 
 Flaps 10 is in terms the most efficient take-off flap setting, as this is a nice combination of lift and drag. Flaps 30 has an earlier lift-off point of the ground but at the cost of a low speed as result of the enormous drag it creates. We only use Flaps 30 in case of a short field take-off or needing to avoind objects at the end of a (short) runway.
 
@@ -272,7 +272,7 @@ Flaps 10 is in terms the most efficient take-off flap setting, as this is a nice
 
 In the third question, I have to display the difference of a headwind. I chose an headwind of 15 knots, as this displays a nice difference and its a moderate wind speed for a better lift off.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-umtjzra9givn.png)
+[![jv-media-6656-umtjzra9givn.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-umtjzra9givn.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-umtjzra9givn.png)
 
 As you can see, with 15 knots headwind, we will lift of earlier because of the extra 15 knots true airspeed. The horizontal flow of air is already 15 knots, so our plane could lift of at about 40-45 knots instead of the normal 55-60 knots.
 
@@ -286,7 +286,7 @@ For the Cessna 172, these are exactly these values:
 
 *   Vy: Best climb speed for short time -> 75 knots
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-wdjf2z391ss3.png)
+[![jv-media-6656-wdjf2z391ss3.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-wdjf2z391ss3.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-wdjf2z391ss3.png)
 
 So I drew this graphic where you see that to clear a certain distance, 65 knots is a better speed but when you take time, 75 knots is a better speed.
 
@@ -294,7 +294,7 @@ So I drew this graphic where you see that to clear a certain distance, 65 knots 
 
 In the fifth question, we switch to the descending process. Here I was asked to draw the difference between descending with 1700 RPM and 95 knots with a speed of -500fpm vertical.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-zirjt4ntludq.png)
+[![jv-media-6656-zirjt4ntludq.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-zirjt4ntludq.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-zirjt4ntludq.png)
 
 As Flaps increase or drag and lift and decreases our speed, we are able to descend faster in the same period of time.
 
@@ -304,7 +304,7 @@ The 6th question was about the descending distance. Here we talk about horizonta
 
 As we want to descend, and we have 15 kts headwind, we are able to descend steeper. In the same time, we are descended further while flying less horizontal distance. This means a faster and steeper descent.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-z13rqbdwas7b.png)
+[![jv-media-6656-z13rqbdwas7b.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-z13rqbdwas7b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-z13rqbdwas7b.png)
 
 This is a result of the headwind decreasing our ground speed.
 
@@ -312,7 +312,7 @@ This is a result of the headwind decreasing our ground speed.
 
 When descending with 1500RPM and 1700RPM, we have a little difference in terms of power. We have less forward trust, so somewhat more drag and a lower ground speed. This makes it possible to descend a bit faster relative to the ground distance.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-ey9mhchayq39.png)
+[![jv-media-6656-ey9mhchayq39.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-ey9mhchayq39.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-ey9mhchayq39.png)
 
 ### 8. Descending - Power Idle to touchdown
 
@@ -324,13 +324,13 @@ When descending with 3 different speeds, some strange will happen without knowin
 
 *   75 knots: this is faster than best glide speed and makes you descend too fast, too much induced drag
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-d93bcfe4b87b.png)
+[![jv-media-6656-d93bcfe4b87b.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-d93bcfe4b87b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-d93bcfe4b87b.png)
 
 ### 9. Descending - Best glide speed heavy and light aircraft
 
 In a cessna 172, the default best glide speed is around 65 knots. However, if we increase the weight of the aircraft, we have to also increase the lift to compensate for the extra weight. To create this more lift we need a little more speed. Heavier aircraft means you need a higher best-glide speed.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-xz1bn3mid4kj.png)
+[![jv-media-6656-xz1bn3mid4kj.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-xz1bn3mid4kj.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-xz1bn3mid4kj.png)
 
 However, a higher speed relative to the ground means that we need more horizontal distance than flying in a light aircraft, so you need to descend earlier.
 

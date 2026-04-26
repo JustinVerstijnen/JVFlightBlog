@@ -317,7 +317,7 @@ If any radio failure occurs on an aerodrome or aircraft, the aerodrome will put 
 
 Here is an overview of the different signs you could encounter. They are also described on the back of the VFR chart.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-6d4be289a1c0.png)
+[![jv-media-5007-6d4be289a1c0.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-6d4be289a1c0.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-6d4be289a1c0.png)
 
 These signals are physically on a large banner which the aerodrome has to put at a certain place in case of emergencies. Physical and visual does always work.
 
@@ -325,7 +325,7 @@ These signals are physically on a large banner which the aerodrome has to put at
 
 At an airport, there is a chance that a marshal will give you instructions about what to do. This will mostly only happen at controlled airfields.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-3b5b8998424b.png)
+[![jv-media-5007-3b5b8998424b.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-3b5b8998424b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-3b5b8998424b.png)
 
 Some additions to the signs that can be given by marshalls:
 
@@ -380,7 +380,7 @@ Based on the situation, its possible to answer the actions:
 
 The fighter jet can also give some visual instructions:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-34738964fa38.png)
+[![jv-media-5007-34738964fa38.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-34738964fa38.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-34738964fa38.png)
 
 ---
 
@@ -694,11 +694,11 @@ Here are 2 examples of AIPs of different countries:
 
 The Netherlands:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-79641682f25a.png)
+[![jv-media-5007-79641682f25a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-79641682f25a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-79641682f25a.png)
 
 Norway:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-1e8aa67fa217.png)
+[![jv-media-5007-1e8aa67fa217.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-1e8aa67fa217.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-1e8aa67fa217.png)
 
 You see that the format and information separation is the same for both AIPs. A list of AIPs for all countries can be found here: <https://wiki.ivao.aero/en/home/operations/Global-AIP>
 
@@ -709,7 +709,7 @@ The AIP can change in two ways:
 
 The AIP will change in a cyclus of 28 days, this is not every month. The effective dates are worldwide described:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-487b8b978ddb.png)
+[![jv-media-5007-487b8b978ddb.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-487b8b978ddb.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-487b8b978ddb.png)
 
 The AIP of the netherlands has changed every 28 days in the last months.
 
@@ -820,7 +820,7 @@ In NOTAMs there will be used some abbreviations of general subjects that are use
 
 Some information is crucial to pilots but are not mentioned in the AIP or NOTAMs. Some practical messages. These will be distributed through the AIP but in his own tab:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-41ff8bde20ac.png)
+[![jv-media-5007-41ff8bde20ac.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-41ff8bde20ac.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-41ff8bde20ac.png)
 
 Some practical things which could be mentioned there:
 
@@ -1039,7 +1039,7 @@ Navigation lights must be enabled as the plane starts the take-off roll till the
 
 The lights layout of an plane is:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-ee6962d3edeb.png)
+[![jv-media-5007-ee6962d3edeb.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-ee6962d3edeb.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-ee6962d3edeb.png)
 
 The navigation lights can be both static and flashing.
 
@@ -1136,7 +1136,7 @@ Types of runway contamination:
 
 For the states of runways in winter weather we have a SNOWTAM. These are spreaded using the same channels as normal NOTAMs. An example of a SNOWTAM:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-2b23aa6b554e.png)
+[![jv-media-5007-2b23aa6b554e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-2b23aa6b554e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-law-5007/jv-media-5007-2b23aa6b554e.png)
 
 Next to runway contamination states, we have also braking action. This is an index-number about how good the brakes work in a runway (higher is better)
 

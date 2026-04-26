@@ -651,7 +651,7 @@ In VFR flights, we will fly a pre-determined circuit to land and take-off our ai
 
 Always refer to the published procedures, as this published altitude is the leading factor.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-8f0d2c84c6c0.png)
+[![jv-media-4606-8f0d2c84c6c0.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-8f0d2c84c6c0.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-8f0d2c84c6c0.png)
 
 Here is an example of a left-hand circuit. This means the Downwind leg is at the left side of the landing runway. In a right-hand circuit, Downwind is at the right-side.
 
@@ -734,7 +734,7 @@ When receiving taxi clearance, you will be directed to multiple taxiways, holdin
 
 - C/S, taxi to holding point S1 (Sierra one) runway 23 (two three), via taxiway G (Golf) and taxiway A (alpha)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-7bcf7a3f26e3.png)
+[![jv-media-4606-7bcf7a3f26e3.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-7bcf7a3f26e3.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-7bcf7a3f26e3.png)
 
 This relates to the green line on the picture above. At the holding point, we must wait till we get the clearance to cross the yellow line. The clearance must contain "cleared for take-off" or "cleared to cross runway XX". Otherwise, this line may never be crossed.
 
@@ -770,11 +770,11 @@ After you leave a runway, we transmit "Runway XX vacated". This means, we have l
 
 All ways on an airport has names to make clear what turns to take and what ways to follow. This makes both the pilots and G/Ss clear how a plane must taxi from and to the runway.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-9de94dc53c38.png)
+[![jv-media-4606-9de94dc53c38.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-9de94dc53c38.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-9de94dc53c38.png)
 
 All taxiways will be indicated next to the runway. The letters are always spelled completely like the ICAO alphabet:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-b91cd1329f39.png)
+[![jv-media-4606-b91cd1329f39.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-b91cd1329f39.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-b91cd1329f39.png)
 
 Yellow signs means intersections, black signs mean current ways.
 
@@ -941,7 +941,7 @@ In this module we will dive deeper into the greatest Flight Information Centers 
 - Amsterdam Information: Mostly Amsterdam and Rotterdam and North sea
 - Dutch Mil Info: The east part of the Netherlands
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-0b2b8fe576b0.png)
+[![jv-media-4606-0b2b8fe576b0.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-0b2b8fe576b0.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-0b2b8fe576b0.png)
 
 These frequencies are Flight Information Centers (FIC), and do provide information which can be really important for your flight. They don't do flight seperation but can warn you for potential other traffic or emergency situations.
 
@@ -986,7 +986,7 @@ A/C: Frequency change approved, Callsign (and we can add Goodbye or nice day if 
 
 In a country, we have multiple control zones (CTR). These are controlled zones of airports which controls the area around the airport such as traffic separation.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-ff14de65daae.png)
+[![jv-media-4606-ff14de65daae.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-ff14de65daae.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-ff14de65daae.png)
 
 This is an example of a CTR. The circle is a circle of 5 nautical meters (9,2km). In the circle, we have two rectangle which are the departure and arrival blocks.
 
@@ -1074,7 +1074,7 @@ A/C: left heading 050, PSV
 
 We will first be asked what our magnetic heading is, because this defers from the true north. This is the heading what the middle compas shows:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-9c60cc0d318f.png)
+[![jv-media-4606-9c60cc0d318f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-9c60cc0d318f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-rt-course-notes-4606/jv-media-4606-9c60cc0d318f.png)
 
 ---
 

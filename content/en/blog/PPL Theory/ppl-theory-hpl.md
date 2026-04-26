@@ -94,7 +94,7 @@ In cases where a person has less oxygen than needed, the skin will color blue. T
 
 The link between oxygen and hemoglobin depends on the amount of available oxygen in the alveoli. The higher the O₂ pressure, the higher the concentration of oxygen in the hemoglobin. This link can be seen in the graphic below:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-f34262b135a3.png)
+[![jv-media-5658-f34262b135a3.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-f34262b135a3.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-f34262b135a3.png)
 
 If you increase your flying altitude, the oxygen pressure will decrease. This will go slowly in the beginning of the graphic, but from around 70%, this will go very fast at the steep side of the curve. The curve can result in very fast change of symptoms.
 
@@ -177,7 +177,7 @@ And every second exposed to carbon monoxide, these symptoms will increase till y
 
 This is why we pilots have CO/carbon monoxide detectors on board:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-8a80d6fc84bf.png)
+[![jv-media-5658-8a80d6fc84bf.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-8a80d6fc84bf.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-8a80d6fc84bf.png)
 
 This is a passive detector, which only colors. If feeling one of the symphoms, look at the dot. If its dark, then open the windows and land as soon as possible. There are also active detectors available just like in your home.
 
@@ -221,7 +221,7 @@ Complaints caused by expansion of those gasses can occur in several organs like 
 
 The middle ear is linked up by the eustachian tube (buis van Eustachius) with the nasopharynx (neuskeelholte). This helps having the air pressure on the eardrum equal.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-275992df0c3a.png)
+[![jv-media-5658-275992df0c3a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-275992df0c3a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-275992df0c3a.png)
 
 If the nasopharynx swells up by a sinus infection or hay fever, the eustachian tube can be constipated. When increasing or decreasing in altitude, this leads to a pressure difference between the middle ear and the atmosphere. This can cause the eardrum to bend in or outside.
 
@@ -324,7 +324,7 @@ In fighter jets, the pilots have a special suit (g-suit) which is very tightly a
 
 Eyes of a human person are built from glass-like material, which is a clear and jelly like liquid. The inside of the eye is for the biggest part the light-sensitive retina (netvlies). At the front of the eyeball, there is a lens and iris, which is the rainbow-membrane and the diaphragm of the eye. The pupil is the central opening in the iris.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-255a3df5bea7.png)
+[![jv-media-5658-255a3df5bea7.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-255a3df5bea7.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-255a3df5bea7.png)
 
 ### From retina to view
 
@@ -365,7 +365,7 @@ In the part of the retina outside of the yellow spot, we have the peripheral vis
 
 At the part of the retina where the nerves converge and transition into the eye-nerve, we dont have light-sensitive cells. This is the blind spot, called the Optic Disk. This sits around 15 degrees outside of the view of every eye.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-0ab2e43b04f9.png)
+[![jv-media-5658-0ab2e43b04f9.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-0ab2e43b04f9.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-0ab2e43b04f9.png)
 
 To test your blind spot:
 
@@ -447,7 +447,7 @@ The hearing organ consists of 3 parts
 
 Lets take a look at this picture:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-e9e1f16066c1.png)
+[![jv-media-5658-e9e1f16066c1.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-e9e1f16066c1.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-e9e1f16066c1.png)
 
 ### Outside ear
 
@@ -497,7 +497,7 @@ The vestibule itself also consists of 3 parts:
 - **Sacculus**: also a bladder filled with moist and otoliths
 - **Semi circular canals**: These are three canals filled with moist, 1 is horizontally and 2 vertically
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-353c895b356b.png)
+[![jv-media-5658-353c895b356b.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-353c895b356b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-353c895b356b.png)
 
 ### Otoliths
 
@@ -510,7 +510,7 @@ These two groups each have their weaknesses:
 
 These organs detect linear speed increases. The otoliths have a higher density than the moist around, they will glow a little bit behind. The hair cells will move similarly and this gives us the feeling of moving.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-d1616d6db418.png)
+[![jv-media-5658-d1616d6db418.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-d1616d6db418.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-d1616d6db418.png)
 
 ### Semi-circular canals
 
@@ -696,7 +696,7 @@ Smoking has both short-term and long-term effects on the human body. The long te
 
 The circadian rythm is an internal clock of the human body where the internal temperature rises when we should be awake, and drops when we should be at sleep. This temperature range is about 1 degree celcius.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-20fe51f5d5cf.png)
+[![jv-media-5658-20fe51f5d5cf.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-20fe51f5d5cf.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-20fe51f5d5cf.png)
 
 At night flying during the window of circadian low, this brings extra risks, like a decreased capacity of decision making and little less reaction-time. This is why pilots are not allowed to fly more than 10 hours per 24 hours.
 
@@ -799,7 +799,7 @@ This is the reason several people can have a completely different view of the sa
 
 In an earlier module, we already described some sense-illusions but we also have some visual illusions we must know and defend ourselves against.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-4bca197a9b26.png)
+[![jv-media-5658-4bca197a9b26.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-4bca197a9b26.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-4bca197a9b26.png)
 
 Illusions sometimes can be very tough to "un-see" but being with two pilots can help a lot. The most important is the context of where the illusion is in and this will depends on how we see and then percept it.
 
@@ -997,7 +997,7 @@ During acute stress, our body will flow through these phases:
 
 Its no suprise that stress is a primary cause of how we perform. To further clarify that, there is a graphic from Yerkes and Dodson, clearly stating how those two are related:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-b77fe759e5de.png)
+[![jv-media-5658-b77fe759e5de.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-b77fe759e5de.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-hpl-5658/jv-media-5658-b77fe759e5de.png)
 
 The best levels of performance are in the middle, where we have some pressure to do things the right way and at the level we need. Low stress can cause some boredom and disinterest, where high levels causes anxiety and the things already described.
 

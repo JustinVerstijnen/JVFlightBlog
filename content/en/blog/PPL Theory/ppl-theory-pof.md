@@ -64,7 +64,7 @@ High pressure (H) and low pressure (L) areas are not absolute numbers, but relat
 
 When going up into the air, the air pressure will decrease like seen in the graphic below:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-f5f05dfafc9e.png)
+[![jv-media-5661-f5f05dfafc9e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-f5f05dfafc9e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-f5f05dfafc9e.png)
 
 For reference, we will use this numbers:
 
@@ -135,11 +135,11 @@ Lift works basically with these 4 components:
 
 Let's take these 4 components into a simple drawing:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)
+[![jv-media-5667-9bbca07ab4dc.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)
 
 The black line represents the chord of the wing. This is the same with the outline of an wing:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f0c9683e824e.png)
+[![jv-media-5667-f0c9683e824e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f0c9683e824e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f0c9683e824e.png)
 
 We also have the resulting air-force, which is a line 90 degrees of the wing profile, based on the oncoming wind.
 
@@ -152,7 +152,7 @@ For the example of Static and Dynamic pressure, I will stick to the example of a
 
 Take a look at this drawing, which makes more sense:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-83e1e72cd4e8.png)
+[![jv-media-5667-83e1e72cd4e8.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-83e1e72cd4e8.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-83e1e72cd4e8.png)
 
 This basically works the same as the pitot-static system of an airplane, the static port measuring the static air pressure, as the pitot probe measures dynamic pressure. Inside of the measurement systems, there will be calculated the results which are Indicated Airspeed (IAS), Altitude and Vertical Speed (VS).
 
@@ -174,7 +174,7 @@ The air will flow around a wing-profile. Because of the leading edge of the wing
 
 Just like the two laws already predicted, the airflow will increase and the static pressure will decrease. At the leading edge of the wing, the lines will be closer together. Here the pressure is relatively low. Near the trailing edge of the wing, the flow lines will be less close. The speed of the airflow decreases and the pressure increases.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-7ee45387fa20.png)
+[![jv-media-5667-7ee45387fa20.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-7ee45387fa20.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-7ee45387fa20.png)
 
 Under the wing, the airflow will have to make a smaller angle and path, causing the air to move at a slower speed but at an higher pressure.
 
@@ -186,7 +186,7 @@ The downwash is a descending movement of the airflow after it hit the wings. As 
 
 Too see this all put into perspective, view this image:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f108f3b80f2f.png)
+[![jv-media-5667-f108f3b80f2f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f108f3b80f2f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f108f3b80f2f.png)
 * Airspeeds are a reference
 
 ### An wing profile described
@@ -200,14 +200,14 @@ A wing profile has various parts, which we will describe now:
 - Camber: The maximum distance between the camber line and the chord
 - Thickness: The maximum distance between top and bottom. This will sometimes be referred as the "thickness-to-chord" ratio
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-d6d4e8ca01d7.png)
+[![jv-media-5667-d6d4e8ca01d7.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-d6d4e8ca01d7.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-d6d4e8ca01d7.png)
 
 ### Angle of incidence and Angle of attack
 
 - **The angle of incidence** (AoI) (Instelhoek) is the angle between the longitudinal axis of the plane and the chord. This is how the aircraft is built and is by design, so the plane generates enough lift in straight and level flight.
 - **The angle of attack** (AoA) (Invalshoek) is the angle between incoming airflow and the chord. This is the pitch angle you can set with the yoke, which controls the elevator.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png) ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)
+[![jv-media-5667-a64ddda7e0fb.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png) [![jv-media-5667-5a84de383c4d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)
 
 The angle of attack will often be reffered as "α". It also is an result of sum angle of incidence, the pitch angle and the glide angle.
 
@@ -243,7 +243,7 @@ Static pressure in this formula is also very important. This is directly depende
 
 The lift coefficient is a sum of the angle of attack, amount of lift and drag. In a graph, this looks like this:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
+[![jv-media-5667-ce2d3128b18f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
 * A fun fact is that because of the angle of incidence of a Cessna 172, a plane wil always have a higher angle of attack than 0.
 
 This graph outlines that the more angle of attack we have, the more lift. However, there is a bount that this stops which is called the critical angle of attack. In a Cessna 172, this is around 15-16 degrees nose up. Pulling even more on the yoke causes the plane to stall and dip from the sky. This can be very dangerous at lower altitudes.
@@ -252,7 +252,7 @@ This graph outlines that the more angle of attack we have, the more lift. Howeve
 
 A high angle of attack results in the air not gluing anymore to the wing but to transform into rotor flows. To get a better view of what exactly happens:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-371e89355207.png)
+[![jv-media-5667-371e89355207.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-371e89355207.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-371e89355207.png)
 
 ### Wing Surface
 
@@ -279,7 +279,7 @@ Then in straight and level flight, there is a great connection between the speed
 
 This also means something for the lift coefficient and the angle of attack performances. For example, a symmetric wing profile will start with 0 lift coefficient. This gives it somewhat less lift than an asymmetric profile, as shown in this graph:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0ae28aa5418f.png)
+[![jv-media-5667-0ae28aa5418f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0ae28aa5418f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0ae28aa5418f.png)
 
 - Red: Asymmetric
 - Green: Symmetric
@@ -290,7 +290,7 @@ Here an asymmetric wing profiles will eventually reach a lift coefficient at a n
 
 The airflow over the wings looks like this in three-dimensional setting:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-3ed915c7c26d.png)
+[![jv-media-5667-3ed915c7c26d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-3ed915c7c26d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-3ed915c7c26d.png)
 
 On the left, the airflow underneath and above the wing is illustrated and on the right we have the difference in pressure (Up = low and under = high). This difference in pressure will tend to flow to the wingtips. This movement actually causes the wake turbulence to happen. This movement however induces a decrease of lift and an increase of drag, **induced drag**, to be pronounced correctly.
 
@@ -300,7 +300,7 @@ Wake turbulence (zogturbulentie) is caused by lift, and will show as two opposin
 
 The reaction of two opposing wings will cause this wake turbulence. The strength of the wake turbulence is affected by the amount of lift the plane generates. A Boeing 777 will generate lots of lift to fight its huge mass compared to a Cessna 172 and so generates more wake turbulence.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9a367d698770.png)
+[![jv-media-5667-9a367d698770.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9a367d698770.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9a367d698770.png)
 
 A good advice is if taking of behind an airliner, to wait for at least 3 minutes for the wake turbulence to completely dissipate. Heavy wake turbulence can cause huge problems as the airflow for light planes will be disrupted.
 
@@ -346,7 +346,7 @@ We can calculate the wing aspect-ratio using this formula:
 
 Now the aspect ratio also helps producing lift. The higher this ratio, the more steep the lift-curve is. Take a look at this graph:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-c67733ec5e49.png)
+[![jv-media-5667-c67733ec5e49.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-c67733ec5e49.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-c67733ec5e49.png)
 
 For reference, here a glider plane as a much steeper line than a fighter jet. This is like we already discussed, a result of the wingspan divided by the mean chord.
 
@@ -376,7 +376,7 @@ The drag formula is similar to the already discussed lift formula, and looks lik
 
 The only difference is that we replace the lift coefficient with the drag coefficient. This drag coefficient is also dependent on the angle of attack (AoA). More angle of attack means more drag, as the leading surface of the plane increases a bit.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-2f45e64240c1.png)
+[![jv-media-5667-2f45e64240c1.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-2f45e64240c1.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-2f45e64240c1.png)
 
 ### Types of drag
 
@@ -446,7 +446,7 @@ A brief description is; the more streamlined an aircraft part is, the better the
 
 A great illustration of this in action:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-29127908e35b.png)
+[![jv-media-5667-29127908e35b.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-29127908e35b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-29127908e35b.png)
 
 This is the reason planes like the Cessna 172 have wheel-fairings.
 
@@ -468,7 +468,7 @@ To minimize interference drag, aircraft manufacturers apply fairings to differen
 
 The total drag of that we experience during flights is a sum of induced drag + parasite drag. We can see an example of this put into a graph:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-06d2eaee385a.png)
+[![jv-media-5667-06d2eaee385a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-06d2eaee385a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-06d2eaee385a.png)
 
 Here we have in the middle a point where we have the least drag, this is where both amounts of drag are exactly the same. This is the V minimum drag (Vmd) speed. Often very similar to our best glide (Vg) speed, used to glide the most distance over a certain amount of distance.
 
@@ -476,7 +476,7 @@ Here we have in the middle a point where we have the least drag, this is where b
 
 We have a graph to get a better understanding of the two parts of drag and your airspeed.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-cf51feabafdb.png)
+[![jv-media-5667-cf51feabafdb.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-cf51feabafdb.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-cf51feabafdb.png)
 
 - Red: Backside of the power curve, here is the plane not stable in terms of speed. A small decrease in speed means a increase in drag as the line is steeper. The speed will therefore decrease if not corrected with the throttle.
 - Blue: Normal operating area, here the plane is more stable in terms of speed. Light corrections will be applied automatically due to the higher speed.
@@ -497,7 +497,7 @@ The boundary layer (grenslaag) is the small layer of air which hits the wing sur
 
 A good picture of this happening in both laminar and turbulent air, check out this picture:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-34555f39fb28.png)
+[![jv-media-5667-34555f39fb28.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-34555f39fb28.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-34555f39fb28.png)
 
 #### Laminar vs Turbulent
 
@@ -517,7 +517,7 @@ From the leading edge of the wing, the pressure drops to a minimum. The point wh
 
 After the point of minimum pressure, the boundary layer has to flow in the opposite way, which is not easy by nature. This will increase to happen if the angle of attack also is increases until the wing is in a complete stall. At this stalling point, the separation point has made all its way to the leading edge of the wing.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-476566d80d79.png)
+[![jv-media-5667-476566d80d79.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-476566d80d79.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-476566d80d79.png)
 
 {{% alert title="Info" color="info" %}}
 A golf ball has some small dents in its skin. These have a very important cause, namely decreasing the size of the separation layer and so decreasing the total drag of the ball.
@@ -610,7 +610,7 @@ Another factor on the stall speed is the center of gravity. Ever tried to balanc
 
 In a plane we have also a center of gravity as we must be in balance. If the center of gravity is at the front section of the fuselage, the stall speed will increase. This is due to the extra correction the horizontal stabilizer needs to make to keep the plane level and this increases the stall speed. The POH refers to the most forward center of gravity possible while still inside of the Mass and Balance envelope as worst case scenario.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9379051b3709.png)
+[![jv-media-5667-9379051b3709.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9379051b3709.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9379051b3709.png)
 
 #### Turbulence
 
@@ -636,7 +636,7 @@ When an aircraft is in a stall, the plane will lose altitude very fast and the p
 
 We call it an approach to stall when a stall is around the corner but not fully developed. You can see this as the point in the lift coefficient curve where the line stops to increase.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
+[![jv-media-5667-ce2d3128b18f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
 
 Sympthoms of an approach to stall are:
 
@@ -688,7 +688,7 @@ During a stall the plane can roll. This roll movement can have different causes 
 
 Because of the roll movements the AoA of the descending wing will increase. As the wing is already stalled the lift will decrease with the result the roll movement will be enhanced and another decrease of lift. When in a stall, roll movements will not be silenced like in normal flight. This roll momement is called a wing dip.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0272ad0afc38.png)
+[![jv-media-5667-0272ad0afc38.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0272ad0afc38.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0272ad0afc38.png)
 
 A plane has some side-effects when controlling. If steering with the yoke to roll, some yaw is a side effect. If controlling the rudder to yaw, then rolling is a side effect because of the differences in drag and lift.
 

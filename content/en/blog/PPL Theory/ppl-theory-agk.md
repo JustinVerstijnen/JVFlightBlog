@@ -112,14 +112,14 @@ Burning fuel in a 4 stroke engine is completed in 4 phases:
 3. Arbeidsslag (Power)
 4. Uitlaatslag (Exhaust)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-82280328d4fd.gif)
+[![jv-media-4689-82280328d4fd.gif](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-82280328d4fd.gif)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-82280328d4fd.gif)
 
 There are multiple types of motorshapes. In planes, the most used shapes are:
 
 - Line engines
 - Boxer engines (horizontally exposed)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)
+[![jv-media-4689-bc8d6808273e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)
 
 Engine power is mostly indicated using Revolutions per Minute (RPM). In the cockpit we cannot read the actual power it delivers, only the RPM of the Krukas. The part which the engine powers.
 
@@ -159,13 +159,13 @@ These two components are connected to 3 of the basic 6 instruments we must have 
 5. Heading/Compass (Gyro/Electrical)
 6. Vertical speed (Ports/Analogue)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6637131a4d18.png)
+[![jv-media-4689-6637131a4d18.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6637131a4d18.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6637131a4d18.png)
 
 ### Static port
 
 The static port is an opening (mostly on the left side) that measures the static air pressure while in the air. The pressure it measures is displayed on your altitude indicator.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1fbb911d84db.png)
+[![jv-media-4689-1fbb911d84db.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1fbb911d84db.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1fbb911d84db.png)
 
 This opening is placed at the opposite direction of incoming air, to truly measure static pressure. In some planes, this is integrated in the pitot-probe.
 
@@ -177,7 +177,7 @@ A third option can be to smash the vertical speed indicator, then this air will 
 
 The pitot probe measures the dynamic pressure (incoming amount of air) that will be applied to the aircraft during flight. This is mostly the airspeed, the Indicated Airspeed (IAS).
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)
+[![jv-media-4689-f14b72ab933d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)
 
 When shutting down the plane, we will place a red cap onto this probe. This is to prevent insects or ice to build up and have a non-working speed indicator in flight.
 

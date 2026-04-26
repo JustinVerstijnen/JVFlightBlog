@@ -51,7 +51,7 @@ Before we begin our flight, we must calculate both weight and balance. They play
 
 The root of why we calculate this before the flight is to ensure we stay within the aircrafts performance envelope and not to create imbalance. Doing this incorrectly can lead to decreased flight perforrmance and even worse results.
 
-![Mass and Balance diagram](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-55dae8418f5a.png)
+[![jv-media-4511-55dae8418f5a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-55dae8418f5a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-55dae8418f5a.png)
 
 Here I created a mass and balance sheet for a Cessna 172, fully within the technical limits of the aircraft.  
 - **Normal category flights** must stay within the red lines  
@@ -60,7 +60,7 @@ Here I created a mass and balance sheet for a Cessna 172, fully within the techn
 The CG (Center of Gravity) is the balance point of the aircraft.  
 You can compare it to balancing a pencil on your finger: the point where it stays perfectly balanced is the center of gravity.
 
-![CG explanation](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-f470b08d0a13.png)
+[![jv-media-4511-f470b08d0a13.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-f470b08d0a13.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-f470b08d0a13.png)
 
 In an aircraft, CG is calculated along the fuselage. For the Cessna 172 this is measured in inches.  
 For example: a baggage CG of 95 means the weight is centered 95 inches from the front of the fuselage.
@@ -92,11 +92,11 @@ Runway lengths for all Dutch aerodromes can be found via the AIP:
 
 <https://www.lvnl.nl/diensten/aip?mark-word=eais>
 
-![Runway info](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-3c3c2f16a141.png)
+[![jv-media-4511-3c3c2f16a141.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-3c3c2f16a141.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-3c3c2f16a141.png)
 
 Cessna publishes the basic required take-off and landing distances in the POH (Pilot Operating Handbook):
 
-![POH table](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-a2c21758e721.png)
+[![jv-media-4511-a2c21758e721.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-a2c21758e721.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-a2c21758e721.png)
 
 These values assume perfect conditions: zero wind, ideal temperature, dry asphalt runway.  
 Because this rarely happens, we apply penalties and always calculate using worst‑case scenarios.
@@ -139,7 +139,7 @@ Worst‑case thinking is essential.
 Always verify the Landing Distance Available (LDA) — the space between the white runway stripes.  
 Do not confuse this with TORA or TODA, which apply to take‑off.
 
-![LDA example](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-5504fbb0d635.png)
+[![jv-media-4511-5504fbb0d635.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-5504fbb0d635.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-5504fbb0d635.png)
 
 ### Runway surface conditions
 
@@ -157,7 +157,7 @@ If 1100 m is dry but 400 m is wet, the runway is considered wet.
 
 After lesson 2, I prepared a full fictional flight to practice all calculations:
 
-![Flight preparation](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-01f4cbc18e9e.png)
+[![jv-media-4511-01f4cbc18e9e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-01f4cbc18e9e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-01f4cbc18e9e.png)
 
 I used worst‑case values and rounded everything up when converting from feet to meters.  
 (Please ignore the handwriting 😄)

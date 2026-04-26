@@ -35,7 +35,7 @@ Runways are straight pieces of grass, asphalt or bitonimous where a plane can ta
 
 Runways have some characteristics which we should take into account before taking off and landing to make sure we can succeed or reject a take-off and that the runway is long enough for our plane to actually land.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-34dacf9974bd.jpg)
+[![jv-media-5041-34dacf9974bd.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-34dacf9974bd.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-34dacf9974bd.jpg)
 
 We have the following abbreviations:
 
@@ -116,7 +116,7 @@ GPS coordinates are made to navigate and pinpoint certain places in the world. I
 
 The equator and 0-meridian is the actual 0 point of earth. From there we look up the coordinates:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-fb2d5bbf32f2.png)
+[![jv-media-5041-fb2d5bbf32f2.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-fb2d5bbf32f2.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-fb2d5bbf32f2.png)
 
 For reference, the Netherlands lies between 50 and 54 degrees North, and 4 and 7 degrees East.
 
@@ -201,7 +201,7 @@ The equator is the only groot circle which also is a parralel
 
 There are also some meridianen which goes from north to south only, and so look like half-groot cirkels. These are comparable to the timezones
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-9ff27b26c605.png)
+[![jv-media-5041-9ff27b26c605.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-9ff27b26c605.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-9ff27b26c605.png)
 
 Earth turns 15 degrees per hour (1 degree per 4 minutes) so 3 degrees on the chart is 12 minutes
 
@@ -229,7 +229,7 @@ To calculate courses, deviation and variation, use this tool: <https://flighttoo
 2. **Magnetic north:** This is the north decided by earth's magnetic field. This changes over the years, and lies now somewhere in the north side of Canada (around 1100km from the true north)
 3. **Compass north:** This is the north displayed by your compass, which will be a minor correction to the magnetic north. The actual difference can be found on the calibration chart:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f106cb0eb53a.png)
+[![jv-media-5041-f106cb0eb53a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f106cb0eb53a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f106cb0eb53a.png)
 
 For the actual magnetic heading of 330 degrees, we have to steer 328 on the magnetic compass. This difference is mostly somewhere around 0 to 5 degrees.
 
@@ -252,13 +252,13 @@ We can make multiple calculations with these numbers:
 - Magnetic Heading - Deviation = compass heading
 - True Heading - Variation - Deviation = compass heading
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-6bf4e1f0a8a8.png)
+[![jv-media-5041-6bf4e1f0a8a8.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-6bf4e1f0a8a8.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-6bf4e1f0a8a8.png)
 
 This variates between west and east. We use the guideline: East = least (-) and West = best (+) but this only applies when going from magnetic to true/planned chart route.
 
 For true/planned chart route back to magnetic is the calculation reversed, we have to subtract west and add east. This is due to the slight west position of the magnetic course.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-99e5a7d0b1f3.png)
+[![jv-media-5041-99e5a7d0b1f3.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-99e5a7d0b1f3.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-99e5a7d0b1f3.png)
 
 1. **Course:** This is the direction you are planning to fly
 2. **Heading**: This is the direction your nose of the plane is pointing at, which han change due to wind
@@ -457,7 +457,7 @@ The plane only contains a directional-sensitive receiving system, in these 3 par
 - Control panel to tune the frequencies
 - Indicator
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f63acaa13cbf.png)
+[![jv-media-5041-f63acaa13cbf.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f63acaa13cbf.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f63acaa13cbf.png)
 
 the ADF has three important buttons:
 
@@ -496,7 +496,7 @@ We have 2 types of ADF indicators:
 - Relative Bearing Indicator (RBI) (Left)
 - Radio magnetic indicator (RMI): This is a indicator that has a gyro in it and turns with the magnetic compass. This shows the actual QDM at any time. Ligher aircraft doesn't have a RMI.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-298aa6533d0f.png)
+[![jv-media-5041-298aa6533d0f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-298aa6533d0f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-298aa6533d0f.png)
 
 In the RMI, the green arrow is the QDM.
 
@@ -506,7 +506,7 @@ NDB beacons have a range of about 10-25 NM
 
 NDB beacons are "locators" and shows with a "L" on maps. SOmetimes they are used as approach locators.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-aaa75aaf91df.png)
+[![jv-media-5041-aaa75aaf91df.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-aaa75aaf91df.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-aaa75aaf91df.png)
 
 En route beacons could have a range up to 200 NM.
 
@@ -555,11 +555,11 @@ VOR navigates you to the magnetic north, so 0 degrees on the VOR radial is to th
 
 The instrument to use with VOR beacons is the Omni Bearing Indicator (OBI), which contains the CDI (needle) and the selector (OBS) to set the desired radial of the beacon. It also shows "From" and "To", to point out if you are flying to the beacon or flying away from it. Later more about that.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f61f8c2284d8.png)
+[![jv-media-5041-f61f8c2284d8.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f61f8c2284d8.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f61f8c2284d8.png)
 
 The horizontal needle represents the course/track to the beacon radial, where needle right means you are too much to the left. This is based on the view of the beacon itself. Each dot/stripe is 2 degrees off the selected radial (330 degrees in this case). The needle represents the track you must fly to get to the selected radial of the beacon.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-627742b1051a.png)
+[![jv-media-5041-627742b1051a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-627742b1051a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-627742b1051a.png)
 
 You will select 330 degrees if you want to overfly the beacon with a heading of 330 degrees. Its as simple as that. The from region will then be 330 + and -90 degrees and the to region 330 - 180 = 150 degrees, 90 + or - that number.
 
@@ -574,7 +574,7 @@ The to and from indicators are shown on the right side of the indicator and will
 
 As we then select the 180 degrees radial, the indicator will switch "To". We could also use the "from" course if we need to fly 240 degrees over the beacon and then for 10 miles further.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f642d8e3565f.png)
+[![jv-media-5041-f642d8e3565f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f642d8e3565f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-nav-5041/jv-media-5041-f642d8e3565f.png)
 
 #### Using the VOR navigation equipment
 

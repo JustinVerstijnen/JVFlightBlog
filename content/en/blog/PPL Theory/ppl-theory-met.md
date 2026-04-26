@@ -68,7 +68,7 @@ We also have an additional layer called the Ionosphere. This is a layer where ga
 
 This collective layer lays over the upper part of the mesosphere and thermosphere, residing between 60km and 500km altitude. However, its not classified as layer in our atmosphere but one with an important goal.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-fd6e081ed7df.png)
+[![jv-media-5661-fd6e081ed7df.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-fd6e081ed7df.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-fd6e081ed7df.png)
 
 The balloon in the stratosphere is obviously an AI error. :)
 
@@ -92,7 +92,7 @@ High pressure (H) and low pressure (L) areas are not absolute numbers, but relat
 
 When going up into the air, the air pressure will decrease like seen in the graphic below:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-f5f05dfafc9e.png)
+[![jv-media-5661-f5f05dfafc9e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-f5f05dfafc9e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-f5f05dfafc9e.png)
 
 For reference, we will use this numbers:
 
@@ -170,7 +170,7 @@ To summarize all these forms of transport:
 
 The greenhouse effect is an effect caused by sunlight going through the ozonelayer, which is a layer in the Stratosphere containing water vapor, and heating up the ozone layer.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-fd3b1cf9778e.png)
+[![jv-media-5661-fd3b1cf9778e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-fd3b1cf9778e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-fd3b1cf9778e.png)
 
 ---
 
@@ -186,7 +186,7 @@ Water exists in the atmosphere in 3 types:
 
 The picture below shows all the phase transitions from ice, to water and or to steam:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-28be19d6dc44.png)
+[![jv-media-5661-28be19d6dc44.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-28be19d6dc44.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-28be19d6dc44.png)
 
 These terms will mean:
 
@@ -241,7 +241,7 @@ The dew point is an second temperature that is determined at the temperature and
 
 So the dew point tells us much more about the current air condition, and can be used to predict the height of cloud layers. Here I have a table that tells more about air temperatures and humidity and how it will actually feel:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-b7de56e7abee.png)
+[![jv-media-5661-b7de56e7abee.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-b7de56e7abee.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-b7de56e7abee.png)
 
 ### Vapor pressure (dampspanning)
 
@@ -296,7 +296,7 @@ As long as the air will not be saturated by water vapor, then this will be calle
 - When dry the temperature decrease for every **1000ft** in the air will be around **3 degrees** celcius.
 - When wet the temperature decrease for every **1000ft** in the air will be around **1,8 degrees** celcius
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5ce0bd173523.png)
+[![jv-media-5661-5ce0bd173523.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5ce0bd173523.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5ce0bd173523.png)
 
 At the moment the air hits the dew point, the air becomes saturated with moist, condenses and a cloud has been born. The cooling rate will also decrease because of the condensing process releases warmth. Check out [this moist lifecycle](#moisture). You can calculate the dew point height [with this formula.](#rule-thumb-dewpoint)
 
@@ -306,7 +306,7 @@ The temperature gradient is a bit different as ISA describes, because of these a
 
 To visualize this exactly, we have something called the "State curve", the graph of the actual representation of the temperature gradient.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e7bb3d8cf930.png)
+[![jv-media-5661-e7bb3d8cf930.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e7bb3d8cf930.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e7bb3d8cf930.png)
 
 This state curve can present 4 types of stability in the air:
 
@@ -329,7 +329,7 @@ When we speak of stability, the temperature of the atmosphere will cool down slo
 
 In a conditional instable atmosphere, the temperature gradient is between wet and dry adiabatic. Here the air is stable to call it a stable atmosphere but instable enough for a wet-adiabatic process. In the real world, this is the most happening situation.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-92d1662d2815.png)
+[![jv-media-5661-92d1662d2815.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-92d1662d2815.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-92d1662d2815.png)
 
 ### Processes that influence stability of the atmosphere
 
@@ -358,7 +358,7 @@ The main causes of this are that a cold surface will cool the air above it. With
 
 The movements in the atmosphere are primarily caused by pressure differences, which are caused by temperaturedifferences. In the tropical region, there is a lot of sun during the year and gets a lot more sun than the artic regions. This creates a static pattern of air movements which is called the general circulation.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-43885c3f971d.png)
+[![jv-media-5661-43885c3f971d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-43885c3f971d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-43885c3f971d.png)
 
 At the equator, the strong sun radiation will cause rising air, and the pressure at the ground decreases. In this ring of low pressure, called the intertropical convergention zone (ITCZ), warm moist air will rise and flows at great altitude to the north and south. After cooling and becoming dry, this dry air falls back to earth at the subtropicals, which are around 30 degrees north and south latitude. This is the line of the Saharas, canaries.
 
@@ -373,7 +373,7 @@ The air pressure at all places around the world is measured by weather stations.
 - **QNE:** QNE is when we set 1013 on our altimeter. Basically the pressure altitude, which we use to fly Flight Levels
 - **QFE**: Actual pressure on the field, being 1000ft above ground level means actually 1000ft in the air
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-767361bad946.png)
+[![jv-media-5661-767361bad946.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-767361bad946.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-767361bad946.png)
 
 As we can see on the map, the world contains a lot of low and high pressure areas. The "H" or "L" is pointed at the center, or the highest or lowest pressure point of the area.
 
@@ -383,19 +383,19 @@ The curved lines you see are **Isobars**, which are lines with matching air pres
 
 A High pressure area always have a **ridge** (rug) which is a extension of the high pressure area and looks like this:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-8ed01d55958c.png)
+[![jv-media-5661-8ed01d55958c.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-8ed01d55958c.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-8ed01d55958c.png)
 
 ### Low pressure area outline
 
 A low pressure area has a **trough** (trog) and means the extension of the low pressure area, again where the center of the areas at the "L" represents the area of lowest pressure:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-3c838c2d3c57.png)
+[![jv-media-5661-3c838c2d3c57.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-3c838c2d3c57.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-3c838c2d3c57.png)
 
 ### Cols
 
 A col (zadelgebied) is an area that is surrounded by multiple high or low pressure area's. In this area's the pressure differences are small. In the chart below, we could see some cols :
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-767361bad946.png)
+[![jv-media-5661-767361bad946.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-767361bad946.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-767361bad946.png)
 
 - Argentina
 - Around Los Angeles
@@ -410,7 +410,7 @@ A low pressure area is an area with closed isobars where at the center is the ar
 
 A result of the lower air pressure is, because high pressure areas will always flow to low pressure (bicycle tire), that at the ground the air will move to the center of the low pressure area. This process is called **convergence**.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-16075379c26f.png)
+[![jv-media-5661-16075379c26f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-16075379c26f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-16075379c26f.png)
 
 Other words for low pressure area's are:
 
@@ -432,13 +432,13 @@ The cause of this difference is the Corioliseffect, a result of the globe which 
 
 In an high pressure area the pressure at ground level is higher than in the direct area. High pressure areas occur in the general circulation like the Azores islands (West to Spain). High pressure areas can also occur above a cold ground mass. This is called a **thermal** high pressure area. As the atmosphere cools down, the colomn of air will shrink and air will **converge** at high altitude. This makes the mass of air heavier and the result of this is the mass of air falling down (**subsidence**) to the ground. A high pressure area is now born.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-513d50a5aebf.png)
+[![jv-media-5661-513d50a5aebf.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-513d50a5aebf.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-513d50a5aebf.png)
 
 During subsidence, the falling air will heat up and will clear out clouds. Generally there is better weather in a high pressure area than there is in a low pressure area, but this is no warranty.
 
 Subsidence can also cause an inversion, which happens a lot. The inversion will stabalize the atmosphere, stopping the vertical movement of air. The result is that water vapor, dust, sand or other air-pollution can not go anywhere and hangs at low altitude. A great example is haze or smog in big cities with warm weather during a high pressure area:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-36afb27c4e8f.png)
+[![jv-media-5661-36afb27c4e8f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-36afb27c4e8f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-36afb27c4e8f.png)
 
 At the globe, the movement of air in a high pressure area can defer:
 
@@ -498,7 +498,7 @@ This will actually say nothing about the wind speed, only the direction.
 
 The coriolis effect is a result of curvy winds as result of the rotation of the earth. This effect has the most presence at the poles and the less at the equator. This happens as air travels to the poles, but the turning speed there is much slower than on the equator.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-94bd5f171016.jpg)
+[![jv-media-5661-94bd5f171016.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-94bd5f171016.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-94bd5f171016.jpg)
 
 - Cause: The Coriolis force is caused by the rotation of the Earth. Moving air appears to be deflected because the Earth rotates beneath it.
 - Direction of deflection
@@ -511,7 +511,7 @@ The coriolis effect is a result of curvy winds as result of the rotation of the 
 
 In this illustration, we can see several different details here about winds and high/low pressure areas. We will look at all details applying to the northern hemisphere. In the southern hemisphere, all details are reversed.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-47d5b7547349.png)
+[![jv-media-5661-47d5b7547349.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-47d5b7547349.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-47d5b7547349.png)
 
 This tool is called [Windy](https://www.windy.com/-Menu/menu?icon,51.204,7.398,7,p:metars).
 
@@ -521,7 +521,7 @@ This tool is called [Windy](https://www.windy.com/-Menu/menu?icon,51.204,7.398,7
 
 One fact applying to the whole earth is that areas with isobars close to each other represents areas of high wind speeds. Just look at cyclones which are a low pressure area (the L south west of Iceland):
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6ed18e878b5e.png)
+[![jv-media-5661-6ed18e878b5e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6ed18e878b5e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6ed18e878b5e.png)
 
 ### Massive wind patterns
 
@@ -533,7 +533,7 @@ Around the earth, we have various wind patterns that are happening on recurrence
 
 Fun fact, now you know where car brand Volkswagen got their names from :)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6176f76a1a9c.png)
+[![jv-media-5661-6176f76a1a9c.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6176f76a1a9c.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6176f76a1a9c.png)
 
 ### Small circulation patterns
 
@@ -551,7 +551,7 @@ We will now describe them all and look at their characteristics
 
 Seawind circulations occurs when a big temperature difference exists between sea water and land. The sun will heat up land way faster than sea water and the temperature above land will increase faster. Above land, the air will rise (Convection) and results in a thermal low air pressure area, because of the air expanding due to the heat.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-66a31ef439b7.png)
+[![jv-media-5661-66a31ef439b7.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-66a31ef439b7.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-66a31ef439b7.png)
 
 As the air pressure at sea becomes a bit higher and on land, a small wind will now occur. As we already know that air from a high pressure area will always flow to a low pressure area, sea wind is now created. The barrier between the cold sea-air and warm land air is called the seawind front.
 
@@ -570,7 +570,7 @@ We have 2 definitions to know here:
 - **Katabatic wind:** Descending winds from the tops to valleys (warm)
   - Also called the Leeward side (lijzijde)
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-a393dab83e44.png)
+[![jv-media-5661-a393dab83e44.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-a393dab83e44.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-a393dab83e44.png)
 
 At the Canary Islands, most islands have this as primary climate where at the north the clouds and precipitation comes to the islands but are held back by the mountains. At the south side of the islands, the weather is a lot better and more dry. To describe the full process:
 
@@ -607,7 +607,7 @@ This mass of air rotates under a horizontal axis and wind speeds can be massive.
 
 In dry air, this rotor is not visible, but with humid air they can cause rotary clouds. They look innocent but can blow with a lot of winds and cause severe turbulence. They look a bit like lenses of a camera.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-151b7d92c6bf.png)
+[![jv-media-5661-151b7d92c6bf.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-151b7d92c6bf.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-151b7d92c6bf.png)
 
 ### Venturi effect
 
@@ -644,7 +644,7 @@ Wind shears can occur at every altitude, but are the most dangerous above the gr
 
 You know, planes fly because they have a speed in the mass of air they are flying into. This is called the True Airspeed (TAS). If we have a ground speed of 70 knots and a headwind of 30 knots, the resulting TAS is 100 knots. If that headwind suddenly changes from 30 to 0 knots, our speed will decrease 30 knots. This causes our plane to create a lot less lift, resulting in a sudden descend. You can imagine as this happens feets from the runway, this can cause severe incidents.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-3e9ee0596073.png)
+[![jv-media-5661-3e9ee0596073.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-3e9ee0596073.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-3e9ee0596073.png)
 
 We speak of a low level windshear if this happends 1600ft AGL (500m) or lower.
 
@@ -735,7 +735,7 @@ Because of cold mass will be heated and warm mass will be colled down, this can 
 
 Clouds will occur when warm rising air is cooled down by adiabatic processes. By cooling down air, the water vapor will condensate to water which is the cloud itself and can be in the form of rain. Because warm air can hold more moist, all of this moist is colled down and a cloud is born.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-c99bf1110001.png)
+[![jv-media-5661-c99bf1110001.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-c99bf1110001.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-c99bf1110001.png)
 
 ### The condensation process
 
@@ -771,7 +771,7 @@ Every 400ft up, the temperature and dew point will come together by 1 degree cel
 
 As result of condensation of water vapor, there will be a lot water droplets (0,01 to 0,1 mm). These droplets will stay liquid if they stay above 0 degrees. Under 0, they can freeze but will most likely not be directly. Most water dropleys will freeze after being -12 degrees celcius, after being undercooled water. This is water that is under the freezing point, but not freezing because of moving or not enough oxygen.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-027c95e13bfe.png)
+[![jv-media-5661-027c95e13bfe.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-027c95e13bfe.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-027c95e13bfe.png)
 
 There are clouds like the cirrus which only are made of ice crystals because of the altitude where they reside. Water droplets and crystals are called **cloud elements**.
 
@@ -789,7 +789,7 @@ Clouds are categorized into 3 levels based on their altitude and they partly get
 
 Here I have generated a nice legenda which contains the most occuring types of clouds and their altitudes to better map them and give a better understanding than a table:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-bf0115cc34d1.png)
+[![jv-media-5661-bf0115cc34d1.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-bf0115cc34d1.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-bf0115cc34d1.png)
 
 A good rule of thumb is that Cumulus clouds are formed by convection (unstable atmosphere), and Stratus type clouds formed by stable atmosphere
 
@@ -801,7 +801,7 @@ To train my eye a bit better, I went through my picture gallery and searched if 
 
 Here I have a picture full of cumulus (stacked in Latin) clouds, everybody seen them a lot during summer days:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-55ee1eb0928d.jpg)
+[![jv-media-5661-55ee1eb0928d.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-55ee1eb0928d.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-55ee1eb0928d.jpg)
 
 Immediately gives away why they are called "cumulus". They are stacked/cumulative clouds.
 
@@ -809,7 +809,7 @@ Immediately gives away why they are called "cumulus". They are stacked/cumulativ
 
 Very boring rain clouds, which everybody seen a lot in their lives:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-aa5834c000f2.jpg)
+[![jv-media-5661-aa5834c000f2.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-aa5834c000f2.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-aa5834c000f2.jpg)
 
 Nimbostratus clouds can be present on any layer, but from the ground we see the lower part only. These are clouds which drop water and can be present in a warm-front.
 
@@ -817,7 +817,7 @@ Nimbostratus clouds can be present on any layer, but from the ground we see the 
 
 These clouds are called "stratus". This is latin for "layered".
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-eb7cf55039de.jpg)
+[![jv-media-5661-eb7cf55039de.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-eb7cf55039de.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-eb7cf55039de.jpg)
 
 This is a clear and big layer of the same level clouds in the low altitude region.
 
@@ -825,7 +825,7 @@ This is a clear and big layer of the same level clouds in the low altitude regio
 
 The altostratos is a combination of "alto" which means high altitude and "stratus" which means layered in Latin. This gives us high-layered clouds:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-512504e6bfce.jpg)
+[![jv-media-5661-512504e6bfce.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-512504e6bfce.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-512504e6bfce.jpg)
 
 Altostratus clouds are mostly present when a warm-front is near and coming.
 
@@ -833,7 +833,7 @@ Altostratus clouds are mostly present when a warm-front is near and coming.
 
 The altocumulus clouds are a combination of "alto" which means High and "cumulus" which means stacked in Latin. They look like this:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1bcd71165190.jpg)
+[![jv-media-5661-1bcd71165190.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1bcd71165190.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1bcd71165190.jpg)
 
 There are multiple types of clouds in this picture, but the most are altocumulus. These are the small clouds in groups. They can indicate some instability on medium height but are not a direct danger for flying VFR.
 
@@ -841,8 +841,8 @@ There are multiple types of clouds in this picture, but the most are altocumulus
 
 Cirrus means "hair" in Latin, and are the thin and high level clouds you see often during the summer. They are mostly ice crystals because of their high altitude.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-12fe28fb3ea0.jpg)
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1aee7e0235bc.jpg)
+[![jv-media-5661-12fe28fb3ea0.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-12fe28fb3ea0.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-12fe28fb3ea0.jpg)
+[![jv-media-5661-1aee7e0235bc.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1aee7e0235bc.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1aee7e0235bc.jpg)
 
 The so-called “chemtrails,” like seen in the picture above which are actually frozen water vapor resulting from aircraft burning fuel, are part of cirrus clouds.
 
@@ -850,11 +850,11 @@ The so-called “chemtrails,” like seen in the picture above which are actuall
 
 The mother of all clouds, present in all 3 layers and the most dangerous clouds for the ground and aviation are cumulonimbus clouds. These can span from around 1.000ft up to the end of the troposphere and are clouds containing thunder, heavy rain, heavy winds(shear) and hail.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-4b1806351e87.jpg)
+[![jv-media-5661-4b1806351e87.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-4b1806351e87.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-4b1806351e87.jpg)
 
 Here we have a big one, photographed from a plane at 37.000ft above Portugal in rain season. Not knowing about the dangers of this cloud type back then but thought it was really cool.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-41636b7324dd.jpg)
+[![jv-media-5661-41636b7324dd.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-41636b7324dd.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-41636b7324dd.jpg)
 
 This second one is from a summer evening with predicted thunderstorms within an hour, but no full view of the cloud like in the first picture. Such a pretty side view of the high cloud.
 
@@ -934,7 +934,7 @@ The Netherlands knows around 25 thunderstorm days per year, espexcially over lan
 
 Cumulonimbus clouds are built upon cumulus clouds in a unstable atmosphere which can continue to grow up. We have a towering cumulus cloud type, this is a beginning stage of a cumulonimbus (Cb) which can also be seen as altocumulus castellanus (Acc), which happens with instability on mid-level. This looks like this:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1abb1221efec.png)
+[![jv-media-5661-1abb1221efec.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1abb1221efec.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1abb1221efec.png)
 
 You will see in an nutshell where this name comes from, a castle wall.
 
@@ -956,7 +956,7 @@ A thunderstorm knows 3 stages:
 - **Mature stage**: At the mature stage, the cloud will pass over the 0 degrees celcius point up in the air and the cloud has merged. In this stage, you can expect heavy rain, hail and thunderstroms, and the cloud is a passage for heavy winds from up in the air which is called updrafts/downdrafts
 - **Dissipating stage**: At this stage, the downdrafts will be the boss and because of this, updrafts will be suppressed. This stops the vertical flow of warm humid air and this is the beginning of the end of the thunderstorm. The cloud will rain out till the water is depleted, but the top of the cloud (anvil) can exists for several hours after this, as this is a cirrus cloud, containing ice crystals
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-07e9f344e3de.png)
+[![jv-media-5661-07e9f344e3de.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-07e9f344e3de.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-07e9f344e3de.png)
 
 ### The weather during thunderstorms
 
@@ -1059,7 +1059,7 @@ We can have multiple types of fronts, as illustrated below. The most important t
 - Occluded front
 - Stationary front
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6c184276da40.png)
+[![jv-media-5661-6c184276da40.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6c184276da40.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-6c184276da40.png)
 
 Fronts mostly consists of these components:
 
@@ -1071,7 +1071,7 @@ Fronts mostly consists of these components:
 
 On charts, fronts will be indicated as lines with different symbols on them, mostly as seen in the picture above about fronts them selves.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-aaaea9f6b656.png)
+[![jv-media-5661-aaaea9f6b656.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-aaaea9f6b656.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-aaaea9f6b656.png)
 
 Note: the high level/upper air symbols will not be filled, so the middle should be white.
 
@@ -1081,7 +1081,7 @@ Warm air is lighter than cold air. The warm air mass will flow above the cold la
 
 As the rising movement of warm air to the surface front, this will cause condensation. This is the reason why the whole front contains closed clouds:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-8a87dd023dc9.png)
+[![jv-media-5661-8a87dd023dc9.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-8a87dd023dc9.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-8a87dd023dc9.png)
 
 Source: pilotinstitute.com
 
@@ -1100,13 +1100,13 @@ If the warm front arrives, you will start seeing some cirrus clouds, then some r
 
 A warm front is slow and therefore is a period with some days of no VFR flying.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-d80dc8577e28.png)
+[![jv-media-5661-d80dc8577e28.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-d80dc8577e28.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-d80dc8577e28.png)
 
 ### Layout of a cold front
 
 Cold air is more dense and heavier than warm air, which causes cold air to displace warm air first at the ground. Just like the warm front, the cold front will move in the direction of the cold air.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1ad87a734389.png)
+[![jv-media-5661-1ad87a734389.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1ad87a734389.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1ad87a734389.png)
 
 Source: pilotinstitute.com
 
@@ -1123,13 +1123,13 @@ A cold front tends to stay at ground level, pushing the warm and moist air up. T
 
 If a cold front arrived, the air pressure will drop, the wind will increase. Then the clouds will increase too.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-850944495f22.png)
+[![jv-media-5661-850944495f22.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-850944495f22.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-850944495f22.png)
 
 ### Stationary fronts
 
 Stationary fronts will stay at a certain position or will move very slowy. Sometimes even slower than 5 knots. There will be no movements, only parralel to the front. This can cause long periods of bad weather, due to the slow speed.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-89d2450486ed.png)
+[![jv-media-5661-89d2450486ed.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-89d2450486ed.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-89d2450486ed.png)
 
 Source: pilotinstitute.com
 
@@ -1145,7 +1145,7 @@ Occlusion is where a cold front catches up with a warm front. The warm air is fo
 
 A classic example is a mid-latitude cyclone over northwestern Europe. For instance, when an Atlantic low moves toward the UK or the North Sea, the faster-moving cold front can overtake the warm front. As the occlusion forms, people often experience a long period of thick cloud, persistent rainfall, falling visibility, and a noticeable wind shift.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-9c39160587b2.png)
+[![jv-media-5661-9c39160587b2.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-9c39160587b2.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-9c39160587b2.png)
 
 Then we can have cold front cllusions and warm front occlusions:
 
@@ -1166,7 +1166,7 @@ A frontal depression forms when cold polar air meets warmer air along the polar 
 
 The weather we can expect in a frontal depression is a warm front followed by a cold front.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5d1746f1c541.png)
+[![jv-media-5661-5d1746f1c541.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5d1746f1c541.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5d1746f1c541.png)
 
 ### Thermal depressions
 
@@ -1250,7 +1250,7 @@ We can use the following sources to get a good understanding of the weather duri
 
 Significant Weather Charts are published by the World Area Forecast Center in London or Washington and contain charts with detailed information. This information is encoded with different icons and have their own meaning.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e60ff74e9b05.png)
+[![jv-media-5661-e60ff74e9b05.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e60ff74e9b05.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e60ff74e9b05.png)
 
 Significant weather charts are meant for a great overview-forecast, especially when planning international flights. These show the flight levels FL100 to FL450
 
@@ -1258,11 +1258,11 @@ Significant weather charts are meant for a great overview-forecast, especially w
 
 The graphic low level forecast (GLLFC) is a combinaton of the low level significant weather chart for a Flight Information Region and winds/temperatures from ground to FL100.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5e48817f1556.png)
+[![jv-media-5661-5e48817f1556.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5e48817f1556.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-5e48817f1556.png)
 
 All the flags are windbarbs which show the wind direction and speed. It does it in this way:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1118c422340e.png)
+[![jv-media-5661-1118c422340e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1118c422340e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-1118c422340e.png)
 
 The max is three of the same filled symbol, with winds above 150 knots you should ask yourself if you even want to be outside.You can see this as a weather station with a banner, it always points to the direction of wind source.
 
@@ -1303,7 +1303,7 @@ This actually means this:
 
 That states a lot more; meaning a cold spring day with this weather:
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-d28f066dbefc.png)
+[![jv-media-5661-d28f066dbefc.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-d28f066dbefc.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-d28f066dbefc.png)
 
 Source: AMS Live on Youtube
 
@@ -1335,7 +1335,7 @@ METAR is actual measured weather with a trend and TAF is a forecast for the comi
 
 A SPECI is actually a intermediate METAR, published if any significant change was measured. On military fields, this color code is being used.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-ba535a1712a5.png)
+[![jv-media-5661-ba535a1712a5.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-ba535a1712a5.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-ba535a1712a5.png)
 
 ### TAFs
 
@@ -1393,8 +1393,8 @@ Visible light images give a great overview of the clouds. Thick clouds are light
 
 Infrared images will show the temperature of the clouds, where warm surfaces are darker and cold surfaces are lighter. Low clouds therefore are grey and high clouds are white.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-510d98972106.jpg)
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e86142fa40be.jpg)
+[![jv-media-5661-510d98972106.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-510d98972106.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-510d98972106.jpg)
+[![jv-media-5661-e86142fa40be.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e86142fa40be.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-e86142fa40be.jpg)
 
 Left: Infrared Right: Visible light
 
