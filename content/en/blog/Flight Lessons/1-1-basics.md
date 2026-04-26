@@ -150,7 +150,7 @@ During the walk-around we check:
 
 After confirming airworthiness, we proceed with engine start.
 
-https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4509-0afa8a350fd1.png
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-1-4509/jv-media-4509-0afa8a350fd1.png)
 
 Most training aircraft have a hot prop, meaning the propeller can start the engine if the magnetos are active. This is when the key is turned to R, L, Both or Start.  
 Therefore:
@@ -199,7 +199,7 @@ Before entering runway:
 
 Before flying circuits (Upwind, Crosswind, Base leg), it helps to understand the pattern:
 
-https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4509-f90ca74abc45.png
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-1-4509/jv-media-4509-f90ca74abc45.png)
 
 {{< ads >}}
 

@@ -43,11 +43,9 @@ At take-off, we use different speeds for different phases:
 
 These speeds are marked on the Garmin G1000 primary flight display:
 
-https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4498-1dbb77554412.png
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-4-4498/jv-media-4498-1dbb77554412.png)
 
 And they correspond to the take‑off phase like this:
-
-https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4489-ac78e0128a47.png
 
 During take-off:
 - We rotate at **Vr (55 kts)** to lift the aircraft off
@@ -134,7 +132,7 @@ We practiced creating standardized briefings following the principle:
 
 ## The flight details
 
-https://justinverstijnen.nl/wp-content/uploads/2025/09/jv-media-4498-393b981f138d.png
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-4-4498/jv-media-4498-393b981f138d.png)
 
 {{< ads >}}
 
