@@ -640,15 +640,97 @@ We call it an approach to stall when a stall is around the corner but not fully 
 
 Sympthoms of an approach to stall are:
 
-- Stall warning horn makes some noise
+- Stall warning horn rings
 - Buffeting, this is an aerodynamic clue that the plane is about to stall where the drag of the separation layer takes over the lift making the aircraft shake somewhat
   - This effect is not that audible on a Cessna 172
   - It does on low-wing aircraft like Piper, Diamond Aircraft or Cirrus types
 - Airspeed too low
 - Controls becoming sloppy -> lower airspeed means lower air and less "grip"
 
+We have two types of stall warnings on general aviation aircraft:
 
+- Electrical flapper
+- Underpressure horn
 
+Both systems relatively work the same, where both will sound an alarm if the stagnation point will shift more to the underside of the leading edge because of the critical AoA. The electrical flapper works on electricity and is more or less a button which must be pressed up. Is the button pressed, then the alarm will sound. The underpressure horn is mechanical and works at all times, by sounding the alarm if air is sucked through it.
+
+These alarms will sound in normal conditions, at around 5 to 10 knots prior to hitting the critical AoA. However, if dealing with ice build up on the wing, the wing will already stall before the alarm is sounded which makes this situation very dangerous. For more information about ice build-up, check out: [the meteorology page](https://flightblog.justinverstijnen.nl/ppl-theory-met/#ice-build-up-12).
+
+### Flight properties at a stall
+
+A nearing stall has some downsides to the controls of the plane. If one of the wings will stall prior to the other, then this will result in a wing dip and also in a spral dive if not corrected. To help pilots with controlling a plane that is about to stall, aircraft manufacturers have some design improvements done to the wings.
+
+- Washout: Sometimes a wing is somewhat twisted by design, where the angle of incidation at the root is bigger than on the tip. This causes the root to stall first leaving enough air to still control the aileron at the tip. This difference is mostly some degrees. This also creates that buffet effect on the stabilo where a pilot is alerted about a nearing stall without any electrical or mechincal parts working
+- Stall strip: This is a metal strip on the leading edge of the wing which also causes the wing root to stall earlier than the tip.
+
+### Stall prevention and recovery
+
+As we already discussed, a stall is caused by exceeding the critical AoA. To recover the stall, we need to minimize the AoA and so need to push the yoke forward.
+
+An aircraft has also some features to recover itself aerodynamically:
+
+- Backward movement of the pressure point
+- Decreasing the AoA of the stabilo
+
+The stabilo always has a smaller AoA than the wings. This is by design, so the pilot has elevator authority even at a stall of the wings. If the plane stops pitching up, the downwash of the wings will reduce also resulting in the stabilo to decrease its AoA.
+
+### Ice build up
+
+Ice can build up on the plane on the ground and during flight, when the air is saturated enough and also under the freezing point. If having ice on the wings and you are still on the ground, do not take-off.
+
+Ice will build up on mostly the leading edges of the wings, horizontal and vertical stabilizer and on smaller parts like the pitot tube and antennas. Even a small layer of ice can reduce lift by up to 50% and increasing drag by up to 100%. This because the friction drag is increases and this will influence the boundary layer.
+
+In short, no flights if having ice on the plane.
+
+### Spins
+
+During a stall the plane can roll. This roll movement can have different causes like propellor slipstream, turbulence or minor differences in the wings or plane shape.
+
+Because of the roll movements the AoA of the descending wing will increase. As the wing is already stalled the lift will decrease with the result the roll movement will be enhanced and another decrease of lift. When in a stall, roll movements will not be silenced like in normal flight. This roll momement is called a wing dip.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0272ad0afc38.png)
+
+A plane has some side-effects when controlling. If steering with the yoke to roll, some yaw is a side effect. If controlling the rudder to yaw, then rolling is a side effect because of the differences in drag and lift.
+
+In a spin these movements will stay and this situation is called autorotation. The result of this is a downward spin flight or in short a spin.
+
+#### Phases of a spin
+
+The spin can be divided into three phases:
+
+- Wing dip: One of the wings dip because of a stall
+- Incipient spin: This is the first 1 to 3 rotations where the nose also dips and a spin is imminent if not corrected by the pilot
+- Developed spin: Here the plane has all its momentum to keep spinning, the airspeed looks low that this phase but the descending speed is very high
+
+#### Spin recovery procedures
+
+We can recover from spins safely if we have the altitude:
+
+Recovery from wing dip
+- Opposite rudder to level off the plane
+- Unload the wings by pushing the yoke forward
+- Level off using the yoke
+
+Recovery from fully developed spin
+- Close the throttle to not be sucked into the spin, this decreases aerodynamic forces on the plane
+- Ailerons neutral, keep them level
+- Full opposite rudder as your spin direction
+- Steer level
+- If the spin has stopped stop rudder input and pull out of the dive
+
+As we already saw in the flight lessons of stalls, we must never use ailerons to get out of a stall. This makes a difference in the AoA of the ailerons making the situation even worse.
+
+### Spiral dive
+
+A spiral dive looks similar to a spin but in a spiral dive there is no stall active. In a spiral dive the AoA is small at a high and increasing speed.
+
+The spiral dive can occur when making a steep turn of 45 degrees or more to correct for a low pitch by pulling on the yoke. The nose will hardly rise and the turn will be tighter causing the nose to drop even more. The speed will increase in this situation.
+
+To recover from a spiral dive:
+
+- Close the throttle to not be sucked into the spin, this decreases aerodynamic forces on the plane
+- Level the plane with the ailerons -> because of the high airspeed you have a lot of aileron authority because of the loads of air
+- Pull up from the dive
 
 {{< ads >}}
 
