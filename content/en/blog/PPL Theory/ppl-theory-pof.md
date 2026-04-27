@@ -732,6 +732,68 @@ To recover from a spiral dive:
 - Level the plane with the ailerons -> because of the high airspeed you have a lot of aileron authority because of the loads of air
 - Pull up from the dive
 
+---
+
+## Aircraft Controls (5)
+
+The movements of an aircraft can be defined using these three imaginary axis':
+
+[![jv-media-5667-0df188a59921.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0df188a59921.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-0df188a59921.png)
+
+All these axis' come together at the center of gravity of the plane. To put all effects and controls in a table including the dutch translations:
+
+| Axis | Axis (dutch) | Effects | Effects (dutch) |
+| --- | --- | --- | --- |
+| Longitudinal axis | Langsas | Roll | Rollen |
+| Vertical axis | Topas | Yaw | Gieren |
+| Lateral axis | Dwarsas | Pitch | Stampen |
+
+### Primary Flight Controls
+
+These effects and axis' are primarily controlled by the primary flight controls:
+
+- Roll: Ailerons
+- Yaw: Rudder
+- Pitch: Elevator
+
+All of these controls work similar. They change the camber (welving) of the wing or elevator. One of those controls in downward position means an increase of lift, where a upward position means a decrease of lift. It just changes how the air flows around.
+
+[![jv-media-5667-b0c3721eeaf3.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-b0c3721eeaf3.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-b0c3721eeaf3.jpg)
+
+If we look at the ailerons, we can see that they also change the wing’s angle of attack. As a result, the chord line tilts slightly, causing the aircraft to roll. On most aircraft, the ailerons are located near the tips of the wings. This is related to the moment arm: the farther they are from the fuselage, the less control force is needed to produce the rolling motion.
+
+### Side effects
+
+- Rolling is yawing
+- Yawing is rolling
+
+These controls are not completely separated from each other. For example, if we only steer with the rudder, the plane will also roll. This is because the outside wing will produce more lift as result of the higher speed. A rolling effect will be felt and seen.
+
+The other way around, if we only steer using the ailerons, then we can feel also a yawing motion. This is an result of the lift which now works from an angle. The incoming airflow hits the horizontal stabilizer under an angle getting a side-aerodynamic force resulting in a yaw towards the low wing.
+
+The plane wants to get the nose into the wind. This is what we call the weathercock effect.
+
+### Hook effect
+
+During a rolling movement the aileron of the upward wing will move down to create more lift. This also results in more drag. This extra drag results in the plane to yaw in that direction which is called the hook effect.
+
+To help reduce this hook effect, aircraft manufacturers apply these design-additions to the ailerons:
+
+- Differential ailerons: Here the movements of the ailerons are not in sync. The upward aileron had a bigger movement than the downward aileron. This gives both wings an equal amount of drag suppressing this effect greatly.
+- Frise ailerons: These are constructed so the leading edge of the aileron will get some incoming air under the wing. This also gives both wings an equal amount of drag suppressing this effect greatly.
+
+
+
+
+
+
+
+
+
+
+
+
+
 {{< ads >}}
 
 {{< article-footer >}}
