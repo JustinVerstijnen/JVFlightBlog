@@ -782,14 +782,109 @@ To help reduce this hook effect, aircraft manufacturers apply these design-addit
 - Differential ailerons: Here the movements of the ailerons are not in sync. The upward aileron had a bigger movement than the downward aileron. This gives both wings an equal amount of drag suppressing this effect greatly.
 - Frise ailerons: These are constructed so the leading edge of the aileron will get some incoming air under the wing. This also gives both wings an equal amount of drag suppressing this effect greatly.
 
+The remaining effect can be adjusted by steering with your rudder. This is what we do in the cockpits.
 
+### Effects on controls and airspeed
 
+When the control surfaces (roeren) have more airspeed, the effectiveness (which we call authority) increases. As more air passes by over the control surfaces, it has more to make their movements. This is the same reason as why on lower speeds you need to do bigger steering actions.
 
+The elevator and rudders exist in the slipstream of the propellor, so the effectiveness of these tail controls are also dependent on the engine RPM. Not only the airspeed, as on higher RPMs the propellor rotates a lot faster.
 
+#### Influence of Engine RPM on pitch
 
+The engine RPM also has influence on the effectiveness of the stabilizer controls. More RPM means a faster slipstream and a increase in downwash behind the horizontal stabilizer. If you increase RPM, the horizontal stabilizer will be pushed downward which increases the nose pitch. Decreasing RPM does the complete opposite, lowering the nose and increasing the horizontal stabilizer.
 
+This is a design requirement for all planes; the nose must be going down after decreasing engine RPM to hold a specific speed. This prevents a unpredicted stall.
 
+### Mass balancing
 
+The construction of an aircraft has a good flexibility and can deflect some during aerodynamic forces. If a wing bends downward because of turbulence, the aileron will be somewhat behind because of mass slowness and results in the wing pushed even further downward.
+
+In the process of mass balancing, sometimes there are placed some small parts of metal in various places on the plane to ensure both sites are of equal weight. This decreases things like flutter which is an aerodynamic unbalance and can break an aircraft in seconds. This is always done in the section before the Vne speed, which is the Never Exceed Speed (160+ knots on a Cessna 172).
+
+### Aerodynamic balancing
+
+Any of the control surfaces will pick an attitude which is level with the incoming airflow. To actually steer an aircraft, the pilot must win this incoming airflow by putting more force into the controls. In the factory, aircraft manufacturers apply some tricks on the airplanes to keep the controls into balance. One of the things on a Cessna 172 to achieve this aerodynamic balance in the controls is a horn balance. This is this part of the elevator:
+
+[![jv-media-5667-f66a7ec8718e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f66a7ec8718e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f66a7ec8718e.png)
+
+Aerodynamic balance can be seen as powered steering in cars. They make the steering process a bit better, decreasing the change of flutter.
+
+### Trim surfaces
+
+A plane also has some trim surfaces which are mostly controlled using a trim wheel in the cockpit The movements of this wheel corresponds with the movement of the yoke.
+
+These are two types of adjustable parts of control surfaces to further enhance flights:
+
+- Adjustable trimming surfaces: These can be adjusted during flight to keep a plane straight and level
+- Balancing trimming surfaces: These can only be adjusted on the ground and mostly by the aircraft manufacturer
+
+Trimming surfaces are so small parts of moveable control surfaces at the end of that surface. These can be set in a specific way, so the pilot doesnt need to apply forces on the yoke at all times.
+
+For example, the Cessna 172 has a adjustable trim surface on the elevator. With this surface, we have a small part of the big elevator which can be controlled to stay in a desired position. This only controls the pitch axis.
+
+[![jv-media-5667-6421edca11d0.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-6421edca11d0.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-6421edca11d0.png)
+
+This small part changes the camber of the elevator, where the elevator surface controls the camber of the horizontal stabilizer itself. By setting the trim there will be some camber at the backside of the elevator. This small setting is enough to keep the elevator in a fixed position. All of this is done using aerodynamic forces, so that is the reason the position of this trim is completely the opposite of the elevator itself. At take-off we set this small surface level with the elevator.
+
+[![jv-media-5667-1b7547187672.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-1b7547187672.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-1b7547187672.png)
+
+This trim in a Cessna 172 is controlled using a trim wheel in the cockpit.
+
+#### Ground adjustable trims
+
+A plane sometimes also has some ground adjustable trims, like the bottom corner of the rudder. If the plane has a few grams offset, these can be bent to make them aerodynamically stable.
+
+Some planes also have balance-surfaces which reduce the force needed to steer the aircraft. This is the complete opposite of the trim, where the balance surface does exactly what the elevator itself does, sometimes even with a bigger steering effect.
+
+### Flaps
+
+Flaperons (kleppen) are meant to alter the flying properties at lower speeds. These are surfaces at the trailing edge of the wings. They work basically by changing the camber of the wing somewhat, where they increase lift and drag. This makes flying at lower speeds possible during take-offs and landings.
+
+Flaps are often mechanically or electrically and are measured in how much degrees difference they offset from the angle of incidation of the wing.
+
+Flaps have some pro's in using them:
+
+- The lift coefficient shift up and somewhat to the left, making the stall speed lower
+- The critical AoA increases a little with flaps extended, this is because of the extra drag
+- Flaps increase drag, and slows the aircraft down
+- Flaps help to see the runway much better during landings as the AoA is lower
+- The stagnation point of the wing shifts somewhat backwards
+
+#### Types of flaps
+
+Historically multiple types of flaps has been tested and the most used types are these:
+
+- **Plain flaps** : Mostly used on weight reduced planes like bush planes and is a plain part that pushes downwards
+- **Split flaps** : Old technique where the trailing edge of the wing actually splits. The legendary DC-3 has them for example
+- **Slotted flaps** : Similar to a plain flap but incorporates a gap between the flap and the wing to force high pressure air from below the wing over the upper surface of the flap. Used on most general aviation aircraft like Cessna 172
+- **Fowler flaps** : Extended out of the wing and pushed downward. Used the most on traffic jets (A320/A330/A350, B737, B777, B787)
+
+[![jv-media-5667-c0d111fefaa7.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-c0d111fefaa7.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-c0d111fefaa7.png)
+
+### Operational use of flaps
+
+We generally use flaps in the take-off and landing phases of flight where these have advantages.
+
+**During take-offs**
+
+- Decrease of ground roll
+- Increase in lift, slight increase of drag
+
+After taking off, we set them very fast to 0 as because of the increased drag, we will achieve lower speeds.
+
+**During landings**
+
+- Decrease of stall speed
+- Lower pitch attitude
+- Steeper approach and better obstacle clearance
+- Higher drag means a better round out above the runway
+
+### Leading edge flaps (Slats)
+
+Slats have the exact same purpose as flaps, increasing the lift coefficient making lower speeds possible. They are installed on the leading edge of the wings instead of on the trailing edge. They are always combined with flaps settings to prevent any assymmetry from happening.
+
+Slats also help increasing the critical AoA where flaps only decrease them but help to fly at lower speeds. Slats are mostly used on bigger commercial jets and bigger general aviation aircraft.
 
 
 
