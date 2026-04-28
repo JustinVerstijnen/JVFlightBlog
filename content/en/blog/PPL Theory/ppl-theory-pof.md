@@ -886,6 +886,117 @@ Slats have the exact same purpose as flaps, increasing the lift coefficient maki
 
 Slats also help increasing the critical AoA where flaps only decrease them but help to fly at lower speeds. Slats are mostly used on bigger commercial jets and bigger general aviation aircraft.
 
+### Turning
+
+According to Newton's first law, an object without any forces will move in a straight line with a certain speed. Making a turn thus needs a net force. The net force on an object is the sum of all forces acting on it.
+
+"An object at rest stays at rest, and an object in motion stays in motion at a constant velocity, unless acted upon by a net external force."
+
+This force will work right onto the movement direction of an airplane and because every turn will be part of a circular movement, the required force will point to the middle of the circle. This force is called the centripetal force (middelpuntzoekende kracht).
+
+[![jv-media-5667-fed91c70a19f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-fed91c70a19f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-fed91c70a19f.png)
+
+This centripetal force is a result of the horizontal component of the lift which occurs when the plane banks into a turn.
+
+#### Balance of force in turns
+
+If a plane turns in an incorrect manner, there will occur a situation where there is no balance between the vertical forces. The gravity will stay in a straight line to the earths surface but the vertical component of the lift is tilted (to the turning side) because of the turn. This vertical lift component is now smaller than the gravity, making the plane go down. This is why a plane needs some back pressure on the yoke in turns, which increases some lift to compensate and recover the balance between lift and weight.
+
+To get a better view of this occurence:
+
+[![jv-media-5667-6438a4e1a8af.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-6438a4e1a8af.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-6438a4e1a8af.png)
+
+#### Rate of turns
+
+The speed of how we fly a turn is called the "rate-of-turn". This is measured in the amount of degrees change per second. The most important one is a **Rate one turn** which is 3 degrees per second and costs 2 minutes for a full circle. You can calculate the amount of degrees needed to bank with this formula:
+
+- Bank angle for rate one = TAS in knots : 10 + 5
+
+As we can see, the airspeed is a dependency on the bank angle. Let's say, we fly at 135 knots and want to make a rate one turn:
+
+- 135 : 10 + 5 = 18,5 degrees bank angle
+
+Some other examples:
+
+- Cessna 172: 95 : 10 + 5 = 14,5 degrees bank angle
+- Airbus A320: 235 : 10 + 5 = 28,5 degrees bank angle
+
+The fun fact is, the only two dependencies are the airspeed and the bank angle. If you want to fly a turn slower, decrease your airspeed. If you want to complete a full circle faster or in a more narrow area, increase the bank angle.
+
+### Turn coordination
+
+During a turn there will be some yawing motion. The nose will also turn in the direction of bank. If the yaw-speed is correctly and in sync with the bank angle we speak of a coordinated turn. A situation where the incoming airflow is coming straight from the front, seen from the cockpit.
+
+If this is not the case, we have two other options:
+
+- Slipping turn: The nose falls behind when not enough rudder input is given
+- Skidding turn: The nose is in front when giving too much rudder input
+
+[![jv-media-5667-95cd1e171cfd.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-95cd1e171cfd.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-95cd1e171cfd.png)
+
+In the cockpit we have the turn coordinator which works with a gyro, telling us exactly how much rudder input the plane needs. The keyword here is: *"Step on the ball"*, meaning to press the pedal at the side of the ball just to keep it in the middle.
+
+---
+
+## Load factor during maneuvers (6)
+
+The construction of an aircraft needs to be solid enough to catch all forces, both on the ground and in the air. The aircraft parts need to be strong enough to carry its weight on the ground, especially at harder landings. In the air, the plane also needs to be strong enough to withstand some maneuvers like:
+
+- Turns
+- Turbulence
+- Dive flights (aerobatics)
+
+During the design of an aircraft, manufacturers takes the expected load factors into account. The load that an aerobatic plane gets is of course much higher than a Cessna 172. Under static strength of an aircraft we think of the force or load the construction can have once without breaking. If an aircraft is under load for multiple times there can happen some metal fatigue, permanently weaken the construction. During the walk around, this is one of the visually things to check on an aircraft:
+
+- Cracks
+- Wrinkled paint job
+
+[![jv-media-5667-3d76040f0c8b.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-3d76040f0c8b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-3d76040f0c8b.png)
+
+The maximum load factor which the plane must withstand is called the **limit load**. This possible load factor number is the force a plane with an undamaged construction can have. Under this number, some part smay temporarily bend like the wings but the flight properties may not be influenced.
+
+### Load factor numbers
+
+The static strength of an aircraft is measured in G-force, where a plane on the ground is always 1G, or 1x the mass.
+
+Again, here we have some numbers where we describe the load factor and increase of stall speeds in different turns:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Load factor | 1 | 1,15 | 1,4 | 2 | 3,9 |
+| Increase in stall speed | 0% | 7,5% | 19% | 41% | 97% |
+
+Now we have some extra numbers for different category airplanes:
+
+| Category | Positive load | Negative load |
+| --- | --- | --- |
+| Normal | + 3,8 G | - 1,52 G |
+| Utility | + 4,4 G | - 1,76 G |
+| Aerobatic | + 6,0 G | - 3,00 G |
+
+Always refer to your planes POH for the actual numbers, the numbers above are generally for aircraft categories. Different planes are certified for different amount of forces.
+
+#### G force factors
+
+Planes are mostly designed to carry positive lift, so the positive G force numbers are higher than the negative numbers. During negative G forces, all parts are loaded downward but planes are actually designed to fly upward.
+
+### The Load factor diagram
+
+The load factor diagram  shows at which speeds a specific aerodynamic load is pushed on the plane. The load factor as we already know is a ration between lift and weight so these numbers influence the load factor. To be careful enough we need to take both numbers into account.
+
+[![jv-media-5667-8560e02bdab6.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8560e02bdab6.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8560e02bdab6.png)
+
+At higher speeds we can produce more lift, so the lift number goes up at higher speeds. The Va speed is the maneuvering speed of an aircraft, which is around 103 knots in a Cessna 172. This is the speed where full inputs can be given to the plane without overstressing the plane. The Vne speed is the Never Exceed speed and is the red line on the airspeed indicator.
+
+The non colored parts of the graph are outside the stall limits no are aerodynamically not reachable. As you can see is the most change of overloading the aircraft at higher speeds.
+
+When a plane flies at 87 knots for example, a pull on the yoke will result in the plane first loaded to 2G and then in a stall as it comes outside of the green area. At an speed of 120 knots and higher with a Cessna 172 its possible to reach the limit load factor. But this can be reached earlier in the envelope if the plane has more weight. This is described by the second law of Newton: "The acceleration of an object depends on the net force acting on it and the mass of the object."
+
+---
+
+## Aerodynamics of propellors (7)
+
+
 
 
 
