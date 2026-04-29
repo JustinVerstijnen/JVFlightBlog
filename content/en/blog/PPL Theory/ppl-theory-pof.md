@@ -115,7 +115,14 @@ Check out this tool to calculate and visiualize Pressure/Density altitude: <http
 
 ## Lift (2)
 
-Lift (draagkracht in Dutch) is a component that keeps a plane in the air. This is the upward force that fights the gravity/weight of the plane. It works basically as the wind flows over and under the wing. As the air over the wing goes faster and under goes slower, it will combine at the end of the wing. We can explain why an aircraft flies because of 2 elementary laws:
+Lift (draagkracht in Dutch) is a component that keeps a plane in the air. This is the upward force that fights the gravity/weight of the plane. It works basically as the wind flows over and under the wing. As the air over the wing goes faster and under goes slower, it will combine at the end of the wing.
+
+The two primary causes of lift are:
+
+- Pressure differences: under the wings the air pressure increases, wanting to go to the low pressure area above the wing
+- After the trailing edge of the wing, the air goes down, under the wing the air goes up
+
+We can explain why an aircraft flies because of 2 elementary laws:
 
 | Law | Definition |
 | --- | --- |
