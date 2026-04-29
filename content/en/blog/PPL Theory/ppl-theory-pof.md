@@ -996,7 +996,40 @@ When a plane flies at 87 knots for example, a pull on the yoke will result in th
 
 ## Aerodynamics of propellors (7)
 
+Obviously the job of the propellor is to convert engine power into thrust. Thrust is forward power of the plane which also can be helpful turing climbs. The propellor of the plane is directly connected to the crank-shaft (krukas) or indirectly with a gearbox.
 
+Most planes in general aviation have 2 to 4 propellor blades and can contain up to 7 in some cases, but 2 to 4 are the most generic options. The blades are often made of aluminum or carbon fiber and meet each other at the hub, where the propellor is connected to the crank-shaft. The part on top of the propellor is called the spinner, which makes the propellor aerodynamically streamlined.
+
+Propellors of a fixed pitch propellor plane are often twisted at the center. This is done to make the AoA of the propellor in the incoming air the same for the whole blade. The center part gets less air, so get a higher AoA. Exactly the same principle as the wing and the flaps as we already know. This is called **propellor wrong**.
+
+The spinner is streamlined for better aerodynamic performance but also is used to steer air into the air-inlets to cool the engine. Very clever designing.
+
+### How a propellor works
+
+The propellor works almost the same as a wing. They also have incoming air and the blades making an AoA relative to the incoming airflow. The propellor then causes a resulting air force. This force can be divided into:
+
+- Thrust: Straight and forward power
+- Drag: Drag of the propellor
+- Resultant aerodynamic force: The two forces of forward and drag means a resulting force that is somewhere between those two axis, totally dependent on the pitch of the nose
+
+### Propellor blade angle
+
+The blade angle of a propellor is the angle between rotation-axis and the chord of the blade.
+
+The pitch of the propellor is the theoretical distance the propellor covers in one rotation:
+
+- Small blade angle: Fine pitch
+- Big blade angle: Coarse pitch
+
+The blade angle of a propellor is similar to the angle of incidence on a wing.
+
+### Propellor Angle of attack
+
+The angle of attach of a propellor blade is the angle between chord and incoming air. Just like a wing. A plane who is standing still on the ground, the AoA is equal to the blade angle as there is not that much incoming air. If the plane moves forward, more air will come in from the front. The angle of attack decreases in this case.
+
+At an increasing forward movement speed the AoA will be 0 or even negative. The propellor doesnt produce thrust anymore.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f2c5ebd9761c.png)
 
 
 
