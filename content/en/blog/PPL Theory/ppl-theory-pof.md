@@ -1034,11 +1034,25 @@ The blade angle of a propellor is similar to the angle of incidence on a wing.
 
 The angle of attach of a propellor blade is the angle between chord and incoming air. Just like a wing. A plane who is standing still on the ground, the AoA is equal to the blade angle as there is not that much incoming air. If the plane moves forward, more air will come in from the front. The angle of attack decreases in this case.
 
-At an increasing forward movement speed the AoA will be 0 or even negative. The propellor doesnt produce thrust anymore.
+At an increasing forward movement speed the AoA will be 0 or even negative. The propellor doesn't produce thrust anymore.
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f2c5ebd9761c.png)
 
+### Propellor Wrong
 
+The propellors of fixed pitch propellor planes like the Cessna 172 are slightly wronged. This means the root of the propellor has a bigger AoA than the tips. As the whole propellor rotates, the tip will cover a much bigger distance than the root of the propellor. This results in less air picked up. To compensate for that effect, the AoA is higher at the root of the propellor to span the thrust over the whole blade. If these are not wronged then the propellor will be working very inefficiently.
+
+### Fixed pitch propellor RPM
+
+In fixed pitch propellor planes like the Cessna 172, the RPM of the engine is equal to the RPM of the propellor. The AoA of an propellor is the highest when standing still on the ground. At a high AoA, the drag is also much bigger making full throttle exercises not very dangerous for the engine.
+
+When flying the propellor produces forward motion (thrust) the AoA will decrease. This also results in a lower drag making the propellor spin slightly higher. Theoretically you can't exceed the engine rpm limits on the ground, only in the air because of this. This phenomenon is also to be seen during flights. When the pitch attitude is higher, the engine RPM will decrease. When descending, the RPM will decrease. During descends we also draw the power back. The much lower drag and the extra downward thrust you otherwise get can reach high speeds in seconds.
+
+### Propellor windmilling
+
+When the forward speed increases, the AoA of the propellor will decrease. At a certain rotating speed the AoA becomes zero and no thrust will be produced by the propellor at that point. If the speed increases even more than that, the propellor AoA will be negative; the propellor produces drag instead of thrust.
+
+The propellor stays rotating because of the incoming airflow, making it a flying windmill. At an engine failure, the propellor will also continue to rotate. 
 
 {{< ads >}}
 
