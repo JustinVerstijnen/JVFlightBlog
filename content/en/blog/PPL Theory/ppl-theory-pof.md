@@ -1025,8 +1025,8 @@ The blade angle of a propellor is the angle between rotation-axis and the chord 
 
 The pitch of the propellor is the theoretical distance the propellor covers in one rotation:
 
-- Small blade angle: Fine pitch
-- Big blade angle: Coarse pitch
+- Small blade angle: Fine pitch -> Optimal for climbing
+- Big blade angle: Coarse pitch -> Optimal for cruise
 
 The blade angle of a propellor is similar to the angle of incidence on a wing.
 
@@ -1056,7 +1056,69 @@ The propellor stays rotating because of the incoming airflow, making it a flying
 
 ### Engine power to thrust conversion
 
+The power a propellor gives is dependent of the forward speed. Power x speed. If a plane is standing still with a rotating propellor, trust is produced but the power is 0. At an increasing forward speed the power is also increasing, till the limit is reached. As we just learned that the AoA decreases at higher speeds, the thrust will eventually also be decreased.
 
+If we make a relational graph with the power and speed, the curve will be increasing till the point where the AoA is zero. The power will then just like the lift coefficient drop very vast.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9549f533bc19.png)
+
+This is the case for a fixed pitch propellor which only produces optimal thrust during a certain speed, dependent on the construction of the propellor. It works good during or climb or cruising but never both.
+
+- Small blade angle: Fine pitch -> Optimal for climbing
+- Big blade angle: Coarse pitch -> Optimal for cruise
+
+### Constant speed propellor planes
+
+Aircraft manufactures thought of a clever idea to make propellors where the pilot can set the blade angle based on the flight phase, where they can decrease the AoA in climbing phases and increase the AoA during cruise to get the most out of the engine at all times. These planes are called constant speed propellors -> the propellors always rotate at a constant speed.
+
+This gives the pilot 3 handles instead of two. Next to a throttle and mixture they alsy get a blue for this cause. With that handle you can set a desired propellor RPM where you still control the fuel inlet pressure (manifold pressure) with the black throttle.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-506c2def841b.png)
+
+The graph shows that the line of a constant speed propellor is more flat and spanning the whole range. This means it can convert as much engine power to thrust as possible, and not only during climb or only during cruise.
+
+You can see the constant speed propellor just like switching gears in a car. You can switch gears at all times to make the fuel efficiency better but also get higher speeds when you most need them.
+
+### Propellor side effects
+
+The propellor is a great tool to produce straight forward motion called thrust. But the propellor also causes some aerodynamic side effects:
+
+- Slipstream effect: The effect that turns around the plane and pushes against the rudder
+- P-factor (assymmetric blade-effect): The assymmetric power the prop delivers at high angles of attack
+- Torque effect: The effect of the plane wanting to counteract the propellor movement
+
+Let's dive deeper into these three effects and how to take them into account as pilot and ultimately counteract them.
+
+#### Slipstream-effect
+
+The slipstream effect on single engine planes is caused by the right-rotating prop (seen from the cockpit). This slipstream rotates around the longtitudinal axis of the plane and hits the vertical stabilizer and rudder. During climbing situations, this results in a yawing motion to the left as the right-turning air hits the vertical stabilizer on the left side.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9eab604dddcc.png)
+
+Aircrafts are designed to somewhat suppress this effect by assymmetric stabilizers, setting this under a small angle or a small ground adjustable trim surface on the rudder.
+
+If we set a lower RPM, the slipstream becomes way less and then aircraft designs tend to yaw right. This is why we learn in single engine planes to counteract this effect as following:
+
+- High RPM: Right rudder
+- Low RPM: Left rudder
+
+> Think of: Low is Left or Left is Low.
+
+#### P-factor
+
+The P-factor or assymmetric blade-effect with right rotating prop as seen from the cockpit is caused when a propellor that rotates is not perpendicular (loodrecht) to the flying direction. The downward blade produces more thrust than the upward blade. At high angles of attack, the downward blade moves in the flying direction but the upward blade moves opposite to the flying direction. The downward blade gets a higher AoA where the upward blade AoA decreases, and as we just learned that a higher AoA procudes more trust, we get asymmetrical thrust. The actual result is the nose of the plane wanting to go left.
+
+This is the somewhat strange cause of why we need to give **right rudder** in a **left climbing** turn.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8c138ec02d36.png)
+
+#### Torque effect
+
+The torque effect is exactly how it sounds, a rotating propellor produces a torque/rotating effect. We have to agree with mr. Newton again because this is an effect of his 3rd law; "For every action (force) in nature, there is an equal and opposite reaction"
+
+The action is the propellor turning and the reaction is the fuselage of the plane wanting to roll left. This is mostly noticable during the take-off phase. The plane wants to roll left, resulting in more drag and force on the left wheel. The torque effect is therefore the same direction as the slipstream effect and increases the tendancy of the plane to go left.
+
+During take-offs or touch and go's, counteract by steering somewhat right with the rudder.
 
 {{< ads >}}
 
