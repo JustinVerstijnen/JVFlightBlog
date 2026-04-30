@@ -1052,7 +1052,11 @@ When flying the propellor produces forward motion (thrust) the AoA will decrease
 
 When the forward speed increases, the AoA of the propellor will decrease. At a certain rotating speed the AoA becomes zero and no thrust will be produced by the propellor at that point. If the speed increases even more than that, the propellor AoA will be negative; the propellor produces drag instead of thrust.
 
-The propellor stays rotating because of the incoming airflow, making it a flying windmill. At an engine failure, the propellor will also continue to rotate. 
+The propellor stays rotating because of the incoming airflow, making it a flying windmill. At an engine failure, the propellor will also continue to rotate. This windmilling effect causes some more drag. This extra windmilling decreases the glide angle and so gives you less gliding distance.
+
+### Engine power to thrust conversion
+
+
 
 {{< ads >}}
 
