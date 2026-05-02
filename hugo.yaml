@@ -91,8 +91,8 @@ params:
 
   version_menu: Releases
   archived_version: false
-  version: 0.14.3
-  versionWithBuildId: 0.14.3
+  version: 0.15.0
+  versionWithBuildId: 0.15.0
   github_repo: https://github.com/JustinVerstijnen/JVFlightBlog
   github_project_repo: https://github.com/JustinVerstijnen/JVFlightBlog
   github_branch: main
