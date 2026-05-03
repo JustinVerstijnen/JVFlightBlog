@@ -1207,6 +1207,12 @@ At lighter planes, this stability is reached by placing the wings under an angle
 
 Such dihedral is dependent of a slipping movement where the airflow comes at an angle. This can happen when a plane rolls, the AoA of the lower wing will increased and the higher wing decreased resulting in a recovery to wings level.
 
+### Dihedral effect
+
+A high-winger like a Cessna 172 has a better rolling stability than a low-winger like a Piper. The cause of this is in the behaviour of the crosswind-flow when a rolling motion.
+
+The crosswind-flow will be bent off by the fuselage. At a high-winger this results in a bigger AoA of the low wing. This results in more life, pushing the low wing up and be balanced again.
+
 {{< ads >}}
 
 {{< article-footer >}}
