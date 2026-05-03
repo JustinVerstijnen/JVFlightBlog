@@ -1108,7 +1108,7 @@ If we set a lower RPM, the slipstream becomes way less and then aircraft designs
 
 The P-factor or assymmetric blade-effect with right rotating prop as seen from the cockpit is caused when a propellor that rotates is not perpendicular (loodrecht) to the flying direction. The downward blade produces more thrust than the upward blade. At high angles of attack, the downward blade moves in the flying direction but the upward blade moves opposite to the flying direction. The downward blade gets a higher AoA where the upward blade AoA decreases, and as we just learned that a higher AoA procudes more trust, we get asymmetrical thrust. The actual result is the nose of the plane wanting to go left.
 
-This is the somewhat strange cause of why we need to give **right rudder** in a **left climbing** turn.
+This is the somewhat strange cause of why we need to give some **right rudder** in a **left climbing** turn.
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8c138ec02d36.png)
 
@@ -1126,7 +1126,86 @@ _Source: Boldmethod.com_
 
 ---
 
+## Stability (8)
 
+An aircraft is continiously exposed to different attitude changes as result of wind, turbulence, convection or smaal yoke inputs. After being exposed to such change the forces and moments on the plane wordt not be balanced causing a huge workload for the pilot. Flying must be fun and easy to do, the easier it is, the safer.
+
+An aircraft has great control-properties if its **stability**is good. With stability we mean that the plane must restore itself to the balance state after a small change, apart from if this change is intentional or not. Stability also has some downsides, when turning or maneuvering we are changing the attitude of the plane and makes this somewhat harder. Aircraft manufacturers seek to find the perfect balance between stability and maneuvering.
+
+### Types of stability
+
+We can have three types of stability:
+
+- Statically unstable
+- Neutral (indifferential)
+- Statically stable
+
+Some examples of how this looks:
+
+[![jv-media-5667-00a99e9a069a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-00a99e9a069a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-00a99e9a069a.png)
+
+As we can think of the mass of the ball and the gravity working against themselves, in the statically stable situation, the ball would move around somewhat and then return to the before point when moving. This makes it statically stable.
+
+The ball on the left would after moving never reach its stability point. The middle ball will constantly pick a new balancing point, but will need continuous corrections.
+
+### Dynamic stability
+
+The dynamic stability describes the flow of the three situations above into the speed of returning to the balancing point and thus being stable. When a plane's attitude is changed during cruise flight where all 4 flying forces are balanced, the plane must return to that balancing point as soon as possible. We can only achieve dynamic stability if the plane is statically stable.
+
+[![jv-media-5667-71c797977d99.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-71c797977d99.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-71c797977d99.png)
+
+### Static stability
+
+For a plane, the construction needs to be stable at all three axis':
+
+| Axis | Axis (dutch) | Stability description |
+| --- | --- | --- |
+| Longitudinal axis | Langsas | Lateral stability |
+| Vertical axis | Topas | Directional axis |
+| Lateral axis | Dwarsas | Longitudinal stability |
+
+### Longitudinal stability
+
+The longitudinal stability is the stability of the lateral axis, the pitch axis. An aircraft is longitudinal stable if the it restores the pitch to the state before interruption like minor inputs, wind or turbulence. Planes are designed that the center of gravity lies in front of the pressure point. Weight and lift cause a nose down moment.
+
+To compensate for this moment and to make the plane longitudinal stable, we have the horizontal stabilizer at the tail of the plane.
+
+When the center of gravity (CG) is in front of the pressure point, the horizontal stabilizer must do a negative force. Because of the distance between CG and horizontal stabilizer is much longer than between CG and pressure point, a small horizontal stabilizer moment is needed. This distance defines operationally how stable the plane is on the longitudinal axis, the more the CG is up front, the more stable the plane is. If this CG shifts backward, then the stability decreases.
+
+#### Canard
+
+A canard is a set of small wings at the nose of the plane. Some planes counteract the longitudinal stability by shifting the wings somewhat to the back. This creates a more frontal CG in combination with this added set of small wings. These canards always produce positive lift as the AoA is positive.
+
+#### Center of Gravity boundaries
+
+As the CG has a big impact on the stability of the plane, the allowed position of the center of gravity is strictly limited. This CG must be within a limited frontal and after CG. Exceeding this values can dramatically decrease stability and flight performances.
+
+- **Too Frontal CG** : This makes the plane stable but requires bigger steering forces. This can also lead to being unable to perform a roundout during landing.
+- **Too Aft CG:** If the CG is more to the tail of the plane, the longitudinal stability is relatively small. The pilot must continuously correct the pitch resulting in uncontrolled pitch up movements.
+
+#### Horizontal Stabilizer AoA
+
+To get enough longitudinal stability, the horizontal stabilizer has a smaller angle of incidence and so AoA. This is done so every pitch change has a bigger effect on the horizontal stabilizer than on the wings. This angle of AoA of the wings and the horizontal stabilizer is called the long-V angle.
+
+This difference in AoA also causes the wings to stall first in high nose up situations, making the elevator still controllable to recover.
+
+### Directional stability
+
+The directional stability is the stability around the vertical axis (yaw). If during a flight the air comes straight head-on, the flight will be coordinated. If because of a small yaw imput the air will not come front, a slip occurs. We call the angle between the incoming air and the longitudinal axis the slipping angle.
+
+An aircraft is directionally stable if during a slip it wants to recover itself to be aligned with the incoming air again. This is mostly achieved by the use of the vertical stabilizer. This also gets a different angle during slips, which result in an aerodynamic force from the side making the slip undone.
+
+#### Effect of Center of Gravity
+
+The distance between the vertical stabilizer and the CG (the arm) determines the directional stability. A more aft-CG will decrease the arm of the vertical stabilizer and making it less effective and so less stable. A more frontal CG does the opposite, increasing the effectivity and stability.
+
+### Lateral stability
+
+The lateral stability is the rolling-axis stability. An aircraft is roll-stable when it returns to wings-level state after rolling. Just as the directional stability, is the roll stability a result of a slipping movement. Because of this movement another force occurs which restores the balance.
+
+At lighter planes, this stability is reached by placing the wings under an angle of the longitudinal axis like a Piper plane. This is called a dihedral. If the wingtips are lower than the wing-root, then it would be called anhedral.
+
+Such dihedral is dependent of a slipping movement where the airflow comes at an angle. This can happen when a plane rolls, the AoA of the lower wing will increased and the higher wing decreased resulting in a recovery to wings level.
 
 {{< ads >}}
 
