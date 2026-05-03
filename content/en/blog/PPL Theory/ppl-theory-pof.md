@@ -1120,6 +1120,14 @@ The action is the propellor turning and the reaction is the fuselage of the plan
 
 During take-offs or touch and go's, counteract by steering somewhat right with the rudder.
 
+[![jv-media-5667-b90a23125918.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-b90a23125918.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-b90a23125918.png)
+
+_Source: Boldmethod.com_
+
+---
+
+
+
 {{< ads >}}
 
 {{< article-footer >}}
