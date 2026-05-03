@@ -5,7 +5,6 @@ date: 2026-05-03
 tags: 
 categories: PPL Theory
 description: "This page contains my notes for the Flight Planning and Performance exam, where aircraft performace is discussed."
-hidden: false
 ---
 
 ## Introduction to Flight Planning and Performance (FPP) (1)
