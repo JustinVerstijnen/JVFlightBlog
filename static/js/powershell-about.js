@@ -141,11 +141,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     const outputLines = [
       "$hobbies | Format-List",
-      "12,7% completed...",
+      "26,9% completed...",
       "$profiles | Format-List",
-      "42% completed...",
-      "$certifications | Format-Table",
-      "67% completed...",
+      "72% completed...",,
       "Script executed succesfully!"
     ];
 
