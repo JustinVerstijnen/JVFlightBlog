@@ -7,7 +7,7 @@ title: "About"
 <section class="about-hero-panel about-justin-panel">
   <div class="about-hero-content">
     <p class="about-eyebrow">About me</p>
-    <p class="about-lead">I am Justin Verstijnen and this is my technical blog. In my daily job I am busy designing, building, maintaining, securing and improving Microsoft Cloud and on-premises solutions. On this website, I share technical blogs about various IT and Cloud professions. You can find blogs written from experiences, research I've done, older notes I converted into blogs and more.<br>I would describe my competences as: Independent, Eager to learn and Ambitious.</p>
+    <p class="about-lead">I am Justin Verstijnen and this is my blog about my most expensive hobby, Flying. In my daily job I am busy designing, building, maintaining, securing and improving Microsoft Cloud and on-premises solutions. But on this website, I share blogs flying and getting my Private Pilot License.</p>
   </div>
 
   <aside class="about-hero-aside" aria-label="Profile photo">
@@ -58,20 +58,20 @@ title: "About"
 <section class="about-section about-section-site">
   <div class="about-section-header">
     <p class="about-eyebrow">About this website</p>
-    <p>In 2023 I founded this website and wanted to use it as my personal documentation system. Documenting solutions and being able to explain them pushes me further than only trying a solution and knowing I did something with it. I also needed a better and more scalable solution than creating and saving hundreds of separate Word documents. First I started on the easier WordPress CMS and in 2026 I migrated the website to GitHub Pages.</p>
+    <p>In 2026 I founded this website and wanted to use it as my aviation documentation system. Before 2026 I combined it with my technical blog at [justinverstijnen.nl](https://justinverstijnen.nl) but after migrating that to GitHub Pages, I wanted two separate blogs for a better overview.</p>
   </div>
 
   <div class="about-feature-grid about-site-grid about-compact-grid about-site-link-grid">
     <a class="about-feature-card about-click-card" href="https://justinverstijnen.nl/getting-started-with-github-pages/">
       <div class="about-card-icon" aria-hidden="true">⌘</div>
       <h3>Running on GitHub Pages</h3>
-      <p>The site runs on GitHub Pages. I also wrote a blog about getting started with GitHub Pages.</p>
+      <p>The site runs on GitHub Pages. I also wrote a technical blog about getting started with GitHub Pages on my Technical blog.</p>
     </a>
 
-    <a class="about-feature-card about-click-card" href="https://github.com/JustinVerstijnen/JVTechnicalBlog">
+    <a class="about-feature-card about-click-card" href="https://github.com/JustinVerstijnen/JVFlightBlog">
       <div class="about-card-icon" aria-hidden="true">GH</div>
       <h3>GitHub repository</h3>
-      <p>The source repository for this website is available on GitHub: JustinVerstijnen/JVTechnicalBlog.</p>
+      <p>The source repository for this website is available on GitHub: JustinVerstijnen/JVFlightBlog.</p>
     </a>
   </div>
 
