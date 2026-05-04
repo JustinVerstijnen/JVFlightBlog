@@ -3,10 +3,9 @@
   box-sizing: border-box;
 }
 
-
 body.has-ps-about-page {
   --ps-about-navbar-offset: 0px;
-  --ps-about-background-image: url("https://sajvwebsiteblobstorage.blob.core.windows.net/blog/tools-2375/featured-background_blur.jpg");
+  --ps-about-background-image: url("https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/tools/featured-background_blur.jpg");
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.42), rgba(255, 255, 255, 0.7)),
     var(--ps-about-background-image) center / cover fixed no-repeat;

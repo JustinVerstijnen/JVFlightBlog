@@ -323,7 +323,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const owner = "JustinVerstijnen";
-  const repo = "JVTechnicalBlog";
+  const repo = "JVFlightBlog";
 
   function escapeHtml(value) {
     return String(value)
