@@ -58,7 +58,7 @@ title: "About"
 <section class="about-section about-section-site">
   <div class="about-section-header">
     <p class="about-eyebrow">About this website</p>
-    <p>In 2026 I founded this website and wanted to use it as my aviation documentation system. Before 2026 I combined it with my technical blog at [justinverstijnen.nl](https://justinverstijnen.nl) but after migrating that to GitHub Pages, I wanted two separate blogs for a better overview.</p>
+    <p>In 2026 I founded this website and wanted to use it as my aviation documentation system. Before 2026, both blogs were at justinverstijnen.nl but after migrating that to GitHub Pages, I wanted two separate blogs for a better overview.</p>
   </div>
 
   <div class="about-feature-grid about-site-grid about-compact-grid about-site-link-grid">
