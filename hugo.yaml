@@ -103,7 +103,7 @@ params:
   copyright:
     authors: >-
        | Justin Verstijnen |
-    from_year: 2024
+    from_year: 2026
     to_year: present
 
   # User interface configuration
