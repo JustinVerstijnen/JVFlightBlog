@@ -201,3 +201,31 @@ During the flight, the center of gravity always will shift somewhat because of t
 
 ## Take-off and landing performances (3)
 
+
+
+
+
+
+
+
+
+### Calculating take-off distances based on graphs
+
+A skill we need to posess is calculating take-off distances using these graphs. An example can be found here:
+
+[![jv-media-6000-c2d73c27c86a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-c2d73c27c86a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-c2d73c27c86a.png)
+
+The variables used are:
+
+- Runway temperature: 25°C
+- Airfield elevation: 2500 ft
+	- Pressure altitude: 2041 ft
+	- Density altitude: 3731 ft
+- QNH: 1030 hPa
+- Headwind: 5 KT
+- Take-off weight: 2150 lb
+- Flaps: 25 degrees
+
+We start at the left, co-relating the temperature to the pressure altitude. This corrects the pressure altitude to the actual outside temperature (hey the Density altitude). Then we shift from there in a straight line to the weight coloumn. We pick the first line there and follow that to the actual weight. Then from that weight we set a straight line to the wind component. As we have 5 knots headwind, our take-off distance will be decreased so the line has to go down. We join the first downward line to take some margin into account, leaving us with a total take-off distance of 1640ft which is 500 meters.
+
+You can also parralel the lines but this approach gives us some extra margin.
