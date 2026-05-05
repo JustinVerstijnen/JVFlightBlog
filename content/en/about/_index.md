@@ -43,7 +43,6 @@ title: "About"
         <a class="about-tile" href="https://www.linkedin.com/in/justinverstijnen/"><span class="about-tile-icon" aria-hidden="true">in</span>LinkedIn</a>
         <a class="about-tile" href="https://buymeacoffee.com/justinverstijnen"><span class="about-tile-icon" aria-hidden="true">☕</span>Buy me a Coffee</a>
         <a class="about-tile" href="https://learn.microsoft.com/en-us/users/justinverstijnen/"><span class="about-tile-icon" aria-hidden="true">MS</span>Microsoft Learn</a>
-        <a class="about-tile" href="https://learn.microsoft.com/en-us/users/justinverstijnen/transcript/71kg1ag8p16k9e0"><span class="about-tile-icon" aria-hidden="true">✓</span>Certification Transcript</a>
         <a class="about-tile" href="https://github.com/JustinVerstijnen"><span class="about-tile-icon" aria-hidden="true">GH</span>GitHub</a>
         <a class="about-tile" href="https://www.powershellgallery.com/profiles/JustinVerstijnen"><span class="about-tile-icon" aria-hidden="true">PS</span>PowerShell Gallery</a>
         <a class="about-tile" href="https://www.reddit.com/user/JustinVerstijnen/"><span class="about-tile-icon" aria-hidden="true">r/</span>Reddit</a>
