@@ -80,3 +80,123 @@ To calculate density altitude, we need the pressure altitude first. This is the 
 ---
 
 ## Mass and Balance (2)
+
+[https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator) [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator) [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator) [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator)
+
+The weight of an aircraft is a key factor to determine the flying performances. With the weight, we can calculate almost every V speed and the distance required for climb, take-off and landing. An aircraft is designed to operate in a specific weight range because exceeding this would result in unflyable planes with performance and controls not working as intended.
+
+The key point here are:
+
+- **Mass:** The weight force, at 1G this is equal to the weight but increases or decreases if G forces do
+- **Balance:** The center of gravity point which must lie within limits
+
+Why calculating Mass and Balance is being so important is partly described in this video, where the center of gravity of the plane shifted fatally to the aft part of the plane: [https://www.youtube.com/watch?v=hvZEr3IkLJI](https://www.youtube.com/watch?v=hvZEr3IkLJI)
+
+As mass and weight are mostly the same (if not talking about G forces), I continue to use the word weight.
+
+### Weight limits
+
+We have two primary reasons why planes have maximum weights where they are certified for:
+
+- **Structural limits:** An increase of weight means the planes' stressing factor is also increased, like the design-load.
+- **Performance limits:** The performance of planes are heavily dependent on the weight, like take-off and landing distances but also the V speeds like stall speed, best climb speed, glide speed etc.
+
+Aircraft manufacturers use these terms to indicate the limits of weight for their aircrafts:
+
+| Limit name | Abbreviation | Description |
+| --- | --- | --- |
+| Maximum ramp weight |  | This is the overall maximum weight of the plane excluding calculated taxi-fuel. This is the limit of air plane before even moving to the runway. |
+| Maximum take-off weight | MTOW | This is the maximum weight the aircraft can be at take-off. Above this weight the forces must work really hard, exceeding structural limits where the plane is not designed for. |
+| Maximum zero-fuel weight | MZFW | This is the maximum weight of the aircraft excluding usable fuel. |
+| Maximum landing weight | MLW | This is the maximum weight at landing. When landing, the full weight of the plane must get on the ground, possibly harder than needed. This often results in the maximum landing weight being lower than the take-off weight. |
+
+Exceeding these weights will result in the plane being classified as un-airworthy.
+
+[![jv-media-6000-c4ac0adadd19.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-c4ac0adadd19.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-c4ac0adadd19.png)
+
+When performing fuel and weight calculations and realising that we cannot take-off from a runway with a certain mass, you must re-do your calculations in terms of weight and fuel. To lower the amount of runway needed, you need to decrease the weight.
+
+### Determining the weight
+
+To determine an aircrafts weight, we have to calculate the actual weight of an aircraft. This is basically a sum of all known weights.
+
+| Weight name | Abbreviation | Description |
+| --- | --- | --- |
+| Basic empty weight | BEW | The basic weight of a plane without usable fuel, including unusable fuel. It also includes structure, engine etc.This is a number weighed by the maintenance company (CAMO). My training Cessna 172 for example is more or less 700kg. |
+| Crew and passengers weight | POB | The persons' weight of every pilot and passenger combined. Sometimes its better to "overguess" than actually asking people ;). |
+| Baggage weight |  | The weight of the baggage. |
+| Fuel weight |  | The weight of the usable fuel which we calculate based on the type of fuel. |
+
+The sum of all those weights give us the actual of gross weight and will decrease during flight as the fuel is being consumed.
+
+### Fuel weight
+
+We calculate the weight of the fuel in our plane by picking default numbers based on the fuel we use. This is based on fuel density where we calculate the volume multiplied by density:
+
+- Density of AVGAS/MOGAS/Car gasoline - 0,72kg/liter or 6lg/USG
+- Density of Jet-A1: 0,84kg/liter or 7lb/USG
+
+And we can use these numbers for conversion:
+
+- 1 Pound (lb): 0,4536 kg
+- 1 US gallon: 3,785 liter
+- 1 Imperial gallon: 4,546 liter
+- 1 quart (qt) = 0,95 liter (a quarter gallon)
+
+> Tip: use my Unit conversion tool https://flighttools.justinverstijnen.nl/unitcalculator
+
+### Fuel terms
+
+To calculate fuel, we have different categories where we use different parts of fuel. We must have enough fuel on board for the complete flight, possible diversion and even more than that. As fuel calculations are very important we determine the amount using these terms:
+
+| Fuel category | Used for |
+| --- | --- |
+| Taxi fuel | Taxiing to the runway excluding taxi after landing |
+| Trip fuel | Take-off, climb, cruise, descend, approach and landing |
+| Reserve fuel | Three types of reserve fuels needed in some situations |
+| Contingency fuel | (+~5%) Fuel for unforeseen circumstances like wind, deferring routes, holding patterns |
+| Alternate fuel | The fuel needed from destination to alternate including go around at destination, climb, cruise, descend, approach and landing on alternate. |
+| Final reserve fuel | The minimum fuel that must be on board after landing. VFR flights this must be at least 30 - 45 minutes. This may also never be touched. |
+| Extra fuel | All extra fuel on board for possible connected flights or flights to aerodromes without fuel station. |
+| Block fuel | The total amount of fuel when departing from your parking place/ramp. |
+
+We base the forseen fuel consumption on the numbers of the pilot operating handbook.
+
+### Center of Gravity
+
+The center of gravity (CG) is the central point of the gravity force. This point must be between the boundaries of the plane, as this has effect on the aircrafts performance. This center of gravity in general aviation aircraft is often determined in numbers of inches from a reference point. This reference point is called the "datum". The reference point are mostly:
+
+- The firewall (wall between engine and cockpit)
+- Forward point of the fuselage/propellor
+- Wing leading edge
+
+The pilot operating handbook will describe what the datum of your particular plane is. This point must be the same for that same aircraft at all flights.
+
+[![jv-media-4511-55dae8418f5a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-55dae8418f5a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-2-4511/jv-media-4511-55dae8418f5a.png)
+
+Here I created a mass and balance sheet for a Cessna 172 in my second flight lesson, fully within the technical limits of the aircraft.
+
+- **Normal category flights** must stay within the red lines
+- **Utility/aerobatic flights** must stay within the grey dotted lines
+
+This states what the forward and after limits of the plane are in terms of center of gravity and how much weight we may carry. The whole flight, your weight and balance must be within the performance envelopes. This is the red area on the graph above.
+
+To calculate the mass and balance, note all weights like done in the picture above and lookup the CG locations of your plane in the POH. Then its simply a multiply-sum where the weight must be multiplied by the CG location which gives the moment-number -> the resulting turning effect. Always use a method with a table and graphic to be sure about your aircrafts limits.
+
+### Weight, Arm and Moment
+
+To determine the center of gravity the moments are very important. We will talk about this three terms here:
+
+- **Weight:** The force applied by an object due to its mass and gravity
+- **Arm:** The distance from the reference point or pivot point to the line of action of the force
+- **Moment:** The resulting turning effect produced by a force acting at a distance from a reference point or pivot point
+
+[![jv-media-6000-901f341a550c.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-901f341a550c.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-901f341a550c.png)
+
+_Arm and moment in picture._
+
+During the flight, the center of gravity always will shift somewhat because of thefuel consumption. This effect can be bigger when the tanks are further away from the center of gravity. When having wingtanks, this effect is small but be aware to stay within the envelope of the mass and balance scheme. This is also the reason we always calculate the zero fuel weight.
+
+---
+
+## Take-off and landing performances (3)
