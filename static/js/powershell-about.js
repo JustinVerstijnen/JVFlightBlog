@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "$hobbies | Format-List",
       "26,9% completed...",
       "$profiles | Format-List",
-      "72% completed...",,
+      "72% completed...",
       "Script executed succesfully!"
     ];
 
