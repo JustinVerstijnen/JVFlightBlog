@@ -87,7 +87,7 @@ body.has-ps-about-page .ps-markdown [id] {
   width: 16px;
   height: 16px;
   border-radius: 4px;
-  background: linear-gradient(180deg, #2b7cd3 0%, #1d5fa7 100%);
+  background: linear-gradient(180deg, #8EAFDA 0%, #8EAFDA 100%);
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.12);
   color: #ffffff;
   font-family: "Segoe UI", sans-serif;
@@ -231,11 +231,11 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-token-script {
-  color: #79c0ff;
+  color: #8EAFDA;
 }
 
 .ps-token-number {
-  color: #a5d6ff;
+  color: #8EAFDA;
 }
 
 .ps-cursor {
@@ -521,7 +521,7 @@ body.has-ps-about-page .ps-markdown [id] {
   border-radius: 30px;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.68), rgba(255, 255, 255, 0.5)),
-    radial-gradient(circle at top left, rgba(43, 124, 211, 0.15), transparent 32rem);
+    radial-gradient(circle at top left, rgba(142, 175, 218, 0.15), transparent 32rem);
   box-shadow: 0 24px 60px rgba(52, 79, 115, 0.15);
   backdrop-filter: blur(18px);
   -webkit-backdrop-filter: blur(18px);
@@ -583,7 +583,7 @@ body.has-ps-about-page .ps-markdown [id] {
   line-height: 1.2;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: #1d5fa7;
+  color: #8EAFDA;
 }
 
 .ps-markdown .about-hero-panel h2,
@@ -622,9 +622,9 @@ body.has-ps-about-page .ps-markdown [id] {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  background: rgba(43, 124, 211, 0.09);
-  border: 1px solid rgba(43, 124, 211, 0.18);
-  color: #174c83;
+  background: rgba(142, 175, 218, 0.09);
+  border: 1px solid rgba(142, 175, 218, 0.18);
+  color: #8EAFDA;
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.2;
@@ -691,7 +691,7 @@ body.has-ps-about-page .ps-markdown [id] {
   height: 2.4rem;
   margin-bottom: 1rem;
   border-radius: 14px;
-  color: #1d5fa7;
+  color: #8EAFDA;
   background: rgba(255, 255, 255, 0.72);
   border: 1px solid rgba(255, 255, 255, 0.8);
   box-shadow: 0 10px 24px rgba(52, 79, 115, 0.1);
@@ -761,14 +761,14 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-link-grid a:hover {
   transform: translateY(-2px);
-  border-color: rgba(43, 124, 211, 0.32);
-  background: rgba(43, 124, 211, 0.07);
+  border-color: rgba(142, 175, 218, 0.32);
+  background: rgba(142, 175, 218, 0.07);
   text-decoration: none;
 }
 
 .ps-markdown .about-story-section {
   padding: clamp(1.35rem, 3vw, 2rem);
-  border-left: 4px solid rgba(29, 95, 167, 0.75);
+  border-left: 4px solid rgba(142, 175, 218, 0.75);
   border-radius: 0 24px 24px 0;
   background: rgba(255, 255, 255, 0.52);
   border-top: 1px solid rgba(255, 255, 255, 0.62);
@@ -790,7 +790,7 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-section-site {
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.56), rgba(255, 255, 255, 0.46)),
-    radial-gradient(circle at top right, rgba(43, 124, 211, 0.1), transparent 30rem);
+    radial-gradient(circle at top right, rgba(142, 175, 218, 0.1), transparent 30rem);
 }
 
 .ps-markdown .about-build-card {
@@ -928,9 +928,9 @@ body.has-ps-about-page .ps-markdown [id] {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  background: rgba(43, 124, 211, 0.09);
-  border: 1px solid rgba(43, 124, 211, 0.18);
-  color: #174c83;
+  background: rgba(142, 175, 218, 0.09);
+  border: 1px solid rgba(142, 175, 218, 0.18);
+  color: #8EAFDA;
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.2;
@@ -939,7 +939,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-chip-list a:hover {
-  background: rgba(43, 124, 211, 0.14);
+  background: rgba(142, 175, 218, 0.14);
   text-decoration: none;
 }
 
@@ -1041,9 +1041,9 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-summary-action {
   flex: 0 0 auto;
   border-radius: 999px;
-  background: rgba(43, 124, 211, 0.09);
-  border: 1px solid rgba(43, 124, 211, 0.18);
-  color: #174c83;
+  background: rgba(142, 175, 218, 0.09);
+  border: 1px solid rgba(142, 175, 218, 0.18);
+  color: #8EAFDA;
   font-size: 0.82rem;
   font-weight: 800;
   line-height: 1;
@@ -1052,8 +1052,8 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-expand-card[open] .about-summary-action {
   color: #ffffff;
-  background: #1d5fa7;
-  border-color: #1d5fa7;
+  background: #8EAFDA;
+  border-color: #8EAFDA;
 }
 
 .ps-markdown .about-expand-card[open] .about-summary-action::before {
@@ -1196,8 +1196,8 @@ body.has-ps-about-page .ps-markdown [id] {
   min-height: 2.25rem;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.66);
-  border: 1px solid rgba(43, 124, 211, 0.18);
-  color: #174c83;
+  border: 1px solid rgba(142, 175, 218, 0.18);
+  color: #8EAFDA;
   font-size: 0.9rem;
   font-weight: 750;
   line-height: 1.2;
@@ -1206,7 +1206,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-skill-row i {
-  color: #1d5fa7;
+  color: #8EAFDA;
   font-size: 0.95rem;
 }
 
@@ -1257,7 +1257,7 @@ body.has-ps-about-page .ps-markdown [id] {
   border: 1px solid rgba(255, 255, 255, 0.76);
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.58);
-  color: #2f83d2;
+  color: #8EAFDA;
   font-weight: 750;
   line-height: 1.25;
   text-decoration: none;
@@ -1273,7 +1273,7 @@ body.has-ps-about-page .ps-markdown [id] {
   justify-content: center;
   width: 1.1rem;
   min-width: 1.1rem;
-  color: #1d5fa7;
+  color: #8EAFDA;
   font-size: 1rem;
 }
 
@@ -1287,7 +1287,7 @@ body.has-ps-about-page .ps-markdown [id] {
   justify-content: center;
   border-radius: 0.25rem;
   color: #ffffff;
-  background: rgba(43, 124, 211, 0.38);
+  background: rgba(142, 175, 218, 0.38);
   font-size: 0.75rem;
   line-height: 1;
 }
@@ -1365,9 +1365,9 @@ body.has-ps-about-page .ps-markdown [id] {
   min-height: 2.35rem;
   padding: 0.45rem 0.75rem;
   border-radius: 999px;
-  border: 1px solid rgba(43, 124, 211, 0.18);
-  background: rgba(43, 124, 211, 0.09);
-  color: #174c83;
+  border: 1px solid rgba(142, 175, 218, 0.18);
+  background: rgba(142, 175, 218, 0.09);
+  color: #8EAFDA;
   font-size: 0.85rem;
   font-weight: 800;
   white-space: nowrap;
@@ -1543,9 +1543,9 @@ body.has-ps-about-page .ps-markdown [id] {
   min-width: 1.55rem;
   height: 1.55rem;
   border-radius: 0.5rem;
-  color: #1d5fa7;
-  background: rgba(43, 124, 211, 0.1);
-  border: 1px solid rgba(43, 124, 211, 0.16);
+  color: #8EAFDA;
+  background: rgba(142, 175, 218, 0.1);
+  border: 1px solid rgba(142, 175, 218, 0.16);
   font-size: 0.82rem;
   font-weight: 850;
   line-height: 1;
@@ -1662,7 +1662,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-tile-icon {
-  color: #1d5fa7;
+  color: #8EAFDA;
   background: rgba(255, 255, 255, 0.72);
   border-color: rgba(255, 255, 255, 0.82);
   box-shadow: 0 6px 16px rgba(52, 79, 115, 0.08);
@@ -1718,7 +1718,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-cert-preview small {
-  color: #1d5fa7;
+  color: #8EAFDA;
   font-weight: 800;
   white-space: nowrap;
 }
@@ -1745,7 +1745,7 @@ body.has-ps-about-page .ps-markdown [id] {
   height: 1.9rem;
   margin-top: 1rem;
   border-radius: 999px;
-  color: #1d5fa7;
+  color: #8EAFDA;
   background: rgba(255, 255, 255, 0.7);
   border: 1px solid rgba(255, 255, 255, 0.8);
   font-weight: 800;
@@ -1904,11 +1904,11 @@ body.has-ps-about-page .ps-markdown [id] {
 
 /* Final polish: accent colour, donation card and non-expanded story/certifications */
 .ps-markdown {
-  --about-accent: #77B0DE;
-  --about-accent-strong: #4f91c6;
-  --about-pill-bg: linear-gradient(135deg, rgba(119, 176, 222, 0.22), rgba(255, 255, 255, 0.68));
-  --about-pill-border: rgba(119, 176, 222, 0.42);
-  --about-pill-glow: 0 8px 22px rgba(119, 176, 222, 0.20);
+  --about-accent: #8EAFDA;
+  --about-accent-strong: #8EAFDA;
+  --about-pill-bg: linear-gradient(135deg, rgba(142, 175, 218, 0.22), rgba(255, 255, 255, 0.68));
+  --about-pill-border: rgba(142, 175, 218, 0.42);
+  --about-pill-glow: 0 8px 22px rgba(142, 175, 218, 0.20);
 }
 
 .ps-markdown .about-eyebrow,
@@ -1925,7 +1925,7 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-chip-list a,
 .ps-markdown .about-skill-row span,
 .ps-markdown .about-summary-action {
-  color: #1f5f8e !important;
+  color: #8EAFDA !important;
   background: var(--about-pill-bg) !important;
   border-color: var(--about-pill-border) !important;
   box-shadow: var(--about-pill-glow) !important;
@@ -1934,16 +1934,16 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-card-icon,
 .ps-markdown .about-tile-icon,
 .ps-markdown .about-click-card::after {
-  background: linear-gradient(135deg, rgba(119, 176, 222, 0.2), rgba(255, 255, 255, 0.76)) !important;
-  border-color: rgba(119, 176, 222, 0.34) !important;
-  box-shadow: 0 8px 22px rgba(119, 176, 222, 0.16) !important;
+  background: linear-gradient(135deg, rgba(142, 175, 218, 0.2), rgba(255, 255, 255, 0.76)) !important;
+  border-color: rgba(142, 175, 218, 0.34) !important;
+  box-shadow: 0 8px 22px rgba(142, 175, 218, 0.16) !important;
 }
 
 .ps-markdown .about-feature-card:hover,
 .ps-markdown .about-click-card:hover,
 .ps-markdown .about-tile:hover {
-  border-color: rgba(119, 176, 222, 0.72) !important;
-  box-shadow: 0 18px 42px rgba(119, 176, 222, 0.18) !important;
+  border-color: rgba(142, 175, 218, 0.72) !important;
+  box-shadow: 0 18px 42px rgba(142, 175, 218, 0.18) !important;
 }
 
 .ps-markdown .about-static-story-card,
@@ -2105,16 +2105,16 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-cert-tile:hover {
   transform: translateY(-2px);
-  border-color: rgba(119, 176, 222, 0.72) !important;
+  border-color: rgba(142, 175, 218, 0.72) !important;
   background: rgba(255, 255, 255, 0.72);
-  box-shadow: 0 14px 30px rgba(119, 176, 222, 0.18) !important;
+  box-shadow: 0 14px 30px rgba(142, 175, 218, 0.18) !important;
 }
 
 .ps-markdown .about-build-link-list a {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  color: #1f5f8e !important;
+  color: #8EAFDA !important;
   background: var(--about-pill-bg) !important;
   border: 1px solid var(--about-pill-border) !important;
   box-shadow: var(--about-pill-glow) !important;
@@ -2135,8 +2135,8 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-build-link-list a:hover {
   transform: translateY(-1px);
-  border-color: rgba(119, 176, 222, 0.76) !important;
-  box-shadow: 0 12px 26px rgba(119, 176, 222, 0.24) !important;
+  border-color: rgba(142, 175, 218, 0.76) !important;
+  box-shadow: 0 12px 26px rgba(142, 175, 218, 0.24) !important;
   text-decoration: none;
 }
 
@@ -2165,9 +2165,9 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-section-site .about-click-card:hover {
   transform: translateY(-3px);
-  border-color: rgba(119, 176, 222, 0.72) !important;
+  border-color: rgba(142, 175, 218, 0.72) !important;
   background: rgba(255, 255, 255, 0.72) !important;
-  box-shadow: 0 18px 42px rgba(119, 176, 222, 0.18) !important;
+  box-shadow: 0 18px 42px rgba(142, 175, 218, 0.18) !important;
 }
 
 @media (max-width: 640px) {
@@ -2278,7 +2278,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-cert-tile strong {
-  color: #77B0DE !important;
+  color: #8EAFDA !important;
   font-size: 0.96rem !important;
   line-height: 1.32 !important;
 }
@@ -2298,8 +2298,8 @@ body.has-ps-about-page .ps-markdown [id] {
   min-width: 0;
   padding: 0.46rem 0.56rem !important;
   border-radius: 12px;
-  background: rgba(119, 176, 222, 0.1);
-  border: 1px solid rgba(119, 176, 222, 0.2);
+  background: rgba(142, 175, 218, 0.1);
+  border: 1px solid rgba(142, 175, 218, 0.2);
 }
 
 .ps-markdown .about-cert-meta-row .about-cert-meta small {
