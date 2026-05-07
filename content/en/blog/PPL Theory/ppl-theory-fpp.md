@@ -51,8 +51,6 @@ METAR EHLE 031055Z AUTO 24010KT 9999 FEW016/// BKN019/// BKN022/// 18/14 Q1010 T
 
 101000 : (287 x 291) = **1,209 kg/m³**
 
-****
-
 This tells us that today the air is less dense than ISA, meaning we can expect worse aircraft performance. A result of the less density is the higher temperature (18 degrees instead of 15 according to ISA).
 
 ### Density Altitude
@@ -200,6 +198,62 @@ During the flight, the center of gravity always will shift somewhat because of t
 ---
 
 ## Take-off and landing performances (3)
+
+Calculating take-off and landing performances is crucial to us pilots as we want to know if we can land on a particular airport and runway with particular circumstances. To overcome shortage of runway, we calculate the distance we need according to the numbers in the POH. As the weather is never completely the same, we use the International Standard Atmosphere as reference point.
+
+### Take-off distances
+
+The take-off consists of 2 different phases:
+
+- **Take-off run/Ground roll:** The first part where we power the engines to create enough speed and lift to get of the ground.
+- **Initial climb:** The first climbing phase where we need to clear an altitude above the ground (AGL) of 50 ft or 15 meters.
+
+[![jv-media-6000-8eba48553a30.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-8eba48553a30.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-8eba48553a30.png)
+
+In the middle of the whole take-off we have Vr speed which we start rotating to get in the air. This is the aircrafts' designed speed when taking-off is possible. We also know a Vlof speed which is the speed the plane comes loose of the ground, which is mostly close to Vr speed. We use this speed often in soft field take-offs to quickly get off the ground and win speed using ground effect.
+
+### Available take-off runway lengths
+
+Determining the take-off performance is part of flight preparation. The needed distances must fit within the available distances at that time. We use three different terms to indicate the available runway length:
+
+- **Take-off run available (TORA):** The distance available for the the take-off run.
+- **Take-off distance available (TODA):** The distance available for the take-off run and climb to 50ft.
+- **Accelerate-stop distance available (ASDA):** The distance available for a rejected take-off.
+
+In the most simple cases, these three values are exactly the same, but this is not always the case.
+
+[![jv-media-6000-1ef7c651d9bf.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-1ef7c651d9bf.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-1ef7c651d9bf.png)
+
+#### Stopway and Clearway
+
+Much airports around the world have additions to the runways for safety and ease of use. The 2 categories are:
+
+- **Stopway** : A paved (verhard) addition to the runway only used for rejected take-offs (ASDA)
+
+	- Sometimes on bigger airports this contains EMAS.
+	- TORA + Stopway = ASDA
+- **Clearway** : A clear-of-objects addition to the runway which can only be used for the climb to 50ft (TODA). This can also be sand or even water.
+
+Sometimes, the stopway and clearway are combined as the image below states.
+
+[![jv-media-6000-241272fcbd07.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-241272fcbd07.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-241272fcbd07.png)
+
+### Take-off distance factors
+
+There are multiple factors influencing the take-off distance which are:
+
+- Weight
+- Wind
+- Density altitude (density of the air, Dense = more lift)
+- Runway state (Dry, Damp, Wet or Contaminated)
+- Runway slope
+- Flaperons (Flaps)
+
+Let's dive into all these factors:
+
+
+
+
 
 
 
