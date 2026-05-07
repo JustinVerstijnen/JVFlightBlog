@@ -8,7 +8,7 @@ categories:
 description: "In lesson 3 of the circuit training, we reviewed the circuit part and did a training diversion to an airfield in Germany, to experience a diversion but also a navigation flight."
 ---
 
-## 07-05-2026
+## 07-05-2026 (Diversion)
 
 Today we did a circuit training lesson with a diversion to an airfield in Germany. The purpose of this lesson was a little preparation for the upcoming solo lessons. Then I have to find a possible diversion for myself, as an airfield can be closed temporarily for several reasons. We don't want to still be in the air while having too less fuel and such.
 
