@@ -240,16 +240,65 @@ Sometimes, the stopway and clearway are combined as the image below states.
 
 ### Take-off distance factors
 
+[https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude](https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude)
+
 There are multiple factors influencing the take-off distance which are:
 
-- Weight
+- Weight (Take-off weight)
 - Wind
 - Density altitude (density of the air, Dense = more lift)
 - Runway state (Dry, Damp, Wet or Contaminated)
 - Runway slope
 - Flaperons (Flaps)
 
-Let's dive into all these factors:
+Let's dive into all these factors.
+
+#### Weight (Take-off weight)
+
+An increase of weight requires us to make more speed, therefore increasing the take-off distance. As the weight factor increases, we also need to produce more lift and also requiring in a higher speed (Vlof). You can find the impact of weight on the take-off distances in the POH.
+
+A rule of thumb we can use in general aviation aircraft is: _an increase of 10% weight extends the required distance with 20%._
+
+#### Wind
+
+The wind also is a major factor in take-off distances. As an aircraft uses air masses to fly through, we get more of that air by flying into the wind, having Headwind. Therefore increasing our TAS and decreasing ground speed, resulting in needing less take-off distance.
+
+- Headwind: Decreases take-off distance
+- Tailwind: Increases take-off distance
+
+To give an indication of the differences check out the picture below, altough with headwind we will be able to reach a much steeper climb:
+
+[![jv-media-6656-umtjzra9givn.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-umtjzra9givn.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/flight-lesson-7-6656/jv-media-6656-umtjzra9givn.png)
+
+#### Density altitude
+
+The density of the air is also an important factor of the take-off distance required. As we know, the density of the air is a factor in the lift formula:
+
+- Lift = 1/2 **ρ** V² CL S
+
+| 1/2 ρ V² | CL | Surface |
+| :---: | :---: | :---: |
+| The dynamic pressure of the incoming airflow (TAS) | Lift Coefficient | The surface of the wing |
+
+The Rho (ρ) describes the density of the air. Altough the Rho and Airspeed are somewhat related as they both are in this formula:
+
+- If density (ρ) decreases, Airspeed (V) must increase
+- If density (ρ) increases, Airspeed (V) can decrease
+
+Factors which influence the Density altitude and so our distances, which can abviously be a combined factor:
+
+- High temperatures, warm air expands having less room for air molecules per m³
+- Low air pressures due to high elevation or low pressure areas
+
+In general aviation aircraft, the pressure altitude is enough as the tables and graphics in POH's already contain this correction for temperature.
+
+{{% alert title="Info" color="info" %}}
+To learn more about Density Altitude, check out: [https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude](https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude)
+{{% /alert %}}
+
+#### Runway state
+
+The state of the runway is also an important factor for our required distances.
 
 
 
@@ -283,3 +332,7 @@ The variables used are:
 We start at the left, co-relating the temperature to the pressure altitude. This corrects the pressure altitude to the actual outside temperature (hey the Density altitude). Then we shift from there in a straight line to the weight coloumn. We pick the first line there and follow that to the actual weight. Then from that weight we set a straight line to the wind component. As we have 5 knots headwind, our take-off distance will be decreased so the line has to go down. We join the first downward line to take some margin into account, leaving us with a total take-off distance of 1640ft which is 500 meters.
 
 You can also parralel the lines but this approach gives us some extra margin.
+
+{{< ads >}}
+
+{{< article-footer >}}
