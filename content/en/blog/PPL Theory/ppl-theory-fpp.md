@@ -214,7 +214,7 @@ The take-off consists of 2 different phases:
 
 In the middle of the whole take-off we have Vr speed which we start rotating to get in the air. This is the aircrafts' designed speed when taking-off is possible. We also know a Vlof speed which is the speed the plane comes loose of the ground, which is mostly close to Vr speed. We use this speed often in soft field take-offs to quickly get off the ground and win speed using ground effect.
 
-### Available take-off runway lengths
+#### Available take-off runway lengths
 
 Determining the take-off performance is part of flight preparation. The needed distances must fit within the available distances at that time. We use three different terms to indicate the available runway length:
 
@@ -240,20 +240,35 @@ Sometimes, the stopway and clearway are combined as the image below states.
 
 [![jv-media-6000-241272fcbd07.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-241272fcbd07.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-241272fcbd07.png)
 
-### Take-off distance factors
+### Landing distances
+
+We devide the landing phase into two phases:
+
+- Airborne distance: This starts at a distance of 50ft above the runway till touchdown
+- Landing ground roll: Begining from touchdown all the way till the plane has come to a complete stop
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-395978006877.png)
+
+The landing distance is therefore calculated starting from that 50ft point all the way till the end of the ground roll. The **landing distance available** (LDA) is the distance from runway threshold till the end of the runway which can be found in the AIP. Some airports have a displaced threshold where the runway doesnt start at the beginning of the runway material.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-cbb5bb7aee32.png)
+
+The part before the threshold can be used for the take-off but not for landing. This does also count for a stopway and clearway.
+
+
+### Take-off and landing distance factors
 
 [https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude](https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude)
 
-There are multiple factors influencing the take-off distance which are:
+There are multiple factors influencing the take-off and landing distances which are:
 
 - Weight (Take-off weight)
 - Wind
 - Density altitude (density of the air, Dense = more lift)
+- Approach-speed (landings)
 - Runway state (Dry, Damp, Wet or Contaminated)
 - Runway slope
 - Flaperons (Flaps)
-
-Let's dive into all these factors.
 
 #### Weight (Take-off weight)
 
@@ -261,12 +276,14 @@ An increase of weight requires us to make more speed, therefore increasing the t
 
 A rule of thumb we can use in general aviation aircraft is: _an increase of 10% weight extends the required distance with 20%._
 
+When landing, the weight will also increase our landing distance. More weight means a longer distance to stop that kinectic energy. More weight sometimes results in a higher approach speed. When landing after a flight, we have less fuel so also less weight. This lowers the gross weight. A good best practice is to use the take-off weight for your landing calculation, so you calculate with the numbers from the start.
+
 #### Wind
 
 The wind also is a major factor in take-off distances. As an aircraft uses air masses to fly through, we get more of that air by flying into the wind, having Headwind. Therefore increasing our TAS and decreasing ground speed, resulting in needing less take-off distance.
 
-- Headwind: Decreases take-off distance
-- Tailwind: Increases take-off distance
+- Headwind -> less ground speed: Decreases take-off and landing distances
+- Tailwind -> more ground speed: Increases take-off and landing distances
 
 To give an indication of the differences check out the picture below, altough with headwind we will be able to reach a much steeper climb:
 
@@ -274,7 +291,7 @@ To give an indication of the differences check out the picture below, altough wi
 
 #### Density altitude
 
-The density of the air is also an important factor of the take-off distance required. As we know, the density of the air is a factor in the lift formula:
+The density of the air is also an important factor of the take-off and landing distance required. As we know, the density of the air is a factor in the lift formula:
 
 - Lift = 1/2 **ρ** V² CL S
 
@@ -287,7 +304,7 @@ The Rho (ρ) describes the density of the air. Altough the Rho and Airspeed are 
 - If density (ρ) decreases, Airspeed (V) must increase
 - If density (ρ) increases, Airspeed (V) can decrease
 
-Factors which influence the Density altitude and so our distances, which can abviously be a combined factor:
+Factors which influence the Density altitude and so our distances, which can obviously be a combined factor:
 
 - High temperatures, warm air expands having less room for air molecules per m³
 - Low air pressures due to high elevation or low pressure areas
@@ -298,21 +315,38 @@ In general aviation aircraft, the pressure altitude is enough as the tables and 
 To learn more about Density Altitude, check out: [https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude](https://flightblog.justinverstijnen.nl/ppl-theory-fpp/#density-altitude)
 {{% /alert %}}
 
+#### Approach Speed
+
+The approach speed is often referred as the stall-speed multiplied by 1,3. In some cases we need a higher approach speed than normal, like when having more weight, flapless landing or weather conditions like gusting winds.
+
 #### Runway state
 
-The state of the runway is also an important factor for our required distances.
+The state of the runway is also an important factor for our required distances. The state is determined by three parameters:
 
+- Runway material: Paved, Grass, Sand etc.
+- Runway contamination: Dry, Damp, Wet and Contaminated
+- Runway action: Number between 1 and 6 where pilots determine the brake-action score
 
+As the surface of course is also a factor on our total needed distance for take-off and landing. A grass runway has a longer ground-roll than a asphalt runway for example.
 
+#### Slope
 
+A slope in the runway, especially in mountain-rich area's is also a major factor in take-off and landing performance. This slope is described in a percentage. This percentage is based on the difference between elevation of the threshold and end, divided by the runway length multiplied by 100. If this is a difference of more than 2 percent, this will be mentioned on the airport-charts and AIP.
 
+Taking off while going up on the slope results in a slower take-off needing more of the distance. Taking off downslope results in a shorter distance as gravity will help us gaining speed.
 
+#### Flaperons (Flaps)
 
+When performing short-field or soft field take-offs, flaps are recommended to use. Flaps increase lift, needing less runway for lifting off. This also decreases our ground roll, but increases some drag on our plane. This will result in a less steep climb-out and slower climb speed. We mostly retract them at around 200ft AGL.
 
+### Track and Crosswind components
 
+Winds can be divided into two different components when flying an aircraft:
 
+- Track wind component: The wind directly on your track (wind is determined from the source)
+- Crosswind component: The wind that comes from the sides, setting you on a different track
 
-
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-2d7520316d98.png)
 
 ### Calculating take-off distances based on graphs
 
