@@ -3,7 +3,8 @@ title: "1.10 Circuit 3 with Diversion"
 slug: "1-10-circuit-3-with-diversion"
 date: 2026-05-07
 tags: 
-categories: Flight Lessons
+categories:
+- Flight Lessons
 description: "In lesson 3 of the circuit training, we reviewed the circuit part and did a training diversion to an airfield in Germany, to experience a diversion but also a navigation flight."
 ---
 

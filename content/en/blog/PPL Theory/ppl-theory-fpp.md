@@ -2,8 +2,10 @@
 title: "Flight Planning & Performance (FPP)"
 slug: "ppl-theory-fpp"
 date: 2026-05-03
-tags: "AI Generated Content"
-categories: "PPL Theory"
+tags:
+- AI Generated Content
+categories:
+- PPL Theory
 description: "This page contains my notes for the Flight Planning and Performance exam, where different aircraft performace calculations are described."
 ---
 
