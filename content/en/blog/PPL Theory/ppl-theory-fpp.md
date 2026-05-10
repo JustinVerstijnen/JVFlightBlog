@@ -359,7 +359,7 @@ The sine and cosine are trigonometric functions to calculate a value of an angle
 
 In aviation we mostly use the much easier version described above, but now you have seen the theory about these two functions.
 
-### Calculating Take-off and landing distances
+### Calculating Take-off and landing distances based on tables
 
 To calculate and determine our take-off and landing distances, we need the numbers from the pilot operating handbook (POH) of the plane. Hiere all numbers are described in the two phases of take-offs and landings:
 
@@ -368,7 +368,7 @@ To calculate and determine our take-off and landing distances, we need the numbe
 
 For all of those calculations the numbers in the POH are the base numbers, or minimum required in best conditions based on the actual pressure altitude according to ISA and a selected temperature. On top of those numbers we add factors like described, which can look like these:
 
-Take-off
+**Take-off**
 
 | Penalty description | Increase basic required take‑off distance |
 |--------------------|-------------------------------------------|
@@ -385,10 +385,9 @@ Take-off
 | Flapless take-off | +60% |
 | Generic take-off penalty (Always applies) | +25% |
 
-This prevents discovering at 45 knots that the runway is too short.  
-Worst‑case thinking is essential.
+This prevents discovering at 45 knots that the runway is too short. Worst‑case thinking is essential.
 
-Landing
+**Landing**
 
 | Penalty description | Increase basic required landing distance |
 |--------------------|-------------------------------------------|
@@ -429,6 +428,117 @@ The variables used are:
 We start at the left, co-relating the temperature to the pressure altitude. This corrects the pressure altitude to the actual outside temperature (hey the Density altitude). Then we shift from there in a straight line to the weight coloumn. We pick the first line there and follow that to the actual weight. Then from that weight we set a straight line to the wind component. As we have 5 knots headwind, our take-off distance will be decreased so the line has to go down. We join the first downward line to take some margin into account, leaving us with a total take-off distance of 1640ft which is 500 meters.
 
 You can also parralel the lines but this approach gives us some extra margin.
+
+## Performance during cruise (4)
+
+During the cruise phase, which means we are flying horizontal and level flight with constant speed, all forces of flight are in balance:
+
+- Lift equals weight (L=W)
+- Thrust equals drag (T=D)
+
+Added to these forces is the first law of Newton, stating that an item which contains no net force, will be still or in a one-pairing movement.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-8778e5b48f64.png)
+
+Lift and weight have different application points. Lift on the pressure point of the wings and weight on the center of gravity. However, lift and weight are a pair of forces, causing the plane to be nose-heavy. This pair is compensated by the tail-heavy pair thrust and drag. The sum of the force-pair must be 0, which results in a horizontal and level flight. However in practice, there is not a complete balance between the forces. The remaining pair is compensated by the horizontal stabilizer.
+
+### Flight performances
+
+To determine flight performances we have multiple definitions available which all have their own meaning:
+
+- **Endurance**: The time which a plane can be in the air with the available fuel (*duration*), meaning we fly at the lowest fuel usage per hour and at low RPM
+  - To fly for max endurance, fly V max endurance
+- **Range**: The distance which a plane can fly with the avialble fuel (*distance*), meaning we fly at the lowest fuel usage per kilometer/mile.
+  - To fly for max range, fly V max range
+- **Radius of action** (*Actieradius*): The distance the plane can fly with the fuel and also return back to the starting point
+
+### Cruising performance factors
+
+The cruising performance of an aircraft is determined by factors like:
+
+- Wind
+- Flaps
+- Weight and Balance
+- Altitude
+- Outside Air Temperature
+
+#### Wind
+
+The wind will only affect the range, not the duration of the flight. As we know the E6B flight computer by now, we now that when wind comes from behind, the wind helps us get to the destination faster and headwind will slow us down:
+
+- Ground speed = TAS + tailwind (lower Vmax range)
+- Ground speed = TAS - headwind (higher Vmax range)
+
+If we want to fly max range, we must fly with tailwind. This brings us further on the chart. If flying both A–B and B–A routes, the negative effect of headwind is greater than the positive effect of tailwind.
+
+#### Flaps
+
+Flaps increase the parasite drag and require more engine RPM, decreasing the range and endurance. We mostly will not use flaps in cruising conditions.
+
+#### Weight and Balance
+
+The weight and balance will influence the endurance and range in their own ways:
+
+- More weight means needing more lift, also needing a higher AoA but this will also increase induced drag and ultimately needs more thrust to counter-act
+- A frontal center of gravity must be compensated by the horizontal stabilizer by a downward lift-force. This must be counter-acted by more lift on the wings, increasing drag, increasing thrust
+- A AFT center of gravity will result in less drag and needing less thrust
+
+#### Air density
+
+At higher altitudes, we have less air density. However, we need more engine RPM to fly with less air density. Less air density also means less air molecules hitting your wings and less lifting force. We must have more true airspeed (TAS) to compensate for this and this will cost more engine RPM.
+
+### Performance calculations
+
+To make a navigation-plan we must calculate the needed fuel consumption including cruise speeds in TAS. In the POH of the aircraft you can find tables, telling you exactly the fuel consumption in different scenarios which you can use for the calculation.
+
+The biggest factors are:
+
+- Density altitude (pressure altitude + temperature factor)
+- Engine RPM setting
+- Manifold pressure in constant speed propellor planes
+
+Then we reference the tables in the POH for the actual numbers. Some general rules and guidelines to use these tables for your calculations:
+
+1. Pick numbers between altitudes/temperatures if actual numbers are not available
+2. Expect worse than needed
+3. Round off to the worse side rather than to the best side
+4. The BHP is the gross crank-shaft power
+
+#### Fixed Pitch propellor
+
+For Fixed-pitch propellor planes like the Cessna 172, this table looks like this:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-bc4c510b9474.png)
+
+> **Calculation example:**
+> Pressure altitude: 2000ft
+> Temperature: 35 degrees celsius
+> Engine RPM: 2500
+> Time: 1 hour and 40 minutes (100 minutes)
+>
+> We pick 6,8 USG/h according to the table at the 20 degrees above standard/ISA section. Then we calculate the usage per minute to multiply it with the amount of minutes:
+> 6,8 USG/h : 60 minutes/h x 100 minutes cruise time = **11,33 USG** fuel usage in 1 hour and 40 minutes in these conditions.
+
+
+#### Constant speed propellor
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-26cddb4425cb.png)
+
+> **Calculation example:**
+> Pressure altitude: 4000ft
+> Temperature: 15 degrees celsius
+> Engine RPM: 2400
+> Manifold Pressure (MP): 23 inHg
+> Time: 2 hours and 15 minutes (135 minutes)
+>
+> We pick 9,3 USG/h according to the table at the standard/ISA section. Then we calculate the usage per minute to multiply it with the amount of minutes:
+> 9,3 USG/h : 60 minutes/h x 135 minutes cruise time = **20,93 USG** fuel usage in 2 hour and 15 minutes in these conditions.
+
+
+
+
+
+
 
 {{< ads >}}
 
