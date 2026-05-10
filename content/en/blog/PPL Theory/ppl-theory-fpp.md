@@ -573,13 +573,74 @@ The performance must be determined according to two criteria:
 
 The climbing angle can be calculated with this formula:
 
-sin = thrust - drag : weight
+_sin = thrust - drag : weight_
+
+The climb angle is so the difference between thrust/drag and the weight. We also can determine the angle of climb in two different ways:
+
+- **Climb angle** : The angle of climb relative to the incoming airflow
+- **Flight path angle** : The angle relative to the ground
+
+With no winds these two numbers are equal, but with a lot of headwind, the flight path angle becomes smaller meaning a steeper flight path. With tailwind, this angle will be more flattened.
 
 [![jv-media-6000-94993a821f57.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-94993a821f57.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-94993a821f57.png)
+
+The climb gradient is the transition of the climb seen over a certain distance, like over a nautical mile. If we climb 1000ft per nautical mile (6076ft), we climbed 16% of a nautical mile in a minute. (_1000 ft / 6076 ft × 100 = 16,46%_)
+
+The climbing speed/rate of climb is the vertical speed of a plane. This means as this is 1000ft, we will be 1000ft higher if maintaining that vertical speed for a minute.
 
 [![jv-media-6000-f1640aba36e4.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-f1640aba36e4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-f1640aba36e4.png)
 
 _Green: Vx speedRed: Vy speed_
+
+### Climb performance factors
+
+The climb angle and rate of climb doesnt have static values but are determined by these factors:
+
+- Air density
+- Weight
+- Flaps
+- Extended/Retracted landing gear
+- Wind
+- Bank angle
+
+Let's describe them all.
+
+#### Air density
+
+The air density is determined by air pressure and temperature, as we already know by now.
+
+- High air density means high air pressure and good aircraft climb performance
+- Low air density means low air pressure and worse aircraft climb performance
+
+The engine and propellor will perform worse with lower air pressure, as there are less air molecules to move and use to fly through. We also generate less lift, needing a higher AoA to maintain a certain amount of lift. Just enough to counteract our weight.
+
+When climbing, we eventually hit a upper altitude limit of the plane. At that point, we climbed so much that the aircraft structure cannot generate more lift and thrust to get higher. For a Cessna 172 this is around 13.000ft. We know two certain limits:
+
+- Theoretical ceiling: 0ft per minute (0 ft/min) (fpm)
+- Practical ceiling: 100ft per minute (100 ft/min) (fpm)
+
+These numbers are the result you can read on the vertical speed indicator when close to the limits. As we can almost never hit the actual ceiling, the practical ceiling is also the service ceiling described in the POH of the aircraft.
+
+#### Weight
+
+As we also already know, more weight means we need to generate more lift which therefore means more induced drag. This results in a lower rate of climb. When the plane becomes lighter after burning some fuel, the climb performance will be better.
+
+#### Flaps and landing gear
+
+Flaps and an extended landing gear will increase the parasite drag of the plane, which then will result in a slower rate of climb and a higher engine RPM.
+
+#### Wind
+
+Winds will influence the flight path angle and the climb gradient:
+
+- **Headwind:** Less groundspeed and higher climb gradient
+- **Tailwind:** More groundspeed and lower climb gradient
+
+The wind only does change the speed opposing the ground, and as we can travel more or less distance to the ground, the gradient will be different.
+
+#### Bank angle
+
+As we bank, the lift vector will also tilt, needing more lift. In turns we will use some back pressure on the yoke to counteract this. In turns with a constant speed, you will notice a speed drop as result of extra drag. In climbing turns we use a limit of 15 degrees which is a nice compromise between climb speed, loss of some lift and turn speed.
 
 {{< ads >}}
 
