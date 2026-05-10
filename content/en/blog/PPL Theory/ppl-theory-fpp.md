@@ -510,14 +510,7 @@ For Fixed-pitch propellor planes like the Cessna 172, this table looks like this
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-bc4c510b9474.png)
 
-> **Calculation example:**
-> Pressure altitude: 2000ft
-> Temperature: 35 degrees celsius
-> Engine RPM: 2500
-> Time: 1 hour and 40 minutes (100 minutes)
->
-> We pick 6,8 USG/h according to the table at the 20 degrees above standard/ISA section. Then we calculate the usage per minute to multiply it with the amount of minutes:
-> 6,8 USG/h : 60 minutes/h x 100 minutes cruise time = **11,33 USG** fuel usage in 1 hour and 40 minutes in these conditions.
+Let's dive deeper into how to use this table for your fuel caulculation:
 
 {{% alert title="Calculation example" color="success" %}}
 Pressure altitude: 2000ft <br>
@@ -525,29 +518,30 @@ Temperature: 35 degrees celsius <br>
 Engine RPM: 2500 <br>
 Time: 1 hour and 40 minutes (100 minutes) <br>
 
-We pick 6,8 USG/h according to the table. Then we calculate the usage per minute to multiple it with the amount of minutes:
+We pick 6,8 USG/h according to the table. Then we calculate the usage per minute to multiple it with the amount of minutes: <br>
 6,8 USG/h : 60 minutes/h x 100 minutes cruise time = 11,33 USG fuel usage in 1 hour and 40 minutes in these conditions.
 {{% /alert %}}
 
+You see, sometimes we must use in between numbers on the scale.
 
 #### Constant speed propellor
 
+For Constant speed propellor planes like the Cessna 208 Grand Caravan, this table looks like this:
+
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-26cddb4425cb.png)
 
-> **Calculation example:**
-> Pressure altitude: 4000ft
-> Temperature: 15 degrees celsius
-> Engine RPM: 2400
-> Manifold Pressure (MP): 23 inHg
-> Time: 2 hours and 15 minutes (135 minutes)
->
-> We pick 9,3 USG/h according to the table at the standard/ISA section. Then we calculate the usage per minute to multiply it with the amount of minutes:
-> 9,3 USG/h : 60 minutes/h x 135 minutes cruise time = **20,93 USG** fuel usage in 2 hour and 15 minutes in these conditions.
+Let's dive deeper into how to use this table for your fuel caulculation:
 
+{{% alert title="Calculation example" color="success" %}}
+Pressure altitude: 4000ft <br>
+Temperature: 15 degrees celsius <br>
+Engine RPM: 2400 <br>
+Manifold Pressure (MP): 23 inHg <br>
+Time: 1 hour and 40 minutes (100 minutes) <br>
 
-
-
-
+We pick 9,3 USG/h according to the table at the standard/ISA section. Then we calculate the usage per minute to multiply it with the amount of minutes: <br>
+9,3 USG/h : 60 minutes/h x 135 minutes cruise time = **20,93 USG** fuel usage in 2 hour and 15 minutes in these conditions.
+{{% /alert %}}
 
 
 {{< ads >}}
