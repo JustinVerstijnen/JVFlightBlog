@@ -27,4 +27,8 @@ Some remarks from this lesson for myself are:
 - Take higher circuits into account, we were a little high on final making the landing distance also very long
 - Keep the altitude better under control using visual flight -> pitch attitude
 
-All with all it was a good lesson with two decent landings and looking forward to the next one.
+All with all it was a good lesson with two decent landings and looking forward to the next one, which details will come online soon.
+
+{{< ads >}}
+
+{{< article-footer >}}
