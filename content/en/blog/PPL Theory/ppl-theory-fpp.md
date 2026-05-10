@@ -429,6 +429,8 @@ We start at the left, co-relating the temperature to the pressure altitude. This
 
 You can also parralel the lines but this approach gives us some extra margin.
 
+---
+
 ## Performance during cruise (4)
 
 During the cruise phase, which means we are flying horizontal and level flight with constant speed, all forces of flight are in balance:
@@ -542,6 +544,12 @@ We pick 8,92 USG/h according to the table at the standard/ISA section The differ
 {{% /alert %}}
 
 You see, sometimes we must interpolate the numbers on the scale or pick the worse numbers for the overview.
+
+---
+
+## Performance during climb and glide (5)
+
+
 
 {{< ads >}}
 
