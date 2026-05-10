@@ -520,7 +520,14 @@ For Fixed-pitch propellor planes like the Cessna 172, this table looks like this
 > 6,8 USG/h : 60 minutes/h x 100 minutes cruise time = **11,33 USG** fuel usage in 1 hour and 40 minutes in these conditions.
 
 {{% alert title="Success" color="success" %}}
-Calculation examplePressure altitude: 2000ftTemperature: 35 degrees celsiusEngine RPM: 2500Time: 1 hour and 40 minutes (100 minutes)We pick 6,8 USG/h according to the table. Then we calculate the usage per minute to multiple it with the amount of minutes:6,8 USG/h : 60 minutes/h x 100 minutes cruise time = 11,33 USG fuel usage in 1 hour and 40 minutes in these conditions.
+Calculation example <br>
+Pressure altitude: 2000ft
+Temperature: 35 degrees celsius
+Engine RPM: 2500
+Time: 1 hour and 40 minutes (100 minutes)
+
+We pick 6,8 USG/h according to the table. Then we calculate the usage per minute to multiple it with the amount of minutes:
+6,8 USG/h : 60 minutes/h x 100 minutes cruise time = 11,33 USG fuel usage in 1 hour and 40 minutes in these conditions.
 {{% /alert %}}
 
 
