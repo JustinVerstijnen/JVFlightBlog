@@ -348,6 +348,67 @@ Winds can be divided into two different components when flying an aircraft:
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-2d7520316d98.png)
 
+#### Sine and Cosine
+
+The sine and cosine are trigonometric functions to calculate a value of an angle.
+
+- **Cosine** (X) represents the horizontal side of the angle divided by the hypotenuse
+- **Sine** (Y) represents the vertical side of the angle divided by the hypotenuse
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-5e94e9f51626.png)
+
+In aviation we mostly use the much easier version described above, but now you have seen the theory about these two functions.
+
+### Calculating Take-off and landing distances
+
+To calculate and determine our take-off and landing distances, we need the numbers from the pilot operating handbook (POH) of the plane. Hiere all numbers are described in the two phases of take-offs and landings:
+
+- Ground roll
+- 50ft off the runway before landing or while climbing
+
+For all of those calculations the numbers in the POH are the base numbers, or minimum required in best conditions based on the actual pressure altitude according to ISA and a selected temperature. On top of those numbers we add factors like described, which can look like these:
+
+Take-off
+
+| Penalty description | Increase basic required take‑off distance |
+|--------------------|-------------------------------------------|
+| Every 100 ft aerodrome elevation above AMSL | +1% |
+| Every °C above OAT | +1% |
+| Headwind (per knot) | −1% |
+| Tailwind (per knot) | +20% |
+| Runway slope (uphill, per 1%) | ≥ 5% |
+| Grass runway – dry | +25% |
+| Grass runway – wet | +30% |
+| Soft ground | ≥ 25% |
+| Snow | ≥ 25% |
+| Gravel | +7% |
+| Flapless take-off | +60% |
+| Generic take-off penalty (Always applies) | +25% |
+
+This prevents discovering at 45 knots that the runway is too short.  
+Worst‑case thinking is essential.
+
+Landing
+
+| Penalty description | Increase basic required landing distance |
+|--------------------|-------------------------------------------|
+| Every 100 ft aerodrome elevation above AMSL | +0.5% |
+| Every °C above OAT | +0.5% |
+| Headwind (per knot) | −1% |
+| Tailwind (per knot) | +20% |
+| Runway slope (downhill, per 1%) | ≥ 5% |
+| Grass runway – dry | +30% |
+| Grass runway – wet | +38% |
+| Soft ground | ≥ 25% |
+| Snow | ≥ 25% |
+| Gravel | +7% |
+| Flapless landing | +60% |
+| Generic landing penalty (Always applies) | +43% |
+
+As we can see, much factors can determine the distances and basic required is almost never possible. However, these are summed up easily and including all factors while POH's will offer you tables like these:
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-c94ae532c743.png)
+
 ### Calculating take-off distances based on graphs
 
 A skill we need to posess is calculating take-off distances using these graphs. An example can be found here:
