@@ -549,7 +549,37 @@ You see, sometimes we must interpolate the numbers on the scale or pick the wors
 
 ## Performance during climb and glide (5)
 
+During a straight climbing flight with a constant speed, we have a balance in forces. The weight of the plane is always vertically pointed to the middle point of the earth. The lift-force always points perpendicular to the incoming air flow and up into the air. Higher pitch also means a tilted lift force.
 
+[![jv-media-6000-5e4a6d50a38a.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-5e4a6d50a38a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-5e4a6d50a38a.png)
+
+In climbing flights we have a split into two weight components:
+
+- L=G1
+- T=D+G2
+
+During climb the lift is smaller than the weight, because G1 is less than G. This lift shortage is compensated due to the thrust is slightly upward, adding a vertical component. This added upward component results in needing some less lift.
+
+[![jv-media-6000-14bd1cc52a31.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-14bd1cc52a31.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-14bd1cc52a31.png)
+
+The thrust factor must not only compensate the drag but also a part of the weight. The weight also go a component on the longitudal axis in the same direction of the drag force.
+
+### Climb performance
+
+The performance must be determined according to two criteria:
+
+- Climb angle: This is the angle in degrees of how steep the plane climbs (on digital cockpits like the Garmin G1000 this are the lines on the screen)
+- The climb speed in feet per minute (ft/min)
+
+The climbing angle can be calculated with this formula:
+
+sin = thrust - drag : weight
+
+[![jv-media-6000-94993a821f57.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-94993a821f57.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-94993a821f57.png)
+
+[![jv-media-6000-f1640aba36e4.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-f1640aba36e4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-fpp-6000/jv-media-6000-f1640aba36e4.png)
+
+_Green: Vx speedRed: Vy speed_
 
 {{< ads >}}
 
