@@ -520,7 +520,7 @@ Temperature: 18 degrees celsius <br>
 Engine RPM: 2500 <br>
 Time: 2 hour and 10 minutes (130 minutes) <br>
 
-We pick 7 USG/h according to the table, which is the in between for 2000ft 7,2 USG/h and 4000ft 6,8 USG/h. As the fuel cosumption gets less with higher temperatures, I stick with 15 degrees for ease and to calculate the worse numbers. Then we calculate the usage per minute to multiple it with the amount of minutes: <br>
+We pick 7 USG/h according to the table, which is the in between for 2000ft 7,2 USG/h and 4000ft 6,8 USG/h. As the fuel cosumption gets less with higher temperatures, I stick with 15 degrees for ease and to calculate the worse numbers. Then we calculate the usage per minute to multiple it with the amount of minutes: <br><br>
 7 USG/h : 60 minutes/h x 130 minutes cruise time = **15,16 USG** fuel usage in 2 hour and 10 minutes in these conditions.
 {{% /alert %}}
 
@@ -539,7 +539,7 @@ Engine RPM: 2400 <br>
 Manifold Pressure (MP): 22 inHg <br>
 Time: 1 hour and 50 minutes (110 minutes) <br>
 
-We pick 8,92 USG/h according to the table at the standard/ISA section The difference between ISA's 8,8 and 20 degrees less is 0,3 USG/h, so let's pick 0,3 and divide it with 20 to get the USG difference per degree. Then we multiply this with 8 for our actual temperature deviation, meaning we need to add 0,12 USG/h to our ISA hourly usage (8,8 + 0,12 = 8,92). Then we calculate the usage per minute to multiply it with the amount of minutes: <br>
+We pick 8,92 USG/h according to the table at the standard/ISA section The difference between ISA's 8,8 and 20 degrees less is 0,3 USG/h, so let's pick 0,3 and divide it with 20 to get the USG difference per degree. Then we multiply this with 8 for our actual temperature deviation, meaning we need to add 0,12 USG/h to our ISA hourly usage (8,8 + 0,12 = 8,92). Then we calculate the usage per minute to multiply it with the amount of minutes: <br><br>
 8,92 USG/h : 60 minutes/h x 110 minutes cruise time = **16,35 USG** fuel usage in 1 hour and 50 minutes in these conditions.
 {{% /alert %}}
 
