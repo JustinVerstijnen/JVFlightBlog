@@ -260,7 +260,10 @@ On planes where the fuel tanks are on the same level or lower than the carberato
 
 The fuel output point in the fuel tank is in most cases at the lowest point of the tank. However, we lose some part of the fuel making the difference between all fuel and unusable fuel. On the Cessna 172, we lose around 1,5 USG because of this. The pro of this is that possible dirt and other contamination is sinking to the bottom and not injected into the fuel system.
 
-###
+### Fuel venting system
+
+To prevent some underpressure while descending, fuel tanks consists of a venting system. This helps to maintain the atmospheric pressure in the fuel tank and is very critical at high-wing planes to ensure fuel always flows to the engine due to gravity.
+
 
 
 
