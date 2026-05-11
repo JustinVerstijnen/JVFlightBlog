@@ -126,10 +126,9 @@ If fire occurs during engine start:
 
 - Parking brake set
 - 1700 RPM
-- Wait max. 2 minutes
 - Prepare seatbelts, doors, fire extinguisher
+- Wait max. 2 minutes/120 seconds
 - If fire continues:
-
 	- Mixture cut‑off
 	- Throttle full open
 	- Fuel selector OFF
@@ -141,9 +140,10 @@ If fire occurs during engine start:
 - Mixture cut‑off
 - Throttle full open
 - Continue cranking briefly
-- Ignition & Master switch OFF
-- Fuel selector OFF
-- Extinguish fire
+- Ignition OFF
+- Master switch OFF
+- Fuel selector OFF (if possible)
+- Extinguish fire using any possible method
 
 Memory items exist because delay can cost the aircraft and lives.
 

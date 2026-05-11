@@ -18,7 +18,7 @@ Do not use specific information given like fuel flow, landing/take-off distances
 ---
 
 
-## 1. The airframe
+## The airframe (1)
 
 The frame of a plane consists of several parts, which all make flying and steering in the air possible by various actions. I will describe all parts in English and Dutch:
 
@@ -61,6 +61,9 @@ There are also planes which have a V shaped tail with a rudder and elevator comb
 We can have 2 types of tyres on arplanes:
 
 - Tube-type: This type has an inside and outside tyre, just like your bicycle
+  - More warmth
+  - Higher chance of tire blowout
+  - Contain slipmark
 - Tubeless: This only has an outside tyre
 
 Tyres can slip over the rim during landings, this is the reason maintenance does a little slipmarker on the tyre and rim. This is mostly red.
@@ -73,17 +76,93 @@ Hydraulic means litteraly transfer using liquids (hydro). We can transfer differ
 
 This means, the less surface and the more pressure, the higher the force.
 
-Liquids are a great way to transfer force, as fluids can not be compressed, like air.
+Liquids are a great way to transfer force, as fluids can not be compressed unlike air.
 
 ### Brakes
 
-Brakes are systems built on the axes of the airplane to brake it, to lose power. This process converts the kinetic energy of the plane into energy in the brakes, which is warmth.
+Brakes are systems built on the axes of the airplane to brake it, to lose power. This process converts the kinetic energy of the plane into energy in the brakes, which is warmth. Brakes are mostly powered using hydraulics.
+
+### Icing
+
+As we don't want ice on our plane or in parts of the plane, we have ice-preventing systems as we know two different categories:
+
+- Anti-icing: Systems that prevent ice from happening like windshield anti ice, engine anti-ice or the pitot heat
+- De-icing: Systems that remove already built up, like rudder boots on the trailing edge of the wing
+
+Both systems are being used to battle ice during flights.
 
 ### Fire and smoke in the plane
 
-179
+There are situations that fire and smoke can happen in the cockpit. Let's dive into the different scenarios.
 
-## 2. The piston engine
+#### Engine fire during start
+
+During starting the engine, engine fire can happen. This is mostly because of overpriming the engine, having way too much excess fuel that ignites instantly. Also priming with the throttle which pumps fuel into the carberator, increases the chance of engine fire.
+
+The actual procedure to follow during this situation is specific to your aircraft but the base is something like this:
+
+- Continue cranking for 5–10 seconds to try to suck the flames into the engine
+
+**If engine starts:**
+
+- Parking brake set
+- 1700 RPM
+- Prepare seatbelts, doors, fire extinguisher
+- Wait max. 2 minutes/120 seconds
+- If fire continues:
+	- Mixture cut‑off
+	- Throttle full open
+	- Fuel selector OFF
+	- Ignition OFF
+	- Master switch OFF
+
+**If engine does not start:**
+
+- Mixture cut‑off
+- Throttle full open
+- Continue cranking briefly
+- Ignition OFF
+- Master switch OFF
+- Fuel selector OFF (if possible)
+- Extinguish fire using any possible method
+
+#### Smoke in the cockpit
+
+Smoke can happen in the cockpit due to several causes:
+
+- Short-circuit in the electrical system
+  - Disable the complete electrical system and turn off electrical components one by one with the circuit breakers till you found the problem
+- Engine fire
+  - Mixture lean, disable fuel selector. If fire doesnt extinguish, then make a dive in the hope the fire will be put out because of the high airflow and disable Cabin Heat to prevent transition to cockpit
+- Other parts on fire
+
+To correctly battle these situations, we must first know what to do exactly in each situation. These are described in the POH of your aircraft.
+
+### Fire types and extinguishers
+
+Maintaining a fire is done by having these three components:
+
+- Fuel (flammable material)
+- Oxygen
+- High temperature
+
+By taking away only one of these three components, the fire will extinguish. We have four types of fire with possible extinguish methods:
+
+- A = All that can burn, wood, paper, textile, plastic etc
+    - All types of extinguishers
+- B = "Benzine" or oil
+    - All types of extinguishers
+- C = Gas
+    - CO2 and Halon
+- D = Metals, aluminum or magnesium
+    - Halon
+- F = Fat
+
+Water based extinguishers are not that practical for electrical and type B fires. Water is heavier than fuel. Also, Halon extinguishers are very poisonous so good ventilation is needed when using these. This also counts for CO2 type extinguishers, which are generally not for closed environments.
+
+---
+
+## The piston engine (2)
 
 In planes, the most used engine type is a four-stroke (viertakt) gasoline engine. Four strokes means that the engine uses 4 strokes to complete the fuel burn process. The engine is obviously the most important part of getting the propellor to turn.
 
@@ -114,6 +193,8 @@ Burning fuel in a 4 stroke engine is completed in 4 phases:
 
 [![jv-media-4689-82280328d4fd.gif](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-82280328d4fd.gif)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-82280328d4fd.gif)
 
+### Engine shapes
+
 There are multiple types of motorshapes. In planes, the most used shapes are:
 
 - Line engines
@@ -121,7 +202,12 @@ There are multiple types of motorshapes. In planes, the most used shapes are:
 
 [![jv-media-4689-bc8d6808273e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)
 
-Engine power is mostly indicated using Revolutions per Minute (RPM). In the cockpit we cannot read the actual power it delivers, only the RPM of the Krukas. The part which the engine powers.
+
+### Engine power units
+
+The units which can be used to measure engine power are mostly indicated in Horse Power (HP/pk). This is a worldwide standard, but sometimes the actual measurement method is described. Sometimes BHP % is used in the POHs of the aircraft. The method to measure is a special installation connected to the crankshaft, and measuring the force needed.
+
+We also have an indication of how long you may use full engine power. The indicator for maximum continious power is the maximum power you can use unlimited. Engine power is mostly indicated using Revolutions per Minute (RPM). In the cockpit we cannot read the actual power it delivers, only the RPM of the crank-shaft. The part which the engine powers and is connected to the propellor in front.
 
 At bigger heights, like from 3000ft, we need to pull somewhat on the mixture handle to reduce the amount of fuel going into the engine. At bigger altitude, the process is more inefficient when putting too much fuel into the engine.
 
@@ -135,15 +221,20 @@ Turbo-engines are in 2 types:
 - Altitude boosted: This type, the turbo always runs till big altitude to help the engine when horse power decreases
 - Ground boosted: This is the most existing type of turbo engine and the turbo always runs to increase engine RPM. This works till the critical altitude.
 
-Verder vanaf 17.
+
 
 ---
 
-Small break
+## Pitot-static instruments (10)
 
----
+The pitot-static system is a system with three indicators from the cockpit connected:
 
-## Pitot-static instruments
+- Speed indicator
+- Altitude indicator
+- Vertical Speed indicator
+- 
+
+### Pitot-static instruments
 
 The Pitot and the static port are 2 openings on a plane which measures a different type of pressure:
 
@@ -185,6 +276,11 @@ The airspeed will be measured by both the static port and pitot port. It measure
 
 ### Airspeed IAS, CAS and TAS
 
+
+
+
+
+
 ---
 
 ## Other important notes from the course
@@ -219,16 +315,7 @@ The airspeed will be measured by both the static port and pitot port. It measure
 - Anti-ice is preventing ice (prevent)
   - Pitot heat/wind shield/carb heat
 - Engine fire at starting: cranking to crank the fire into the engine
-- Fire types and extinguishers
-  - A = All that can burn
-    - All types of extinguishers
-  - B = "Benzine" or oil
-    - All types of extinguishers
-  - C = Gas
-    - CO2 and Halon
-  - D = Metals, aluminum or magnesium (D standard metal tuning)
-    - Halon
-  - F = Fat
+- 
 - Krukas connected to propellor and piston as
 - Nokkenas connected to krukas turning 50% of the krukas
 - Stijgstroom carberateur -> lucht stijgt ,gemonteerd onder de motor
