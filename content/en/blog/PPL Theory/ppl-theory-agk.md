@@ -17,7 +17,6 @@ Do not use specific information given like fuel flow, landing/take-off distances
 
 ---
 
-
 ## The airframe (1)
 
 The frame of a plane consists of several parts, which all make flying and steering in the air possible by various actions. I will describe all parts in English and Dutch:

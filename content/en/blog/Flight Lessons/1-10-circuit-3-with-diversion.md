@@ -8,6 +8,15 @@ categories:
 description: "In lesson 3 of the circuit training, we reviewed the circuit part and did a training diversion to an airfield in Germany, to experience a diversion but also a navigation flight."
 ---
 
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+
+This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
+
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
+
+> **Lesson 1.10 – Circuit 3 with diversion**
+> **Dates:** 23-04-2026
+
 ## 07-05-2026 (Diversion)
 
 Today we did a circuit training lesson with a diversion to an airfield in Germany. The purpose of this lesson was a little preparation for the upcoming solo lessons. Then I have to find a possible diversion for myself, as an airfield can be closed temporarily for several reasons. We don't want to still be in the air while having too less fuel and such.
