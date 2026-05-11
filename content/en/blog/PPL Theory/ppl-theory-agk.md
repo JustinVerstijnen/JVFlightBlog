@@ -220,6 +220,48 @@ Turbo-engines are in 2 types:
 - Altitude boosted: This type, the turbo always runs till big altitude to help the engine when horse power decreases
 - Ground boosted: This is the most existing type of turbo engine and the turbo always runs to increase engine RPM. This works till the critical altitude.
 
+### How a turbo system works
+
+A turbo system is basically a turbine and a compressor. The turbine is driven by the exhaust gasses and is connected through an axis with the compressor which is placed in the air inlet system. The compressor will increase the pressure of the air inlet, resulting in an increase in intake speed. This increases the motor-power. Turbine compressors rotate at a very high RPM, around 80.000 RPM to 100.000 RPM in some cases.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8af4825fc308.png)
+
+_The schematic drawing of a turbine-compressor combination._
+
+As a result of the compressed intake and the flow of hot exhaust gasses, the temperatures of a turbo will increase very high. Turbo's can even be glowing red. Turbo engines therefore often have a intercooler, where inlet air is compressed and colled. This is similar to a radiator. Turbo engines also need some minutes of stationary running before shutting down to completely cool down.
+
+A waste gate is a extra portion at the exhaust part where waste air can flow through in cases of having enough air. Some engines have a automatic waste gate function, in these type planes you can use full power on sea level.
+
+---
+
+## Fuel System (3)
+
+The fuel system and parts of aircraft are categorized into two categories:
+
+- The fuel tanks with the fuel lines to the engine
+- The induction system to merge the fuel with air where two types are possible
+
+The fuel system can consist of the following possible parts:
+
+- One or more fuel tanks conistsing tap-points with air vents amd cross-lines
+- A fuel selector valve to select a specfiic tank or to open both or close both
+- Fuel pumps
+- Primer system
+
+Fuel tanks are very often located in the wings, but can also be in the wingtips or fuselage parts.
+
+The goal of the fuelsystem is to drive fuel to the carberator, where the fuel and air mixture is created before being ignited in the cylinders. If fuel tanks are located above the carberator, like on the Cessna 172, the fuel will flow due to gravity feed. We do not need fuel pomps in this case, which saves us some maintenance and another important part which can be broken.
+
+[![jv-media-4689-e5feb720f7da.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-e5feb720f7da.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-e5feb720f7da.png)
+
+On planes where the fuel tanks are on the same level or lower than the carberator, the fuel needs a pump to do the work. This pump is mostly driven mechanically by the engine. For backup purposes, in most cases we also have a electronic fuel pump which is often called a stand-by pump or auxillary fuel pump.
+
+[![jv-media-4689-6b821d22dec5.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6b821d22dec5.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6b821d22dec5.png)
+
+The fuel output point in the fuel tank is in most cases at the lowest point of the tank. However, we lose some part of the fuel making the difference between all fuel and unusable fuel. On the Cessna 172, we lose around 1,5 USG because of this. The pro of this is that possible dirt and other contamination is sinking to the bottom and not injected into the fuel system.
+
+###
+
 
 
 ---
