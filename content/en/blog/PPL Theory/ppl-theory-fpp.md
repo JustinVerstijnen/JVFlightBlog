@@ -642,6 +642,53 @@ The wind only does change the speed opposing the ground, and as we can travel mo
 
 As we bank, the lift vector will also tilt, needing more lift. In turns we will use some back pressure on the yoke to counteract this. In turns with a constant speed, you will notice a speed drop as result of extra drag. In climbing turns we use a limit of 15 degrees which is a nice compromise between climb speed, loss of some lift and turn speed.
 
+### Forces while descending
+
+The forces of flight while descending are somewhat similar to climbing but then reversed. The gravity (G2) force gets a little thrust component and helping us to gain speed. This is why we descend with almost no power. During descends, the lift force ia slo a lot smaller because the negative AoA.
+
+### Forces while gliding
+
+The forces while gliding, so with zero engine power, are slightly the same as descending, but we don't have a small thrust power left. We have only some thrust left in the form of weight. This is why we sometimes call:
+
+- **Altitude** : Potential energy (more altitude can be converted into speed because of this)
+- **Speed** : Kinectic energy
+
+### Glide performace
+
+During gliding flights, in most cases during an engine failure, we have two parameters to measure the gliding performance:
+
+- Glide angle
+- Glide gradient
+
+In practice, we must immediately pitch to gain and maintain our best glide speed: Vbg. In a Cessna 172 this is around 65-68 knots. The point of minimum drag and most lift, the bottom part of the total drag curve. We want to keep as much options possible and therefore increasing the gliding distance is crucial for the options to land our aircraft. Maintaining the Vbg speed means that we have the smallest gliding angle opposing the ground.
+
+### Glide performance factors
+
+The factors which can influence our glide flight are:
+
+- Indicated Airspeed (IAS)
+- Wind
+- Flaps/Landing Gear
+- Weight
+
+#### Wind
+
+Winds are very important when aiming for the highest gliding distance. We want to get tailwind, so we take advantage of the wind gaining more distance. When we actually want to land, then headwind is more favorable.
+
+- **Headwind**: Decreases glide distance
+
+- **Tailwind**: Increases glide distance
+
+#### Flaps/Landing gear
+
+Flaps and the landing gear will increase the parasite drag of the plane. Keeping those extended will therefore decrease our gliding distance significantly. We need to keep these retracted as long as possible.
+
+#### Weight
+
+The smallest gliding angle will be reached while maintaining one certain AoA, the one with the maximum L/D ratio. The angle however says nothing about the speed. More weight means an increase in the Vbg (best glide speed). A heavier plane therefore keeps a higher airspeed, meaning in reaching the surface faster.
+
+---
+
 {{< ads >}}
 
 {{< article-footer >}}
