@@ -262,9 +262,49 @@ The fuel output point in the fuel tank is in most cases at the lowest point of t
 
 ### Fuel venting system
 
-To prevent some underpressure while descending, fuel tanks consists of a venting system. This helps to maintain the atmospheric pressure in the fuel tank and is very critical at high-wing planes to ensure fuel always flows to the engine due to gravity.
+To prevent some underpressure while descending, fuel tanks consists of a venting system. This helps to maintain the atmospheric pressure in the fuel tank and is very critical at high-wing planes to ensure fuel always flows to the engine due to gravity. This does it by maintaining the outside atmospheric pressure so no vacuum can occur. Types of venting are:
 
+- Venting pipes in the tank itself
+- Special tank caps
 
+Fuel tanks also have a **drain** at the bottom side, which can be used if any contamination or water is in the fuel and the color can be checked. Here we also have a **strainer** where water and contamination can be removed from the tank.
+
+### Vapour lock
+
+Vapour lock is a phenomenon where bells of air occur in the fuel lines, making the fuel flow very hard or sometimes even impossible. This is caused by long terms of stationary running while on a very hot, warmed by the sun, platform. To solve vapour lock, turn on the electrical fuel pump and or enhance engine cooling. Using Mogas fuel increases the chance of vapour lock.
+
+### Fuel selectors
+
+Fuel selector valves are being used to select where the fuel comes from. By setting this switch, you actually turn a mechanical valve to decide the flow of fuel. In most cases, we set this on both (if applicable) but in some cases to check or to balance the fuel in both tanks we select one of the two tanks only.
+
+### Carburation
+
+To let a piston engine work, the mixture of fuel and air must be optimal before being delivered to the cylinders. This mixture can be made using two different systems:
+
+- Carburator system
+- Injection system
+
+In the carburator, air and fuel are mixed into a optimal ratio and then will be delivered to the engine cylinders. The carburetor consists of a pipe with a narrowing, the venturi, and a throttle valve which you control with the throttle handle in the cockpit. In the venturi is a sprinkler which is connected to the float-chamber. This system is also called a updraft carburetor
+
+[![jv-media-4689-a2c6ef14c048.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-a2c6ef14c048.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-a2c6ef14c048.png)
+
+### Fuel to air ratio
+
+Chemically, combustion is a reaction of a particle with oxygen. To start a combustion, fuel must be combined with air in a specific ratio. When one of both is too less, no combustion can happen, so the combustion area of an engine is within a certain area.
+
+_To ignite 1 grams of fuel, we need 14,7 grams of air. This makes a ratio of fuel 1:14,7 air, or the mixture containing 6,4% fuel._
+
+- **Rich mixture:** 1:8 or 11,1% fuel
+- **Lean mixture:** 1:20 or 4,8% fuel
+
+In engine descriptions, the version with the ratio is almost always used as where the percentage does make more sense. We need to control the mixture because we can fly in air with a lot of air molecules close to the ground but also in air high up with way less molecules. We need to keep the ratio on about 1:14,7 which we can do by decreasing the amount of fuel. However, in situations where we use full engine power during climbing, we always use a richer mixture, as excess fuel is also used to cool cylinder heads.
+
+### Additional carburetor parts
+
+The carburetor contains some additional parts to make it work as expected:
+
+- **Idle sprinkler** (nullastsproeier): This part ensures enough fuel is sprinkled during idle power, otherwise the engine will stop working
+- **Acceleration pump** : When the throttle value is opened up quickly during acceleration, the sprinkler will start somewhat slower making the engine not run optimal. Some carburetors are equipped with a accelerationpump, pumping extra fuel into the carburetor, solving this problem
 
 
 ---
