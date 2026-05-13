@@ -404,6 +404,26 @@ Static energy can also cause interference in radio or navigation systems. To unl
 
 When the plane and tank installation have a different static load, a spark can transfer electrical load between the two objects when they are connected. To prevent this from happening and to send the electrical load directly into the ground, we always connect a plane using the ground wire during tanking operations. This is a wire we connect to a conductive part of the plane, like the nose wheel axis.
 
+### Fuel contamination
+
+Aircraft fuel must be free of dust, water and other particles. When fuel is in the tanks, fuel can be contaminated. This is the main reson to check the fuel for any contamination with a dip stick and the drain. Water is the most occuring contamination and can leak in due to vapor, leakage and during rain. Water and fuel will not merge, and water is more heavy that fuel, so water will drop down and fuel will float on top of that.
+
+### Diesel engines
+
+Diesel engines are very similar to gasoline engines. An important difference is that the diesel engine doesn't have a ignition system. The compression ratio of a diesel engine is much better and works by pushing diesel in an area of high pressure and high temperature causing the diesel to ignite. Diesel engines need a better and stronger construction because of this.
+
+Diesel engines also don't have a throttle value, but a constant flow is delivered to the engine, results in a better power to fuel ratio.
+
+Diesel engines have two engine-driven fuel pumps:
+
+- Low pressure pump: Pumps fuel to the high pressure pump
+- High pressure pump: Pumps fuel to the injection system with an overflow system, which excess diesel will flow back to the fuel tank
+
+Diesel engines also don't have mixture handles, but are electronically controlled using FADEC.
+
+---
+
+## The ignition system (4)
 
 
 
