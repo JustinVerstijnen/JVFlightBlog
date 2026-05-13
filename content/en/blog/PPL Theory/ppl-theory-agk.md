@@ -305,6 +305,106 @@ The carburetor contains some additional parts to make it work as expected:
 
 - **Idle sprinkler** (nullastsproeier): This part ensures enough fuel is sprinkled during idle power, otherwise the engine will stop working
 - **Acceleration pump** : When the throttle value is opened up quickly during acceleration, the sprinkler will start somewhat slower making the engine not run optimal. Some carburetors are equipped with a accelerationpump, pumping extra fuel into the carburetor, solving this problem
+- **Mixture-handle**: The mixture handle itself controls the amount of fuel that is mixed with the air. As you push it forward towards Rich, you get a rich mixture, meaning much fuel per air molecule. By pulling the mixture, this amount will be decreased
+- **Idle cut-off valve**: The plane also has a mixture handle that can be fully pulled to idle cut-off. This means the idle spinkler and carburetor are both disconnected from the fuel, and the engine to lose fuel resulting in a shutdown of the engine. This is the common way to turn off a planes' engine in general aviation
+- **Power enrichment system**: This system ensures in throttle full-scenario's, the fuel is somewhat more rich to help the engine cool more efficiently. Excess fuel is used to cool the cylinders
+
+### Air inlet system
+
+Air normally reaches the carburetor through the engine air inlet system. This inlet is located at the front of the aircraft, just below the propeller. Before the air reaches the carburetor, it passes through an air filter. This inlet or filter can become blocked by debris, grass, snow, ice, or other contamination, which is why inspecting the air inlet and filter area is part of the preflight inspection.
+
+On carbureted Cessna 172 models, an alternate source of air is provided through the carburetor heat system. When the carb heat control is pulled in the cockpit, a valve in the carburetor air box changes position. Instead of using the normal filtered outside air, the engine draws warmer, unfiltered air from around the exhaust heat muff.
+
+This warm alternate air helps prevent or remove carburetor ice. It can also allow the engine to keep running if the normal air inlet or air filter becomes blocked. However, because the air is warmer and less dense, using carb heat usually causes a drop (~10%) in engine power and RPM. Therefore, carb heat should be used according to the aircraft checklist and operating procedures.
+
+- Carb heat off: Filtered air from outside
+- Carb heat on: unfiltered air from the exhaust
+
+### Icing in carburetors
+
+The moisture in the air can freeze in the carburetor if the temperature there is below 0 degrees. The temperature in the carburetor is always lower than the outside air temperature, because of the following reasons:
+
+- Vaporizing of fuel: Vaporizing fuel costs energy and this is picked from the air, causing the temperature of the air to drop
+- Lower pressure in the venturi: Lower pressure means a decrease in temperature
+
+This is the reason we turn on carburetor heat in every situation in the plane where we don't use full power or cruise power. In my flight lessons, at every moment (ground excluded) where we need less than 2000RPM:
+
+- In the full circuit
+- During landing
+- During descending
+- During gliding
+
+Carb icing can happen at any outside air temperature, even on hot and sweaty days:
+
+- High humidity: The more moist in the air, the more can be frozen
+- Low engine RPM: less heat is more ice
+
+[![jv-media-4689-943b30ada4f6.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-943b30ada4f6.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-943b30ada4f6.png)
+
+We check for carb ice during the before take-off checklist by setting an RPM of around 1700, and then enabling carb heat. We can check for carb ice in these two ways:
+
+- Set Carb Heat to on: ice melts and RPM increases
+- Set Carb Heat to off: RPM increases to above the initial RPM and slowly runs back
+
+During the flight, we can recognize carb icing due to these causes:
+
+- Reduce in Engine RPM
+- Reduce in manifold pressure (constant speed propellor planes only)
+- Very inconsistent running engine
+
+Other rules about the Carb heating system are:
+
+- Disable it (OFF) mostly on the ground, due to unfiltered air
+- Disable it during climbs and go-arounds to get the best engine performance
+- Enable or disable Carb Heat, no in between settings
+- Carb Heat on means higher fuel usage
+
+### Fuel injection
+
+Carburetors have two important downsides:
+
+- Icing in the venturi, possibly causing dangerous situations if not handled properly
+- Fuel/air mixture distribution over cylinders is not equal
+
+These problems can be solved by using fuel injection. This system, which is available in modern aircrafts, has an injection in every cylinder controlled by a fuel control unit in between.
+
+[![jv-media-4689-c9ac227ff5bc.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c9ac227ff5bc.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c9ac227ff5bc.png)
+
+Just like the older carburation system we have a throttle valve, controlling how much fuel is pushed to the engine. This fuel now reaches the fuel control unit which equally distributes the available fuel onto the cylinders using the fuel divider. Most gasoline-based engine will inject the fuel continuously, not only when busy in the intake stage.
+
+Fuel injection systems are always equipped with two possible ways of pumping fuel, which can be mechanical, using gravity or electrical. In the fuel manifold the fuel flow is measured, just like described in the disgram above.
+
+Fuel injection systems are more complex and more expensive than carburetor systems, but we don't need to bother about that carb heat again.
+
+### Aircraft fuel types
+
+In aviation we know three types of fuel, each for their own cause.
+
+| Fuel type | Description | Used for aircraft type |
+| --- | --- | --- |
+| Mogas | Mogas is just car gasoline (motor-gasoline) and is clear of color | Cessna 172, Piper aircraft etc. |
+| AVGAS 100LL | AVGAS is leaded and colored blue and is gasoline with lead | Cessna 172, Piper aircraft etc. |
+| AVGAS 91UL | AVGAS 91UL is unleaded and is the same as the 100 AVGAS, without the lead | Cessna 172, Piper aircraft etc. |
+| Jet-A1 | "Kerosine" used in turboprops or jets. This is very similar to diesel | All jet-driven (passenger) planes, turboprops like Cessna 208 Grand Caravan |
+
+An important parameter of fuel for planes is the knock resistance (klopvastheid). Fuel with a low knock resistance can burn under high pressure and normal operating temperature, leading to detonation. This is called detonation and results in a rough running engine.
+
+Most planes can, some with some revisions, run on both AVGAS and MOGAS. The primary reason to use one of the two is the price. At this moment, the prices in the Netherlands are around:
+
+- AVGAS: 3,94 per liter
+- Mogas: 2,63 per liter
+
+Fluids themselve cannot burn. They first have to vaporize and the vapor needs to have a specific mixture with air to actually burn.
+
+### Static electricity and Fuel
+
+Resistance of two substances can produce a separation of electrical load. If the contact is broken, the two substances keep their electrical load. A plane can be loaded statically by precipitation, dust or sand in the air. This can also happen due to the flow of fuel in the tank installation. A passing thunderstorm can also cause a plane to be statically loaded.
+
+Static energy can also cause interference in radio or navigation systems. To unload the plane from static energy, the plane has some static wicks, paths of low resistance with the air to unload itself which are mostly attached to the elevator and ailerons.
+
+When the plane and tank installation have a different static load, a spark can transfer electrical load between the two objects when they are connected. To prevent this from happening and to send the electrical load directly into the ground, we always connect a plane using the ground wire during tanking operations. This is a wire we connect to a conductive part of the plane, like the nose wheel axis.
+
+
 
 
 ---
