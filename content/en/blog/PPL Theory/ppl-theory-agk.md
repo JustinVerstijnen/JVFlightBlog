@@ -505,7 +505,6 @@ The pitot-static system is a system with three indicators from the cockpit conne
 - Speed indicator
 - Altitude indicator
 - Vertical Speed indicator
-- 
 
 ### Pitot-static instruments
 
