@@ -425,6 +425,75 @@ Diesel engines also don't have mixture handles, but are electronically controlle
 
 ## The ignition system (4)
 
+After we have discussed the carburetion and injection system of engines, we will now take a closer look at the ignition system of general aviation aircraft. Ignition of the fuel/air mixture is what our propellor causing to turn and giving us thrust.
+
+With gasoline engines, fuel/air mixture is ignited using a spark which is produced by a spark plug using high voltage. This voltage is around 20.000 volts and this voltage is produced by the magneto's. The goal of the ignition system is to generate high voltage so the spark plugs will spark at the right moment to ignite the fuel/air mixture.
+
+Parts of the ignition system are:
+
+- **Magneto's**
+- **Voltage distribution system** to distribute the voltage over the spark plugs
+- **Spark plug cables** : to conduct the voltage from the distributor to the spark plugs
+- **Spark plugs** which generates a spark and ultimately ignites the fuel/air mixture in the ignition phase of the cylinder
+
+### Magneto ignition
+
+In aircraft the engines use magnet-based systems to generate high voltage. This magnets are typically the dynamo's where aircraft engines have two of, the left and right magneto. These magnets will spin around very fast. As long as the engine runs, the magneto's will turn, making them completely separate from the electrical system which you control with the Master switches and alternator. Also we have some redundancy in if there is a problem in the L magneto circuit, we can run on R and still land the aircraft safe and sound. However, using one of two magnetos will result in a ~10% performance loss.
+
+The magnetos are connected with gears to the crank shaft, the main shaft of the engine that rotates and is connected to the propellor, and they rotate within a coil. A rotating or moving magnet inside a coil produces electrical current, which is delivered to the spark plugs.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9a989fa93a4f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9a989fa93a4f.png)
+
+The produced voltage is dependent of the turning speed of the magnet. How faster the engine runs, the more voltage is produced. When starting, this system needs a impulse, mostly installed on the left magneto, which delivers more voltage in a short while and igniting just later to start the engine smoothly.
+
+{{% alert title="Warning" color="warning" %}}
+A plane which has its contact not set to off runs in standby, and a minor movement in the propellor can result in the engine running. This is called hot prop. Always set the contact to OFF and the mixture to Idle cut-off when parking a plane.
+{{% /alert %}}
+
+### Start vibration
+
+An alternative solution to the impulse link is an electrical start vibration system. The starting vibration will give the left magneto a pulsing voltage. This will result in a serie of sparks, but can only be used if having enough battery power.
+
+### Ignition moment
+
+The ignition must happen on the right moment to be effective. If the fuel/air mixture is not ignited at the right moment, this will work against you instead of helping you further.
+
+- Pre ignition: This is when the mixture is ignited too early
+- Detonation: This happens when the pressure builds up in the cylinders and igniting at the wrong moment, leading to engine damage.
+
+Some causes of detonation are:
+
+- High engine temperature and too less cooling
+- Too lean mixture
+- Hot spots in the engine, like a hot spark plug
+- Fuel with too low knock resistance or too low octane number
+- Pre ignition
+
+### Spark plug contamination
+
+A spark plug that has the right working temperature, will clean itself and will be free of carbon or lead. With running stationary for a long time, the optimal temperature will not be reached and can result in the engine running too rough. This is the reason we set the engine for around 1000 rpm during taxi and stationary, which is higher than the complete idle RPM, which is around 600-650RPM.
+
+### Diesel engines and ignition
+
+Diesel engines doesn't have spark plugs. Diesel engines will suck air and compress this. At the end of the compression stage the diesel will be injected into the cylinder, causing it to ignite due to the high pressure and temperature. Mostly similar to gasoline-driven engines but doesn't have spark plugs.
+
+### Ignition switch
+
+General aviation planes have a ignition switch where we control the ignition system with. This mostly have 5 different modes:
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8a8f1d771a52.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8a8f1d771a52.png)
+
+- **OFF** : Here the magnets are connected to the ground of the plane and disconnected from any source of power. No sparks will be produced in this setting, during normal situations
+- **R** : Only the right magneto works in this setting
+- **L** : Only the left magneto works in this setting
+- **Both** : Both magnetos are working in this setting
+- **Start** : The starting engine is powered in this setting and only the left magneto as impulse
+
+During the before take-off checklist, we test the magneto's on working and stability. If one of the two is not working properly, we will confronted with this at this moment. If the engine is running on one of the two magnetos, we should get a ~10% RPM drop. If one of the two is defective or inoperative, the RPM will not drop during the switch to R or L, and then can result in the engine turning off as we set a defective and non-voltage generating magneto.
+
+A magneto can also be defective due to a grounding problem. During the run up, we will not see an RPM drop on one of the two separate settings. This can make the plane dangerous, and we may not park this plane without a good indication, as the magneto's will be still powered. Rotating the prop results in a engine start. This will be minimized by disabling the engine using the mixture to idle, where no fuel is left in the cylinders and nothing to burn.
+
+
 
 
 ---
