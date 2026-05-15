@@ -491,7 +491,142 @@ General aviation planes have a ignition switch where we control the ignition sys
 
 During the before take-off checklist, we test the magneto's on working and stability. If one of the two is not working properly, we will confronted with this at this moment. If the engine is running on one of the two magnetos, we should get a ~10% RPM drop. If one of the two is defective or inoperative, the RPM will not drop during the switch to R or L, and then can result in the engine turning off as we set a defective and non-voltage generating magneto.
 
-A magneto can also be defective due to a grounding problem. During the run up, we will not see an RPM drop on one of the two separate settings. This can make the plane dangerous, and we may not park this plane without a good indication, as the magneto's will be still powered. Rotating the prop results in a engine start. This will be minimized by disabling the engine using the mixture to idle, where no fuel is left in the cylinders and nothing to burn.
+A magneto can also be defective due to a grounding problem. During the run up, we will not see an RPM drop on one of the two separate settings. This can make the plane dangerous, and we may not park this plane without a good indication mark, as the magneto's will be still powered. Rotating the prop results in a engine start. This will be minimized by disabling the engine using the mixture to idle, where no fuel is left in the cylinders and nothing to burn.
+
+---
+
+## Engine cooling (5)
+
+When burning fuel, a huge amount of heat is produced. As this will increase at higher RPMs and higher throttle settings, the engine needs to be cooled. Proper engine cooling extends the lifetime of an engine. At the best working temperature, the engine runs optimally which we want. We then get the most out of the engine. Other cons of high engine temperatures are thin or burnt oil, defective pistons, spark plugs and such.
+
+In general aviation aircraft, these types of engine cooling is being used:
+
+- Air cooling
+- Liquid cooling
+
+Most aircraft use air cooling or a combination of both. Liquid cooling is often used for cylinder heads and with diesel engines.
+
+Apart from the cooling system, excess warmth is also dispatched through oil and oil coolers. Fuel also helps cooling the engine. Using a more rich mixture will cool the engine as this evaporates. This evaporation will help to cool the cylinder heads.
+
+### Air cooling
+
+The cooling with air is very easy on airplanes. As air will flow through the openings at the front when flying this already has a major impact. The propellor also blows some air into the inlets at the front. Inside, most parts are equipped with big metal parts which pickup most of this air to cool and conduct the heat out. Most parts have cooling fins, making the contact-surface bigger and better cooling. Inside the engine compartment, some baffles (leiplaten) are added to redirect the airflow for optimal cooling.
+
+Optimal cooling of the engine is reached during the cruise phase, as this redirects the most air at the highest speed into the air intakes. During climbs or running stationary the cooling will be worse.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-729e4b97bbb4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-729e4b97bbb4.png)
+
+### Cowl flaps
+
+Cowl flaps are used to redirect the airflow in a sucking motion, enhancing engine cooling and performance. These are often used in turbo-compressor engines. These are mostly open during taxi, take-off and climb and closed on cruise. Then re-opened at landing. If a plane has any problems with cooling in cruise, they can be re-opened.
+
+### Liquid cooling
+
+An engine can also be cooled with liquid. Liquid can reach places with tubing where air cannot flow through. However, this is another extra reservoir, radiator and pump which can be defective. Liquid cooling is also more stable, and the radiator will only be opened when the cooling liquid reaches around 80-85 degrees celcius. Also the liquid will expand when being warm and contract when its cold, so an expansion reservoir is also installed.
+
+---
+
+## Engine lubrication (6)
+
+An engine needs to be lubricated using oil. The oil has these primary functions:
+
+- Decreasing friction between parts
+- Decreasing temperature and wear
+- Cooling by conducting due to friction and burning which is called internal cooling
+- Transporting small parts of wear and burnt carbon particles
+- Securing metal surfaces from corrosion and from burnt fuel
+- Closing the gap between cylinder wall and piston
+
+We can use oil in two separate ways to get oil at the right places where engines can use both simultaneously:
+
+- Pressure lubrication: Primary way, uses pressure built up by a pump to flow the oil around the circuit, reaching the crank shaft, bearings and camshaft.
+- Splash lubrication: Uses splashing to cool and lubricate the bottom of the pistons and cylinders and bottom of the crank shaft
+
+### Oil circulation systems
+
+In airplane engines, we can use two different oil circulation systems:
+
+- **Wet sump** : In a wet sump system, oil is stored in the oil cump (carterpan), installed at the bottom side of the engine. The oil pump will pump this oil from the sump to the oil filter and then through the systems. From the engine, every droplet of oil that leaks is redirected back to this sump. This system is cheap and light and therefore used in much smaller airplanes
+- **Dry sump** : In a dry sump system, oil is stored in a separate tank. The engine has a small carter to catch oil which drops back from the engine after doing its job. A separate scavenge pump will pump the oil which reached the carter to the oil reservoir. A dry sump system needs therefore two pumps, one for the system and one to pump oil back to the reservoir. This system is mostly used in aerobatic planes, where the engine is inverted so you can fly at inverted positions without an engine that turns off.
+
+### Oil cooling
+
+To cool the oil and regulate the temperature of the oil we have a oil cooling system, equipped after the oil pump, before the oil is pumped into the engine. This cooler is a thermostatic temperature regulator which is cooled by the cooling air which flows in the engine compartment. This also works with a bypass system, redirecting directly or via the cooling compartment. If the oil pressure is high, this will also open to always have oil in the engine.
+
+The oil filter is a paper filter in a metal case, around the size of a can of soda and is replaced every 50 flight hours.
+
+### Engine oil types
+
+Oil consists of hydrocarbons and needs additives to lubricate the engine in a broad working temperature range. A cold engine needs to have the same lubrication as a warm engine. Oil has the following properties:
+
+- **Viscocity** : The viscocity of the oil states how syrupy the oil is. The higher the number, the thicker, and the more resistance of flowing, also dependent of the temperature of the oil
+
+In plane engines, we use both single grade and multigrade oil types. Single grade has big difference in temperature ranges and multigrade is "graded" for multiple temperature ranges. In the summer, we need to use thinner oil.
+
+The indication is:
+
+- **Single grade oil** : oil 80 or 100
+- **Multi grade oil** : 15W50
+
+Multigrade has the gradation in the name. During cold operations, the first number states the viscocity and at high temperatures the second number. Due to different additives the oil becomes more thick with a higher viscocity. In this number, the W stands for "Winter", so Viscocity 15 during Winter (cold start) and 50 during engine operating temperature.
+
+### Oil pressure
+
+In the oil system, the oil pressure is regulated by the oil pump which is directly driven by the engine. The oil pump delivers pressure at a very low temperature. To prevent the pressure exceeds the limits during high RPM situations, the engine contains a pressure relief valve. Via the pressure relief valve the oil will be pumped back to the carter. This flap will open at a certain pressure and stabilizes the oil pressure.
+
+The most important indicator of the oil system is the oil pressure meter. A minimum pressure is needed to take care of having enough oil in the engine and enough cooling and lubrication.
+
+- **Low oil pressures:** Lead to bigger wear, high temperatures and in worst case engine failure
+- **High oil pressures:** Lead to leakage, damaged oil filter or damaged oil cooler
+
+The normal and allowed ranges and limits are described in the POH. On the indicator, we get a good view of what is normal, too high or too low.
+
+Too low and too high oil pressure can have similar causes, so let's sum them up in a table:
+
+| Cause | Too low pressure | Too high pressure |
+| --- | --- | --- |
+| Wrong oil | Too thin | Too thick |
+| Too low oil value | Yes | No |
+| Oil temperature | Too high | Too low |
+| Blockage in the oil system | Yes | Yes |
+| Defective oil pump | Yes | Yes |
+| Defective indicator | Yes | Yes |
+| Defective oil pressure relief valve | Yes | Yes |
+
+A high oil pressure can happen if the engine is just started and cold. The oil is too thick and will be pumped hardly into the engine. When the engine has warmed up the viscocity will lower and the oil pressure will be within normal operating ranges.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2da592f239b2.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2da592f239b2.png)
+
+### Oil temperature
+
+Next to the oil pressure, the second most important indicator of the engine health is the temperature. The temperature will decide the viscocity and the lubricating properties of the oil. High engine temperatures can be caused by:
+
+- Too much heat production in the engine, high environmental temperature
+- Flying at high RPM too long
+- Lean mixture
+- Too less cooling in the engine, possibly during climb
+- Too low engine oil-value
+- Defective or dirty oil cooler
+- Defective indicator
+
+The oil temperature is dependent of the operating temperature in the engine. If this temperature is too high, then we can take some steps to try and resolve this high temperature by picking less RPM, flying faster for more and better airflow, riching the mixture or to open the cowl flaps.
+
+High oil temperatures often happen with low pressure. By the high pressure, the pressure drops as the oil gets thinner. If the engine cooling is enhanced, the temperature and pressure will be normalized.
+
+### Oil usage
+
+Every engine will use oil but the amount of oil is dependent on several factors. The oil usage will be dependent on:
+
+- Type of oil
+- Condition of cylinders
+- Condition of pistons
+- Condition of piston springs
+
+A new engine which doesnt have already lubricated piston springs uses more oil. The same counts for older engines with much wear to the piston springs.
+
+---
+
+## Constant Speed Propellors (7)
 
 
 
