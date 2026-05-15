@@ -593,7 +593,7 @@ Too low and too high oil pressure can have similar causes, so let's sum them up 
 | Defective indicator | Yes | Yes |
 | Defective oil pressure relief valve | Yes | Yes |
 
-A high oil pressure can happen if the engine is just started and cold. The oil is too thick and will be pumped hardly into the engine. When the engine has warmed up the viscocity will lower and the oil pressure will be within normal operating ranges.
+A high oil pressure can happen if the engine is just started and cold. The oil is too thick and will be pumped hardly into the engine. When the engine has warmed up the viscocity will lower and the oil pressure will be within normal operating ranges. An engine takes around 10-20 minutes to fully warm up every component.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2da592f239b2.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2da592f239b2.png)
 
