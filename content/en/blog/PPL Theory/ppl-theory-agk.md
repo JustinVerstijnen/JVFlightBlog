@@ -664,6 +664,52 @@ Smaller planes are often equipped with single acting variable pitch propellors, 
 
 As we already discussed, when powered hydraulically, the system uses the engine oil to function. The pitch of the blades is mechanically limited to help us in failures. When oil pressure is lost, the propellor blades will set by spring force to the fine pitch setting (high RPM) making it a fixed pitch propellor and us able to land safely. This also needs a limited airspeed and limited engine RPM setting as the engine RPM can now be exceeded by the low propellor drag.
 
+---
+
+## Engine Instruments (8)
+
+The engine is of course one of the most important systems in our aircraft. Without the engine we were not able to produce enough thrust to produce lift, and being able to fly. As we have several instruments in the cockpit that tells something about the current state of the engine at any time, we will dive into the properties of each indicator and system.
+
+Let's take a look at the types of engine instruments we have in our cockpit:
+
+- Pressure-indicators
+- Temperature indicators
+- Revolutions per minute (RPM) indicator
+- Fuel indicators
+
+We will now dive deeper into the various indication systems and what we can expect from our plane.
+
+### Pressure indicators
+
+The engine indicators measuring and showing pressure are:
+
+- Oil pressure: this shows the pressure in PSI and the rate of circulation
+- Fuel pressure
+- Manifold Pressure
+- Static and Dynamic pressure
+- Hydraulic pressure
+
+We can indicate pressure primairily with the Pascal unit. One pascal is equal to one Newton per square meter (1 N/m²). In most cases, some older or American units are used in aircrafts:
+
+| Unit |  | Pascal (1 hPa = 100 Pa) |
+| --- | --- | --- |
+| Bar | 1 millibar | 1 hPa |
+| Inches of mercury | 1 inHg | 34 hPa |
+| Pound-force per square inch | 1 psi | 69 hPa |
+
+### Temperature indicators
+
+### Revolutions per minute (RPM) indicator
+
+### Fuel indicators
+
+The engine indicators measuring and showing properties about the fuel are:
+
+-
+
+
+
+
 
 
 ---
