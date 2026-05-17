@@ -677,7 +677,18 @@ Let's take a look at the types of engine instruments we have in our cockpit:
 - Revolutions per minute (RPM) indicator
 - Fuel indicators
 
-We will now dive deeper into the various indication systems and what we can expect from our plane.
+We will dive deeper into the various indication systems and what we can expect from our plane.
+
+### Color markings
+
+All of the indicators in an aircraft are marked with colors to tells us easily if units are within limits or not. Here we can take these into account:
+
+- **Green area:** Normal operating range, everything healthy
+- **Yellow area** : Operating area with possible precaution but indicators can reach this in situations like take-off
+- **Red line** : Minimal and maximum value for safe use
+- **Red area** : Non-normal area and will indicate possible failures if not reacting to them
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3b81b77f3fb4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3b81b77f3fb4.png)
 
 ### Pressure indicators
 
@@ -697,18 +708,45 @@ We can indicate pressure primairily with the Pascal unit. One pascal is equal to
 | Inches of mercury | 1 inHg | 34 hPa |
 | Pound-force per square inch | 1 psi | 69 hPa |
 
+Pressure is mostly measured by flexible metal boxes or pipes. We have two types which are mostly used:
+
+- **Aneroid:** This is a method where a diaphragm is used. This diaphragm is placed in a box with the pressure connected to the static pressure system with a determined amount of pressure inside the diaphragm. This diaphragm expands and contrapts based on the static pressure in the box, giving an indication by a grear connected indicator needle.
+- **Bourdon-pipe:** A bourdon pipe is a mechanical solution of measuring high amounts of pressure. This is a flexible pipe which will stretch when the pressure inside increases. This stretching movement is then transferred using a gear to the indicator needle, showing the actual state of the pipe behind.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1826a1198117.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1826a1198117.png)
+
 ### Temperature indicators
 
+Temperature in aviation is often measured in these three units:
+
+- **Celcius (C)** : This is the primary method around the world to measure temperature, which has a logical scale:
+	- 0 degrees: freezing
+	- 100 degrees: cooking
+- **Kelvin (K)** : This is the temperature of absolute zero molecule movement, which is 273,15 degrees celcius
+	- Kelvin = Celcius - 273,15
+- **Fahrenheit (F)** : This is an American scale, where 0 degrees celcius is 32 degrees Fahrenheit
+  - Fahrenheit = Celcius × 1,8 + 32
+
+We get some indications about temperatures in our aircraft, telling us different things:
+
+- **Cylinder Head Temperature (CHT):** Measuring the temperature of the cylinder head metal. This is important because the cylinder head is one of the hottest and most stressed parts of an air-cooled piston engine and too hit CHT can lead to a rough running engine
+- **Exhaust Gas Temperature (EGT):** EGT shows the temperature of the exhaust gases leaving the cylinder. This tells the pilot how combustion is behaving and especially important when leaning the mixture
+- **Oil Temperature:** The temperature of the engine oil and so the mean engine temperature, giving us indications of possible overheating
+- **Coolant Temperature:** The temperature of the coolant fluid, giving us indications of possible overheating
+- **Outside air temperature:** This indicator measures the temperature outside of the aircraft, enables us to make TAS calculations or assess risk of ice deposits
+
 ### Revolutions per minute (RPM) indicator
+
+We only have one RPM indicator per engine. As we may only fly with planes with one engine with the PPL license, we need to monitor only one indicator.
 
 ### Fuel indicators
 
 The engine indicators measuring and showing properties about the fuel are:
 
--
-
-
-
+- Fuel pressure
+- Fuel quantity indicators
+- Fuel temperature
+- Fuel flow
 
 
 
