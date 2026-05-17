@@ -628,6 +628,41 @@ A new engine which doesnt have already lubricated piston springs uses more oil. 
 
 ## Constant Speed Propellors (7)
 
+Constant Speed Propellors or variable pitch propellors are propellors where the angle of the propellor blades can be adjusted based on the phase of flight. Planes with this feature often have more blades than 2 on each propellor and are equipped with a blue Prop RPM handle in the cockpit, next to the black throttle and red mixture. Pro's of planes with this feature is that they are much more efficient, generating more thrust with less engine RPM. With the black handle, we control fuel inlet pressure which is called Manifold pressure and with the blue handle we control the speed of the propellor, the RPM and indirectly the blade angle.
+
+Planes equipped with constant speed propellors are also equipped with a governor. This is a part in the plane that actually sets the correct propellor blade based on the handle setting.
+
+- When **taking off** and climbing: blades are set to full fine ( **High RPM** )
+- When **cruising** : blades are set to coarse blade angle ( **Low RPM** )
+
+As the propellor will always rotate at the same RPM, the angle of attack and drag can reduce when in horizontal flight as we go at a faster airspeed. This makes the plane setting a more coarse blade angle to increase this, making the engine run on lower RPMs than with fixed pitch propellors and having more control + efficient use of engine power.
+
+Most blade-change systems are hydraulic, but some are also powered electrically. Hydraulic systems make use of the oil pressure to control the mechanism, so this also uses engine oil.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c68cd00156b6.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c68cd00156b6.png)
+
+How this system works:
+
+1. When setting the handle to Low RPM which is fully backward, the spring on the governor (the vertical pipe and part of the constant speed unit) will push on the fly weights which are those two balloons, making them fly outwards. They rotate at the crank shaft speed as a gear connects the governor to this crank shaft
+2. The fly weights are engine RPM sensitive, making them fly outwards due to high RPM and fly inwards at low RPM due to centrifugal force
+3. The fly weights are connected to the pilot valve, which is a valve that can complete the oil circuit to the propellor, in Low RPM settings this valve will open, at High RPM the valve will close
+4. The propellor hub is hydraulically powered by the high pressure oil pump pushing the blade to a bigger angle.
+
+### Overloading the engine
+
+When a high manifold pressure is combined with a low engine RPM the engine can fill up the cylinders too much, causing extreme pressure and temperature in the ignition space and can overload the pistons and crank shaft. This also increases the chance of detonation. Refer to the POH of the plane for recommended setting combinations.
+
+### Pre-flight check
+
+During the pre-flight check, we will check the governor operation. This can be done when the engine is running and when it is in normal operation temperature. We will set the handle over the full range for a few times and check if the RPM changes value. Doing this multiple times will ensure the warm engine oil reaches the system and guarantee fully operation.
+
+### Single acting variable pitch propellor
+
+Smaller planes are often equipped with single acting variable pitch propellors, where the blade angle is controlled one-way with oil pressure. The oil pressure ensures a coarse blade angle where centrifugal forces will ensure a fine pitch angle.
+
+### Loss of oil pressure
+
+As we already discussed, when powered hydraulically, the system uses the engine oil to function. The pitch of the blades is mechanically limited to help us in failures. When oil pressure is lost, the propellor blades will set by spring force to the fine pitch setting (high RPM) making it a fixed pitch propellor and us able to land safely. This also needs a limited airspeed and limited engine RPM setting as the engine RPM can now be exceeded by the low propellor drag.
 
 
 
