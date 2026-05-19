@@ -694,11 +694,11 @@ All of the indicators in an aircraft are marked with colors to tells us easily i
 
 The engine indicators measuring and showing pressure are:
 
-- Oil pressure: this shows the pressure in PSI and the rate of circulation
-- Fuel pressure
-- Manifold Pressure
-- Static and Dynamic pressure
-- Hydraulic pressure
+- **Oil pressure** : this shows the pressure in PSI and the rate of circulation
+- **Fuel pressure**
+- **Manifold Pressure:** This shows the fuel pressure after the throttle valve and is the amount of fuel injected into the cylinders. This is expressed in inches of mercury (inHg)
+- **Static and Dynamic pressure**
+- **Hydraulic pressure**
 
 We can indicate pressure primairily with the Pascal unit. One pascal is equal to one Newton per square meter (1 N/m²). In most cases, some older or American units are used in aircrafts:
 
@@ -720,16 +720,20 @@ Pressure is mostly measured by flexible metal boxes or pipes. We have two types 
 Temperature in aviation is often measured in these three units:
 
 - **Celcius (C)** : This is the primary method around the world to measure temperature, which has a logical scale:
+
 	- 0 degrees: freezing
 	- 100 degrees: cooking
 - **Kelvin (K)** : This is the temperature of absolute zero molecule movement, which is 273,15 degrees celcius
 	- Kelvin = Celcius - 273,15
 - **Fahrenheit (F)** : This is an American scale, where 0 degrees celcius is 32 degrees Fahrenheit
-  - Fahrenheit = Celcius × 1,8 + 32
+	- Fahrenheit = Celcius × 1,8 + 32
 
 We get some indications about temperatures in our aircraft, telling us different things:
 
-- **Cylinder Head Temperature (CHT):** Measuring the temperature of the cylinder head metal. This is important because the cylinder head is one of the hottest and most stressed parts of an air-cooled piston engine and too hit CHT can lead to a rough running engine
+- **Cylinder Head Temperature (CHT):** Measuring the temperature of the cylinder head metal. This is important because the cylinder head is one of the hottest and most stressed parts of an air-cooled piston engine and too hit CHT can lead to a rough running engine. High temperatures can be resolved by
+	- More rich mixture
+	- Decrease of engine RPM
+	- Enhancing cooling, open cowl flaps or fly at a higher speed
 - **Exhaust Gas Temperature (EGT):** EGT shows the temperature of the exhaust gases leaving the cylinder. This tells the pilot how combustion is behaving and especially important when leaning the mixture
 - **Oil Temperature:** The temperature of the engine oil and so the mean engine temperature, giving us indications of possible overheating
 - **Coolant Temperature:** The temperature of the coolant fluid, giving us indications of possible overheating
@@ -739,14 +743,119 @@ We get some indications about temperatures in our aircraft, telling us different
 
 We only have one RPM indicator per engine. As we may only fly with planes with one engine with the PPL license, we need to monitor only one indicator.
 
+RPM indicators show the amount of rotations the propellor makes in a minute. In planes where the propellor is mounted directly on the crank shaft, we also get the RPM of the crank shaft with this indication. With fixed-pitch propellor planes, this means engine RPM equals propellor RPM. More RPM is more power (thrust).
+
+Some engines like Rotax have a gearbox between the crank shaft and the propellor which allows the propellor to rotate at a lower RPM than the engine. This RPM indicator will show the RPM of the propellor in such cases.
+
+Propellor RPMs are often limited to around 2700 RPM. Above this rotation speed, the tips will reach the speed of sound (Mach 1) and this heavily decreases the performance of the propellor.
+
+RPM indicators are very often mechanically powered. A flexible cable is connected to the engine on one end. The other end is connected to the RPM indicator in the cockpit. This other end has a magnet connected to it which rotates in a copper tube. This will produce **eddy currents**, resulting in the copper tube rotating in the same direction. The rotation of this tube is then somewhat limited by a spiral spring.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2a13f78a8149.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2a13f78a8149.png)
+
+{{% alert title="Info" color="info" %}}
+Eddy currents is voltage which is produced when a magnet rotates at high speed close to a conducting material.
+{{% /alert %}}
+
+Some planes are equipped with a torque indicator as indicator for the amount of engine power. A torque meter is often used when the crank shaft and propellor are separated by a gearbox and is determined by performing oil pressure measurements in the gearbox.
+
+- Torque (Nm) = force (N) × arm (M)
+- Power (Watt) = torque (Nm) × revolutions **per second**
+
+_Nm = Newtonmeter, unit of rotation power where we multiply the amount of newton against the amount of meters (__10 N × 0,5 m = 5 Nm)_
+
+Some planes also show a percentage of the maximum power or the engine power rating (EPR), but this is mostly used on Jet airliners.
+
 ### Fuel indicators
 
 The engine indicators measuring and showing properties about the fuel are:
 
-- Fuel pressure
+- **Fuel pressure:** This shows the pressure of the fuel in the tubes to the carburetor. This is required when the plane has a fuel pump as primary circulation force, where a low fuel pressure can indicate a low tank or a defective fuel pump
+- **Fuel quantity indicators:** This logically shows how much fuel there is in a certain tank using a floating object, connected to a metal arm which is electronically powered. This is by far the most inaccurate instrument in a plane, so always do a physical inspection with a dipstick. Its also unaware of the attitude of the plane.
+- **Fuel temperature:** This indicates the temperature of our fuel and is mostly equipped in diesel aircraft. Diesel can partly freeze (waxcrystals) when under -20 degrees celcuis
+- **Fuel flow:** This measures how much fuel travels through the fuel injection system every hour. This can be used to determine our fuel calculations, and is often measured at the injector or a specfic measurement-wheel in the tubes
+
+To calculate different units:
+
+- 1 pound (lb) = 0,4536 kg
+- 1 US gallon (USG) = 3,785 liter
+- 1 Imperial Gallon = 4,546 liter
+- 1 Quart (qt) = 0,95 liter or 0,25 USG
+
+{{% alert title="Info" color="info" %}}
+Tip: Use this unit conversion tool: [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator)
+{{% /alert %}}
+
+---
+
+## The electrical system (9)
+
+The electrical system in planes is being used to power the electronic devices and instruments. The only connections the electrical system and the engine have are:
+
+- Starting engine
+- Electrical air/fuel mixture pump FADEC (if equipped)
+
+All the primary components of the electrical system are (and fail in case of electrical failures):
+
+- **The alternator** (dynamo): The propellor to power delivery device and is the primary source of power if the engine runs
+- **The battery** : provides power when the engine is not running
+- **Busses** : One or more electrical busses where power from the alternator or battery is distributed over multiple electrical devices
+- **Circuit breakers** : Each part of the electrical system have a circuit breaker, a poppable weak link of the circuit to prevent overloading and as result damage to devices
+- **Wires** : to connect each part to each other and to deliver power
+- **Ammeter** : This indicator will show the actual power-usage/delivery
+- **Master switch** : To provide the complete electrical system power from the battery and/or alternator. This is mostly a double switch, where we can also select only the battery or only the alternator in case of failures
+- **Avionics master switch** : To provide all navigation and communication devices power from the battery/alternator
+
+All devices which we often use are powered by this electrical circuit:
+
+- Radio's
+- Navigation systems
+- Transponder
+- Turn coordinator (only electrical primary flight indicator for fallback scenarios)
+- Flight displays
 - Fuel quantity indicators
-- Fuel temperature
-- Fuel flow
+- Lights
+- Pitot heat
+- Clock
+- Hobbsmeter (hour-counter on the RPM indicator, just like KM's in a older carr)
+- Electrical trim
+- Starting engine
+- FADEC
+- Flaps
+
+### Voltage and current
+
+Some definitions we must know when talking about the electrical system:
+
+- **Current** : Current is the power of the electrical load indicated in Ampere (A). This unit measures the **amount** of electrones transported per second
+- **Voltage** : Voltage is the electrical potential difference indicated in Volts (V). This unit measures the **pressure** (speed) of the electrodes transported per second
+
+### Types of power
+
+We can have two different types of power, namely:
+
+- **Direct current (DC)** : Here the electrons will always flow in the same direction, from negative (-) to positive (+).
+- **Alternating current (AC)** : Here the electrons will switch direction periodically, which is indicated in Hertz. 400Hz means 400 switches of direction per second. In airliners, the alternating current flow hertz is 400Hz, but at your power outlet at home, 50Hz or 60Hz is being used, depending on your country.
+
+We use both of these type of power, mostly depending on the king of application. A battery for example always delivers DC power and an alternator can deliver both. However, alternators that deliver AC power are much cheaper so we can convert that power to DC. General Aviation aircraft mostly have a DC power system of 14 or 28 volts.
+
+### Electrical circuits
+
+An electrical circuit conststs of a source of power, like a battery or alternator and one or more users of power, connected by copper wires. Power can only flow if the circuit is closed.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4ffa5d00be49.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4ffa5d00be49.png)
+
+In planes and cars, the negative pole of the battery is often connected to the frame, functioning as common earth. This saves a lot of wire as only the positive pole needs to be connected from the battery to the device and the negative can be picked elsewhere.
+
+### The alternator
+
+The alternator is the primary source of power in an aircraft while the engine is running. The alternator is powered by the engine using the V-string. The battery is used to charge and to power the devices when the engine is not running and to provide power to the starting engine to start the engine and make the alternator work.
+
+- Generator: DC dynamo
+- Alternator: AC dynamo
+
+A dynamo works by a rotating magnet between static magnets. This causes the rotating magnet to spin at a very high speed, providing power using magnetic induction in a coil.
+
 
 
 
