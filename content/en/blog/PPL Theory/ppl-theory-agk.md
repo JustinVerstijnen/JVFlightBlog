@@ -851,11 +851,106 @@ In planes and cars, the negative pole of the battery is often connected to the f
 
 The alternator is the primary source of power in an aircraft while the engine is running. The alternator is powered by the engine using the V-string. The battery is used to charge and to power the devices when the engine is not running and to provide power to the starting engine to start the engine and make the alternator work.
 
+{{% alert title="Info" color="info" %}}
+I use the word Dynamo here a lot, as this is the Dutch translation and because an generator and alternator are different things. I mean with a dynamo a device that produces power.
+{{% /alert %}}
+
 - Generator: DC dynamo
 - Alternator: AC dynamo
 
 A dynamo works by a rotating magnet between static magnets. This causes the rotating magnet to spin at a very high speed, providing power using magnetic induction in a coil.
 
+#### DC generator
+
+A DC generator is a dynamo that generates DC power. This works with a stator and rotor, where the stator is a permanent magnet with a rotating coil with a lot of wires. One of the wires is shown in the diagram below:
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2a69284e0f7a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2a69284e0f7a.png)
+
+The rotor is connected via the V-string with the engine causing it to rotate as the engine runs. This produces an induction-power which then is picked up at A.
+
+The downsides of this construction are:
+
+- Brushes are maintenance-intensive
+- Low RPM is low power generation
+- Expensive
+
+Most planes are because of these reasons equipped with an alternator (a AC dynamo).
+
+#### AC alternator
+
+An AC alternator works similar to the DC generator, by using magnetic induction. But the construction is somewhat different, so AC power is being produced instead of DC power. The construction is completely reversed, the magnet rotates instead of the coil. The magnet is then very often a electromagnet. The power is then picked from the stator which doesn't rotate, making this solution more robust and less prone for failures.
+
+Because the alternator uses an electromagnet, a small amount of power is needed to power the device. Without power no magnet can rotate. This power is called excitation current.
+
+After the AC alternator, a rectifier unit is placed to convert these alternating current into direct current, usabe by the rest of the plane and charging the battery.
+
+### Alternator control unit
+
+The power the alternator is producing is dependent on the RPM of the engine. To prevent damage or outages due to peaks and lows, the electrical system has a alternator control unit which is basically a voltage regulator. A device which keeps the power steady at around 12 to 14 volts.
+
+### The battery
+
+The battery has the following primary functions:
+
+- Delivering power when the engine is off
+- Delivering excitation current to the alternator
+- Delivering power to the starter engine
+- Delivering power if alternator fails (back-up power)
+
+Power in a battery is produced by a chemical reaction. There are different types of batteries which are indicated:
+
+- Nickle-cadnium (NiCd): Lighter with the same capacity and better resistant to low temperatures
+- Lithium
+
+Sometimes we have multiple batteries to have back-up batteries or a separate excitation battery.
+
+In most planes a lead-sulfur battery is used, just like in cars. This contains of plates of lead submerged in sulfur. This reaction between those two materials produces power, which is reversable. This means we can charge and discharge the battery, or pick power from the battery or charge it back. The battery is placed in a battery box which contains a drain for air ventilation.
+
+### Voltage and battery capacity
+
+Batteries always deliver 12 volts or 24 volts. Because the battery must be charged by the dynamo, the voltage of the battery is always lower than the device that charges it.
+
+The capacity of a battery is indicated as ampere-hours (Ah). A battery with a capacity of 50Ah can provide 50 Amps over 1 hour. When you halve the amps, the duration doubles (25 amps for 2 hours, 12,5 amps for 4 hours etc.)
+
+The battery has a specific rating for this Ampere-hour, but this is the theoretical amount. The actual amount is often lower where these conditions lower the capacity:
+
+- Age
+- Temperature (cold = less Ah)
+
+### Ampere meter
+
+The Ampere meter is a indication in the cockpit which shows the condition of the electrical system. This measures the amount of amps flowing through the wires. We know two different variants of this indicator:
+
+- **Zero-centered** : This type is often in Cessna and Cirrus planes. This measures the power from and to the battery. In the center we have the 0, and on the left -30 amps and on the left +30 amps. This must be slightly to the right to be in a healthy condition, the battery is slightly charged and the whole electrical system is powered.
+	- Location: Between battery and bus
+- **Load meter:** This type is the total amount of power in the electrical system. The lowest amount is 0 and the highest amount is 60. When less devices are turned on, the meter shows a low value and with much devices the meter goes up.
+  - Location: Between alternator and bus
+
+### Busses
+
+A bus is a distribution strip, which basically is a static collection of power outlets where all devices get their power from. From the bus the power goes to the circuit breakers and then to the actual devices.
+
+Mostly we have these busses:
+
+- Main bus
+- Avionics bus
+- Essential bus
+- Non essential bus
+
+### Circuit breakers and fuses
+
+Fuses are weak links in the circuit which have the goal to break the circuit if a high power is detected. We have two types of these fuses:
+
+- **Smelting fuses** (right): Smelting fuses have a thin wire which can only withstand the rated power. If more power is connected, the wire will smelt breaking the link. The fuse then needs to be replaced before working again.
+- **Cirbuit breakers** (left): Circuit breakers do the same as smelt fuces but pop if a high power is detected. We can easily re-pop them back into position to make the connection again. These are often called automatic fuses
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1320de26b64b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1320de26b64b.png)
+
+Circuit breakers have a contact with a multi-metal strip. If the power (amps) will exceed the rated limit, the metal will warm up, bending the metal and causing the circuit to break. Circuit breakers that pop must first be cooled down to connect them again. If a circuit breaker pops during flight, EASA recommends to let it disabled when its not needed for a safe resumation of the flight. For example, we can land without flaps or lights or even radio. Altough it would be nice to have them.
+
+### Relay
+
+A relay is a electromagnetic switch. An example is a starting relay. To power the starting engine, a huge amount of power/current is needed. Turning the key to START causes a small power to the starting relay, powering an electromagnet which results in a closing of the ignition and causing the starting engine to rotate.
 
 
 
