@@ -952,7 +952,23 @@ Circuit breakers have a contact with a multi-metal strip. If the power (amps) wi
 
 A relay is a electromagnetic switch. An example is a starting relay. To power the starting engine, a huge amount of power/current is needed. Turning the key to START causes a small power to the starting relay, powering an electromagnet which results in a closing of the ignition and causing the starting engine to rotate.
 
+### Electrical system disruptions
 
+In the electrical system, two types of disruptions or failures can occur:
+
+- **Disruptions** where the alternator does not provide power
+- **Short circuit** where something in the system causes a short circuit with possible fire, smoke or electrical smell. This can also lead to a circuit breaker/fuse failure
+
+The general guidelines and sympthoms for both types of disruptions are:
+
+- Low ammeter indication -> alternator error
+- Low voltage annuciator -> alternator error
+- Electrical smoke -> short circuit
+- Ozone-smell -> short circuit
+
+In a case of a alternator error its recommended to land the plane at the nearest airfield as an alternator error will cause the plane to pick power from the battery. This will provide power for around 10-15 with a max of 20 minutes. Power down unnessesary devices where possible.
+
+The alternator can sometimes be reset by switching the master switch to off and back on.
 
 ---
 
@@ -974,10 +990,10 @@ The Pitot and the static port are 2 openings on a plane which measures a differe
 These two components are connected to 3 of the basic 6 instruments we must have in a cockpit:
 
 1. Airspeed (Ports/Analogue)
-2. Artificial horizon (Gyro/Electrical)
+2. Artificial horizon (Gyro)
 3. Altitude (Ports/Analogue)
 4. Turn coordinator (Gyro/Electrical)
-5. Heading/Compass (Gyro/Electrical)
+5. Heading/Compass (Gyro)
 6. Vertical speed (Ports/Analogue)
 
 [![jv-media-4689-6637131a4d18.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6637131a4d18.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6637131a4d18.png)
@@ -994,6 +1010,16 @@ When having problems with altitude or vertical speed (like in the winter), we ha
 
 A third option can be to smash the vertical speed indicator, then this air will flow through the static system. Our vertical speed indicator obviously would not work anymore, but is the least needed instrument against airspeed and altitude.
 
+#### Position error
+
+The static port cannot always be at the right spot on an airplane. It must measure the static pressure so it must be on the side, but speed, AoA and flaps can influence the airflow around the static port and also the static pressure. This im-perfect placement causes an error in the measurement, called the position error. This has a small influence on the measured altitude, speed and vertical speed. Also some errors caused by manoeuvres can happen. Some planes have multiple static ports to minimize these errors.
+
+This same also applies on the pitot probe, although this only measures dynamic pressure.
+
+#### Alternate static air/port
+
+Some planes have an extra alternate static port in case the normal port is broken or something. This can be opened in the cockpit, so the air pressure of the cockpit can be used to measure the altitude, speed and vertical speed. The pressure in the cockpit is often somewhat lower than the outside air pressure, so the altitude meter can indicate too much. In the POH you can find a altitude correction table.
+
 ### Pitot probe
 
 The pitot probe measures the dynamic pressure (incoming amount of air) that will be applied to the aircraft during flight. This is mostly the airspeed, the Indicated Airspeed (IAS).
@@ -1004,8 +1030,16 @@ When shutting down the plane, we will place a red cap onto this probe. This is t
 
 The airspeed will be measured by both the static port and pitot port. It measures the difference between the dynamic pressure and static pressure which results in a airspeed.
 
-### Airspeed IAS, CAS and TAS
+### Airspeeds
 
+Airspeed in aviation can be measured in 4 different terms which sound ridiculous but this has their specific reasons.
+
+| Speed | Abbreviation | Definition |
+| --- | --- | --- |
+| Indicated Airspeed | IAS | The indicated airspeed measured by the pitot probe and shown on the instruments. Also the dynamic pressure force |
+| Calibrated Airspeed | CAS | The calibrated indicated airspeed of the airplane |
+| True Airspeed | TAS | The speed where the plane flies through the incoming air |
+| Ground Speed | GS | The speed of the plane relative to the ground |
 
 
 
