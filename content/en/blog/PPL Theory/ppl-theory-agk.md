@@ -980,6 +980,19 @@ The pitot-static system is a system with three indicators from the cockpit conne
 - Altitude indicator
 - Vertical Speed indicator
 
+Before looking at the instruments and probes, let's first take a look at the different airspeeds.
+
+### Airspeeds
+
+Airspeed in aviation can be measured in 4 different terms which sound ridiculous but this has their specific reasons.
+
+| Speed | Abbreviation | Definition |
+| --- | --- | --- |
+| Indicated Airspeed | IAS | The indicated airspeed measured by the pitot probe and shown on the instruments. Also the dynamic pressure force |
+| Calibrated Airspeed | CAS | The calibrated indicated airspeed of the airplane |
+| True Airspeed | TAS | The speed where the plane flies through the air |
+| Ground Speed | GS | The speed of the plane relative to the ground |
+
 ### Pitot-static instruments
 
 The Pitot and the static port are 2 openings on a plane which measures a different type of pressure:
@@ -1022,24 +1035,93 @@ Some planes have an extra alternate static port in case the normal port is broke
 
 ### Pitot probe
 
-The pitot probe measures the dynamic pressure (incoming amount of air) that will be applied to the aircraft during flight. This is mostly the airspeed, the Indicated Airspeed (IAS).
+The pitot probe measures **total pressure**, which is used together with static pressure to determine the aircraft’s airspeed. The airspeed shown to the pilot is called Indicated Airspeed (IAS).
 
 [![jv-media-4689-f14b72ab933d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)
 
-When shutting down the plane, we will place a red cap onto this probe. This is to prevent insects or ice to build up and have a non-working speed indicator in flight.
+When shutting down the aircraft, a red cover is placed over the pitot probe. This helps prevent insects, dirt, moisture, or ice from blocking the probe, which could cause the airspeed indicator to give incorrect readings or stop working during flight.
 
-The airspeed will be measured by both the static port and pitot port. It measures the difference between the dynamic pressure and static pressure which results in a airspeed.
+Airspeed is measured using both the pitot probe and the static port. The airspeed indicator compares the total pressure from the pitot probe with the static pressure. The difference between these pressures is used to display the aircraft’s airspeed.
 
-### Airspeeds
+#### Pitot probe errors during blockage
 
-Airspeed in aviation can be measured in 4 different terms which sound ridiculous but this has their specific reasons.
+The pitot probe can be blocked by ice, insects, vapor or dumbly enough by forgetting to take the cover off. When this happens, we can expect the following effects:
 
-| Speed | Abbreviation | Definition |
-| --- | --- | --- |
-| Indicated Airspeed | IAS | The indicated airspeed measured by the pitot probe and shown on the instruments. Also the dynamic pressure force |
-| Calibrated Airspeed | CAS | The calibrated indicated airspeed of the airplane |
-| True Airspeed | TAS | The speed where the plane flies through the incoming air |
-| Ground Speed | GS | The speed of the plane relative to the ground |
+|  | Airspeed Indicator | Altitude Indicator | Vertical Speed Indicator |
+| --- | --- | --- | --- |
+| Pitot probe - climbing | Indicates too high | Stays working normal | Stays working normal |
+| Pitot probe - descending | Indicates too low | Stays working normal | Stays working normal |
+| Static probe - climbing | Indicates too low | Keeps indicating a specific altitude | Keeps indicating 0 |
+| Static probe - descending | Indicates too high | Keeps indicating a specific altitude | Keeps indicating 0 |
+| Both - climbing | Keeps indicating the blockage speed | Keeps indicating a specific altitude | Keeps indicating 0 |
+| Both - descending | Keeps indicating the blockage speed | Keeps indicating a specific altitude | Keeps indicating 0 |
+
+During take-off, we say the phrase "Airspeed alive" because of this check. If the airspeed is not working before rotation speed, we shouldn't take-off either as the plane is then categorized as "unsafe to fly".
+
+#### Pitot Heat
+
+The pitot has a heating element as this part is sensitive for ice-deposition. To prevent that the ice blocks this instrument, we have a switch in our cockpit called the Pitot heat. This enables a heating device in the pitot probe which prevents ice. This is a part which can take a lot of electrical energy, so do not use it too much when not running the engine. The general guideline for Cessna 172 planes is to enable this in every situation where you are flying in air 10 degrees celcius or colder.
+
+### Airspeed Indicator
+
+Measuring the speed of a plane is based on measuring air pressure differences. Air has a certain pressure which is called the static pressure. As we fly through the air with speeds over 100 km/h, we also have some air flowing into the pitot probe. This is called the total pressure (static + dynamic). As the pitot-static system also knows the static pressure, it can make an easy calculation of what the dynamic pressure is, what then is converted to a readable airspeed indication on the Airspeed indicator in the cockpit.
+
+The calculation that is made:
+- Total pressure - static pressure = dynamic pressure
+- (P total - P static = P dynamic)
+
+As the pitot probe and the static port are both connected to the airspeed indicator-room in the instrument, here is where the actual calculation is being done. Here is a diaphragm connected to the pitot probe is being filled with the total pressure. In the house where the diaphragm is mounted is connected to the static port.
+
+Speed needs to be corrected for the actual pressure, as dynamic pressure is dependent on the air density. This means that in air with a lower density, without correction, the indicator will be way too low. Airspeed indicators are calibrated on ISA air density, meaning 1,225 kg/m³. This means the indication is only 100% correct in cases where this air density is active.
+
+[![jv-media-4689-c8bb13f04936.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c8bb13f04936.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c8bb13f04936.png)
+
+The airspeed indicator has a minor "deviation", due to minor incorrections in the mechanical parts and differences in air flow. These are called the instrument-errors and we can convert an indicated airspeed to the calibrated airspeed, which differences are very often about 1 to 3 knots. The calibrated airspeed is called the CAS.
+
+So if we want to convert our indicated airspeed to true airspeed, we must go from IAS to CAS and then to TAS. Use the E6B calculator for this.
+
+### Airspeed indicator colors
+
+The airspeed indicator has some color codings on the edge, telling you different things very easily:
+
+- Vs0: This is the speed where you get a full stall when extending full flaps
+- Vs1: This is the speed where you get a full stall without flaps
+- Vfe: This is the maximum speed where flaps may be extended
+- Vno: This is the maximum speed where you may fly in normal operations (low winds/laminar air)
+- Vne: This is the maximum speed you can fly with the plane before inducing structural damage
+
+[![jv-media-4689-491305530c66.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-491305530c66.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-491305530c66.png)
+
+Some planes also can have a Statute mile indicator or even km/h meter instead of knots.
+
+### The altimeter
+
+Altitude is expressed in feet or meters in aviation. Most planes and pilots use feet, as this is internationally accepted but some smaller aircraft also use meters.
+
+- 1 ft is 0,3048 meter
+- 1 meter is 3,28 feet
+
+[![jv-media-4689-2d801ab0d423.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2d801ab0d423.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2d801ab0d423.png)
+
+The altitude indicator is basically a pressure-meter. Air pressure decreases as we go higher, and by setting a reference, it knows exactly how far awar we are from that reference point. We have multiple reference points which we can use. The earth's surface is not perfectly flat, and every piece of land has a different elevation (height above sea level). This is where we use different references, based on the air pressure:
+
+| Q-code | Meaning | When to use | Indication name |
+| --- | --- | --- | --- |
+| QNH | The pressure measured on the ground, and then converted to mean sea level | To measure the altitude above mean sea level | Altitude |
+| QFE | The actual pressure on the ground | To measure the altitude above the ground | Height |
+| QNE (SAS*) | The ISA pressure altitude, namely 1013 hPa or 29.92 InHg | Above the transition altitude, in the Netherlands 3500 feet | Flight Level |
+
+_SAS* means Standard Altimeter Setting, 1013 hPa_
+
+In most cases, we use the QNH. We know the elevation of the terrain and set the elevation into the altitude indicator. This displays the QNH, setting the indicator on "0" displays the QFE and setting 1013 hPa sets the QNE as known as the "Pressure altitude" which we use with take-off and landing configurations.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-221300516426.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-221300516426.png)
+
+In flight regions we often use a "regional QNH", which prevents us from 2 problems:
+
+- Different planes having different references, possibly leading to collisions
+- The need to set the QNH every several minuts if flying from low to high or high to low pressure areas
+
 
 
 
