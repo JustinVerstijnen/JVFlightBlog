@@ -1,6 +1,6 @@
 ---
 title: 'Aircraft General Knowledge (AGK)'
-date: 2025-07-07
+date: 2026-06-15
 slug: "ppl-theory-agk"
 categories:
   - PPL Theory
@@ -1173,6 +1173,136 @@ A pressure altitude meter will indicate the true altitude only in ISA conditions
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-5bf8388d33bd.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-5bf8388d33bd.png)
 
+### Vertical Speed Indicator (VSI)
+
+The vertical speed indicator will indicate if the plane is ascending, descending or in straight and level flight. This does it by indicating how much feet you descend or climb in one minute. The instrument is always zero-centered and goes up when climbing and goes down when descending. Basically following the flight path of the plane.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-60d1691d74db.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-60d1691d74db.png)
+
+This works almost the same as the altitude indicator, by connecting the static port to the instrument, but in this instrument, the static port is connected to both the diaphragm/aneroid and the instrument-case. The air into the instrument case is filled up with a calibrated opening and delayed, so the instrument measures the pressure difference of the air according to the pressure of some seconds ago. This calibrated opening is also called the capilair.
+
+This is also the cause of why this indication has some delay/lag, as the instrument-case is slowly filled with the air.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4bb894fbc938.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4bb894fbc938.png)
+
+#### Instrument errors
+
+Because the VSI is connected to the static port, and this can have errors when maneuvering and position errors, this can cause some instrument errors to this indicator. Temperature also have a minor deviation on the indication. Lower temperature cause the needle to give lower indications than with high temperatures.
+
+The VSI also has some delay/lag as already described. This delay increases with the size of the climbd/descends you make.
+
+---
+
+## Gyroscopic instruments (11)
+
+Some aircraft instruments rely on the properties of a gyroscope. This is an efficient way to have the indicators working. The gyros are powered by an engine-driven vacuum pump, except the turn coordinator, which is electrically driven. This is done for redunancy, so if one system fails you still have all types of indications.
+
+The indicators which uses gyro's to function:
+
+- Artificial horizon (ADI)
+- Heading indicator (non magnetic)
+- Turn coordinator
+
+### Gyroscope properties
+
+A gyroscope is a very fast rotating disc at speeds between 20.000 to 25.000 revolutions per minute and is used in some cockpit indicators because it has some physical properties:
+
+- **Rigidity in space (** standvastigheid **)** means that a spinning gyroscope wants to stay in the same position or attitude while it is rotating. Because the gyro keeps its position, it is an excellent application in an artificial horizon. In the instrument, the gyro is set level with the real horizon. As the aircraft climbs, descends, or turns, the aircraft moves around the gyro, but the gyro itself tries to stay upright. This allows the pilot to see the aircraft’s attitude compared to the horizon, even when flying in clouds or when the real horizon cannot be seen.
+- **Precession** is another important property of a gyroscope. It means that when a force is applied to a spinning gyro, the reaction does not happen at the same point where the force is applied. Instead, the reaction appears about 90 degrees later in the direction of rotation. In simple words: if you try to push a spinning gyro in one direction, it reacts in a different direction. This effect is important in aircraft instruments because it can cause small errors in gyro instruments over time. Because of this, some gyroscopic instruments need correction systems to keep them accurate.
+
+So in short:
+
+- **Rigidity in space** means the gyro wants to stay where it is.
+- **Precession** means the gyro reacts in a different direction when a force is applied.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c0a44ac047f3.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c0a44ac047f3.png)
+
+{{% alert title="Info" color="info" %}}
+To learn more about gyroscopic instruments, I recommend this video: https://www.youtube.com/watch?v=hVsx4XWafXg
+{{% /alert %}}
+
+### Gyroscope powering
+
+The gyroscopes are powered very often in two different ways for redundancy:
+
+- **Pneumatic** : This means the gyro is powered by an engine driven vacuum-pump. This pump produces a very powerful flow of air, causing the gyro disc to rotate. This is done in smaller aircraft like the Cessna 172 for the Artificial Horizon and Heading gyro's.
+- **Electrical** : This means the gyro itself has a electrical engine to rotate the gyro disc. This is done in smaller aircraft like the Cessna 172 for the turn coordinator only.
+
+In the cockpit we have a "Suction"/Vacuum indicator, which is this vacuum pump. This tells us more on how much we trust our vacuum-powered gyro's.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c81deba3bc0b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c81deba3bc0b.png)
+
+The pump itself is driven by the engine, so the pressure itself is dependent on engine rpm. To prevent the pressure from being too low, we have a pressure regulator called the cacuum regulator to keep the pressure at a constant value. To also secure this pump, this is also equipped with a filter. The suction gauge is the pressure difference before and after the instruments and is indicated in inches of mercury (InHg) which is often around 5 InHg. Higher values give more under-pressure and a lower total pressure.
+
+### Errors in the vacuumsystem
+
+As the vacuum-pump is driven by the engine, it can have errors:
+
+- **Low indication:** This can be caused by an inoperative vacuumpump, a blocked inlet filter or a defect indicator
+
+	- Flying at low RPM or high altitude can also give a too low indication as the vacuumpump cannot build up enough pressure
+- **High indication:** This can be caused by an inoperative pressure regulator or blockage in the filter/regulator
+
+When flying VFR, these errors are not that huge problems. We still have an engine pushing us forward, we still know our altitude and speed and we can continue with our magnetic compass. However, flying IFR makes a difference, as we cannot see the horizon so we don't know our roll axis. We can use the turn coordinator as backup for banks but this is much harder as the indication is not as precise as the artificial horizon.
+
+### Gyro drift
+
+A gyro-disc which can move freely will keep a fixed attitude in the space. In real life, some drift or wander can happen. We have three types of gyro drift:
+
+- **True drift:** The cause of true drift is the construction of the instrument. Due to friction in the lowers, imperfections in the construction and imbalance in the gyro and temperature-effects can cause the gyro to slowly drift from its fixed position.
+- **Apparent drift:** The gyro has a fixed attitude in the space, but this does not equal to a fixed attitude to the earth. The earth rotates and doesnt have a fixed attitude. This causes the gyro to slowly changes it attitude, which is called apparent drift, and can be maximum 15 degrees every hour, as this is also Earths rotation speed (360 degrees per 24 hours is 15 degrees per hour).
+- **Transport-drift:** The plane flies over the earths surface and also influences the apparent drift due to its movements. The size of this drift component is dependent on the speed and direction you fly to.
+
+### Attitude indicator (artificial horizon)
+
+The attitude indicator shows the attitude of the plane based on the natural horizon. With this instrument, we know the attitude without looking outside. We can see the following parameters on this instrument:
+
+- Rolling angle
+- Pitch attitude
+- Horizon and the roll-angle of the plane
+
+In the attitude indicator, a horizontal placed disk spins in a vertical axis.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c8e101f565e4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c8e101f565e4.png)
+
+In this way, the attitude indicator is set to a earth bound gyro. A copy of the visible horizon.
+
+#### Indication errors
+
+Pneumatic attitude indicators can have some errors while accelerating and while turning. When holding this attitude for a short while, the instrument will correct itself so it can indicate too much roll and acceleration.
+
+During the taxi checks on the ground, we will steer left and right to check if every instrument is working correctly, but the attitude indicator must be stable and level. If this indicator moves during this check, the indicator is defective and a choice must be made to fly with it or not. When not expecting clear weather and perfect visibility, great chance its not a great idea to fly with this defective indicator. Also, we can only trust these pneumatic indicator if the suction pressure is within accepted limits.
+
+### Directional Compass/Gyro
+
+Just like the attitude indicator, the directional gyro which we use as a copy of your magnetic compass is relying on the rigidity in space. This has a vertical disc spinning in a horizontal axis.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8e151c2a4998.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8e151c2a4998.png)
+
+We have to set this compass every several minutes to the same heading as the magnetic compass to make the directional compass show the compass heading. This does not represent the true (chart) heading.
+
+The gyro compass is much more reliable in turns and has a overall more stable indication. Magnetic compasses have rotating errors and does not indicate the right heading in turns. It also doesn't work that great in turbulent air. The gyro compass doesnt have these errors.
+
+### Turn coordinator
+
+The turn coordinator gives us information about the direction and speed we make our turns. The rate of turn (ROT) is the amount of degrees per minute we change direction. We also have a "water-level" like indication if we make coordinated turns, or how to make them based on your current flight actions. The turn coordinator is sensitive to rolling and yawing movements, so the instruments does indicate turns while on the ground. This is one of the checks we do on the ground during taxi.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-440ccdc316df.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-440ccdc316df.png)
+
+This instrument is the only electrical powered gyro instrument in most planes and is used as fallback when the pneumatic instruments are not indicating correctly. It also has a electrical switch/power indicator, as the instrument is powered the red block will disappear but when the power is broken, a red indication will show, telling you to not use the instrument.
+
+The rate of turn is indicated in rates. A rate-one turn is 180 degrees in one minute, 360 degrees in 2 minutes etc.
+
+#### How to use the turn coordinator
+
+The turn coordinator shows the bank angle to keep to make a rate one turn. It also have a ball to show if you make a coordinated flight. A rule of thumb for this is "step on the ball", meaning to press the pedal on the side where the ball is to get it in the middle.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2cceb09ae454.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2cceb09ae454.png)
+
+When making coordinated turns, you fly at the highest turn speed and with the least drag. Slipping or skidding in turns slows you down as the drag increases. Air will then not come from straight forward.
+
+- **Slipping** : Too less rudder input
+- **Skidding** (schuivende bocht): Too much rudder input
 
 
 
