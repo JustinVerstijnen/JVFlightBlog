@@ -1122,6 +1122,59 @@ In flight regions we often use a "regional QNH", which prevents us from 2 proble
 - Different planes having different references, possibly leading to collisions
 - The need to set the QNH every several minuts if flying from low to high or high to low pressure areas
 
+#### How the altimeter works
+
+The altimeter is as said basically a pressure meter, converting a pressure difference between your reference point and the static pressure measured by the static port to an altitude number in feet. The static port is connected to the instrument-chamber where a diaphragm(s) is placed. This diaphragm(s) has a certain pressure in it and the outside pressure pushes on the diaphragm(s). As you increase in altitude, the static pressure decreases, which causes the diaphragms to expand. This is then mechanically contected to the indicator needles and showing the pilot the altitude from their reference point. The diaphragm is also known as aneroid.
+
+You can set the reference point with the dial in the cockpit.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-30521e853450.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-30521e853450.png)
+
+The altitude indicator mostly has 3 indicator needles, and works like a clock:
+
+- Big needle: Showing 100 ft scale (1000ft per rotation)
+- Small needle: Showing 1000ft scale (10.000ft per rotation)
+- Triangle needle: Showing 10.000ft scale (100.000ft per rotation)
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9455f3ec409b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9455f3ec409b.png)
+
+#### Altitude indicator errors
+
+The altitude indicator can also have some minor errors, where the indication is not 100% correct to the actual altitude:
+
+- **Instrument errors** : These errors come from that every instrument has some minor deviations from actual scales. Mechanical components are dependent on friction, temperature differences and such.
+- **Atmospheric deviations** : As the atmosphere is never 100% according to ISA, we can expect the altitude indicator to not be 100% like that, the true altitude is somewhat different to the indicated altitude.
+
+### Generic instrument errors
+
+No measuring instrument is 100% perfect, and some minor instrument errors can affect the indication:
+
+- **Room and friction** : The mechanism can have some room and some friction, by using high quality parts this can be minimized but is never zero.
+- **Temperature-influence** : Parts expand and contract based on the environmental temperature.
+- **Position error** : Error in the position of the probe can also affect the indication. This is especially the case with instruments measuring the pressure like the pitot probe and the static port.
+- **Indication-delay** : At fast altitude changes, the altitude indicator for example will be behind of the actual altitude. With rapid descends, the indication will be too high and with rapid climbs too low.
+
+### Pressure deviations and Altitude
+
+According to ISA the pressure on sea level is 1013,25 hPa. If the actual pressure deviates from this pressure, an uncorrected altitude indicator will indicate a wrong altitude. This is why we have a dial and reference points.
+
+A rule of thumb is that every decrease of 1 hPa is a 30ft difference.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-755c926278ee.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-755c926278ee.png)
+
+This is also applicable to situations where you fly from country A with a QNH pressure of 1022 hPa to contry B with QNH pressure 1007 hPa. This causes the true altitude to decrease where your indicated altitude will still show 1500ft.
+
+### Temperature deviations and altitude
+
+A pressure altitude meter will indicate the true altitude only in ISA conditions. If the temperature increases above ISA, the coloumn of air will expand and the true altitude will become higher than the indicated altitude. Warm air expands and causes the air pressure to drop, and as the altitude indicator is a pressure-meter, this is c=exactly the cause.
+
+- High temperature (than ISA) = higher true altitude
+- Low temperature (than ISA) = lower true altitude
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-5bf8388d33bd.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-5bf8388d33bd.png)
+
+
+
 
 
 
