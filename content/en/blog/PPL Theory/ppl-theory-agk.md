@@ -1304,6 +1304,27 @@ When making coordinated turns, you fly at the highest turn speed and with the le
 - **Slipping** : Too less rudder input
 - **Skidding** (schuivende bocht): Too much rudder input
 
+### Summary of gyroscopic indicators
+
+To summarize all indicators and information described above, I have made this table:
+
+| Instrument | Main purpose | Powered by | Properties | Mounted | Axis of rotation |
+| --- | --- | --- | --- | --- | --- |
+| Attitude Indicator (ADI) | Shows pitch and bank attitude | Pneumatic | Rigidity | Horizontally | Vertical axis |
+| Heading Indicator | Shows aircraft heading | Pneumatic | Rigidity | Vertically | Horizontal axis |
+| Turn Coordinator | Shows rate of turn and helps identify slip or skid | Electrical | Precession | Vertically/tilted | Horizontal/tilted axis |
+
+---
+
+## Integrated Avionics (12)
+
+
+
+
+---
+
+
+## Magnetic Compass (13)
 
 
 
