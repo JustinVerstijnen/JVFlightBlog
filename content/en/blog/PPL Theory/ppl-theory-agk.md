@@ -1318,13 +1318,63 @@ To summarize all indicators and information described above, I have made this ta
 
 ## Integrated Avionics (12)
 
+In modern aircraft, we can see more and more indicators being replaced by glass cockpits, where all of the instruments we know are being replaced by screens displaying all the needed data. The advantages of screens are pretty much that you can display anything you want and switch through different menus.
 
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-133e89d860ba.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-133e89d860ba.png)
 
+We know two types of screens:
+
+- **Primary Flight Display** (PFD): This shows all the basic 6 indicators, speed, heading, bank angle, horizon, altitude, vertical speed and turn coordinator. It can also display things like radio frequencies and transponder in most cases.
+- **Multifunction Flight Display** (MFD): This shows mostly a digital map and all the engine instruments like RPM, ammeter, fuel flow, oil temperature and pressure. In most cases you have buttons to switch through various menus and overviews.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-204e05c948d4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-204e05c948d4.png)
+
+Under the screens we also have some fallback instruments which still work like the how older planes dit it, this is in cases the electrical system or screens fail. We then still know our speed, attitude and heading to land the plane safely.
+
+### Air Data Computer
+
+All the probes we have in older aircraft like pitot probe, static port, engine rpm and oil temperature and pressure are connected to a Air Data Computer (ADC). This is a small device which converts this mechanical data into digital data readable by the glass cockpit. We also have a magneto-meter which contains a electrical magnet which helps us pointing at magnetic north. This is then converted into digital data by the AHRS, which is the Attitude and Heading Reference System.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ff5dac81955a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ff5dac81955a.png)
 
 ---
 
-
 ## Magnetic Compass (13)
+
+{{% alert title="Info" color="info" %}}
+For more information, check out: https://flightblog.justinverstijnen.nl/ppl-theory-nav/#true-north-vs-magnetic-north-vs-compass-north-16
+{{% /alert %}}
+
+A magnetic compass is working on the sensitiviness of earths magnetic field. With using compasses we have three different references of "north":
+
+- **True north** : This is the uppermost part of the globe on our charts and mini-globes and is where the icebears live
+- **Magnetic north** : This is the northern magnetic pole where compasses point to, which is close to true north but at this moment in 2026 there is a 450+km distance between true north and magnetic north
+- **Compass north** : This is the north the compass indicates, but compasses can indicate a small error caused by imperfections and electromagnetic fields called the " **deviation** ".
+
+Earth has a magnetic field around it which is caused by the huge amount of metals inside earth. This causes compasses to point to earths magnetic north pole. However, the magnetic north pole is somewhat different and is moving from time to time.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-98c00be5b97a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-98c00be5b97a.png)
+
+A factor that also helps creating this magnetic field is processes in the ionosphere layer in the earth's atmosphere. This happens at an altitude of between 75km to 1000km and contains a huge amount of electric loaded particles which are called the iones. The movements of this iones amplified by the day/night cycle cause a magnetic field. In the ionosphere is also where aurora's happen as this is also dependent on earths magnetic field. Particles are sent away from the sun and catched by earth, and are then redirected to the north and south poles. This is why you get the most aurora's at the poles.
+
+### Magnetic north
+
+Magnetic north is a magnetic reference point where compasses point to when no interference is happening. Because this magnetic field is as described caused by the huge amount of metals inside earth and processes in the ionosphere, this point changes from year to year. At this moment in 2026 the magnetic north pole is 470 kilometers away from the true north pole. This difference, often indicated in degrees, is called the "**variation**".
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-618a6897d4a2.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-618a6897d4a2.png)
+
+As this variation is different all over the world, we can find this in the AD information in the AIP or in apps like SkyDemon and Aeroweather. On our chart we have isogonic lines which connect different places with the same variation.
+
+Why this is so important, is that on most places the variation will be a few degrees of, but in other places like close to the poles you can get a theoretical difference of 180 degrees between magnetic north and true north, which means you could fly to the complete opposite side if not taken everything into account.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-eea4267b64aa.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-eea4267b64aa.png)
+
+### Inclination
+
+Inclination is where a compass is higher up in the air and will point to magnetic north/compass north while having a small dip. This is causes as the magnetic north reference is on the ground and the plane in the air. This have some influence on the trustworthiness of the compass. We can say thay above 60 degrees north or below 60 degrees south, we are too close to the poles and we cannot trust the magnetic compass. This is because the needle will point to the magnetic north pole and will not move horizontally.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ed340646b15b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ed340646b15b.png)
+
 
 
 
