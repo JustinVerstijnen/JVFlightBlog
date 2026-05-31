@@ -1390,6 +1390,11 @@ A compass wants to line up into the magnetic field lines. Because of the inclina
 
 #### Turning error
 
+The turning error will be induced by turns we make in a plane. On the northern hemisphere, this is happening:
+
+- Northern headings: Small delay and slowly gets the correct course, falling behind
+- Southern headings: Compass will be ahead of us and after leveling off, be correcting itself
+
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)
 
 #### Acceleration errors
