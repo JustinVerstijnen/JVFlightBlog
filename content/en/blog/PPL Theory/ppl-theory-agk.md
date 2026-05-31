@@ -1375,11 +1375,26 @@ Inclination is where a compass is higher up in the air and will point to magneti
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ed340646b15b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ed340646b15b.png)
 
+### Compass construction
 
+The magnetic compass which we have in our airplane is constructed with some magnets in a rotatable case. This case contains dampingfluid which helps the compass to move slowly and better move factor in turns.
 
+This compass can have some errors due to electromagnetic fields. Also when a plane is parked in the same direction for a long time the compass can give false indications. The aircraft maintenance companies can recalibrate the compass.
 
+### Compass errors
 
+A compass wants to line up into the magnetic field lines. Because of the inclination for example in the Netherlands, the magnet also wants to point 67 degrees down. A magnetic compass is constructed so the compass can only move horizontally. But it can have some errors:
 
+- **Turning error** : During a turn the magnetic compass will not indicate the correct heading
+- **Acceleration error** : During acceleration and slowing down the compass will change heading while this is actually not the case
+
+#### Turning error
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)
+
+#### Acceleration errors
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4387d016857c.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4387d016857c.png)
 
 ---
 
