@@ -153,7 +153,7 @@ Smoke can happen in the cockpit due to several causes:
   - Follow the POH/checklist of the exact aircraft. In general, the goal is to stop the fuel supply, reduce the chance of fire entering the cockpit, and prepare for an emergency landing.
 - Other parts on fire
 
-To correctly battle these situations, we must first know what to do exactly in each situation. These are described in the POH of your aircraft.
+To correctly battle these situations, we must first know what to do exactly in each situation. These are described in the POH of your aircraft. For fires in flight, a CO2 extinguisher is the best option.
 
 ### Fire types and extinguishers
 
