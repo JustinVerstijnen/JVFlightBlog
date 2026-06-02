@@ -6,7 +6,7 @@ categories:
   - PPL Theory
 tags:
 description: >
-  This page contains all notes of the Aircraft Genreral Knowledge course.
+  This page contains all notes of the Aircraft General Knowledge course.
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
@@ -23,11 +23,11 @@ The frame of a plane consists of several parts, which all make flying and steeri
 
 - Wing - Vleugel -> The horizontal part which makes flying an aircraft possible in the first place by generating lift
 - Aileron - Rolroer -> These are the parts at the end of the wings, making roll-turns (banking) possible. They are at the end of the wing due to force x moment
-- Elevator - Hoogteroer -> This part makes going up and down in an aircraft possible
-- Rudder - Richtingsroer -> This part at the end of the tail can move to change direction in flight and is being used to make small corrections
+- Elevator - Hoogteroer -> This part controls the pitch attitude of the aircraft, making the nose move up or down.
+- Rudder - Richtingsroer -> This part at the end of the tail controls yaw and is used to keep the aircraft coordinated and make directional corrections.
 - Flaps - Landingskleppen -> These are parts on the wing which can be used in take-off and landings to fly at lower speeds nearby the ground. They extend to induce more drag, which equals a lower speed and they generate some lift
-- Vertical stabilizer - Kielvlak -> This is the standing part of the tail of an airplane, stabilizing the airflow and makes the plane fly into one single direction
-- Horizontal stabilizer - Stabilo -> This is the horizontal part of the tail of an airplane, stabilizing the airplane in horizontal flight
+- Vertical stabilizer - Kielvlak -> This is the standing part of the tail of an airplane, giving directional stability around the yaw axis.
+- Horizontal stabilizer - Stabilo -> This is the horizontal part of the tail of an airplane, giving stability around the pitch axis.
 
 
 ### Aircraft construction
@@ -47,11 +47,11 @@ The aircraft itself can be constructed in several different ways. The most impor
 We could have two types of wings:
 
 - Cessna 172 has the wings above the cockpit: high-wing (hoogdekker)
-  - This needs support of the wings which we call: **braced wings**
-- Piper PA-28 tas the wings below the cockpit: low-wing (laagdekker)
-  - This doesnt need support of the wings which we call: **cantilever wing**
+  - The Cessna 172 uses strut-braced wings.
+- Piper PA-28 has the wings below the cockpit: low-wing (laagdekker)
+  - The Piper PA-28 has cantilever wings, meaning there is no external strut support.
 
-Both of this types of planes have their pro's and cons. A Cessna doesnt need a fuel pump, as gravity does its thing. Als we cannot see traffic above us very good in a Cessna, but not very good under us with a cantilever wing.
+Both of this types of planes have their pro's and cons. In many Cessna 172 versions, the high-wing fuel tanks allow fuel to flow by gravity. Some aircraft versions and fuel systems can still have fuel pumps, so always check the POH of the exact aircraft. Als we cannot see traffic above us very good in a Cessna, but not very good under us with a cantilever wing.
 
 There are also planes which have a V shaped tail with a rudder and elevator combined. These types of tails are called a **ruddervator**.
 
@@ -59,23 +59,41 @@ There are also planes which have a V shaped tail with a rudder and elevator comb
 
 We can have 2 types of tyres on arplanes:
 
-- Tube-type: This type has an inside and outside tyre, just like your bicycle
-  - More warmth
-  - Higher chance of tire blowout
-  - Contain slipmark
-- Tubeless: This only has an outside tyre
+- Tube-type: This type has an inner tube and an outer tyre, comparable with a bicycle tyre.
+  - Can be sensitive to tube damage if the tyre slips on the rim.
+  - Often has a slip mark to detect movement between tyre and rim.
+- Tubeless: This type has no separate inner tube.
 
-Tyres can slip over the rim during landings, this is the reason maintenance does a little slipmarker on the tyre and rim. This is mostly red.
+Tyres can slip over the rim during landings, this is the reason maintenance does a little slipmarker on the tyre and rim. This is mostly red. The purpose of this marker is to see within seconds if the tyre has been slipped over the rim during earlier landingd, which comes with possible unclear damage.
+
+### Nose wheel construction
+
+The shockdamper of the nose wheel construction works with gas and oil, which have both a unique task:
+
+  - Gas for suspension (vering)
+  - Oil for damping
+
+The gas, usually nitrogen, provides the spring effect because it can be compressed. The oil provides damping because it is forced through small openings or chambers. Oil itself cannot be compressed, but it can control the speed of the movement.
+
+The nose wheel also has a shimmy damper, which is a device that helps preventing the nose wheel from vibrating very aggressively during high speeds on the ground. If a shimmy happens, the wheel can shake like a bike where you let go of the steer.
 
 ### Hydraulic systems
 
-Hydraulic means litteraly transfer using liquids (hydro). We can transfer different forces using liquids using this formula:
+Hydraulic means transferring pressure by using an incompressible fluid. In aircraft this is hydraulic fluid, not water. We can transfer different forces using liquids hydraulically using this formula:
 
-- Force = Pressure x Surface
+- Force = Pressure × Area
 
-This means, the less surface and the more pressure, the higher the force.
+This means that, at the same pressure, a larger surface area gives a larger force. Liquids are a great way to transfer force, as fluids can hardly be compressed compared with air.
 
-Liquids are a great way to transfer force, as fluids can not be compressed unlike air.
+Hydraulic liquids properties are:
+  - Unhealthy then touched
+  - Thin and low viscocity
+
+Much systems in an airplane works with hydraulic systems, like:
+
+- Brakes
+- Landing Gear
+- Propellor blade angle
 
 ### Brakes
 
@@ -85,8 +103,8 @@ Brakes are systems built on the axes of the airplane to brake it, to lose power.
 
 As we don't want ice on our plane or in parts of the plane, we have ice-preventing systems as we know two different categories:
 
-- Anti-icing: Systems that prevent ice from happening like windshield anti ice, engine anti-ice or the pitot heat
-- De-icing: Systems that remove already built up, like rudder boots on the trailing edge of the wing
+- Anti-icing (prevent): Systems that prevent ice from happening like windshield anti ice, engine anti-ice, carb heat or the pitot heat
+- De-icing (revive): Systems that remove ice that has already built up, like pneumatic boots on the leading edge of the wings or stabilizers.
 
 Both systems are being used to battle ice during flights.
 
@@ -132,7 +150,7 @@ Smoke can happen in the cockpit due to several causes:
 - Short-circuit in the electrical system
   - Disable the complete electrical system and turn off electrical components one by one with the circuit breakers till you found the problem
 - Engine fire
-  - Mixture lean, disable fuel selector. If fire doesnt extinguish, then make a dive in the hope the fire will be put out because of the high airflow and disable Cabin Heat to prevent transition to cockpit
+  - Follow the POH/checklist of the exact aircraft. In general, the goal is to stop the fuel supply, reduce the chance of fire entering the cockpit, and prepare for an emergency landing.
 - Other parts on fire
 
 To correctly battle these situations, we must first know what to do exactly in each situation. These are described in the POH of your aircraft.
@@ -147,15 +165,16 @@ Maintaining a fire is done by having these three components:
 
 By taking away only one of these three components, the fire will extinguish. We have four types of fire with possible extinguish methods:
 
-- A = All that can burn, wood, paper, textile, plastic etc
-    - All types of extinguishers
-- B = "Benzine" or oil
-    - All types of extinguishers
-- C = Gas
-    - CO2 and Halon
-- D = Metals, aluminum or magnesium
-    - Halon
-- F = Fat
+- A = Solid materials like wood, paper, textile and some plastics
+    - Often water, foam or dry powder
+- B = Flammable liquids like gasoline or oil
+    - Foam, dry powder, CO2 or Halon/Halon replacement, depending on the situation
+- C = Gas fires
+    - Stop the gas supply if possible, then use a suitable extinguisher
+- D = Metal fires, like magnesium or aluminium powder fires
+    - Special dry powder extinguisher for metal fires
+- F = Fat or cooking oil fires
+    - Wet chemical extinguisher
 
 Water based extinguishers are not that practical for electrical and type B fires. Water is heavier than fuel. Also, Halon extinguishers are very poisonous so good ventilation is needed when using these. This also counts for CO2 type extinguishers, which are generally not for closed environments.
 
@@ -167,23 +186,25 @@ In planes, the most used engine type is a four-stroke (viertakt) gasoline engine
 
 The engine has the following parts:
 
-- **Carberateur:** A part of the engine which mixes fuel and air for the correct burn-mix.
-- **Inlaat:** The part where a mix of fuel and air is going into the cilinder
-- **Inlaatklep:** A gate which closes and opens momentarily between the verbrandingsruimte and the Inlaat,
-- **Uitlaat:** The part where the burnt fuel rests are deported out of the engine and is connected to the main exhaust
-- **Uitlaatklep:** A gate which closes and opens momentarily between the verbrandingsruimte and the Uitlaat
-- **Bougie:** The part which makes the mix of air and fuel burn by using electrical sparks
-- **Nokkenas**: This part is connected with gears to the Krukas and decides when the Inlaatklep and Uitlaatklep are being opened and closed. In a four-stroke engine, this happens at half the speed of the Krukas.
-- **Cilinder**: This is a name for the whole burn-part of the cilinder
-- **Verbrandingsruimte**: This is where the actual mix of fuel and air is happening
-- **Zuigerveren**: Attached to the Zuiger and it's purpose is to isolate the Verbrandingsruimte from the rest of the cilinder
-- **Zuiger**: This is a part which is connected to the Krukas that does the actual motion for the Krukas to be turned.
-- **Drijfstang**: This is the part connected to the Krukas and the Zuiger.
-- **Krukas**: The krukas is a part there all dynamic force of the engine is linked with and at the end of this as, we have the propellor. In a car, here are the wheels connected.
-- **Carter**:
-- **Krukkast:** This is the central part of the engine, and is where the krukas and Nokkenas are located. At the underside of the Krukkast, we have a Carterpan which contains oil and "lagering" for the Krukas
+| Dutch term | English term | Explanation |
+| --- | --- | --- |
+| Carburateur | Carburetor | A part of the engine that mixes fuel and air to create the correct fuel-air mixture for combustion. |
+| Inlaat | Intake | The part of the engine where the fuel-air mixture enters the cylinder. |
+| Inlaatklep | Intake valve | A valve that opens and closes at the correct moment to let the fuel-air mixture flow from the intake into the combustion chamber. |
+| Uitlaat | Exhaust | The part of the engine where the burnt gases leave the cylinder and are guided toward the main exhaust system. |
+| Uitlaatklep | Exhaust valve | A valve that opens and closes at the correct moment to let the burnt gases leave the combustion chamber through the exhaust. |
+| Bougie | Spark plug | The part that ignites the fuel-air mixture by producing an electrical spark. |
+| Nokkenas | Camshaft | This part is connected to the crankshaft by gears or a timing system. It controls when the intake valve and exhaust valve open and close. In a four-stroke engine, the camshaft rotates at half the speed of the crankshaft. |
+| Cilinder | Cylinder | The cylinder is the main chamber in which the piston moves up and down. Combustion takes place in the upper part of the cylinder. |
+| Verbrandingsruimte | Combustion chamber | The area where the fuel-air mixture is compressed and ignited. This is where combustion takes place. |
+| Zuigerveren | Piston rings | Rings attached around the piston. Their purpose is to seal the combustion chamber from the rest of the cylinder and to help control oil. |
+| Zuiger | Piston | A moving part inside the cylinder. It is connected to the crankshaft through the connecting rod and transfers the force from combustion into mechanical movement. |
+| Drijfstang | Connecting rod | The part that connects the piston to the crankshaft. It transfers the up-and-down movement of the piston to the crankshaft. |
+| Krukas | Crankshaft | The crankshaft converts the up-and-down movement of the piston into rotating movement. In an aircraft engine, the propeller is connected to the crankshaft. In a car, the crankshaft ultimately drives the wheels through the drivetrain. |
+| Carter | Oil sump / oil pan | The lower part of the engine that contains engine oil. It stores oil that is used to lubricate the moving parts of the engine. This can be a wet sump or a dry sump system. |
+| Krukkast | Crankcase | The central housing of the engine. It contains and supports the crankshaft and often also parts of the camshaft system. At the bottom of the crankcase there is usually an oil sump or oil pan, which contains engine oil. |
 
-Burning fuel in a 4 stroke engine is completed in 4 phases:
+Burning fuel in a 4 stroke engine is completed in 4 different phases:
 
 1. Inlaatslag (Intake)
 2. Compressieslag (Compression
@@ -197,7 +218,7 @@ Burning fuel in a 4 stroke engine is completed in 4 phases:
 There are multiple types of motorshapes. In planes, the most used shapes are:
 
 - Line engines
-- Boxer engines (horizontally exposed)
+- Horizontally opposed engines, often called boxer engines
 
 [![jv-media-4689-bc8d6808273e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-bc8d6808273e.png)
 
@@ -206,31 +227,38 @@ There are multiple types of motorshapes. In planes, the most used shapes are:
 
 The units which can be used to measure engine power are mostly indicated in Horse Power (HP/pk). This is a worldwide standard, but sometimes the actual measurement method is described. Sometimes BHP % is used in the POHs of the aircraft. The method to measure is a special installation connected to the crankshaft, and measuring the force needed.
 
-We also have an indication of how long you may use full engine power. The indicator for maximum continious power is the maximum power you can use unlimited. Engine power is mostly indicated using Revolutions per Minute (RPM). In the cockpit we cannot read the actual power it delivers, only the RPM of the crank-shaft. The part which the engine powers and is connected to the propellor in front.
+We also have an indication of how long you may use full engine power. The indicator for maximum continious power is the maximum power you can use unlimited. In fixed-pitch propeller aircraft, RPM gives an indirect indication of engine power. In constant-speed propeller aircraft, power is normally managed using manifold pressure and RPM together.
 
 At bigger heights, like from 3000ft, we need to pull somewhat on the mixture handle to reduce the amount of fuel going into the engine. At bigger altitude, the process is more inefficient when putting too much fuel into the engine.
 
-- Manifold pressure: Inlet pressure
-- Brake horse power: The power the brakes of the plane can withstand.
+- Manifold pressure: The absolute pressure in the intake manifold, usually measured downstream of the throttle valve.
+- Brake horsepower (BHP): The actual power delivered at the engine output shaft, measured with a dynamometer or brake system.
 
 The power of a piston engine depends on the air density. This is depending on the pressure, temperature and humidity. At a low air density
 
-Turbo-engines are in 2 types:
+Turbo-engines can be described in different ways:
 
-- Altitude boosted: This type, the turbo always runs till big altitude to help the engine when horse power decreases
-- Ground boosted: This is the most existing type of turbo engine and the turbo always runs to increase engine RPM. This works till the critical altitude.
+- Turbo-normalized: This type helps the engine maintain about sea-level manifold pressure at higher altitude.
+- Turbocharged: This type can increase manifold pressure above normal sea-level pressure, depending on the engine design and POH limits. This works till the critical altitude.
 
 ### How a turbo system works
 
-A turbo system is basically a turbine and a compressor. The turbine is driven by the exhaust gasses and is connected through an axis with the compressor which is placed in the air inlet system. The compressor will increase the pressure of the air inlet, resulting in an increase in intake speed. This increases the motor-power. Turbine compressors rotate at a very high RPM, around 80.000 RPM to 100.000 RPM in some cases.
+A turbo system is basically a turbine and a compressor. The turbine is driven by the exhaust gasses and is connected through an axis with the compressor which is placed in the air inlet system. The compressor will increase the pressure of the intake air, resulting in a higher manifold pressure. This increases the motor-power. Turbine compressors rotate at a very high RPM, around 80.000 RPM to 100.000 RPM in some cases.
 
 ![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8af4825fc308.png)
 
 _The schematic drawing of a turbine-compressor combination._
 
-As a result of the compressed intake and the flow of hot exhaust gasses, the temperatures of a turbo will increase very high. Turbo's can even be glowing red. Turbo engines therefore often have a intercooler, where inlet air is compressed and colled. This is similar to a radiator. Turbo engines also need some minutes of stationary running before shutting down to completely cool down.
+As a result of the compressed intake and the flow of hot exhaust gasses, the temperatures of a turbo will increase very high. Turbo's can even be glowing red. Turbo engines therefore often have a intercooler, which cools the compressed intake air before it enters the engine. This is similar to a radiator. Turbo engines also need some minutes of stationary running before shutting down to completely cool down.
 
-A waste gate is a extra portion at the exhaust part where waste air can flow through in cases of having enough air. Some engines have a automatic waste gate function, in these type planes you can use full power on sea level.
+A waste gate is a valve in the exhaust system where part of the exhaust gases can bypass the turbine to control turbocharger speed and manifold pressure. Some engines have a automatic waste gate function, in these type planes you can use full power on sea level.
+
+### Multi engine planes
+
+There are also planes with multiple engines. They have engines which have separate systems to power and provide fuel to those engines. This is by design to minimize the chance of having both engines to be in error at the same time.
+
+- Multi-engine airplanes have rudder trim to compensate for single engine failures
+- If a multi engine plane has one engine failure, they set the propellor to "feather" (vaanstand) to reduce the drag of the propellor
 
 ---
 
@@ -250,7 +278,7 @@ The fuel system can consist of the following possible parts:
 
 Fuel tanks are very often located in the wings, but can also be in the wingtips or fuselage parts.
 
-The goal of the fuelsystem is to drive fuel to the carberator, where the fuel and air mixture is created before being ignited in the cylinders. If fuel tanks are located above the carberator, like on the Cessna 172, the fuel will flow due to gravity feed. We do not need fuel pomps in this case, which saves us some maintenance and another important part which can be broken.
+The goal of the fuelsystem is to drive fuel to the carberator, where the fuel and air mixture is created before being ignited in the cylinders. If fuel tanks are located above the carburetor, like in many carbureted Cessna 172 aircraft, fuel can flow due to gravity feed. Some aircraft versions, especially fuel-injected versions, can still have fuel pumps, so always check the POH.
 
 [![jv-media-4689-e5feb720f7da.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-e5feb720f7da.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-e5feb720f7da.png)
 
@@ -262,7 +290,7 @@ The fuel output point in the fuel tank is in most cases at the lowest point of t
 
 ### Fuel venting system
 
-To prevent some underpressure while descending, fuel tanks consists of a venting system. This helps to maintain the atmospheric pressure in the fuel tank and is very critical at high-wing planes to ensure fuel always flows to the engine due to gravity. This does it by maintaining the outside atmospheric pressure so no vacuum can occur. Types of venting are:
+Fuel tanks have a venting system to maintain atmospheric pressure in the tank as fuel is used and as pressure or temperature changes. This is very critical at high-wing planes to ensure fuel always flows to the engine due to gravity. If the vent becomes blocked, a vacuum can form in the tank and fuel flow to the engine can be restricted or stopped. Types of venting are:
 
 - Venting pipes in the tank itself
 - Special tank caps
@@ -271,7 +299,7 @@ Fuel tanks also have a **drain** at the bottom side, which can be used if any co
 
 ### Vapour lock
 
-Vapour lock is a phenomenon where bells of air occur in the fuel lines, making the fuel flow very hard or sometimes even impossible. This is caused by long terms of stationary running while on a very hot, warmed by the sun, platform. To solve vapour lock, turn on the electrical fuel pump and or enhance engine cooling. Using Mogas fuel increases the chance of vapour lock.
+Vapour lock is a phenomenon where fuel vapour bubbles occur in the fuel lines, making the fuel flow very hard or sometimes even impossible. It can be caused by high temperatures, low pressure in the fuel system, or fuel with a higher vapour pressure. To solve vapour lock, turn on the electrical fuel pump and/or enhance engine cooling, according to the POH. Using Mogas fuel can increase the chance of vapour lock compared with AVGAS. The chance of this happening is therefore higher on hot summer days.
 
 ### Fuel selectors
 
@@ -292,12 +320,12 @@ In the carburator, air and fuel are mixed into a optimal ratio and then will be 
 
 Chemically, combustion is a reaction of a particle with oxygen. To start a combustion, fuel must be combined with air in a specific ratio. When one of both is too less, no combustion can happen, so the combustion area of an engine is within a certain area.
 
-_To ignite 1 grams of fuel, we need 14,7 grams of air. This makes a ratio of fuel 1:14,7 air, or the mixture containing 6,4% fuel._
+_For gasoline, the chemically ideal mixture is about 1 part fuel to 14,7 parts air by mass. This is called the stoichiometric ratio and is about 6,4% fuel by mass._
 
 - **Rich mixture:** 1:8 or 11,1% fuel
 - **Lean mixture:** 1:20 or 4,8% fuel
 
-In engine descriptions, the version with the ratio is almost always used as where the percentage does make more sense. We need to control the mixture because we can fly in air with a lot of air molecules close to the ground but also in air high up with way less molecules. We need to keep the ratio on about 1:14,7 which we can do by decreasing the amount of fuel. However, in situations where we use full engine power during climbing, we always use a richer mixture, as excess fuel is also used to cool cylinder heads.
+In engine descriptions, the version with the ratio is almost always used as where the percentage does make more sense. We need to control the mixture because we can fly in air with a lot of air molecules close to the ground but also in air high up with way less molecules. In real engine operation, the mixture is not always kept exactly at 1:14,7. For high power settings, a richer mixture is often used for power and cooling. In cruise, the mixture can be leaned according to the POH and engine limitations.
 
 ### Additional carburetor parts
 
@@ -327,7 +355,7 @@ The moisture in the air can freeze in the carburetor if the temperature there is
 - Vaporizing of fuel: Vaporizing fuel costs energy and this is picked from the air, causing the temperature of the air to drop
 - Lower pressure in the venturi: Lower pressure means a decrease in temperature
 
-This is the reason we turn on carburetor heat in every situation in the plane where we don't use full power or cruise power. In my flight lessons, at every moment (ground excluded) where we need less than 2000RPM:
+This is the reason we use carburetor heat according to the POH/checklist. In my flight lessons, the practical rule is to use carb heat when reducing power below 2000 RPM, except on the ground:
 
 - In the full circuit
 - During landing
@@ -341,10 +369,11 @@ Carb icing can happen at any outside air temperature, even on hot and sweaty day
 
 [![jv-media-4689-943b30ada4f6.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-943b30ada4f6.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-943b30ada4f6.png)
 
-We check for carb ice during the before take-off checklist by setting an RPM of around 1700, and then enabling carb heat. We can check for carb ice in these two ways:
+We check carb heat during the before take-off checklist by setting the RPM as specified in the POH, often around 1700 RPM, and then selecting carb heat ON.
 
-- Set Carb Heat to on: ice melts and RPM increases
-- Set Carb Heat to off: RPM increases to above the initial RPM and slowly runs back
+- If there is no carb ice, RPM normally drops because the engine receives warmer and less dense air.
+- If carb ice is present, RPM may first drop and then increase again as the ice melts.
+- When carb heat is selected OFF again, RPM should normally return to the original value.
 
 During the flight, we can recognize carb icing due to these causes:
 
@@ -370,11 +399,11 @@ These problems can be solved by using fuel injection. This system, which is avai
 
 [![jv-media-4689-c9ac227ff5bc.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c9ac227ff5bc.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-c9ac227ff5bc.png)
 
-Just like the older carburation system we have a throttle valve, controlling how much fuel is pushed to the engine. This fuel now reaches the fuel control unit which equally distributes the available fuel onto the cylinders using the fuel divider. Most gasoline-based engine will inject the fuel continuously, not only when busy in the intake stage.
+Just like the older carburation system we have a throttle valve, controlling the airflow into the engine. The fuel control unit meters the correct amount of fuel and sends it to the fuel divider and injectors. Most gasoline-based engine will inject the fuel continuously, not only when busy in the intake stage.
 
 Fuel injection systems are always equipped with two possible ways of pumping fuel, which can be mechanical, using gravity or electrical. In the fuel manifold the fuel flow is measured, just like described in the disgram above.
 
-Fuel injection systems are more complex and more expensive than carburetor systems, but we don't need to bother about that carb heat again.
+Fuel injection systems are more complex and more expensive than carburetor systems, and they remove the risk of carburetor icing. However, induction icing or intake blockage can still be a risk, so some aircraft still have an alternate air system.
 
 ### Aircraft fuel types
 
@@ -382,10 +411,10 @@ In aviation we know three types of fuel, each for their own cause.
 
 | Fuel type | Description | Used for aircraft type |
 | --- | --- | --- |
-| Mogas | Mogas is just car gasoline (motor-gasoline) and is clear of color | Cessna 172, Piper aircraft etc. |
-| AVGAS 100LL | AVGAS is leaded and colored blue and is gasoline with lead | Cessna 172, Piper aircraft etc. |
-| AVGAS 91UL | AVGAS 91UL is unleaded and is the same as the 100 AVGAS, without the lead | Cessna 172, Piper aircraft etc. |
-| Jet-A1 | "Kerosine" used in turboprops or jets. This is very similar to diesel | All jet-driven (passenger) planes, turboprops like Cessna 208 Grand Caravan |
+| Mogas | Automotive gasoline, only usable in aircraft if approved by the engine/aircraft manufacturer or by STC | Some approved piston aircraft |
+| AVGAS 100LL | Leaded aviation gasoline, blue in color | Many gasoline piston aircraft |
+| AVGAS 91UL | Unleaded aviation gasoline with a lower octane rating than 100LL | Approved gasoline piston aircraft |
+| Jet-A1 | Kerosene-type turbine fuel | Jet aircraft, turboprops and some diesel piston aircraft |
 
 An important parameter of fuel for planes is the knock resistance (klopvastheid). Fuel with a low knock resistance can burn under high pressure and normal operating temperature, leading to detonation. This is called detonation and results in a rough running engine.
 
@@ -410,9 +439,9 @@ Aircraft fuel must be free of dust, water and other particles. When fuel is in t
 
 ### Diesel engines
 
-Diesel engines are very similar to gasoline engines. An important difference is that the diesel engine doesn't have a ignition system. The compression ratio of a diesel engine is much better and works by pushing diesel in an area of high pressure and high temperature causing the diesel to ignite. Diesel engines need a better and stronger construction because of this.
+Diesel engines are very similar to gasoline engines. An important difference is that the diesel engine doesn't use spark ignition like gasoline engines. They compress air to a high pressure and temperature, and fuel is injected into this hot compressed air, causing ignition. Diesel engines need a better and stronger construction because of this.
 
-Diesel engines also don't have a throttle value, but a constant flow is delivered to the engine, results in a better power to fuel ratio.
+Diesel engines also don't have a throttle valve in the same way as gasoline engines. Power is mainly controlled by the amount of fuel injected, often electronically by FADEC in modern aircraft diesel engines.
 
 Diesel engines have two engine-driven fuel pumps:
 
@@ -438,13 +467,13 @@ Parts of the ignition system are:
 
 ### Magneto ignition
 
-In aircraft the engines use magnet-based systems to generate high voltage. This magnets are typically the dynamo's where aircraft engines have two of, the left and right magneto. These magnets will spin around very fast. As long as the engine runs, the magneto's will turn, making them completely separate from the electrical system which you control with the Master switches and alternator. Also we have some redundancy in if there is a problem in the L magneto circuit, we can run on R and still land the aircraft safe and sound. However, using one of two magnetos will result in a ~10% performance loss.
+In many general aviation aircraft, the ignition system uses magnetos. A magneto is a self-contained ignition generator that produces high voltage for the spark plugs as long as the engine is turning. This makes the ignition system independent from the aircraft battery, alternator and master switch during normal running. Also we have some redundancy in if there is a problem in the L magneto circuit, we can run on R and still land the aircraft safe and sound. However, using one of two magnetos will result in a ~10% performance loss.
 
 The magnetos are connected with gears to the crank shaft, the main shaft of the engine that rotates and is connected to the propellor, and they rotate within a coil. A rotating or moving magnet inside a coil produces electrical current, which is delivered to the spark plugs.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9a989fa93a4f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9a989fa93a4f.png)
 
-The produced voltage is dependent of the turning speed of the magnet. How faster the engine runs, the more voltage is produced. When starting, this system needs a impulse, mostly installed on the left magneto, which delivers more voltage in a short while and igniting just later to start the engine smoothly.
+The produced voltage is dependent of the turning speed of the magnet. How faster the engine runs, the more voltage is produced. When starting, the magneto turns slowly and would normally produce a weaker spark. An impulse coupling, often installed on the left magneto, stores spring energy and releases it suddenly. This makes the magneto rotate faster for a moment and retards the spark timing, helping the engine start more smoothly.
 
 {{% alert title="Warning" color="warning" %}}
 A plane which has its contact not set to off runs in standby, and a minor movement in the propellor can result in the engine running. This is called hot prop. Always set the contact to OFF and the mixture to Idle cut-off when parking a plane.
@@ -452,14 +481,14 @@ A plane which has its contact not set to off runs in standby, and a minor moveme
 
 ### Start vibration
 
-An alternative solution to the impulse link is an electrical start vibration system. The starting vibration will give the left magneto a pulsing voltage. This will result in a serie of sparks, but can only be used if having enough battery power.
+An alternative solution to the impulse coupling is an electrical starting vibrator or shower-of-sparks system. This uses battery power to provide a series of sparks during engine start, but it depends on sufficient battery power.
 
 ### Ignition moment
 
 The ignition must happen on the right moment to be effective. If the fuel/air mixture is not ignited at the right moment, this will work against you instead of helping you further.
 
-- Pre ignition: This is when the mixture is ignited too early
-- Detonation: This happens when the pressure builds up in the cylinders and igniting at the wrong moment, leading to engine damage.
+- Pre ignition: This is when the mixture is ignited before the normal spark timing, often by a hot spot in the cylinder. In Dutch called: "Voorontsteking."
+- Detonation: This is abnormal combustion where part of the mixture explodes instead of burning smoothly after the normal spark. This causes very high pressures and temperatures and can lead to serious engine damage.
 
 Some causes of detonation are:
 
@@ -483,15 +512,15 @@ General aviation planes have a ignition switch where we control the ignition sys
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8a8f1d771a52.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-8a8f1d771a52.png)
 
-- **OFF** : Here the magnets are connected to the ground of the plane and disconnected from any source of power. No sparks will be produced in this setting, during normal situations
+- **OFF** : Here the magnets are connected to the ground of the plane and disconnected from any source of power. Actually connecting  the primary coil of the magneto's to the ground (-). No sparks will be produced in this setting, during normal situations
 - **R** : Only the right magneto works in this setting
 - **L** : Only the left magneto works in this setting
 - **Both** : Both magnetos are working in this setting
 - **Start** : The starting engine is powered in this setting and only the left magneto as impulse
 
-During the before take-off checklist, we test the magneto's on working and stability. If one of the two is not working properly, we will confronted with this at this moment. If the engine is running on one of the two magnetos, we should get a ~10% RPM drop. If one of the two is defective or inoperative, the RPM will not drop during the switch to R or L, and then can result in the engine turning off as we set a defective and non-voltage generating magneto.
+During the before take-off checklist, we test the magneto's on working and stability. If one of the two is not working properly, we will confronted with this at this moment. If the engine is running on one of the two magnetos, we should get a ~10% RPM drop. If one magneto is defective, selecting that magneto can cause a large RPM drop or the engine may stop. If there is no RPM drop at all when selecting one magneto, this can indicate a grounding problem, meaning one magneto may still be live when it should be switched off.
 
-A magneto can also be defective due to a grounding problem. During the run up, we will not see an RPM drop on one of the two separate settings. This can make the plane dangerous, and we may not park this plane without a good indication mark, as the magneto's will be still powered. Rotating the prop results in a engine start. This will be minimized by disabling the engine using the mixture to idle, where no fuel is left in the cylinders and nothing to burn.
+A magneto can also be defective due to a grounding problem. During the run up, we will not see an RPM drop on one of the two separate settings. This can make the plane dangerous, and we may not park this plane without a good indication mark, as the magneto's will be still powered. Rotating the prop even a bit can result in a possible engine start which a person will not survive. This will be minimized by disabling the engine using the mixture to idle, where no fuel is left in the cylinders and nothing to burn. This is the standard accepted way to turn off an airplanes' engine.
 
 ---
 
@@ -506,7 +535,7 @@ In general aviation aircraft, these types of engine cooling is being used:
 
 Most aircraft use air cooling or a combination of both. Liquid cooling is often used for cylinder heads and with diesel engines.
 
-Apart from the cooling system, excess warmth is also dispatched through oil and oil coolers. Fuel also helps cooling the engine. Using a more rich mixture will cool the engine as this evaporates. This evaporation will help to cool the cylinder heads.
+Apart from the cooling system, excess warmth is also dispatched through oil and oil coolers. A richer mixture can help cool the engine because some excess fuel evaporates and absorbs heat. This is mainly relevant at high power settings, but mixture use must always follow the POH.
 
 ### Air cooling
 
@@ -518,7 +547,7 @@ Optimal cooling of the engine is reached during the cruise phase, as this redire
 
 ### Cowl flaps
 
-Cowl flaps are used to redirect the airflow in a sucking motion, enhancing engine cooling and performance. These are often used in turbo-compressor engines. These are mostly open during taxi, take-off and climb and closed on cruise. Then re-opened at landing. If a plane has any problems with cooling in cruise, they can be re-opened.
+Cowl flaps control the airflow through the engine cowling by changing the outlet area. Open cowl flaps increase cooling airflow but also increase drag. These are often used in turbo-compressor engines. These are mostly open during taxi, take-off and climb and closed on cruise. Then re-opened at landing. If a plane has any problems with cooling in cruise, they can be re-opened.
 
 ### Liquid cooling
 
@@ -553,7 +582,7 @@ In airplane engines, we can use two different oil circulation systems:
 
 To cool the oil and regulate the temperature of the oil we have a oil cooling system, equipped after the oil pump, before the oil is pumped into the engine. This cooler is a thermostatic temperature regulator which is cooled by the cooling air which flows in the engine compartment. This also works with a bypass system, redirecting directly or via the cooling compartment. If the oil pressure is high, this will also open to always have oil in the engine.
 
-The oil filter is a paper filter in a metal case, around the size of a can of soda and is replaced every 50 flight hours.
+The oil filter is a paper filter in a metal case, around the size of a can of soda and is replaced according to the aircraft or engine maintenance schedule. In many training aircraft this can be around 50 flight hours, but the exact interval must be checked in the maintenance manual.
 
 ### Engine oil types
 
@@ -561,14 +590,14 @@ Oil consists of hydrocarbons and needs additives to lubricate the engine in a br
 
 - **Viscocity** : The viscocity of the oil states how syrupy the oil is. The higher the number, the thicker, and the more resistance of flowing, also dependent of the temperature of the oil
 
-In plane engines, we use both single grade and multigrade oil types. Single grade has big difference in temperature ranges and multigrade is "graded" for multiple temperature ranges. In the summer, we need to use thinner oil.
+In plane engines, we use both single grade and multigrade oil types. Single grade has big difference in temperature ranges and multigrade is "graded" for multiple temperature ranges. In warmer conditions, an oil grade suitable for higher operating temperatures is often required. In colder conditions, thinner or multigrade oil can help during cold starts.
 
 The indication is:
 
 - **Single grade oil** : oil 80 or 100
 - **Multi grade oil** : 15W50
 
-Multigrade has the gradation in the name. During cold operations, the first number states the viscocity and at high temperatures the second number. Due to different additives the oil becomes more thick with a higher viscocity. In this number, the W stands for "Winter", so Viscocity 15 during Winter (cold start) and 50 during engine operating temperature.
+Multigrade has the gradation in the name. During cold operations, the first number with the W describes the cold-temperature viscosity behaviour. At normal engine operating temperature, the second number describes the viscosity behaviour. In this number, the W stands for "Winter", so Viscocity 15 during Winter (cold start) and 50 during engine operating temperature.
 
 ### Oil pressure
 
@@ -620,22 +649,24 @@ Every engine will use oil but the amount of oil is dependent on several factors.
 - Type of oil
 - Condition of cylinders
 - Condition of pistons
-- Condition of piston springs
+- Condition of piston rings
 
-A new engine which doesnt have already lubricated piston springs uses more oil. The same counts for older engines with much wear to the piston springs.
+A new engine which doesnt have already lubricated piston rings uses more oil. The same counts for older engines with much wear to the piston rings.
 
 ---
 
 ## Constant Speed Propellors (7)
 
-Constant Speed Propellors or variable pitch propellors are propellors where the angle of the propellor blades can be adjusted based on the phase of flight. Planes with this feature often have more blades than 2 on each propellor and are equipped with a blue Prop RPM handle in the cockpit, next to the black throttle and red mixture. Pro's of planes with this feature is that they are much more efficient, generating more thrust with less engine RPM. With the black handle, we control fuel inlet pressure which is called Manifold pressure and with the blue handle we control the speed of the propellor, the RPM and indirectly the blade angle.
+Constant Speed Propellors or variable pitch propellors are propellors where the angle of the propellor blades can be adjusted based on the phase of flight. Planes with this feature are equipped with a blue Prop RPM handle in the cockpit, next to the black throttle and red mixture. Pro's of planes with this feature is that they are much more efficient, generating more thrust with less engine RPM. With the black handle, we control throttle/manifold pressure, and with the blue handle we select the propellor RPM. The governor then changes the blade angle to maintain the selected RPM within the operating limits.
+
+[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-987ef568cc1e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-987ef568cc1e.png)
 
 Planes equipped with constant speed propellors are also equipped with a governor. This is a part in the plane that actually sets the correct propellor blade based on the handle setting.
 
 - When **taking off** and climbing: blades are set to full fine ( **High RPM** )
 - When **cruising** : blades are set to coarse blade angle ( **Low RPM** )
 
-As the propellor will always rotate at the same RPM, the angle of attack and drag can reduce when in horizontal flight as we go at a faster airspeed. This makes the plane setting a more coarse blade angle to increase this, making the engine run on lower RPMs than with fixed pitch propellors and having more control + efficient use of engine power.
+As the propellor governor tries to maintain the selected RPM, the angle of attack and drag can reduce when in horizontal flight as we go at a faster airspeed. This makes the plane setting a more coarse blade angle to increase this, making the engine run on lower RPMs than with fixed pitch propellors and having more control + efficient use of engine power.
 
 Most blade-change systems are hydraulic, but some are also powered electrically. Hydraulic systems make use of the oil pressure to control the mechanism, so this also uses engine oil.
 
@@ -654,7 +685,7 @@ When a high manifold pressure is combined with a low engine RPM the engine can f
 
 ### Pre-flight check
 
-During the pre-flight check, we will check the governor operation. This can be done when the engine is running and when it is in normal operation temperature. We will set the handle over the full range for a few times and check if the RPM changes value. Doing this multiple times will ensure the warm engine oil reaches the system and guarantee fully operation.
+During the pre-flight check, we will check the governor operation. This can be done when the engine is running and when it is in normal operation temperature. We will set the handle over the full range for a few times and check if the RPM changes value. Doing this multiple times helps warm engine oil reach the propellor governor system and confirms that the RPM changes as expected.
 
 ### Single acting variable pitch propellor
 
@@ -662,7 +693,7 @@ Smaller planes are often equipped with single acting variable pitch propellors, 
 
 ### Loss of oil pressure
 
-As we already discussed, when powered hydraulically, the system uses the engine oil to function. The pitch of the blades is mechanically limited to help us in failures. When oil pressure is lost, the propellor blades will set by spring force to the fine pitch setting (high RPM) making it a fixed pitch propellor and us able to land safely. This also needs a limited airspeed and limited engine RPM setting as the engine RPM can now be exceeded by the low propellor drag.
+As we already discussed, when powered hydraulically, the system uses the engine oil to function. The pitch of the blades is mechanically limited to help us in failures. In many single-engine, non-feathering constant-speed propellors, loss of oil pressure drives the blades toward fine pitch/high RPM, making it behave more like a fixed pitch propellor and keeping us able to land safely. This also needs a limited airspeed and limited engine RPM setting as the engine RPM can now be exceeded by the low propellor drag.
 
 ---
 
@@ -696,7 +727,7 @@ The engine indicators measuring and showing pressure are:
 
 - **Oil pressure** : this shows the pressure in PSI and the rate of circulation
 - **Fuel pressure**
-- **Manifold Pressure:** This shows the fuel pressure after the throttle valve and is the amount of fuel injected into the cylinders. This is expressed in inches of mercury (inHg)
+- **Manifold Pressure:** This shows the absolute pressure in the intake manifold after the throttle valve. It is expressed in inches of mercury (inHg) and is used together with RPM to manage power in constant-speed propellor aircraft.
 - **Static and Dynamic pressure**
 - **Hydraulic pressure**
 
@@ -719,12 +750,11 @@ Pressure is mostly measured by flexible metal boxes or pipes. We have two types 
 
 Temperature in aviation is often measured in these three units:
 
-- **Celcius (C)** : This is the primary method around the world to measure temperature, which has a logical scale:
-
+- **Celcius (C)** : This is the primary method around the world to measure temperature, which has a simple and logical scale:
 	- 0 degrees: freezing
 	- 100 degrees: cooking
-- **Kelvin (K)** : This is the temperature of absolute zero molecule movement, which is 273,15 degrees celcius
-	- Kelvin = Celcius - 273,15
+- **Kelvin (K)** : This is the temperature scale where 0 K is absolute zero, equal to -273,15 degrees Celsius.
+	- Kelvin = Celsius + 273,15
 - **Fahrenheit (F)** : This is an American scale, where 0 degrees celcius is 32 degrees Fahrenheit
 	- Fahrenheit = Celcius × 1,8 + 32
 
@@ -734,33 +764,34 @@ We get some indications about temperatures in our aircraft, telling us different
 	- More rich mixture
 	- Decrease of engine RPM
 	- Enhancing cooling, open cowl flaps or fly at a higher speed
-- **Exhaust Gas Temperature (EGT):** EGT shows the temperature of the exhaust gases leaving the cylinder. This tells the pilot how combustion is behaving and especially important when leaning the mixture
+- **Exhaust Gas Temperature (EGT):** EGT shows the temperature of the exhaust gases leaving the cylinder. It helps the pilot monitor combustion and is especially useful when leaning the mixture. During leaning, EGT normally rises to a peak and then decreases if the mixture is leaned further. Pilots use EGT, together with the aircraft’s POH and engine limitations, to set the correct mixture
 - **Oil Temperature:** The temperature of the engine oil and so the mean engine temperature, giving us indications of possible overheating
 - **Coolant Temperature:** The temperature of the coolant fluid, giving us indications of possible overheating
 - **Outside air temperature:** This indicator measures the temperature outside of the aircraft, enables us to make TAS calculations or assess risk of ice deposits
 
 ### Revolutions per minute (RPM) indicator
 
-We only have one RPM indicator per engine. As we may only fly with planes with one engine with the PPL license, we need to monitor only one indicator.
+We have one RPM indicator per engine. In a single-engine aircraft we monitor one RPM indicator; in a multi-engine aircraft each engine has its own RPM indication.
 
 RPM indicators show the amount of rotations the propellor makes in a minute. In planes where the propellor is mounted directly on the crank shaft, we also get the RPM of the crank shaft with this indication. With fixed-pitch propellor planes, this means engine RPM equals propellor RPM. More RPM is more power (thrust).
 
-Some engines like Rotax have a gearbox between the crank shaft and the propellor which allows the propellor to rotate at a lower RPM than the engine. This RPM indicator will show the RPM of the propellor in such cases.
+Some engines like Rotax have a gearbox between the crank shaft and the propellor which allows the propellor to rotate at a lower RPM than the engine. Depending on the installation, the cockpit RPM indication may show engine RPM rather than actual propellor RPM.
 
-Propellor RPMs are often limited to around 2700 RPM. Above this rotation speed, the tips will reach the speed of sound (Mach 1) and this heavily decreases the performance of the propellor.
+Propellor RPMs are often limited to around 2700 RPM in many light aircraft engines. The exact limit depends on propellor diameter, tip speed, noise, efficiency and structural limits.
 
 RPM indicators are very often mechanically powered. A flexible cable is connected to the engine on one end. The other end is connected to the RPM indicator in the cockpit. This other end has a magnet connected to it which rotates in a copper tube. This will produce **eddy currents**, resulting in the copper tube rotating in the same direction. The rotation of this tube is then somewhat limited by a spiral spring.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2a13f78a8149.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2a13f78a8149.png)
 
 {{% alert title="Info" color="info" %}}
-Eddy currents is voltage which is produced when a magnet rotates at high speed close to a conducting material.
+Eddy currents are electrical currents induced in a conducting material when it is exposed to a changing magnetic field, for example by a rotating magnet.
 {{% /alert %}}
 
 Some planes are equipped with a torque indicator as indicator for the amount of engine power. A torque meter is often used when the crank shaft and propellor are separated by a gearbox and is determined by performing oil pressure measurements in the gearbox.
 
 - Torque (Nm) = force (N) × arm (M)
-- Power (Watt) = torque (Nm) × revolutions **per second**
+- Power (Watt) = torque (Nm) × angular velocity (rad/s)
+- If using revolutions per second: Power = torque × 2π × revolutions per second
 
 _Nm = Newtonmeter, unit of rotation power where we multiply the amount of newton against the amount of meters (__10 N × 0,5 m = 5 Nm)_
 
@@ -790,10 +821,13 @@ Tip: Use this unit conversion tool: [https://flighttools.justinverstijnen.nl/uni
 
 ## The electrical system (9)
 
-The electrical system in planes is being used to power the electronic devices and instruments. The only connections the electrical system and the engine have are:
+The electrical system in planes is being used to power the electronic devices and instruments. The electrical system and the engine are connected through several systems, such as:
 
 - Starting engine
-- Electrical air/fuel mixture pump FADEC (if equipped)
+- Alternator/generator
+- Electrical fuel pump if equipped
+- Engine sensors/instruments
+- FADEC if equipped
 
 All the primary components of the electrical system are (and fail in case of electrical failures):
 
@@ -814,7 +848,8 @@ All devices which we often use are powered by this electrical circuit:
 - Turn coordinator (only electrical primary flight indicator for fallback scenarios)
 - Flight displays
 - Fuel quantity indicators
-- Lights
+- Inside lights
+- Outside lights (Beacon, Strobe, Nav, Taxi and Landing lights)
 - Pitot heat
 - Clock
 - Hobbsmeter (hour-counter on the RPM indicator, just like KM's in a older carr)
@@ -827,14 +862,14 @@ All devices which we often use are powered by this electrical circuit:
 
 Some definitions we must know when talking about the electrical system:
 
-- **Current** : Current is the power of the electrical load indicated in Ampere (A). This unit measures the **amount** of electrones transported per second
-- **Voltage** : Voltage is the electrical potential difference indicated in Volts (V). This unit measures the **pressure** (speed) of the electrodes transported per second
+- **Current** : Current is the flow of electrical charge, indicated in Ampere (A). It measures how much charge flows through a circuit per second.
+- **Voltage** : Voltage is the electrical potential difference, indicated in Volts (V). It can be compared with electrical pressure that pushes current through a circuit.
 
 ### Types of power
 
 We can have two different types of power, namely:
 
-- **Direct current (DC)** : Here the electrons will always flow in the same direction, from negative (-) to positive (+).
+- **Direct current (DC)** : In DC, the current flows in one direction. Conventional current is described as flowing from positive (+) to negative (-), while electron flow is from negative (-) to positive (+).
 - **Alternating current (AC)** : Here the electrons will switch direction periodically, which is indicated in Hertz. 400Hz means 400 switches of direction per second. In airliners, the alternating current flow hertz is 400Hz, but at your power outlet at home, 50Hz or 60Hz is being used, depending on your country.
 
 We use both of these type of power, mostly depending on the king of application. A battery for example always delivers DC power and an alternator can deliver both. However, alternators that deliver AC power are much cheaper so we can convert that power to DC. General Aviation aircraft mostly have a DC power system of 14 or 28 volts.
@@ -886,7 +921,7 @@ After the AC alternator, a rectifier unit is placed to convert these alternating
 
 ### Alternator control unit
 
-The power the alternator is producing is dependent on the RPM of the engine. To prevent damage or outages due to peaks and lows, the electrical system has a alternator control unit which is basically a voltage regulator. A device which keeps the power steady at around 12 to 14 volts.
+The power the alternator is producing is dependent on the RPM of the engine. To prevent damage or outages due to peaks and lows, the electrical system has a alternator control unit which is basically a voltage regulator. A device which keeps the power steady within the correct range. In many light aircraft this is around 14 volts for a 12V battery system, or around 28 volts for a 24V battery system.
 
 ### The battery
 
@@ -904,7 +939,7 @@ Power in a battery is produced by a chemical reaction. There are different types
 
 Sometimes we have multiple batteries to have back-up batteries or a separate excitation battery.
 
-In most planes a lead-sulfur battery is used, just like in cars. This contains of plates of lead submerged in sulfur. This reaction between those two materials produces power, which is reversable. This means we can charge and discharge the battery, or pick power from the battery or charge it back. The battery is placed in a battery box which contains a drain for air ventilation.
+In most planes a lead-acid battery is used, just like in cars. This contains plates of lead submerged in sulfuric acid. This reaction between those two materials produces power, which is reversable. This means we can charge and discharge the battery, or pick power from the battery or charge it back. The battery is placed in a battery box which contains a drain for air ventilation.
 
 ### Voltage and battery capacity
 
@@ -966,7 +1001,7 @@ The general guidelines and sympthoms for both types of disruptions are:
 - Electrical smoke -> short circuit
 - Ozone-smell -> short circuit
 
-In a case of a alternator error its recommended to land the plane at the nearest airfield as an alternator error will cause the plane to pick power from the battery. This will provide power for around 10-15 with a max of 20 minutes. Power down unnessesary devices where possible.
+In a case of a alternator error its recommended to land the plane at the nearest airfield as an alternator error will cause the plane to pick power from the battery. The remaining time depends on battery condition, battery capacity and electrical load. Power down unnessesary devices where possible.
 
 The alternator can sometimes be reset by switching the master switch to off and back on.
 
@@ -988,10 +1023,10 @@ Airspeed in aviation can be measured in 4 different terms which sound ridiculous
 
 | Speed | Abbreviation | Definition |
 | --- | --- | --- |
-| Indicated Airspeed | IAS | The indicated airspeed measured by the pitot probe and shown on the instruments. Also the dynamic pressure force |
-| Calibrated Airspeed | CAS | The calibrated indicated airspeed of the airplane |
-| True Airspeed | TAS | The speed where the plane flies through the air |
-| Ground Speed | GS | The speed of the plane relative to the ground |
+| Indicated Airspeed | IAS | The airspeed shown on the airspeed indicator, based on the difference between pitot pressure and static pressure |
+| Calibrated Airspeed | CAS | IAS corrected for instrument and position errors |
+| True Airspeed | TAS | The actual speed of the aircraft through the surrounding air mass |
+| Ground Speed | GS | The speed of the aircraft relative to the ground |
 
 ### Pitot-static instruments
 
@@ -1017,11 +1052,11 @@ The static port is an opening (mostly on the left side) that measures the static
 
 [![jv-media-4689-1fbb911d84db.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1fbb911d84db.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-1fbb911d84db.png)
 
-This opening is placed at the opposite direction of incoming air, to truly measure static pressure. In some planes, this is integrated in the pitot-probe.
+This opening is placed in a position where it is not directly facing the incoming airflow, so it can measure static pressure as accurately as possible. In some planes, this is integrated in the pitot-probe.
 
-When having problems with altitude or vertical speed (like in the winter), we have a second option of static air, the alternate static port/alternate air. This takes the air from the cabin, which is mostly at a higher altitude than it is really. (Around 100 feet higer than true altitude).
+When having problems with altitude or vertical speed (like in the winter), we have a second option of static air, the alternate static port/alternate air. This takes air from the cabin. Cabin pressure is often slightly lower than outside static pressure, so the altimeter can indicate higher than the true altitude. The exact correction must be found in the POH.
 
-A third option can be to smash the vertical speed indicator, then this air will flow through the static system. Our vertical speed indicator obviously would not work anymore, but is the least needed instrument against airspeed and altitude.
+In some emergency situations, if no alternate static source is available, the POH or training material may describe breaking the VSI glass to provide a static source. This makes the VSI unusable and should only be considered as an emergency measure according to training and procedures.
 
 #### Position error
 
@@ -1035,7 +1070,7 @@ Some planes have an extra alternate static port in case the normal port is broke
 
 ### Pitot probe
 
-The pitot probe measures **total pressure**, which is used together with static pressure to determine the aircraft’s airspeed. The airspeed shown to the pilot is called Indicated Airspeed (IAS).
+The pitot probe measures **total pressure**, which is used together with static pressure to determine the aircraft’s airspeed. The airspeed shown to the pilot is called Indicated Airspeed (IAS). It basically converts the amount of air molecules going into the probe and gives this information to the Indicated Airspeed instrument in the cockpit. There it is being corrected for the static pressure to display the correct amount of knots in every situation.
 
 [![jv-media-4689-f14b72ab933d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-f14b72ab933d.png)
 
@@ -1045,7 +1080,7 @@ Airspeed is measured using both the pitot probe and the static port. The airspee
 
 #### Pitot probe errors during blockage
 
-The pitot probe can be blocked by ice, insects, vapor or dumbly enough by forgetting to take the cover off. When this happens, we can expect the following effects:
+The pitot probe can be blocked by ice, insects, vapor or dumbly enough by forgetting to take the cover off. The exact indication depends on which opening is blocked. If the pitot opening is blocked but the drain hole remains open, the airspeed indicator can drop to zero. If the pitot pressure is trapped, the airspeed indicator can act like an altimeter: too high in a climb and too low in a descent. When this happens, we can expect the following effects:
 
 |  | Airspeed Indicator | Altitude Indicator | Vertical Speed Indicator |
 | --- | --- | --- | --- |
@@ -1060,7 +1095,7 @@ During take-off, we say the phrase "Airspeed alive" because of this check. If th
 
 #### Pitot Heat
 
-The pitot has a heating element as this part is sensitive for ice-deposition. To prevent that the ice blocks this instrument, we have a switch in our cockpit called the Pitot heat. This enables a heating device in the pitot probe which prevents ice. This is a part which can take a lot of electrical energy, so do not use it too much when not running the engine. The general guideline for Cessna 172 planes is to enable this in every situation where you are flying in air 10 degrees celcius or colder.
+The pitot has a heating element as this part is sensitive for ice-deposition. To prevent that the ice blocks this instrument, we have a switch in our cockpit called the Pitot heat. This enables a heating device in the pitot probe which prevents ice. This is a part which can take a lot of electrical energy, so do not use it too much when not running the engine. Pitot heat should be used according to the POH/checklist, especially in visible moisture or possible icing conditions.
 
 ### Airspeed Indicator
 
@@ -1113,7 +1148,7 @@ The altitude indicator is basically a pressure-meter. Air pressure decreases as 
 
 _SAS* means Standard Altimeter Setting, 1013 hPa_
 
-In most cases, we use the QNH. We know the elevation of the terrain and set the elevation into the altitude indicator. This displays the QNH, setting the indicator on "0" displays the QFE and setting 1013 hPa sets the QNE as known as the "Pressure altitude" which we use with take-off and landing configurations.
+In most cases, we use QNH. When QNH is set, the altimeter indicates altitude above mean sea level. On the ground at the aerodrome, it should indicate the aerodrome elevation. When QFE is set, the altimeter indicates height above the selected aerodrome reference and should read approximately zero on that aerodrome. When 1013 hPa is set, the altimeter indicates pressure altitude, used for flight levels above the transition altitude.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-221300516426.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-221300516426.png)
 
@@ -1124,7 +1159,7 @@ In flight regions we often use a "regional QNH", which prevents us from 2 proble
 
 #### How the altimeter works
 
-The altimeter is as said basically a pressure meter, converting a pressure difference between your reference point and the static pressure measured by the static port to an altitude number in feet. The static port is connected to the instrument-chamber where a diaphragm(s) is placed. This diaphragm(s) has a certain pressure in it and the outside pressure pushes on the diaphragm(s). As you increase in altitude, the static pressure decreases, which causes the diaphragms to expand. This is then mechanically contected to the indicator needles and showing the pilot the altitude from their reference point. The diaphragm is also known as aneroid.
+The altimeter is as said basically a pressure meter (barometer), converting a pressure difference between your reference point and the static pressure measured by the static port to an altitude number in feet. The static port is connected to the instrument-chamber where a diaphragm(s) is placed. This diaphragm(s) has a certain pressure in it and the outside pressure pushes on the diaphragm(s). As you increase in altitude, the static pressure decreases, which causes the diaphragms to expand. This is then mechanically contected to the indicator needles and showing the pilot the altitude from their reference point. The diaphragm is also known as aneroid.
 
 You can set the reference point with the dial in the cockpit.
 
@@ -1137,6 +1172,10 @@ The altitude indicator mostly has 3 indicator needles, and works like a clock:
 - Triangle needle: Showing 10.000ft scale (100.000ft per rotation)
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9455f3ec409b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-9455f3ec409b.png)
+
+#### Why does the altimeter works like this?
+
+In modern times like 2026 it would be much easier to use proximity sensors or GPS to calculate your altitude. This doesnt work with sensors at the bottom of the airplane, as we would have a different altitude every nanosecond and as other traffic in the vicinity which we want to avoid. Also, based on knowledge and earlier incidents the aviation world agreed on the pressure-based version as pressure is always there. Even when having a engine fire, electrical error and all sorts of problems at once.
 
 #### Altitude indicator errors
 
@@ -1175,7 +1214,7 @@ A pressure altitude meter will indicate the true altitude only in ISA conditions
 
 ### Vertical Speed Indicator (VSI)
 
-The vertical speed indicator will indicate if the plane is ascending, descending or in straight and level flight. This does it by indicating how much feet you descend or climb in one minute. The instrument is always zero-centered and goes up when climbing and goes down when descending. Basically following the flight path of the plane.
+The vertical speed indicator will indicate if the plane is ascending, descending or in straight and level flight. This does it by indicating how much feet you descend or climb in one minute. The instrument is always zero-centered and goes up when climbing and goes down when descending. Basically following the flight path of the plane. The VSI measures the rate of change of static pressure and has a short delay from pressure change to indication in the cockpit, as it relies on measuring pressure difference with the pressure from some seconds before.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-60d1691d74db.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-60d1691d74db.png)
 
@@ -1195,13 +1234,15 @@ The VSI also has some delay/lag as already described. This delay increases with 
 
 ## Gyroscopic instruments (11)
 
-Some aircraft instruments rely on the properties of a gyroscope. This is an efficient way to have the indicators working. The gyros are powered by an engine-driven vacuum pump, except the turn coordinator, which is electrically driven. This is done for redunancy, so if one system fails you still have all types of indications.
+Some aircraft instruments rely on the properties of a gyroscope. This is an efficient way to have the indicators working. In many older or traditional light aircraft, the attitude indicator and heading indicator are powered by an engine-driven vacuum system, while the turn coordinator is electrically powered. Modern aircraft can use electrical gyros or digital AHRS systems instead. This is done for redunancy, so if one system fails you still have all types of indications.
 
 The indicators which uses gyro's to function:
 
 - Artificial horizon (ADI)
 - Heading indicator (non magnetic)
 - Turn coordinator
+
+We can use the Turn coordinator and magnetic compass in situations the pneumatic gyro's are not working, and we can use the attitude indicator when the electrical gyro is not working. Clever built-in fallback.
 
 ### Gyroscope properties
 
@@ -1239,7 +1280,6 @@ The pump itself is driven by the engine, so the pressure itself is dependent on 
 As the vacuum-pump is driven by the engine, it can have errors:
 
 - **Low indication:** This can be caused by an inoperative vacuumpump, a blocked inlet filter or a defect indicator
-
 	- Flying at low RPM or high altitude can also give a too low indication as the vacuumpump cannot build up enough pressure
 - **High indication:** This can be caused by an inoperative pressure regulator or blockage in the filter/regulator
 
@@ -1281,7 +1321,7 @@ Just like the attitude indicator, the directional gyro which we use as a copy of
 
 We have to set this compass every several minutes to the same heading as the magnetic compass to make the directional compass show the compass heading. This does not represent the true (chart) heading.
 
-The gyro compass is much more reliable in turns and has a overall more stable indication. Magnetic compasses have rotating errors and does not indicate the right heading in turns. It also doesn't work that great in turbulent air. The gyro compass doesnt have these errors.
+The gyro compass is much more reliable in turns and has a overall more stable indication. Magnetic compasses have turning errors and do not indicate the right heading in turns. It also doesn't work that great in turbulent air. The gyro compass does not have the same magnetic turning and acceleration errors, but it can drift over time and must be regularly checked and aligned with the magnetic compass.
 
 ### Turn coordinator
 
@@ -1295,14 +1335,16 @@ The rate of turn is indicated in rates. A rate-one turn is 180 degrees in one mi
 
 #### How to use the turn coordinator
 
-The turn coordinator shows the bank angle to keep to make a rate one turn. It also have a ball to show if you make a coordinated flight. A rule of thumb for this is "step on the ball", meaning to press the pedal on the side where the ball is to get it in the middle.
+The turn coordinator shows the rate of turn, not the actual bank angle. The bank angle needed for a rate-one turn depends on airspeed. It also has a ball to show if you make a coordinated flight. A rule of thumb for this is "step on the ball", meaning to press the pedal on the side where the ball is to get it in the middle.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2cceb09ae454.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-2cceb09ae454.png)
 
-When making coordinated turns, you fly at the highest turn speed and with the least drag. Slipping or skidding in turns slows you down as the drag increases. Air will then not come from straight forward.
+When making coordinated turns, you fly with less unnecessary drag and better passenger comfort. Slipping or skidding in turns increases drag and can be unsafe, especially close to stall speed. Air will then not come from straight forward.
 
-- **Slipping** : Too less rudder input
-- **Skidding** (schuivende bocht): Too much rudder input
+- **Slipping** (slippende bocht):Too **less** rudder input
+- **Skidding** (schuivende bocht): Too **much** rudder input
+
+Remember this sentence: *Step on the ball*
 
 ### Summary of gyroscopic indicators
 
@@ -1324,7 +1366,7 @@ In modern aircraft, we can see more and more indicators being replaced by glass 
 
 We know two types of screens:
 
-- **Primary Flight Display** (PFD): This shows all the basic 6 indicators, speed, heading, bank angle, horizon, altitude, vertical speed and turn coordinator. It can also display things like radio frequencies and transponder in most cases.
+- **Primary Flight Display** (PFD): This shows the primary flight information, such as airspeed, attitude, altitude, heading, vertical speed and turn/slip information. It can also display things like radio frequencies, navigation information and transponder information, depending on the system.
 - **Multifunction Flight Display** (MFD): This shows mostly a digital map and all the engine instruments like RPM, ammeter, fuel flow, oil temperature and pressure. In most cases you have buttons to switch through various menus and overviews.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-204e05c948d4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-204e05c948d4.png)
@@ -1333,7 +1375,7 @@ Under the screens we also have some fallback instruments which still work like t
 
 ### Air Data Computer
 
-All the probes we have in older aircraft like pitot probe, static port, engine rpm and oil temperature and pressure are connected to a Air Data Computer (ADC). This is a small device which converts this mechanical data into digital data readable by the glass cockpit. We also have a magneto-meter which contains a electrical magnet which helps us pointing at magnetic north. This is then converted into digital data by the AHRS, which is the Attitude and Heading Reference System.
+The Air Data Computer (ADC) receives data from the pitot-static system and often outside air temperature. It converts this data into digital information such as airspeed, altitude, vertical speed and true airspeed. Engine data such as RPM, oil temperature and oil pressure normally comes from engine sensors and an engine indication system. We also have a magnetometer which senses the earth’s magnetic field and helps provide magnetic heading information. This is then converted into digital data by the AHRS, which is the Attitude and Heading Reference System.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ff5dac81955a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ff5dac81955a.png)
 
@@ -1351,15 +1393,13 @@ A magnetic compass is working on the sensitiviness of earths magnetic field. Wit
 - **Magnetic north** : This is the northern magnetic pole where compasses point to, which is close to true north but at this moment in 2026 there is a 450+km distance between true north and magnetic north
 - **Compass north** : This is the north the compass indicates, but compasses can indicate a small error caused by imperfections and electromagnetic fields called the " **deviation** ".
 
-Earth has a magnetic field around it which is caused by the huge amount of metals inside earth. This causes compasses to point to earths magnetic north pole. However, the magnetic north pole is somewhat different and is moving from time to time.
+Earth has a magnetic field around it, mainly caused by movement of electrically conducting molten iron in the outer core. This causes compasses to align with the earth’s magnetic field and point toward magnetic north. However, the magnetic north pole is somewhat different and is moving from time to time.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-98c00be5b97a.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-98c00be5b97a.png)
 
-A factor that also helps creating this magnetic field is processes in the ionosphere layer in the earth's atmosphere. This happens at an altitude of between 75km to 1000km and contains a huge amount of electric loaded particles which are called the iones. The movements of this iones amplified by the day/night cycle cause a magnetic field. In the ionosphere is also where aurora's happen as this is also dependent on earths magnetic field. Particles are sent away from the sun and catched by earth, and are then redirected to the north and south poles. This is why you get the most aurora's at the poles.
-
 ### Magnetic north
 
-Magnetic north is a magnetic reference point where compasses point to when no interference is happening. Because this magnetic field is as described caused by the huge amount of metals inside earth and processes in the ionosphere, this point changes from year to year. At this moment in 2026 the magnetic north pole is 470 kilometers away from the true north pole. This difference, often indicated in degrees, is called the "**variation**".
+Magnetic north is the direction a compass points to when no local interference is present. Because this magnetic field is mainly caused by movement of electrically conducting molten iron in the outer core, this point changes from year to year. At this moment in 2026 the magnetic north pole is around several hundred kilometers away from the true north pole. The angle between true north and magnetic north at a specific location is called magnetic variation or magnetic declination.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-618a6897d4a2.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-618a6897d4a2.png)
 
@@ -1371,7 +1411,7 @@ Why this is so important, is that on most places the variation will be a few deg
 
 ### Inclination
 
-Inclination is where a compass is higher up in the air and will point to magnetic north/compass north while having a small dip. This is causes as the magnetic north reference is on the ground and the plane in the air. This have some influence on the trustworthiness of the compass. We can say thay above 60 degrees north or below 60 degrees south, we are too close to the poles and we cannot trust the magnetic compass. This is because the needle will point to the magnetic north pole and will not move horizontally.
+Inclination, also called magnetic dip, is the angle at which the earth’s magnetic field points into the earth. Near the magnetic poles, the magnetic field points much more vertically. This makes a magnetic compass less reliable, because the compass card wants to dip instead of only rotate horizontally. We can say that above 60 degrees north or below 60 degrees south, we are close to the poles and the magnetic compass becomes less trustworthy.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ed340646b15b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-ed340646b15b.png)
 
@@ -1388,113 +1428,28 @@ A compass wants to line up into the magnetic field lines. Because of the inclina
 - **Turning error** : During a turn the magnetic compass will not indicate the correct heading
 - **Acceleration error** : During acceleration and slowing down the compass will change heading while this is actually not the case
 
+The magnetic compass is a simple but limited device and should mainly be used in straight, level and unaccelerated flight, or in situations our gyro-based compass, avionics and other devices are not working.
+  - Turning from north will result in a wrong but then corrected turn
+  - Turning from south will result in a inverted turn
+
 #### Turning error
 
-The turning error will be induced by turns we make in a plane. On the northern hemisphere, this is happening:
+The turning error will be induced by turns we make in a plane. On the northern hemisphere, this can be remembered with UNOS:
 
-- Northern headings: Small delay and slowly gets the correct course, falling behind
-- Southern headings: Compass will be ahead of us and after leveling off, be correcting itself
+- Undershoot North: when turning to a northerly heading, roll out before the compass reaches north.
+- Overshoot South: when turning to a southerly heading, roll out after the compass passes south.
+
+This is because the compass lags or leads during turns, especially on northerly and southerly headings.
 
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)
 
 #### Acceleration errors
 
+On the northern hemisphere, acceleration errors are most noticeable on east or west headings and can be remembered with ANDS: Accelerate North, Decelerate South. During acceleration, the compass indicates a turn toward north. During deceleration, the compass indicates a turn toward south. After the acceleration or deceleration stops, the compass indication will settle again.
+
 [![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4387d016857c.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-4387d016857c.png)
 
 ---
-
-## Other important notes from the course
-
-- At shutdown, we pull the mixture to clean the engine cilinders. This to reduce the chance of "hot-prop", turning the propellor can start the engine due to the magneto still powered if key still in the hole
-- Flaps is "Vleugelklep" in Dutch
-- Braced Wing(with strut) is Cessna 172 type planes
-- Cantilever wing is Piper type planes
-- Monocoque construction is a can of coke
-- Semi monocoque is reinforced in the inside
-- Max zero fuel mass: important to calculate balance if fuel is almost up (weight of the plane including passengers and baggage)
-- Vertical stabilizer is "Kielvlak" in Dutch
-- Horizontal stabilizer is "Stabilo" in Dutch
-- Multi-engine airplanes have ruddertrim to compensate for single engine failures
-- Lift is the force that pushes you in the air (draagkracht)
-- Slats are leading edge flaps -> increases lift
-- Flutter is aerodynamic imbalance
-- Torsieschaar is torque link and a shimmy damper
-- Shimmy is a bike without hands that vibrates
-- Shockdamper works with gas and oil
-  - Gas for damping
-  - Oil for suspension (vering)
-- Hydraulic means "hydro" and means transferring pressure by hydro, for example brakes
-  - Unhealthy then touched
-  - Thin and low viscocity
-- Crabbing is needed to line up with the wind, at around 15 feet before landing, you turn the right direction to minimize deviating from the track to the runway
-- Touchdown load is horizontal and vertical load
-- Slipmarker is a red piece of painting that marks the tire and rim to align and makes a slip visible
-- Tubeless means a tire without a "tube" (binnenband)
-- Tube type: tire with a tube
-- De-icing is melting existing ice (revive)
-- Anti-ice is preventing ice (prevent)
-  - Pitot heat/wind shield/carb heat
-- Engine fire at starting: cranking to crank the fire into the engine
-- 
-- Krukas connected to propellor and piston as
-- Nokkenas connected to krukas turning 50% of the krukas
-- Stijgstroom carberateur -> lucht stijgt ,gemonteerd onder de motor
-- Turbo charging is compressed air into the engine (turbo)
-- Compressed gas into a tighter squeeze produces heat and needs cooling
-- Waste gate is a pressure relief gate
-- FADEC means automatically controlled mixture
-- Vapour lock happens with warm weather and makes the engine go running stutterly
-- More throttle means more air, not more fuel -> thats what the mixture is for
-- CVV gas uses heat and can produce ice -> Thats why we need to enable it under 2000 RPM. This can happen even when its 28 degrees celsius outside
-- Warm air is thinner -> RPM drop
-- Nullast sproeier prevents the engine from turning off when idle
-- Lean to a RPM drop and then add about 1/2 cm
-- Exhaust Gas temperature
-- For prop-rpm planes which are called "constant speed propellor planes"
-  - This means the plane changes the blade pitch to maintain a certain RPM
-- Throttle will control the air inlet pressure
-- RPM will control the actual RPM of the propellor
-- Engines will use fuel as colling, sometimes a little more fuel is needed to cool the engine
-- Gasoline
-  - AVGAS 100 LL is blue
-  - MOGAS is yellow
-  - Jet A1 is colorless or black
-- Magnetos are the powering system for the spark plugs, they are connected to the krukas and will deliver power as long as the propellor turns. These work indepenmdently from the electrical system of the master switch for redundancy
-- If setting the ignition to off, you actually connect the primary coil of the magneto's to the ground (-)
-- A propellor pushes air behind it to get a forward movement (Air is thin water)
-  - "Luchtschroef"
-- If a multi engine plane has one engine failure, they set the propellor to "feather" (vaanstand) to reduce drag of the propellor
-- Maximum Angle of attack of the blades and of most planes is around 15 degrees
-- PSI is pounds per square inch
-- In a cessna 172, these components are connected to the Master switch, and will fail when having power failure:
-  - Flaps
-  - Avionics/Navs/Radios
-  - Transponder
-  - Lights outside
-  - Lights inside
-  - ELT
-  - Autopilot
-  - Turn coordinator
-- Other flight instruments are based on pressures and gyros. Gyro's are powered by the vaccuum system
-- Magnetic compass is a stupid device and must only be used in straight and level flight
-  - Turning from north will result in a wrong but then corrected turn
-  - Turning from south will result in a inverted turn
-  - When accelerating, this will give an other heading because of the CG of the device
-- Alternator is a electrical device that picks the energy of the krukas and stores it in the battery (Alternating current)
-- The battery works about 15 minutes without charging (in a failure, spare your juice)
-- Ammeter and load meter are the same, but ammeter shows if its actually charging. Load meter only shows the current load on a scale from 0 to 60
-- Circuit breakers only prevent overheating
-- Airspeed indicator uses static port to compensate static pressure from the dynamic pressure, which assures that the dynamic pressure (and so speed) is correct at every altitude
-- Air speed indicator is in real life a pressure meter
-  - Air molecules meter
-- Altitude meter is a barometer which converts a set pressure to altitude (pressure decreases as altitude increases)
-  - This has a small correction of -20 ft when its cold and +20 ft when its warm weather
-- This doesnt work with sensors at the bottom of the airplane, as we ould have a different altitude every nanosecond and as other traffic in the vicinity which we want to avoid
-- Vertical speed indicator sucks pressure and has 2 second delay
-  - It has a button on the back side which sets the meter to "0"
-- A gyroscope is rigidity (standvastigheid) and preccession in turns
-- The vaccum is the part after the engine which sucks air and provides force to the gyroscopes
-- Skidding and slipping turns
 
 {{< ads >}}
 
