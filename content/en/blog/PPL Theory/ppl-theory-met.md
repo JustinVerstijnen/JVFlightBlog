@@ -854,11 +854,17 @@ The mother of all clouds, present in all 3 layers and the most dangerous clouds 
 
 Here we have a big one, photographed from a plane at 37.000ft above Portugal in rain season. Not knowing about the dangers of this cloud type back then but thought it was really cool.
 
-[![jv-media-5661-41636b7324dd.jpg](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-41636b7324dd.jpg)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-41636b7324dd.jpg)
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-362e9b9fc1b0.jpg)
 
-This second one is from a summer evening with predicted thunderstorms within an hour, but no full view of the cloud like in the first picture. Such a pretty side view of the high cloud.
+This one is from a summer evening with predicted thunderstorms within 15 minutes. It does show a nice view with the collided cloud layer at the top, all the way to the ground surface with already ongoing precipitation. Minutes after taking this picture, heavy rain was falling and some thunders too.
 
 In aviation, the general guideline is to stay away at least 15-20 NM from these type of clouds, even with a Airbus A380.
+
+#### Towering Cumulus (TCU)
+
+A towering cumulus is a cumulonimbus in a developing stage. A cumulus cloud which is building up, and looks like a cauliflower at the top. In METARs this is also described as TCU at the cloud type definition.
+
+![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-met-5661/jv-media-5661-4cfb3f6cfdbc.jpg)
 
 ### Precipitation and occurence
 
