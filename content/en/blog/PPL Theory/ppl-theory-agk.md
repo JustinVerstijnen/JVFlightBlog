@@ -75,13 +75,18 @@ The shockdamper of the nose wheel construction works with gas and oil, which hav
 
 The gas, usually nitrogen, provides the spring effect because it can be compressed. The oil provides damping because it is forced through small openings or chambers. Oil itself cannot be compressed, but it can control the speed of the movement.
 
-The nose wheel also has a shimmy damper, which is a device that helps preventing the nose wheel from vibrating very aggressively during high speeds on the ground. If a shimmy happens, the wheel can shake like a bike where you let go of the steer.
+The nose wheel also has:
+
+- **Shimmy damper**: which is a device that helps preventing the nose wheel from vibrating very aggressively during high speeds on the ground. If a shimmy happens, the wheel can shake like a bike where you let go of the steer
+- **Torque link**: The torque link (torsieschaar) is a device that prevents the nose wheel from rotating outside of its steering range, so keeps it aligned with the planes' heading
 
 ### Hydraulic systems
 
-Hydraulic means transferring pressure by using an incompressible fluid. In aircraft this is hydraulic fluid, not water. We can transfer different forces using liquids hydraulically using this formula:
+Hydraulic means transferring pressure by using an incompressible fluid. In aircraft this is hydraulic fluid, not water which properties are that it can be hardly compressed, as a low viscocity and is dangerous for human people to touch with hands and eyes. This fluid is pumped around like a circuit, where the circuit is leveraging the least resistance at the action, like a brake so if you press on the brake pedal, this force is transferred to the brake at the wheel en from there the fluid is pumped pack to the reservoir and the brake pedal.
 
-- Force = Pressure × Area
+We can transfer different forces using liquids hydraulically using this formula:
+
+- Force = Pressure × Area (F = P × A)
 
 This means that, at the same pressure, a larger surface area gives a larger force. Liquids are a great way to transfer force, as fluids can hardly be compressed compared with air.
 
@@ -681,7 +686,10 @@ How this system works:
 
 ### Overloading the engine
 
-When a high manifold pressure is combined with a low engine RPM the engine can fill up the cylinders too much, causing extreme pressure and temperature in the ignition space and can overload the pistons and crank shaft. This also increases the chance of detonation. Refer to the POH of the plane for recommended setting combinations.
+When a high manifold pressure is combined with a low engine RPM the engine can fill up the cylinders too much, causing extreme pressure and temperature in the ignition space and can overload the pistons and crank shaft. This also increases the chance of detonation. Refer to the POH of the plane for recommended setting combinations. A simple comparison is driving a car in a high gear at low speed and pressing the accelerator hard. The engine has to work very hard at low revs.
+
+- **To increase power**: increase RPM first, then increase manifold pressure
+- **To reduce power**: reduce manifold pressure first, then reduce RPM
 
 ### Pre-flight check
 
@@ -1076,7 +1084,7 @@ The pitot probe measures **total pressure**, which is used together with static 
 
 When shutting down the aircraft, a red cover is placed over the pitot probe. This helps prevent insects, dirt, moisture, or ice from blocking the probe, which could cause the airspeed indicator to give incorrect readings or stop working during flight.
 
-Airspeed is measured using both the pitot probe and the static port. The airspeed indicator compares the total pressure from the pitot probe with the static pressure. The difference between these pressures is used to display the aircraft’s airspeed.
+Airspeed is measured using both the pitot probe and the static port. The airspeed indicator compares the total pressure from the pitot probe with the static pressure. The difference between these pressures is used to display the aircraft’s airspeed. An increase of the True Airspeed also means more "thrust pressure" (stuwdruk) in the pitot probe as more air passes through it.
 
 #### Pitot probe errors during blockage
 
