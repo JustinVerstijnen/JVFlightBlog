@@ -119,7 +119,7 @@ There are situations that fire and smoke can happen in the cockpit. Let's dive i
 
 #### Engine fire during start
 
-During starting the engine, engine fire can happen. This is mostly because of overpriming the engine, having way too much excess fuel that ignites instantly. Also priming with the throttle which pumps fuel into the carberator, increases the chance of engine fire.
+During starting the engine, engine fire can happen. This is mostly because of overpriming the engine, having way too much excess fuel that ignites instantly. Also priming with the throttle which pumps fuel into the carburetor, increases the chance of engine fire.
 
 The actual procedure to follow during this situation is specific to your aircraft but the base is something like this:
 
@@ -283,11 +283,11 @@ The fuel system can consist of the following possible parts:
 
 Fuel tanks are very often located in the wings, but can also be in the wingtips or fuselage parts.
 
-The goal of the fuelsystem is to drive fuel to the carberator, where the fuel and air mixture is created before being ignited in the cylinders. If fuel tanks are located above the carburetor, like in many carbureted Cessna 172 aircraft, fuel can flow due to gravity feed. Some aircraft versions, especially fuel-injected versions, can still have fuel pumps, so always check the POH.
+The goal of the fuelsystem is to drive fuel to the carburetor, where the fuel and air mixture is created before being ignited in the cylinders. If fuel tanks are located above the carburetor, like in many carbureted Cessna 172 aircraft, fuel can flow due to gravity feed. Some aircraft versions, especially fuel-injected versions, can still have fuel pumps, so always check the POH.
 
 [![jv-media-4689-e5feb720f7da.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-e5feb720f7da.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-e5feb720f7da.png)
 
-On planes where the fuel tanks are on the same level or lower than the carberator, the fuel needs a pump to do the work. This pump is mostly driven mechanically by the engine. For backup purposes, in most cases we also have a electronic fuel pump which is often called a stand-by pump or auxillary fuel pump.
+On planes where the fuel tanks are on the same level or lower than the carburetor, the fuel needs a pump to do the work. This pump is mostly driven mechanically by the engine. For backup purposes, in most cases we also have a electronic fuel pump which is often called a stand-by pump or auxillary fuel pump.
 
 [![jv-media-4689-6b821d22dec5.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6b821d22dec5.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-6b821d22dec5.png)
 
@@ -314,10 +314,10 @@ Fuel selector valves are being used to select where the fuel comes from. By sett
 
 To let a piston engine work, the mixture of fuel and air must be optimal before being delivered to the cylinders. This mixture can be made using two different systems:
 
-- Carburator system
+- Carburetor system
 - Injection system
 
-In the carburator, air and fuel are mixed into a optimal ratio and then will be delivered to the engine cylinders. The carburetor consists of a pipe with a narrowing, the venturi, and a throttle valve which you control with the throttle handle in the cockpit. In the venturi is a sprinkler which is connected to the float-chamber. This system is also called a updraft carburetor
+In the carburetor, air and fuel are mixed into a optimal ratio and then will be delivered to the engine cylinders. The carburetor consists of a pipe with a narrowing, the venturi, and a throttle valve which you control with the throttle handle in the cockpit. In the venturi is a sprinkler which is connected to the float-chamber. This system is also called a updraft carburetor
 
 [![jv-media-4689-a2c6ef14c048.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-a2c6ef14c048.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-a2c6ef14c048.png)
 
@@ -392,6 +392,7 @@ Other rules about the Carb heating system are:
 - Disable it during climbs and go-arounds to get the best engine performance
 - Enable or disable Carb Heat, no in between settings
 - Carb Heat on means higher fuel usage
+- Carb heat on means a higher fuel-air mixture, as less air comes in, the ratio has more fuel
 
 ### Fuel injection
 
