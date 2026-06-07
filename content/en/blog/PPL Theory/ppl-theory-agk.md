@@ -712,6 +712,10 @@ As we already discussed, when powered hydraulically, the system uses the engine 
 
 In an aircraft with a constant-speed propeller, engine RPM is controlled by the propeller governor, so RPM is not a reliable guide for leaning the mixture. Instead, the **Exhaust Gas Temperature (EGT) indicator** shows how hot the combustion is, which helps you find the correct fuel/air mixture. As you lean the mixture, EGT rises until it reaches peak EGT, then starts to fall. Pilots use this indication to set the mixture either near peak EGT or slightly rich/lean of peak, depending on the engine manual and operating conditions. The main reason is to get efficient combustion while avoiding an incorrect mixture setting.
 
+### Climbing with a Constant Speed Propellor plane
+
+When climbing, and we don't change anything to the configuration of the throttle, RPM and Mixture, the **Manifold Pressure** (MAP) will decrease slowly due to the lower outside air pressure.
+
 ---
 
 ## Engine Instruments (8)
