@@ -310,6 +310,10 @@ Vapour lock is a phenomenon where fuel vapour bubbles occur in the fuel lines, m
 
 Fuel selector valves are being used to select where the fuel comes from. By setting this switch, you actually turn a mechanical valve to decide the flow of fuel. In most cases, we set this on both (if applicable) but in some cases to check or to balance the fuel in both tanks we select one of the two tanks only.
 
+### Fuel filters
+
+In a piston engine, the fuel filter is placed **between the tank and the fuel pump/primer** so the fuel is cleaned before it reaches sensitive parts.This protects the fuel pump and primer from dirt, rust, water, or debris coming from the tank. If the filter were placed only after the pump, contaminated fuel could already damage or block the pump. Clean fuel also helps prevent blocked primer lines, poor starting, rough running, or fuel starvation. So the main reason is protection and reliable fuel flow to the engine.
+
 ### Carburation
 
 To let a piston engine work, the mixture of fuel and air must be optimal before being delivered to the cylinders. This mixture can be made using two different systems:
@@ -703,6 +707,10 @@ Smaller planes are often equipped with single acting variable pitch propellors, 
 ### Loss of oil pressure
 
 As we already discussed, when powered hydraulically, the system uses the engine oil to function. The pitch of the blades is mechanically limited to help us in failures. In many single-engine, non-feathering constant-speed propellors, loss of oil pressure drives the blades toward fine pitch/high RPM, making it behave more like a fixed pitch propellor and keeping us able to land safely. This also needs a limited airspeed and limited engine RPM setting as the engine RPM can now be exceeded by the low propellor drag.
+
+### Leaning the engine in a Constant Speed Propellor plane
+
+In an aircraft with a constant-speed propeller, engine RPM is controlled by the propeller governor, so RPM is not a reliable guide for leaning the mixture. Instead, the **Exhaust Gas Temperature (EGT) indicator** shows how hot the combustion is, which helps you find the correct fuel/air mixture. As you lean the mixture, EGT rises until it reaches peak EGT, then starts to fall. Pilots use this indication to set the mixture either near peak EGT or slightly rich/lean of peak, depending on the engine manual and operating conditions. The main reason is to get efficient combustion while avoiding an incorrect mixture setting.
 
 ---
 
@@ -1361,7 +1369,7 @@ To summarize all indicators and information described above, I have made this ta
 
 | Instrument | Main purpose | Powered by | Properties | Mounted | Axis of rotation |
 | --- | --- | --- | --- | --- | --- |
-| Attitude Indicator (ADI) | Shows pitch and bank attitude | Pneumatic | Rigidity | Horizontally | Vertical axis |
+| Attitude Indicator (ADI) | Shows pitch and bank attitude | Pneumatic | Rigidity and Precession | Horizontally | Vertical axis |
 | Heading Indicator | Shows aircraft heading | Pneumatic | Rigidity | Vertically | Horizontal axis |
 | Turn Coordinator | Shows rate of turn and helps identify slip or skid | Electrical | Precession | Vertically/tilted | Horizontal/tilted axis |
 
@@ -1438,19 +1446,20 @@ A compass wants to line up into the magnetic field lines. Because of the inclina
 - **Acceleration error** : During acceleration and slowing down the compass will change heading while this is actually not the case
 
 The magnetic compass is a simple but limited device and should mainly be used in straight, level and unaccelerated flight, or in situations our gyro-based compass, avionics and other devices are not working.
-  - Turning from north will result in a wrong but then corrected turn
-  - Turning from south will result in a inverted turn
+
+- Turning from north will result in a wrong but then corrected turn
+- Turning from south will result in a inverted turn
 
 #### Turning error
 
 The turning error will be induced by turns we make in a plane. On the northern hemisphere, this can be remembered with UNOS:
 
-- Undershoot North: when turning to a northerly heading, roll out before the compass reaches north.
-- Overshoot South: when turning to a southerly heading, roll out after the compass passes south.
+- **Undershoot North** : when turning to a northerly heading, roll out before the compass reaches north.
+- **Overshoot South** : when turning to a southerly heading, roll out after the compass passes south.
+
+[![jv-media-4689-11894a32bdb4.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-11894a32bdb4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-11894a32bdb4.png)
 
 This is because the compass lags or leads during turns, especially on northerly and southerly headings.
-
-[![Image](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-agk-4689/jv-media-4689-3351da6e5e96.png)
 
 #### Acceleration errors
 
