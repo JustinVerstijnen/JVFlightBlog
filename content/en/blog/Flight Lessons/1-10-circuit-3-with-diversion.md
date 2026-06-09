@@ -38,6 +38,29 @@ Some remarks from this lesson for myself are:
 
 All with all it was a good lesson with two decent landings and looking forward to the next one, which details will come online soon.
 
+## 09-06-2026
+
+Today we had a great circuit training flight of exactly one hour. The weather was okay with around 9 knots of slight crosswind but almost full headwind which is nice for lessons like this.
+
+We did 8 take-offs and landings which in the beginning I had to first get a little used to the controls again after a short break of around 30 days of flying and at landing 3 it went a lot better. Landing 7 and 8 went completely by myself where number 7 went a little bit bouncy but number 8 was really smooth.
+
+In the briefing for this lesson I learned more about the attitude of the planes' nose during the flare, this must almost hit the horizon for the pilot's point of view. We need to shift the focus point to the end of the runway as you point the nose towards there. This is something which sounds simple but takes a lot of practice to master.
+
+### Remarks
+
+Some remarks of this lesson where:
+
+- Steer somewhat smoother and not do great actions, especially on final and flaring
+- Remember the downwind checks after the initial position, altitude and incoming traffic checks
+  - Seats and belts
+  - Fuel selector
+  - Mixture
+  - Engine instruments
+  - Carb heat -> on
+  - Flaps
+
+Overall it was a good flight lesson and I think I made some progress.
+
 {{< ads >}}
 
 {{< article-footer >}}
