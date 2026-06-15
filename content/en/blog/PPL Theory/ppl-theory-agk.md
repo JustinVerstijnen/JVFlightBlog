@@ -50,6 +50,7 @@ We could have two types of wings:
   - The Cessna 172 uses strut-braced wings.
 - Piper PA-28 has the wings below the cockpit: low-wing (laagdekker)
   - The Piper PA-28 has cantilever wings, meaning there is no external strut support.
+  - These wings are often set in a V shape, called *dihedral*
 
 Both of this types of planes have their pro's and cons. In many Cessna 172 versions, the high-wing fuel tanks allow fuel to flow by gravity. Some aircraft versions and fuel systems can still have fuel pumps, so always check the POH of the exact aircraft. Als we cannot see traffic above us very good in a Cessna, but not very good under us with a cantilever wing.
 
