@@ -9,7 +9,7 @@ description: >
   This page contains all notes of the Aircraft General Knowledge course.
 ---
 
-{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+{{% alert title="Exam passed on June 15 2026." %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
 
