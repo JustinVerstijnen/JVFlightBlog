@@ -16,6 +16,8 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
+> The air is best described as "thin water". We humanity live on the floor of the air-ocean.
+
 ---
 
 ## The atmosphere (1)
@@ -109,27 +111,31 @@ To calculate the density altitude from pressure altude, you can use the E6B or t
 
 Check out this tool to calculate and visiualize Pressure/Density altitude: <https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator>
 
-> Tip: Use an E6B calculator for a quick and thorough calculation of Density altitude based on the outside air temperature (OAT) and pressure altitude.
+{{% alert title="Info" color="info" %}}
+Tip: Use an E6B calculator for a quick and thorough calculation of Density altitude based on the outside air temperature (OAT) and pressure altitude.
+{{% /alert %}}
 
 ---
 
-## Lift (2)
+## Fundamentals of Lift (2)
 
-Lift (draagkracht in Dutch) is a component that keeps a plane in the air. This is the upward force that fights the gravity/weight of the plane. It works basically as the wind flows over and under the wing. As the air over the wing goes faster and under goes slower, it will combine at the end of the wing.
+Lift (draagkracht in Dutch) is a component that keeps a plane in the air. This is the upward force that fights the gravity/weight of the plane. It works basically as the wind flows over and under the wing. As the air over the wing goes faster and under goes slower, it will combine at the end of the wing. Lift is also the component that will compensate for the weight of an aircraft (gravity). This means, how more heavy the plane is, the more lift it needs to produce to fly.
+
+[![jv-media-5667-20a6b447f068.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-20a6b447f068.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-20a6b447f068.png)
 
 The two primary causes of lift are:
 
 - Pressure differences: under the wings the air pressure increases, wanting to go to the low pressure area above the wing
 - After the trailing edge of the wing, the air goes down, under the wing the air goes up
 
-We can explain why an aircraft flies because of 2 elementary laws:
+We can explain the air pressure differences induced by lift because of 2 elementary laws:
 
-| Law | Definition |
-| --- | --- |
-| The continuity law | A conserved quantity cannot disappear or appear spontaneously; it can only move from one place to another.In fluid flow, this means the amount of mass entering a system must equal the amount leaving it, as long as nothing is added or removed inside. That is why a fluid flows faster when it passes through a narrower section. |
-| Bernoulli's law | In a flowing fluid, an increase in speed is accompanied by a decrease in pressure, provided the flow is steady and friction losses are negligible.Bernoulli’s law explains how that increase in speed is related to a decrease in pressure. Compare this to pinching a garden hose. |
+| Law | Definition | Formula |
+| --- | --- | --- |
+| The continuity law | A conserved quantity cannot disappear or appear spontaneously; it can only move from one place to another.In fluid flow, this means the amount of mass entering a system must equal the amount leaving it, as long as nothing is added or removed inside. That is why a fluid flows faster when it passes through a narrower section. | V₁ × A₁ = v₂ × a₂ |
+| Bernoulli's law | In a flowing fluid, an increase in speed is accompanied by a decrease in pressure, provided the flow is steady and friction losses are negligible.Bernoulli’s law explains how that increase in speed is related to a decrease in pressure. Compare this to pinching a garden hose. | Ptotal = Pstatic + Pdynamic = Constantp + 1/2 ρ V² = Constant |
 
-Both laws describe that a flow in a narrow area will go faster and has a lower pressure. This helps us better understand how an aircraft flies.
+Both laws describe that fluids (including air) in a narrow area will go faster and has a lower pressure. This helps us better understand how an aircraft flies.
 
 ### How an airplane generates lift
 
@@ -144,7 +150,7 @@ Let's take these 4 components into a simple drawing:
 
 [![jv-media-5667-9bbca07ab4dc.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9bbca07ab4dc.png)
 
-The black line represents the chord of the wing. This is the same with the outline of an wing:
+The black line represents the chord of the wing. This is the same with the outline of a wing:
 
 [![jv-media-5667-f0c9683e824e.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f0c9683e824e.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f0c9683e824e.png)
 
@@ -239,6 +245,22 @@ The formula goes like this:
 | The dynamic pressure of the incoming airflow (TAS) | Lift Coefficient | The surface of the wing |
 
 So all these components work somewhat together to produce lift. This means the result of all must be positive, where one value can be less or more than another at certain parts of a flight. We will take a deeper look into the Lift components.
+
+### Lift terminology
+
+To better understand lift, we have some definitions to look at as these definitions will be used in more explainations later on.
+
+| Definition | Definition (Dutch) | Explaination |
+| --- | --- | --- |
+| Center of Pressure (CoP) | Drukpunt | This is the resulting force of the lift of the wing, which we can also call the center of lift |
+| Stagnation Point | Stuwpunt | The point at the leading edge of the wing where the airflow is being separated and comes to a stop |
+| Upwash | Opwaartse beweging | The ascending airflow after it hits the wing's leading edge |
+| Downwash | Neerwaartse beweging | The descending airflow after it left the wing's trailing edge |
+
+This picture does shows how these terms work in both cruise and high angle of attack situations.
+
+[![jv-media-5667-f8494ca791a4.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f8494ca791a4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f8494ca791a4.png)
+
 
 ### Dynamic Pressure
 
