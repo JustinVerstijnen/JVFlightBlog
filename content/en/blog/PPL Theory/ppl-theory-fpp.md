@@ -81,8 +81,6 @@ To calculate density altitude, we need the pressure altitude first. This is the 
 
 ## Mass and Balance (2)
 
-[https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator) [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator) [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator) [https://flighttools.justinverstijnen.nl/unitcalculator](https://flighttools.justinverstijnen.nl/unitcalculator)
-
 The weight of an aircraft is a key factor to determine the flying performances. With the weight, we can calculate almost every V speed and the distance required for climb, take-off and landing. An aircraft is designed to operate in a specific weight range because exceeding this would result in unflyable planes with performance and controls not working as intended.
 
 The key point here are:
