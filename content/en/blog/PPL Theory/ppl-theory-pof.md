@@ -407,6 +407,8 @@ The only difference is that we replace the lift coefficient with the drag coeffi
 
 [![jv-media-5667-2f45e64240c1.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-2f45e64240c1.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-2f45e64240c1.png)
 
+The Drag co-efficient is the sum of Induced drag and Paraside drag combined, which we will discuss further:
+
 ### Types of drag
 
 We have two types of drag, which we can separate into two categories:
