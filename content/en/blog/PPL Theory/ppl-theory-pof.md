@@ -1237,6 +1237,30 @@ A high-winger like a Cessna 172 has a better rolling stability than a low-winger
 
 The crosswind-flow will be bent off by the fuselage. At a high-winger this results in a bigger AoA of the low wing. This results in more life, pushing the low wing up and be balanced again.
 
+### Center of gravity details
+
+A plane is behaving different when loaded differently. As we have an object that is flying through the air, it needs to be balanced which we do in the mass and balance sheet. It cannot exceed the forward or after limits, but based on how the plane is loaded, it will behave differently.
+
+| Topic                      | Forward CG                                | Aft CG                                                  |
+| -------------------------- | ----------------------------------------- | ------------------------------------------------------- |
+| **Aircraft balance**       | Nose-heavy                                | Tail-heavy                                              |
+| **Longitudinal stability** | More stable                               | Less stable                                             |
+| **Pitch control**          | Heavier control forces                    | Lighter control forces                                  |
+| **Elevator authority**     | More elevator force needed                | Less elevator force needed                              |
+| **Stall speed**            | Higher stall speed                        | Lower stall speed                                       |
+| **Take-off/landing distance** | Longer                                 | Shorter                                                 |
+| **Landing flare**          | More difficult to flare                   | Easier to over-flare or balloon                         |
+| **Stall behaviour**        | Nose tends to drop more naturally         | Nose may not drop as readily                            |
+| **Stall recovery**         | Easier recovery                           | More difficult recovery                                 |
+| **Spin tendency**          | Less likely to enter a spin               | More likely to enter a spin                             |
+| **Spin recovery**          | Generally easier                          | May be difficult or impossible                          |
+| **Drag**                   | More drag, greater tail-down force        | Less drag                                               |
+| **Cruise performance**     | Worse cruise performance                  | Better cruise performance                               |
+| **Fuel consumption**       | Higher fuel consumption                   | Lower fuel consumption                                  |
+| **Trim**                   | More nose-up trim usually required        | Less nose-up trim usually required                      |
+| **Main risk**              | Aircraft may not rotate or flare properly | Aircraft may become unstable or unrecoverable           |
+| **Summary**                | Stable but heavy on controls              | Efficient but unstable                                  |
+
 {{< ads >}}
 
 {{< article-footer >}}
