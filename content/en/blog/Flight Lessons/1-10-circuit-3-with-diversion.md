@@ -73,6 +73,8 @@ Then I had about 4 landings with minor corrections needed by the instructor and 
 
 At about 2 landings, the altitude for the flare was correctly done by myself but then the flare itself was too weak, causing the plane to hit the runway a little hard. But hey, any landing where you can walk away from is a good landing.
 
+### Remarks
+
 The room for improvement/remarks of this lesson are:
 
 - Get the flare altitude right
