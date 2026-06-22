@@ -5,7 +5,7 @@ date: 2026-05-07
 tags: 
 categories:
 - Flight Lessons
-description: "In lesson 3 of the circuit training, we reviewed the circuit part and did a training diversion to an airfield in Germany, to experience a diversion but also a navigation flight."
+description: "In lesson 3 of the circuit training, we reviewed the circuit part and did a training diversion to an airfield in Germany, to experience a diversion but also a navigation flight. This page also contains the additional circuit lessons I took to fully master normal and crosswind landings."
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
@@ -15,7 +15,7 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.10 – Circuit 3 with diversion**
-> **Dates:** 23-04-2026
+> **Dates:** 07-05-2026, 09-06-2026 & 22-06-2026
 
 ## 07-05-2026 (Diversion)
 
@@ -59,7 +59,28 @@ Some remarks of this lesson where:
   - Carb heat -> on
   - Flaps
 
-Overall it was a good flight lesson and I think I made some progress.
+Overall it was a good flight lesson and I think I made some decent progress.
+
+## 22-06-2026
+
+Today, once again a circuit training lesson. We flown about 1 hour and 15 minutes and did 10 take-offs and landings. The weather was very great, only downside was the relatively high temperatures. About 26 degrees celcius at 11 o' clock. The sky itself was almost clear, only some high level cirrus clouds so nothing to worry about on that part. We had a little crosswind of 7 knots.
+
+I have also reviewed the briefings and RT another time and learned them completely. This was the first lesson I did them correctly on my own, so thas a win.
+
+The first 3 landings went a bit rough where the instructor had to correct some but it went gradually better. Did not fly for about 2 weeks so we have to adapt a little. I also had a little harder time centering the plane on to the runway because of the crosswind.
+
+Then I had about 4 landings with minor corrections needed by the instructor and we also did a go-around to simulate a failed approach or landing. Its still a human task of course.
+
+At about 2 landings, the altitude for the flare was correctly done by myself but then the flare itself was too weak, causing the plane to hit the runway a little hard. But hey, any landing where you can walk away from is a good landing.
+
+The room for improvement/remarks of this lesson are:
+
+- Get the flare altitude right
+- The coorperation of yoke/rudder input when having crosswind landings (slipping)
+- RT lines
+- Downwind checks were okay but also keep incoming traffic in mind, make bigger turns when traffic in front and/or slow flight
+
+The instructor prepared me to expect the first solo flight in the coming 1 to 3 lessons which I am really hyped for. Haha.
 
 {{< ads >}}
 
