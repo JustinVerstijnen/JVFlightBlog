@@ -10,7 +10,7 @@ build:
 
 I thought of a new idea, crossing the whole USA in several legs in a GA aircraft. Normally I fly the Cessna 172 but this will be a never ending story if I choose that plane to cross the USA. I picked a plane with double the cruising speed, the Cessna 208 Grand Caravan. As I like playing Microsoft Flight Simulator but already completed the career mode, I wanted to fly for a new goal.
 
-## The hotspots
+## Hotspots
 
 This table shows the hotspots which are great to visit:
 
@@ -25,7 +25,7 @@ This table shows the hotspots which are great to visit:
 | Texas | Palo Duro Canyon, Lubbock/Caprock, Dallas, Waco, Austin, San Antonio, Hill Country, Houston/NASA |
 | Gulf / Florida | Galveston, Louisiana wetlands, Baton Rouge, New Orleans, Gulf beaches, Mobile Bay, Pensacola, Panama City Beach, Forgotten Coast, Orlando, Palm Beach, Miami |
 
-## The route
+## Route
 
 The route itself with all the airfields and estimated flight times with these parameters:
 
@@ -128,7 +128,7 @@ The route itself with all the airfields and estimated flight times with these pa
 | 91 | KFPR | KLNA | Treasure Coast Intl | Palm Beach County Park | Palm Beach coast, Intracoastal Waterway | 00:21 | 56.4 | 104.5 |
 | 92 | KLNA | KTMB | Palm Beach County Park | Miami Executive | Miami skyline, Biscayne Bay, Everglades edge, final approach to KTMB | 00:22 | 59.8 | 110.7 |
 
-## The map
+## Map
 
 A map of all those points mapped to give a simple overview:
 
