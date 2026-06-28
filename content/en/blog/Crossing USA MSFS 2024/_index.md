@@ -4,7 +4,7 @@ description: "This category contains my flying journey crossing the USA on Micro
 date: 2024-07-01
 ---
 
-I thought of a new idea, crossing the whole USA in several legs in a GA aircraft. Normally I fly the Cessna 172 but this will be a never ending story if I choose that plane to cross the USA> I picked a plane with double the cruising speed, the Cessna 208 Grand Caravan. As I like playing Microsoft Flight Simulator but already completed the career mode, I wanted to fly for a new goal.
+I thought of a new idea, crossing the whole USA in several legs in a GA aircraft. Normally I fly the Cessna 172 but this will be a never ending story if I choose that plane to cross the USA. I picked a plane with double the cruising speed, the Cessna 208 Grand Caravan. As I like playing Microsoft Flight Simulator but already completed the career mode, I wanted to fly for a new goal.
 
 ## The hotspots
 
@@ -25,6 +25,7 @@ This table shows the hotspots which are great to visit:
 
 The route itself with all the airfields and estimated flight times with these parameters:
 
+- Plane: Cessna 208 Grand Caravan
 - Flying speed: ~ 160 knots
 - Altitude: ~ 2500ft AGL (above ground)
 
