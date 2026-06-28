@@ -30,7 +30,7 @@ The route itself with all the airfields and estimated flight times with these pa
 - Flying speed: ~ 160 knots
 - Altitude: ~ 2500ft AGL (above ground)
 
-| Leg # | From | To | Departure field | Arrival field | Hotspots en route | Estimated flight time | Distance (NM) | Distance (km) |
+| Leg | From | To | Departure field | Arrival field | Hotspots en route | Estimated flight time | Distance (NM) | Distance (km) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | PANC | PATK | Anchorage | Talkeetna | Cook Inlet, Susitna River, Talkeetna, Denali foothills, Alaska Range views | 00:26 | 68.9 | 127.6 |
 | 2 | PATK | PAIN | Talkeetna | McKinley National Park | Denali National Park, Denali views, Alaska Range, glacier valleys | 00:34 | 90.7 | 168.0 |
