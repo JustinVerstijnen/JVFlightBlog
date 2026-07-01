@@ -1178,23 +1178,23 @@ The dynamic stability describes the flow of the three situations above into the 
 
 [![jv-media-5667-71c797977d99.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-71c797977d99.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-71c797977d99.png)
 
-### Static stability
+### Aircraft stability and axis
 
-For a plane, the construction needs to be stable at all three axis':
+| Axis | Axis (Dutch) | Stability | Stability (Dutch) | Movement |
+| --- | --- | --- | --- | --- |
+| Longitudinal axis | Langsas | Lateral stability | Dwarsstabiliteit | Pitch |
+| Vertical axis | Topas | Directional axis | Richtingsstabiliteit | Yaw |
+| Lateral axis | Dwarsas | Longitudinal stability | Langsstabiliteit | Roll |
 
-| Axis | Axis (dutch) | Stability description |
-| --- | --- | --- |
-| Longitudinal axis | Langsas | Lateral stability |
-| Vertical axis | Topas | Directional axis |
-| Lateral axis | Dwarsas | Longitudinal stability |
+[![jv-media-5667-e6a858133068.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-e6a858133068.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-e6a858133068.png)
 
 ### Longitudinal stability
 
-The longitudinal stability is the stability of the lateral axis, the pitch axis. An aircraft is longitudinal stable if the it restores the pitch to the state before interruption like minor inputs, wind or turbulence. Planes are designed that the center of gravity lies in front of the pressure point. Weight and lift cause a nose down moment.
+The longitudinal stability is the stability of the lateral axis, the pitch movement. An aircraft is longitudinal stable if the it restores the pitch (AoA) to the state before interruption like minor inputs, wind or turbulence. Planes are designed that the center of gravity (CG) lies in front of the Center of Lift (Center of Pressure). This is by design to make the plane making a nose up movement when throttle is full and a nose down movement when throttle is closed. The slipstream air of the propellor flows over the elevator making it very effective.
 
-To compensate for this moment and to make the plane longitudinal stable, we have the horizontal stabilizer at the tail of the plane.
+To compensate for this moment and to make the plane longitudinal stable, we have the horizontal stabilizer at the tail of the plane. This is basically an upside down wing at the tail of the plane, and is an extra lift factor which makes the plane more stable on the longitudinal axis (langsas).
 
-When the center of gravity (CG) is in front of the pressure point, the horizontal stabilizer must do a negative force. Because of the distance between CG and horizontal stabilizer is much longer than between CG and pressure point, a small horizontal stabilizer moment is needed. This distance defines operationally how stable the plane is on the longitudinal axis, the more the CG is up front, the more stable the plane is. If this CG shifts backward, then the stability decreases.
+When the center of gravity (CG) is in front of the Center of Lift, (pressure point), the horizontal stabilizer must do a negative force. Because of the distance between CG and horizontal stabilizer is much longer than between CG and pressure point, a small horizontal stabilizer moment is needed. This distance defines operationally how stable the plane is on the longitudinal axis, the more the CG is up front, the more stable the plane is. If this CG shifts backward, then the stability decreases.
 
 #### Canard
 
@@ -1206,6 +1206,8 @@ As the CG has a big impact on the stability of the plane, the allowed position o
 
 - **Too Frontal CG** : This makes the plane stable but requires bigger steering forces. This can also lead to being unable to perform a roundout during landing.
 - **Too Aft CG:** If the CG is more to the tail of the plane, the longitudinal stability is relatively small. The pilot must continuously correct the pitch resulting in uncontrolled pitch up movements.
+
+The most aft limit of the center of gravitity is still in front of the Center of Lift by design, but mind to do your Mass and Balance calculations the right way to prevent those crazy things from happening.
 
 #### Horizontal Stabilizer AoA
 
