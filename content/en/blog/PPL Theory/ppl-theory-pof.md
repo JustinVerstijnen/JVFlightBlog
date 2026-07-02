@@ -1045,9 +1045,7 @@ The propellor works almost the same as a wing. They also have incoming air and t
 
 ### Propellor blade angle
 
-The blade angle of a propellor is the angle between rotation-axis and the chord of the blade.
-
-The pitch of the propellor is the theoretical distance the propellor covers in one rotation:
+The blade angle of a propellor is the angle between rotation-axis and the chord of the blade. The **pitch of the propellor** (spoed in Dutch) is the theoretical distance the propellor covers in one rotation:
 
 - Small blade angle: Fine pitch -> Optimal for climbing
 - Big blade angle: Coarse pitch -> Optimal for cruise
