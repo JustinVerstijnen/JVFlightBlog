@@ -1,12 +1,8 @@
 ---
 title: "Crossing the USA MSFS 2024"
-slug: "c-usa-1"
-date: 2024-07-01
-tags: []
-categories:
-- Crossing the USA MSFS2024
+slug: "crossing-usa-msfs-2024"
+date: 2026-07-01
 description: "This category contains my flying journey crossing the USA on Microsoft Flight Simulator 2024."
-hidden: false
 weight: 50
 ---
 
