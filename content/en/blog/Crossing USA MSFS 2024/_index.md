@@ -1,7 +1,5 @@
 ---
 title: "Crossing the USA MSFS 2024"
-slug: "crossing-usa-msfs-2024"
-date: 2026-07-01
 description: "This category contains my flying journey crossing the USA on Microsoft Flight Simulator 2024."
 weight: 50
 ---
