@@ -26,7 +26,7 @@ jobs:
     env:
       HUGO_ENVIRONMENT: production
       HUGO_ENV: production
-      HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+      HUGO_CACHEDIR: /tmp/hugo_cache
 
     steps:
       - name: Checkout repository
