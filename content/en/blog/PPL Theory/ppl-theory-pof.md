@@ -1,6 +1,6 @@
 ---
 title: 'Principles of Flight (POF)'
-date: 2025-07-08
+date: 2026-07-11
 slug: "ppl-theory-pof"
 categories:
   - PPL Theory
