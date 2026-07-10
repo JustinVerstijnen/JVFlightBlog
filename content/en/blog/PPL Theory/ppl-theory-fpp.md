@@ -1,7 +1,7 @@
 ---
 title: "Flight Planning & Performance (FPP)"
 slug: "ppl-theory-fpp"
-date: 2025-07-09
+date: 2026-07-11
 tags:
 - AI Generated Content
 categories:
