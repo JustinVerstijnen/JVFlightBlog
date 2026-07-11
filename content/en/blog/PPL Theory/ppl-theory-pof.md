@@ -10,7 +10,7 @@ description: >
   This page contains my notes for the Principles of Flight (POF) exam. This contains various subjects like lift, aircraft performance and why an aircraft flies.
 ---
 
-{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+{{% alert title="Exam passed on July 11 2026" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
 
