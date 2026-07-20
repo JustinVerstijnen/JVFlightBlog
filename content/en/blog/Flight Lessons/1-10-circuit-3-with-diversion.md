@@ -82,7 +82,21 @@ The room for improvement/remarks of this lesson are:
 - RT lines
 - Downwind checks were okay but also keep incoming traffic in mind, make bigger turns when traffic in front and/or slow flight
 
-The instructor prepared me to expect the first solo flight in the coming 1 to 3 lessons which I am really hyped for. Haha.
+## 28-06-2026
+
+Today a lesson on Sunday for the first time as the weather was pretty good. It was a bit warm, like 27 degrees celcius, giving us worse climb performance but did not stop us for once again a circuit lesson.
+
+The lesson went progressively better as the last 2 or 3 landings were very good. I learned that at the flare/touchdown looking at the end of the runway and pointing the nose to the end of the runway is a great technique to make soft landings without bouncing too hard on the tarmac. Also the RT simultaneously went better and almost smooth on the end.
+
+### Remarks
+
+Of course there were some remarks which I have to improve:
+
+- Keep an eye on the field
+- Apply slow flight when busy traffic in the circuit
+- Keep looking at the end of the runway during the flare
+
+The instructor said that he saw some good progress in these last two lessons which is nice.
 
 {{< ads >}}
 
