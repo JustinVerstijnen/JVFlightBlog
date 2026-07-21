@@ -65,7 +65,7 @@ Overall it was a good flight lesson and I think I made some decent progress.
 
 Today, once again a circuit training lesson. We flown about 1 hour and 15 minutes and did 10 take-offs and landings. The weather was very great, only downside was the relatively high temperatures. About 26 degrees celcius at 11 o' clock. The sky itself was almost clear, only some high level cirrus clouds so nothing to worry about on that part. We had a little crosswind of 7 knots.
 
-I have also reviewed the briefings and RT another time and learned them completely. This was the first lesson I did them correctly on my own, so thas a win.
+I have also reviewed the briefings and RT another time and learned them completely. This was the first lesson I did them correctly on my own, so thats a win.
 
 The first 3 landings went a bit rough where the instructor had to correct some but it went gradually better. Did not fly for about 2 weeks so we have to adapt a little. I also had a little harder time centering the plane on to the runway because of the crosswind.
 
