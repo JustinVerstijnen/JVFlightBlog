@@ -15,7 +15,7 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 1.10 – Circuit 3 with diversion**
-> **Dates:** 07-05-2026, 09-06-2026 & 22-06-2026
+> **Dates:** 07-05-2026, 09-06-2026, 22-06-2026 & 16-08-2026
 
 ## 07-05-2026 (Diversion)
 
@@ -97,6 +97,32 @@ Of course there were some remarks which I have to improve:
 - Keep looking at the end of the runway during the flare
 
 The instructor said that he saw some good progress in these last two lessons which is nice.
+
+## 16-08-2026
+
+Today we went back to a circuit lesson only to prepare for the first solo flight. We had some quite worse weather than the lessons before, with some light rains just before the lesson. The sky was fully filled with stratocumulus and nimbostratus clouds but with some dry periods over the day. The wind was about 7 knots and around 20-30 degrees of the runway so that was really great for some circuit training.
+
+We first left the circuit and gone back in to train this as well. Then we did 8 landings in total, where 5 of them where great according to my instructor. 2 were not corrected in time and one we had to perform a wave-off, which is basically a late go-around. This happened because we needed to correct with our rudder too much and caused some bouncing action.
+
+The last 3 landings in a row went very great where the flare was executed much better and we let the aircraft do the descent itself by flaring, power idle and keeping the nose just below the horizon.
+
+### Remarks
+
+The remarks and homework of this lesson are:
+
+- Keep the speeds good ay all phases of the circuit:
+- 55 knots: Rotate
+- 65 knots: Climb out of ground effect
+- 75 knots: Climb out from 200ft to 700ft
+- Keep 75 knots till 700 feet is reached
+- Downwind: 80-85 knots
+- Base: 75 knots
+- Final 65 knots all the way till the runway threshold
+- The flare-height was good according to my iinstructor, so we need to keep this
+- Minor rudder inputs on final
+- Remember all checks, start on beginning downwind and perform check run 1 for incoming traffic and position, then perform downwind checks
+
+All with all a great lesson with great improvement since all the previous circuit lessons.
 
 {{< ads >}}
 
