@@ -25,6 +25,8 @@ Today we did the Forced Landing 1 lesson and exercises. The main objective is to
 
 The weather was perfect today, with 3 knots of wind which is very calm. We also had almost zero clouds and minor to zero thermal/turbulence.
 
+We skipped the first solo lesson for now, because I found the forced landing exercise important to have done prior to be alone in a plane and I still had to perform the medical assessment for the class 2 certificate which I will do after this lesson.
+
 ## The Forced Landing exercise
 
 The Forced Landing exercise is something flight instructors will do and then sometimes randomly cut the throttle to let the student pick a field and demonstrate how they would land there. Some basic information we must know:
