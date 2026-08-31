@@ -9,15 +9,14 @@ description: "Today we did the progress test for phase 1. This is a flight where
 hidden: false
 ---
 
-{{% alert title="Disclaimer" color="info" %}}
-For a live overview of my flight lessons, visit: [https://flighttools.justinverstijnen.nl/flightlessontracker](https://flighttools.justinverstijnen.nl/flightlessontracker)
+{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
 
-Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
-{{% /alert %}}
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> Lesson 1.11 – Progress test 1 Dates: 20-07-2026 & 04-08-2026
+> **Lesson 1.11 – Progress test 1**
+> **Dates**: 20-07-2026 & 04-08-2026
 
 ## Progress test 1 (20-07-2026)
 
