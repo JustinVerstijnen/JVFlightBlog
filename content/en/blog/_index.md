@@ -1,6 +1,5 @@
 ---
 title: Blog
-aliases: [/blog/*]
 ---
 
 This is my blog section. Here all new blog posts will be showed in reverse-chronological order. Just a fancy way to say newest-top.

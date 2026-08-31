@@ -22,11 +22,13 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     env:
       HUGO_ENVIRONMENT: production
       HUGO_ENV: production
       HUGO_CACHEDIR: /tmp/hugo_cache
+      DART_SASS_VERSION: "1.103.1"
 
     steps:
       - name: Checkout repository
@@ -39,48 +41,165 @@ jobs:
         id: pages
         uses: actions/configure-pages@v6
 
-      - name: Setup Node.js for PostCSS
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 24
+          node-version: "24"
+
+      - name: Setup Hugo Extended
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.164.0"
+          extended: true
+
+      # Hugo requires the standalone Dart Sass implementation.
+      # The npm "sass" package is not suitable for Hugo's embedded protocol.
+      - name: Install standalone Dart Sass
+        run: |
+          set -e
+
+          curl -L \
+            "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" \
+            -o /tmp/dart-sass.tar.gz
+
+          tar -xzf /tmp/dart-sass.tar.gz -C /tmp
+
+          sudo mv /tmp/dart-sass /opt/dart-sass
+
+          echo "/opt/dart-sass" >> "$GITHUB_PATH"
+
+      - name: Show tool versions
+        run: |
+          echo "Hugo:"
+          hugo version
+
+          echo
+          echo "Node:"
+          node --version
+
+          echo
+          echo "npm:"
+          npm --version
+
+          echo
+          echo "Go:"
+          go version
+
+          echo
+          echo "Dart Sass:"
+          sass --version
+
+          echo
+          echo "Dart Sass path:"
+          which sass
+
+          echo
+          echo "Embedded protocol test:"
+          sass --embedded --version
+
+      - name: Show Hugo module graph
+        run: |
+          hugo mod graph
+
+      - name: Generate Docsy npm package
+        run: |
+          hugo mod npm pack
+
+          echo "Generated Hugo npm package:"
+
+          if [ -f packages/hugoautogen/package.json ]; then
+            cat packages/hugoautogen/package.json
+          else
+            echo "ERROR: packages/hugoautogen/package.json was not generated"
+            exit 1
+          fi
 
       - name: Install Node dependencies
         run: |
-          if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then
+          if [ -f package-lock.json ]; then
+            echo "package-lock.json found, using npm ci"
+            npm ci
+          elif [ -f npm-shrinkwrap.json ]; then
+            echo "npm-shrinkwrap.json found, using npm ci"
             npm ci
           elif [ -f package.json ]; then
+            echo "No lock file found, using npm install"
             npm install
           else
             echo "No package.json found, skipping npm install"
           fi
 
-      - name: Setup Hugo extended
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: "0.160.0"
-          extended: true
+      - name: Verify Docsy module
+        run: |
+          echo "Hugo modules:"
+          hugo mod graph
+
+          echo
+          echo "Docsy module:"
+          hugo mod graph | grep "github.com/google/docsy" || {
+            echo "ERROR: Docsy module not found"
+            exit 1
+          }
+
+      - name: Verify Dart Sass
+        run: |
+          if ! command -v sass >/dev/null 2>&1; then
+            echo "ERROR: Dart Sass is not available in PATH"
+            exit 1
+          fi
+
+          echo "Dart Sass executable:"
+          which sass
+
+          echo
+          echo "Dart Sass version:"
+          sass --version
+
+          echo
+          echo "Testing embedded protocol:"
+          sass --embedded --version
 
       - name: Build site
-        run: hugo --minify --gc --baseURL "${{ steps.pages.outputs.base_url }}/"
+        timeout-minutes: 10
+        run: |
+          echo "Starting Hugo production build..."
+
+          hugo \
+            --minify \
+            --gc \
+            --logLevel info \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Sanity check build output
         run: |
           echo "Checking public directory..."
-          test -d public
-          test -f public/index.html
 
+          if [ ! -d public ]; then
+            echo "ERROR: public directory does not exist"
+            exit 1
+          fi
+
+          if [ ! -f public/index.html ]; then
+            echo "ERROR: public/index.html does not exist"
+            exit 1
+          fi
+
+          echo
           echo "Checking for symlinks..."
+
           if find public -type l | grep -q .; then
-            echo "Error: symlinks found in public directory"
+            echo "ERROR: symlinks found in public directory"
             find public -type l
             exit 1
           fi
 
-          echo "Checking artifact size..."
+          echo
+          echo "Artifact size:"
           du -sh public
 
-          echo "First files in public:"
-          find public -maxdepth 2 -type f | head -50
+          echo
+          echo "Number of generated files:"
+          find public -type f | wc -l
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
