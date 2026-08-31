@@ -1,4 +1,4 @@
-baseURL: https://flightblogv2.justinverstijnen.nl
+baseURL: https://flightblog.justinverstijnen.nl
 title: JV Flight Blog
 
 # Language settings
@@ -93,8 +93,7 @@ params:
       - categories
 
   privacy_policy: /blog/terms-conditions/
-
-  github_repo: https://github.com/JustinVerstijnen/FlightBlogv2-temp
+  github_repo: https://github.com/JustinVerstijnen/JVFlightBlog
   github_branch: main
 
   prism_syntax_highlighting: false
