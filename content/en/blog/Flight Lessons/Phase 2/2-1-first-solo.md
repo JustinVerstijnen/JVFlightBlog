@@ -31,6 +31,12 @@ We first did some circuits to warm up, shape things up and getting a feel for ho
 
 ---
 
+## Medical Class 2
+
+Before this lesson, I did my medical examination to gain the EASA medical class 2 certificate which is required to be in an airplane on your own. This was an overview of checking ears, eyes heart, helthyness, blood pressure and such. I succeeded good, so no problems there.
+
+---
+
 ## The circuits
 
 Before I was sent off to perform my first solo circuit, we did around 5 circuits with a landing as final action. The circuits went okay with some remarks about the checks and actions which I will later dive into.
