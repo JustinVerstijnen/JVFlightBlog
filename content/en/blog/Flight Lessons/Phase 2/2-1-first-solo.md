@@ -5,7 +5,7 @@ date: 2026-09-10
 tags: []
 categories:
 - Flight Lessons
-description: "In this lesson I performed my first solo flight ever and did some circuits as perparation. A great summary of this lesson is the day of becoming a pilot instead of a student.
+description: "In this lesson I performed my first solo flight ever and did some circuits as perparation. A great summary of this lesson is the day of becoming a pilot instead of a student."
 hidden: false
 weight: 1
 ---
