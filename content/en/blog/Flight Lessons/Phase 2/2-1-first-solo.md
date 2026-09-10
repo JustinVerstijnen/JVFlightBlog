@@ -43,7 +43,7 @@ Before I was sent off to perform my first solo circuit, we did around 5 circuits
 
 The landings were really good and I finally got myself at landing the plane good for at least 4 times in a row. The first landing was okay but with some traversing motion, but was a warm up for me after around 2,5 weeks of no flying. The round-out and flair altitude were really good and the touchdowns also. Every landing is different, which may sound stupid but you get to experience this while doing, this is really true.
 
-After 5 circuits my flight instructor wanted to call it a day and the suprised me with hey, great luck i'm out of here. Haha.
+After 5 circuits my flight instructor wanted to call it a day and the suprised me with "Hey, great luck man I'm out of here." Haha.
 
 ---
 
@@ -68,6 +68,7 @@ The remarks of the circuits with instructor are:
 	- So don't climb in turns
 - Keep the approach speed on at least 65 knots, better some knots more than too less as this gives you more energy for the round out and flare
 - Try to keep back pressure longer during the flare to touch down at a lower vertical speed
+- During final till touchdown, keep feet straight on pedals to have good control over the direction and brakes. During touching and go, switch to heels on the ground to not make accidental brake inputs
 
 ---
 
