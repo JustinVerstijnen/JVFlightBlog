@@ -5,7 +5,7 @@ date: 2026-08-24
 tags: []
 categories:
 - Flight Lessons
-description: "In this lesson we practiced some forced landings in case of engine failures and precautionary landings if theaircraft is unsafe or unable to fly."
+description: "In this lesson we practiced some forced landings in case of engine failures and precautionary landings if the aircraft is unsafe or unable to fly."
 hidden: false
 weight: 2
 ---

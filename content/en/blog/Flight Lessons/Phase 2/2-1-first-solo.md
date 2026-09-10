@@ -5,7 +5,7 @@ date: 2026-09-10
 tags: []
 categories:
 - Flight Lessons
-description: "In this lesson I performed my first solo flight ever and did some circuits as perparation. A great summary of this lesson is \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"The day of becoming a pilot instead of a student\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
+description: "In this lesson I performed my first solo flight ever and did some circuits as perparation. A great summary of this lesson is the day of becoming a pilot instead of a student.
 hidden: false
 weight: 1
 ---
@@ -18,7 +18,8 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
 {{% /alert %}}
 
-> Lesson 2.1 - First SoloDate: 10-09-2026
+> Lesson 2.1 - First Solo
+> Date: 10-09-2026
 
 ## Introduction
 
@@ -58,7 +59,6 @@ The remarks of the circuits with instructor are:
 
 - Remind the propellor slipstream, especially on final. When on high power, the nose goes to the left
 - Descending turns must be done with some forward pressure on the yoke. The upgoing wing will produce some lift and can cause a climb of the plane
-
 	- So don't climb in turns
 - Keep the approach speed on at least 65 knots, better some knots more than too less as this gives you more energy for the round out and flare
 - Try to keep back pressure longer during the flare to touch down at a lower vertical speed
