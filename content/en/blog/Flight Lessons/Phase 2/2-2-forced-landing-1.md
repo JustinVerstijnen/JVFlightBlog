@@ -7,6 +7,7 @@ categories:
 - Flight Lessons
 description: "In this lesson we practiced some forced landings in case of engine failures and precautionary landings if theaircraft is unsafe or unable to fly."
 hidden: false
+weight: 2
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

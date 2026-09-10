@@ -6,7 +6,7 @@ description: ">"
 categories:
   - Flight Lessons
 tags: []
-type: "docs"
+weight: 5
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

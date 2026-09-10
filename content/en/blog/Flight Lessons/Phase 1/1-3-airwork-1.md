@@ -7,6 +7,7 @@ categories:
 tags:
 description: >
   Preflight inspection, fuel calculations, basic aircraft forces, visual flying techniques, carburetor heat, and slow flight principles.
+weight: 3
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

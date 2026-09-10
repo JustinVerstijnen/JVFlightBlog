@@ -6,6 +6,7 @@ tags:
 categories:
 - Flight Lessons
 description: "In lesson 3 of the circuit training, we reviewed the circuit part and did a training diversion to an airfield in Germany, to experience a diversion but also a navigation flight. This page also contains the additional circuit lessons I took to fully master normal and crosswind landings."
+weight: 10
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

@@ -7,6 +7,7 @@ categories:
 - Flight Lessons
 description: "Today we did the progress test for phase 1. This is a flight where we will perform every exercise learned in Phase 1. To enhance this lesson, I got another instructor which can also help me improve on different area's."
 hidden: false
+weight: 11
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

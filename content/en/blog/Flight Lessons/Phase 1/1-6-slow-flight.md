@@ -7,6 +7,7 @@ categories:
 tags:
 description: >
   Slow flight and fast flight exercises focusing on aircraft control at extreme speeds, taxi checks from memory, and improvements in preparation and SOP usage.
+weight: 6
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

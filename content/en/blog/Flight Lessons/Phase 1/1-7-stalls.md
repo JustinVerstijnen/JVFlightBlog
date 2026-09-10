@@ -6,7 +6,7 @@ description: "This page contains all my notes for the 1.7 Stalls lesson. This wa
 tags: []
 categories:
   - Flight Lessons
-type: "docs"
+weight: 7
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: https://flighttools.justinverstijnen.nl/flightlessontracker

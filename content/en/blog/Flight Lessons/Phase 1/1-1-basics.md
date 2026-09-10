@@ -7,6 +7,7 @@ categories:
 tags:
 description: >
   In my first flight lesson for my Private Pilot Lesson, I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2500 feet, but only controlled the yoke, rudder pedals and trims.
+weight: 1
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

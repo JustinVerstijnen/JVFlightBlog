@@ -6,7 +6,7 @@ description: "Now that we have completed the first circuit training, in this les
 tags: []
 categories:
   - Flight Lessons
-type: "docs"
+weight: 9
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

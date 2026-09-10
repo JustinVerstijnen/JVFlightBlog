@@ -7,6 +7,7 @@ categories:
 tags:
 description: >
   Technical limitations of the Cessna 172, mass and balance calculations, take-off and landing performance, emergency equipment, and slow-flight basics.
+weight: 2
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>

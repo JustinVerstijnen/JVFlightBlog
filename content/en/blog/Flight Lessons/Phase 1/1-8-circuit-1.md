@@ -6,7 +6,7 @@ description: "Today was the day that we do circuit training for the first time. 
 tags: []
 categories:
   - Flight Lessons
-type: "docs"
+weight: 8
 ---
 
 {{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
