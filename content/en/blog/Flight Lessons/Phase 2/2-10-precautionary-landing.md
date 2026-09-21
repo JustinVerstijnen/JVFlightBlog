@@ -10,7 +10,7 @@ hidden: false
 weight: 10
 ---
 
-{{% alert title="Disclaimer" %}}
+{{% alert title="Disclaimer" color="warning" %}}
 For a live overview of my flight lessons, visit: [https://flighttools.justinverstijnen.nl/flightlessontracker](https://flighttools.justinverstijnen.nl/flightlessontracker)
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
@@ -102,19 +102,3 @@ After 3 times, we headed back to the airfield for 3 circuits with crosswind with
 {{< ads >}}
 
 {{< article-footer >}}
-
-{{% alert title="Info" color="info" %}}
-Test
-{{% /alert %}}
-
-{{% alert title="Warning" color="warning" %}}
-Test
-{{% /alert %}}
-
-{{% alert title="Failure" color="danger" %}}
-Test
-{{% /alert %}}
-
-{{% alert title="Success" color="success" %}}
-Test
-{{% /alert %}}
