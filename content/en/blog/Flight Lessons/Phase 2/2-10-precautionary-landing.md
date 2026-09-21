@@ -21,6 +21,20 @@ Do not use specific information given like fuel flow, landing/take-off distances
 > Lesson 2.10 - Precautionary landing
 > Date: 21-09-2026
 
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 2.10 | Precautionary landing | 21-09-2026 |
+
+{{% alert title="Info" color="info" %}}
+Lesson 2.10 - Precautionary landing
+Date: 21-09-2026
+{{% /alert %}}
+
+> [!NOTE]
+> Lesson 2.10 - Precautionary landing
+> Date: 21-09-2026
+
+
 ## Introduction
 
 In this lesson, we performed the Precautionary Landing exercise. This is a separate exercise from the other lessons we did till now, and focusses on to land the aircraft in a moderate controlled way outside of any aerodrome but in a field. As we still have our engine, primary and secondary flight controls, we are less dependent on those critical factors.
@@ -37,7 +51,7 @@ Causes of you having to perform a precautionary landing are often to save lives 
 
 ## The weather during this lesson
 
-Today we had a great day for flying in terms of visibility, clouds and precipitation but the winds were very variable. We had a variable wind between 230 degrees and 020 degrees, and about 7 to 11 knots. The METAR of a close airfield, which are the real measures reported this:
+Today we had a great day for flying in terms of visibility, clouds and precipitation but the winds were very variable. We had a variable wind between 230 degrees and 020 degrees, and about 7 to 11 knots. The METAR of a close airfield, which are the actual measures reported this:
 
 `METAR XXXX 211355Z AUTO 30010KT 230V020 9999 SCT041 19/09 Q1030=`
 
