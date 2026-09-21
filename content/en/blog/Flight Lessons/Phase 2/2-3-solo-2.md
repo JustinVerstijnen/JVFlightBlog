@@ -1,4 +1,3 @@
-
 ---
 title: "2.3 Solo 2"
 slug: "2-3-solo-2"
@@ -18,7 +17,7 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
 > **Lesson 2.3 - Solo 2**
-> **Dates**: 21-09-2026
+> **Dates**: xx-xx-xxxx
 
 
 ## Flight lesson 2.3 - Solo 2
