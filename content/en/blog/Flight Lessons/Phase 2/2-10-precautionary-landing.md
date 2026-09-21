@@ -34,13 +34,11 @@ Date: 21-09-2026
 > Lesson 2.10 - Precautionary landing
 > Date: 21-09-2026
 
-
-
 ## Introduction
 
 In this lesson, we performed the Precautionary Landing exercise. This is a separate exercise from the other lessons we did till now, and focusses on to land the aircraft in a moderate controlled way outside of any aerodrome but in a field. As we still have our engine, primary and secondary flight controls, we are less dependent on those critical factors.
 
-Causes of you having to perform a precautionary landing are often to save lives without any aerodrome in range but still having an engine and flight controls:
+Causes of you having to perform a precautionary landing are often to save lives without any aerodrome in range while still having an engine and flight controls:
 
 - Fuel miscalculation or suspected fuel leak
 - Sick passenger on board
