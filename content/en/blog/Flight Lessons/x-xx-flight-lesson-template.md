@@ -12,7 +12,7 @@ build:
   list: never
 ---
 
-{{% alert title="Disclaimer" color="info" %}}
+{{% alert title="Disclaimer" %}}
 For a live overview of my flight lessons, visit: [https://flighttools.justinverstijnen.nl/flightlessontracker](https://flighttools.justinverstijnen.nl/flightlessontracker)
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
