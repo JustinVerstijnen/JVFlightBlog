@@ -2,7 +2,7 @@
 title: "2.10 Precautionary landing"
 slug: "2-10-precautionary-landing"
 date: 2026-09-21
-tags: []
+tags:
 categories:
 - Flight Lessons
 description: "In this lesson we performed the Precautionary landing exercise, performed when in minor trouble like fuel problems, leaks, end of daylight period or a sick passenger on board."
@@ -33,6 +33,7 @@ Date: 21-09-2026
 > [!NOTE]
 > Lesson 2.10 - Precautionary landing
 > Date: 21-09-2026
+
 
 
 ## Introduction
