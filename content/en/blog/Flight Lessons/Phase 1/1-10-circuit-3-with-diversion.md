@@ -9,7 +9,7 @@ description: "In lesson 3 of the circuit training, we reviewed the circuit part 
 weight: 10
 ---
 
-{{% alert title="Disclaimer" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+{{% alert title="Disclaimer" color="warning" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
 
