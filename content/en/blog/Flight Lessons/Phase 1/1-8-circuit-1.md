@@ -15,12 +15,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.8 – Circuit 1**
-> **Date:** 20-04-2026
-
 ---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.8 | Circuit 1 | 20-04-2026 |
 
 Today was the day that we do circuit training for the first time. An hour before this flight lesson, I passed the meteorology theory exam which I'm very happy about, after some doubts the night before. Now I need to do just 2 more exams (AGK and POF) to be done with the theory.
 

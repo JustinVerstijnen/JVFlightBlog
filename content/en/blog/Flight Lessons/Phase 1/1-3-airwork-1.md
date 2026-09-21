@@ -16,10 +16,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.3 – Airwork 1**
-> **Date:** 22-08-2025
-
 ---
+
+## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.3 | Airwork 1 | 22-08-2025 |
 
 In this flight, I learned how to perform the preflight inspection myself by doing the walk‑around using a structured checklist.  
 In this first checklist item, we look for reasons **not** to fly.  

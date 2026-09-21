@@ -15,10 +15,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.10 – Circuit 3 with diversion**
-> **Dates:** 07-05-2026, 09-06-2026, 22-06-2026 & 16-08-2026
+---
 
 ## 07-05-2026 (Diversion)
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.10 | Circuit 3 with diversion | 07-05-2026, 09-06-2026, 22-06-2026 & 16-08-2026 |
 
 Today we did a circuit training lesson with a diversion to an airfield in Germany. The purpose of this lesson was a little preparation for the upcoming solo lessons. Then I have to find a possible diversion for myself, as an airfield can be closed temporarily for several reasons. We don't want to still be in the air while having too less fuel and such.
 

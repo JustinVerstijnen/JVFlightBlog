@@ -15,12 +15,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.7 – Stalls**
-> **Dates:** 03-11-2025, 30-01-2026, 27-03-2026, 03-04-2026 and 17-04-2026
-
 ---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.7 | Stalls | 03-11-2025, 30-01-2026, 27-03-2026, 03-04-2026 and 17-04-2026 |
 
 This page contains all my notes for the 1.7 Stalls lesson. This was a very hard lesson because of the weather situations in late 2025. The lesson was cancelled for about 5 times, and 2 times we were already in the air but the weather was worse than forecasted.
 

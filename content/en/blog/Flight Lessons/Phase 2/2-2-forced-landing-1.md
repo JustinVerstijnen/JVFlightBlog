@@ -16,10 +16,11 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 2.2 - Forced Landing 1**
-> **Dates**: 24-08-2026
-
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 2.2 | Forced landing 1 | 24-08-2026 |
 
 Today we did the Forced Landing 1 lesson and exercises. The main objective is to have a landing plan and field within reach at any given moment as an engine can be failing unexpectedly. Training this procedure can save lives, not only of pilots but also from the passengers and even for people on the ground.
 

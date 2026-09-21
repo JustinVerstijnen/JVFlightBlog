@@ -15,11 +15,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> Lesson 1.5 – Airwork 3Date: 26-09-2025
-
 ---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.5 | Airwork 3 | 26-09-2025 |
 
 In this lesson we performed several airwork exercises, preceded by theory briefings.
 

@@ -20,10 +20,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
 {{% /alert %}}
 
-> Lesson X.XX - Lesson name
-> Date: XX-XX-XXXX
+---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| X.XX | Lesson name | XX-XX-XXXX |
 
 Lesson introduction
 

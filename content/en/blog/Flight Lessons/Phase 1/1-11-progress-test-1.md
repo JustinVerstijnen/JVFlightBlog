@@ -16,8 +16,15 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.11 – Progress test 1**
-> **Dates**: 20-07-2026 & 04-08-2026
+---
+
+## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.11 | Progress test 1 | 20-07-2026 & 04-08-2026 |
+
+Today we did the progress test for phase 1. This is a flight where we will perform every exercise learned in Phase 1. To enhance this lesson, I got another instructor which can also help me improve on different area's.
 
 ## Progress test 1 (20-07-2026)
 

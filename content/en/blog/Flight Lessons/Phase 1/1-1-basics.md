@@ -16,16 +16,17 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.1 - Basics**
-> **Date:** 25-07-2025
-
 ---
 
 ## Introduction
 
-In my first flight lesson for my Private Pilot Lesson, I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2.500 feet, but only controlled the yoke, rudder pedals and trims.
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.1 | Basics | 25-07-2025 |
 
-This lesson it was the first time after around 300 hours of Microsoft Flight Simulator where I controlled the plane for the full flight except the landing phase. In the PPL learning curve, you will perform this after around 8–9 lessons when doing take-off and landing/circuit exercises.
+In my first flight lesson for my Private Pilot License journey. I have been introduced to multiple aspects of flying. In the past, around 3 years before this first PPL lesson, I did a trial lesson where I only controlled the plane at around 2.500 feet, but only controlled the yoke, rudder pedals and trims.
+
+This lesson it was the first time after around 300 hours of Microsoft Flight Simulator (Haha) where I controlled the plane for the full flight except the landing phase. In the PPL learning curve, you will perform this after around 8–9 lessons when doing take-off and landing/circuit exercises from lesson 1.8.
 
 The theory of this lesson mostly consisted of:
 
@@ -48,7 +49,7 @@ My flight school uses the ANWB abbreviation for this:
 - **W**eather
 - **B**riefings
 
-In each stage we check all related things and we search for reasons or risks not to fly.
+In each stage we check all related things and we search for reasons or risks not to fly. ANWB is also the national traffic/roadside assistance organization so everybody from the Netherlands already knows this abbreviation.
 
 ---
 

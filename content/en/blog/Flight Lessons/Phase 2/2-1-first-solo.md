@@ -18,10 +18,11 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
 {{% /alert %}}
 
-> Lesson 2.1 - First Solo
-> Date: 10-09-2026
-
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 2.1 | First solo | 10-09-2026 |
 
 Today was finally the day that my first solo flight took place on the Cessna 172 which is a very great experience after around 24 hours of being with a instructor at all times, you are the only one in control of the flight left.
 

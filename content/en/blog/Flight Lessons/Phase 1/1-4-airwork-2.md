@@ -16,14 +16,15 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.4 – Airwork 2**
-> **Date:** 02-09-2025
-
 ---
 
 ## Introduction
 
-We started by reviewing previous material and then went deeper into the theory of **nose attitude**.  
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.4 | Airwork 2 | 02-09-2025 |
+
+We started by reviewing previous material and then went deeper into the theory of a nose attitude.  
 During the flight we practiced slow flight, throttle effects on nose attitude, gliding, and trimming.
 
 First, we discussed some theory.
@@ -32,13 +33,10 @@ At take-off, we use different speeds for different phases:
 
 - **Vr** – Rotation speed  
   - In a Cessna 172: ~55 knots (102 km/h)
-
 - **Vx** – Best angle of climb (maximum altitude gain for distance)  
   - In a Cessna 172: ~65 knots (120 km/h)
-
 - **Vy** – Best rate of climb (maximum altitude gain for time)  
   - In a Cessna 172: ~75 knots (139 km/h)
-
 - **Vg** – Best glide speed (engine failure)  
   - In a Cessna 172: ~65–68 knots (124 km/h)
 

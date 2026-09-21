@@ -16,12 +16,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.2 – Effect of controls**
-> **Date:** 08-08-2025
-
 ---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.2 | Effect of controls | 08-08-2025 |
 
 In this lesson, we went more into the technical limitations of the Cessna 172 aircraft. Also we did some slow-flight exercises to be somewhat ahead of schedule as we had some spare time.
 

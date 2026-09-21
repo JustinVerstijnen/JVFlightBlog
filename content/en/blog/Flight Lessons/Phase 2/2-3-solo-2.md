@@ -16,11 +16,11 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 2.3 - Solo 2**
-> **Dates**: xx-xx-xxxx
-
-
 ## Flight lesson 2.3 - Solo 2
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 2.3| Solo 2 | XX-XX-XXXX |
 
 The flight lesson 2.3 with name Solo 2 focusses on basic flight procedures being alone in the cockpit. In phase 1 I learned how to fly, take-off and land the plane with some turns, stalls and recovery procedures baked in. The second solo flight is much more simple and wants you to:
 

@@ -15,12 +15,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.9 – Circuit 2**
-> **Date:** 23-04-2026
-
 ---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.9 | Circuit 2 | 23-04-2026 |
 
 Today we had a beautiful weather day with a small layer of stratus clouds dissolving as the sun rose and with a slight crosswind component. At the time of take-off, they almost all dissolved giving us a clear sky with sun. The wind was around 6 knots, coming in a 60 degree angle of the runway, which is not that strong and good for some circuit training. Because we did some basic circuits the previous lesson, we will going to make it a bit harder now with some more factors into play.
 

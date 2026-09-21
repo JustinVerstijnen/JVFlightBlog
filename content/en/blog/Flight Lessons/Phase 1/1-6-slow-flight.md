@@ -16,12 +16,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
 
-> **Lesson 1.6 – Slow Flight**
-> **Dates:** 13-10-2025 & 20-10-2025
-
 ---
 
 ## Introduction
+
+| Lesson number | Lesson name | Lesson date(s) |
+| --- | --- | --- |
+| 1.6 | Slow flight | 13-10-2025 & 20-10-2025 |
 
 One of the harder lessons so far: slow flight.  
 The purpose of this lesson is to fly as slowly as possible while remaining safely airborne in the Cessna 172.
