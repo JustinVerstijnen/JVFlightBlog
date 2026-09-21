@@ -7,6 +7,9 @@ categories:
 - Flight Lessons
 description: "Template for filling in my flight lessons in a uniform way, not be able to forget urgent stuff"
 hidden: true
+build:
+  render: always
+  list: never
 ---
 
 {{% alert title="Disclaimer" color="info" %}}
