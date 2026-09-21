@@ -18,23 +18,13 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
 {{% /alert %}}
 
-> Lesson 2.10 - Precautionary landing
-> Date: 21-09-2026
+---
+
+## Introduction
 
 | Lesson number | Lesson name | Lesson date(s) |
 | --- | --- | --- |
 | 2.10 | Precautionary landing | 21-09-2026 |
-
-{{% alert title="Info" color="info" %}}
-Lesson 2.10 - Precautionary landing
-Date: 21-09-2026
-{{% /alert %}}
-
-> [!NOTE]
-> Lesson 2.10 - Precautionary landing
-> Date: 21-09-2026
-
-## Introduction
 
 In this lesson, we performed the Precautionary Landing exercise. This is a separate exercise from the other lessons we did till now, and focusses on to land the aircraft in a moderate controlled way outside of any aerodrome but in a field. As we still have our engine, primary and secondary flight controls, we are less dependent on those critical factors.
 
