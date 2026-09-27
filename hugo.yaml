@@ -35,8 +35,8 @@ menu:
 
 # Taxonomies
 taxonomies:
-  tag: tags
   category: categories
+  tag: tags
 
 # Image processing
 imaging:
@@ -83,14 +83,14 @@ params:
 
   taxonomy:
     taxonomyCloud:
-      - tags
       - categories
+      - tags
     taxonomyCloudTitle:
-      - Tags
       - Categories
+      - Tags
     taxonomyPageHeader:
-      - tags
       - categories
+      - tags
 
   privacy_policy: /blog/terms-conditions/
   github_repo: https://github.com/JustinVerstijnen/JVFlightBlog
