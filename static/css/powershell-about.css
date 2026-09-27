@@ -3,6 +3,7 @@
   box-sizing: border-box;
 }
 
+
 body.has-ps-about-page {
   --ps-about-navbar-offset: 0px;
   --ps-about-background-image: url("https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/tools/featured-background_blur.jpg");
@@ -87,7 +88,7 @@ body.has-ps-about-page .ps-markdown [id] {
   width: 16px;
   height: 16px;
   border-radius: 4px;
-  background: linear-gradient(180deg, #8EAFDA 0%, #8EAFDA 100%);
+  background: linear-gradient(180deg, #668EBF 0%, #4F719B 100%);
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.12);
   color: #ffffff;
   font-family: "Segoe UI", sans-serif;
@@ -231,11 +232,11 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-token-script {
-  color: #8EAFDA;
+  color: #79c0ff;
 }
 
 .ps-token-number {
-  color: #8EAFDA;
+  color: #a5d6ff;
 }
 
 .ps-cursor {
@@ -521,7 +522,7 @@ body.has-ps-about-page .ps-markdown [id] {
   border-radius: 30px;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.68), rgba(255, 255, 255, 0.5)),
-    radial-gradient(circle at top left, rgba(142, 175, 218, 0.15), transparent 32rem);
+    radial-gradient(circle at top left, rgba(102, 142, 191, 0.15), transparent 32rem);
   box-shadow: 0 24px 60px rgba(52, 79, 115, 0.15);
   backdrop-filter: blur(18px);
   -webkit-backdrop-filter: blur(18px);
@@ -583,7 +584,7 @@ body.has-ps-about-page .ps-markdown [id] {
   line-height: 1.2;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: #8EAFDA;
+  color: #4F719B;
 }
 
 .ps-markdown .about-hero-panel h2,
@@ -622,9 +623,9 @@ body.has-ps-about-page .ps-markdown [id] {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  background: rgba(142, 175, 218, 0.09);
-  border: 1px solid rgba(142, 175, 218, 0.18);
-  color: #8EAFDA;
+  background: rgba(102, 142, 191, 0.09);
+  border: 1px solid rgba(102, 142, 191, 0.18);
+  color: #405F82;
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.2;
@@ -691,7 +692,7 @@ body.has-ps-about-page .ps-markdown [id] {
   height: 2.4rem;
   margin-bottom: 1rem;
   border-radius: 14px;
-  color: #8EAFDA;
+  color: #4F719B;
   background: rgba(255, 255, 255, 0.72);
   border: 1px solid rgba(255, 255, 255, 0.8);
   box-shadow: 0 10px 24px rgba(52, 79, 115, 0.1);
@@ -761,14 +762,14 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-link-grid a:hover {
   transform: translateY(-2px);
-  border-color: rgba(142, 175, 218, 0.32);
-  background: rgba(142, 175, 218, 0.07);
+  border-color: rgba(102, 142, 191, 0.32);
+  background: rgba(102, 142, 191, 0.07);
   text-decoration: none;
 }
 
 .ps-markdown .about-story-section {
   padding: clamp(1.35rem, 3vw, 2rem);
-  border-left: 4px solid rgba(142, 175, 218, 0.75);
+  border-left: 4px solid rgba(79, 113, 155, 0.75);
   border-radius: 0 24px 24px 0;
   background: rgba(255, 255, 255, 0.52);
   border-top: 1px solid rgba(255, 255, 255, 0.62);
@@ -790,7 +791,7 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-section-site {
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.56), rgba(255, 255, 255, 0.46)),
-    radial-gradient(circle at top right, rgba(142, 175, 218, 0.1), transparent 30rem);
+    radial-gradient(circle at top right, rgba(102, 142, 191, 0.1), transparent 30rem);
 }
 
 .ps-markdown .about-build-card {
@@ -928,9 +929,9 @@ body.has-ps-about-page .ps-markdown [id] {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  background: rgba(142, 175, 218, 0.09);
-  border: 1px solid rgba(142, 175, 218, 0.18);
-  color: #8EAFDA;
+  background: rgba(102, 142, 191, 0.09);
+  border: 1px solid rgba(102, 142, 191, 0.18);
+  color: #405F82;
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.2;
@@ -939,7 +940,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-chip-list a:hover {
-  background: rgba(142, 175, 218, 0.14);
+  background: rgba(102, 142, 191, 0.14);
   text-decoration: none;
 }
 
@@ -1041,9 +1042,9 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-summary-action {
   flex: 0 0 auto;
   border-radius: 999px;
-  background: rgba(142, 175, 218, 0.09);
-  border: 1px solid rgba(142, 175, 218, 0.18);
-  color: #8EAFDA;
+  background: rgba(102, 142, 191, 0.09);
+  border: 1px solid rgba(102, 142, 191, 0.18);
+  color: #405F82;
   font-size: 0.82rem;
   font-weight: 800;
   line-height: 1;
@@ -1052,8 +1053,8 @@ body.has-ps-about-page .ps-markdown [id] {
 
 .ps-markdown .about-expand-card[open] .about-summary-action {
   color: #ffffff;
-  background: #8EAFDA;
-  border-color: #8EAFDA;
+  background: #4F719B;
+  border-color: #4F719B;
 }
 
 .ps-markdown .about-expand-card[open] .about-summary-action::before {
@@ -1196,8 +1197,8 @@ body.has-ps-about-page .ps-markdown [id] {
   min-height: 2.25rem;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.66);
-  border: 1px solid rgba(142, 175, 218, 0.18);
-  color: #8EAFDA;
+  border: 1px solid rgba(102, 142, 191, 0.18);
+  color: #405F82;
   font-size: 0.9rem;
   font-weight: 750;
   line-height: 1.2;
@@ -1206,7 +1207,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-skill-row i {
-  color: #8EAFDA;
+  color: #4F719B;
   font-size: 0.95rem;
 }
 
@@ -1257,7 +1258,7 @@ body.has-ps-about-page .ps-markdown [id] {
   border: 1px solid rgba(255, 255, 255, 0.76);
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.58);
-  color: #8EAFDA;
+  color: #6E95C6;
   font-weight: 750;
   line-height: 1.25;
   text-decoration: none;
@@ -1273,7 +1274,7 @@ body.has-ps-about-page .ps-markdown [id] {
   justify-content: center;
   width: 1.1rem;
   min-width: 1.1rem;
-  color: #8EAFDA;
+  color: #4F719B;
   font-size: 1rem;
 }
 
@@ -1287,7 +1288,7 @@ body.has-ps-about-page .ps-markdown [id] {
   justify-content: center;
   border-radius: 0.25rem;
   color: #ffffff;
-  background: rgba(142, 175, 218, 0.38);
+  background: rgba(102, 142, 191, 0.38);
   font-size: 0.75rem;
   line-height: 1;
 }
@@ -1365,9 +1366,9 @@ body.has-ps-about-page .ps-markdown [id] {
   min-height: 2.35rem;
   padding: 0.45rem 0.75rem;
   border-radius: 999px;
-  border: 1px solid rgba(142, 175, 218, 0.18);
-  background: rgba(142, 175, 218, 0.09);
-  color: #8EAFDA;
+  border: 1px solid rgba(102, 142, 191, 0.18);
+  background: rgba(102, 142, 191, 0.09);
+  color: #405F82;
   font-size: 0.85rem;
   font-weight: 800;
   white-space: nowrap;
@@ -1543,9 +1544,9 @@ body.has-ps-about-page .ps-markdown [id] {
   min-width: 1.55rem;
   height: 1.55rem;
   border-radius: 0.5rem;
-  color: #8EAFDA;
-  background: rgba(142, 175, 218, 0.1);
-  border: 1px solid rgba(142, 175, 218, 0.16);
+  color: #4F719B;
+  background: rgba(102, 142, 191, 0.1);
+  border: 1px solid rgba(102, 142, 191, 0.16);
   font-size: 0.82rem;
   font-weight: 850;
   line-height: 1;
@@ -1662,7 +1663,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-tile-icon {
-  color: #8EAFDA;
+  color: #4F719B;
   background: rgba(255, 255, 255, 0.72);
   border-color: rgba(255, 255, 255, 0.82);
   box-shadow: 0 6px 16px rgba(52, 79, 115, 0.08);
@@ -1718,7 +1719,7 @@ body.has-ps-about-page .ps-markdown [id] {
 }
 
 .ps-markdown .about-cert-preview small {
-  color: #8EAFDA;
+  color: #4F719B;
   font-weight: 800;
   white-space: nowrap;
 }
@@ -1745,7 +1746,7 @@ body.has-ps-about-page .ps-markdown [id] {
   height: 1.9rem;
   margin-top: 1rem;
   border-radius: 999px;
-  color: #8EAFDA;
+  color: #4F719B;
   background: rgba(255, 255, 255, 0.7);
   border: 1px solid rgba(255, 255, 255, 0.8);
   font-weight: 800;
@@ -1905,7 +1906,7 @@ body.has-ps-about-page .ps-markdown [id] {
 /* Final polish: accent colour, donation card and non-expanded story/certifications */
 .ps-markdown {
   --about-accent: #8EAFDA;
-  --about-accent-strong: #8EAFDA;
+  --about-accent-strong: #7699C6;
   --about-pill-bg: linear-gradient(135deg, rgba(142, 175, 218, 0.22), rgba(255, 255, 255, 0.68));
   --about-pill-border: rgba(142, 175, 218, 0.42);
   --about-pill-glow: 0 8px 22px rgba(142, 175, 218, 0.20);
@@ -1925,7 +1926,7 @@ body.has-ps-about-page .ps-markdown [id] {
 .ps-markdown .about-chip-list a,
 .ps-markdown .about-skill-row span,
 .ps-markdown .about-summary-action {
-  color: #8EAFDA !important;
+  color: #527599 !important;
   background: var(--about-pill-bg) !important;
   border-color: var(--about-pill-border) !important;
   box-shadow: var(--about-pill-glow) !important;
@@ -2114,7 +2115,7 @@ body.has-ps-about-page .ps-markdown [id] {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  color: #8EAFDA !important;
+  color: #527599 !important;
   background: var(--about-pill-bg) !important;
   border: 1px solid var(--about-pill-border) !important;
   box-shadow: var(--about-pill-glow) !important;

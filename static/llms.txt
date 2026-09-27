@@ -1,0 +1,19 @@
+# flightblog.justinverstijnen.nl
+
+> Personal aviation blog by Justin Verstijnen about flight training, aviation theory and the journey towards a Private Pilot License (PPL).
+
+## Main sections
+- Home: https://flightblog.justinverstijnen.nl/
+- Blog: https://flightblog.justinverstijnen.nl/blog/
+- About: https://flightblog.justinverstijnen.nl/about/
+- Flight Tools: https://flighttools.justinverstijnen.nl/
+
+## Main subjects
+- Private Pilot License (PPL)
+- Flight training
+- Cessna 172
+- Aviation theory
+- Microsoft Flight Simulator
+
+## Source
+- GitHub: https://github.com/JustinVerstijnen/JVFlightBlog
