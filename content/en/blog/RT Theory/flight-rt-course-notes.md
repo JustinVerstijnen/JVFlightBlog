@@ -67,9 +67,8 @@ Radio failures: put transponder on 7600, so every air trafffic controller knows 
 - 7500: Hi-jacked flight
 - 7700: Emergency (7 -> going to h
 
-|  |  |  |
-| --- | --- | --- |
 | **Squawk code** | **Meaning** | **How to remember** |
+| --- | --- | --- |
 | 7000 | VFR | - |
 | 7500 | Hijacking | Five, man with a knife |
 | 7600 | Radio miscommunication | Six, radio to fix |
@@ -102,9 +101,8 @@ In radio telephony we have multiple different categories of messages which we ca
 
 Some examples of these messages are:
 
-|  |  |
-| --- | --- |
 | **Type of message** | **Example message** |
+| --- | --- |
 | Distress call | Mayday mayday mayday, loss of all flight controls (or engines) |
 | Urgency calls | Panpan Panpan Panpan, Running out of fuel, request to land immediately |
 | Direction finding | Request radio vector/magnetic bearing/heading to airport |
@@ -191,9 +189,8 @@ We have various types of air pressure:
 
 These terms all mean somethin different:
 
-|  |  |
-| --- | --- |
 | **Type of altitude calculation** | **Relative to** |
+| --- | --- |
 | Flight Level | 1013,25 hPa |
 | Altitude | Weather station/METAR QNH (current air pressure) |
 | Height | QFH/Ground Level |
@@ -445,9 +442,8 @@ We will call all letter and number one-by-one. Let's say our registration number
 
 We will do this for any collection of letters and numbers, except for these abbreviations:
 
-|  |  |
-| --- | --- |
 | **Abbreviation** | **Definition** |
+| --- | --- |
 | ACC | Area Control (Center) |
 | ATA | Actual Time of Arrival |
 | ATC | Air Traffic Control |
@@ -473,9 +469,8 @@ These are terms we often use, and both A/C and G/S's will know them. No spelling
 
 Now to communicate with other stations or aircraft we use some default phrases. These phrases must always contain one of these words which we could call "signal-words":
 
-|  |  |  |
-| --- | --- | --- |
 | **Phrase** | **Meaning** | **Practice Example** |
+| --- | --- | --- |
 | Acknowledge | Please let me know if message is received and understood | G/S: ... Acknowledge you received last transmission |
 | Affirm | Yes | G/S: ... Confirm you are at holding point for runway 22  A/C: Affirm |
 | Approved | Your action is approved (no clearance) | A/C: ... Request startup  G/S: ... Startup approved |
@@ -555,9 +550,8 @@ Examples can be:
 
 We have some default suffixes that are the same for most of the airports:
 
-|  |  |  |
-| --- | --- | --- |
 | **Service** | **Purpose** | **Suffix name** |
+| --- | --- | --- |
 | Area control | General/national area controller | Control |
 | Approach control | Approach controller | Approach |
 | Aerodrome control (TWR) | Local area controller | Tower |
@@ -602,9 +596,8 @@ We will wait for the ground station to respond to our message, as they can answe
 
 We will then transmit a message that clearly states the following:
 
-|  |  |
-| --- | --- |
 | **Part** | **Practical saying** **example** |
+| --- | --- |
 | Who are we? | Cessna 172, PH-JSV, 2 POB (People on board) |
 | Where are we? | In front of restaurant 5 miles north of Amsterdam 2 minutes out of "Sierra", 1500ft |
 | What are we doing? | 1 hour local training flight VFR to Amsterdam VFR to Rotterdam |
@@ -622,9 +615,8 @@ Some extra information:
 
 To communicate how good we are being heard on the other side, we have a readability scale, from 1 to 5. This is a score where higher means better readability:
 
-|  |  |  |
-| --- | --- | --- |
 | **Score** | **Description** | **How to remember** |
+| --- | --- | --- |
 | 1 | Unreadable |  |
 | 2 | Readable now and then | Now & Then - 2 words |
 | 3 | Readable but with difficulty | Diff-i-cult - 3 syllables |
@@ -782,9 +774,8 @@ Yellow signs means intersections, black signs mean current ways.
 
 These are some extra ATC and Flight Plan preparation abbreviations and their definitions:
 
-|  |  |
-| --- | --- |
 | **Abbreviation** | **Definition** |
+| --- | --- |
 | A/C | Aircraft |
 | ALT | Altitude |
 | C/S | Call sign |
@@ -800,9 +791,8 @@ These are some extra ATC and Flight Plan preparation abbreviations and their def
 
 Then some extra generic abbreviations which ATC will use from time to time:
 
-|  |  |
-| --- | --- |
 | **Abbreviation** | **Definition** |
+| --- | --- |
 | U/S | Unservicable |
 | CTR | Control Zone |
 | GND | Ground (station) |

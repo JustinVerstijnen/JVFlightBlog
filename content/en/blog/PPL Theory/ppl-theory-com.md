@@ -82,9 +82,8 @@ When asking to stop squawk charlie, we have to disable the pressure altitude set
 
 There are some abbreviations which we (aircrafts and ATC) don't spell letter by letter because of the often use. These are:
 
-|  |  |
-| --- | --- |
 | **Abbreviation** | **Full definition** |
+| --- | --- |
 | ADF | Automatic Direction Finder |
 | ATC | Air Traffic Control |
 | CB | Cumulonimbus |
@@ -113,9 +112,8 @@ There are some abbreviations which we (aircrafts and ATC) don't spell letter by 
 
 All around the world, we use 7 different airspace classes, devided into the letters A to G. To make it clear what every airspace is for, please refer to this table:
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | **Class** | **IFR/VFR** | **Separation** | **Traffic Control**/**Information** | **Clearance required?** |
+| --- | --- | --- | --- | --- |
 | A | IFR\* | All traffic | Control | Yes |
 | B | IFR/VFR | All traffic | Control | Yes |
 | C | IFR/VFR | VFR from IFR | Control for IFR Information for VFR | Yes |
@@ -134,9 +132,8 @@ When the chart doesnt define an airspace for an area, this always will be Class 
 
 On the ground, driving our aircraft to the ramp, hangar or runway is called taxing. We could get some different instructions which we have to read back to ensure the pilot and ATC are on the same page, or else some huge accidents could happen.
 
-|  |  |
-| --- | --- |
 | **Action** | **Read back** |
+| --- | --- |
 | Give way to *\*aircraft description* | Giving way to *\*aircraft description* |
 | Follow the *\*aircraft description* | Following the *\*aircraft description* |
 | Expedite taxi | Expediting |
@@ -184,9 +181,8 @@ We must always include the following in a initial distress message, when possibl
 
 An example of an distress call could be:
 
-|  |  |
-| --- | --- |
 | **Type of sentence** | **Actual part of distress message** |
+| --- | --- |
 | Initial announcement of distress | Mayday Mayday Mayday |
 | Callsign | PH-JSV |
 | Type/Cause of distress | Engine failure |
@@ -255,9 +251,8 @@ This is an great example of having aviate on the first position, then navigating
 
 When a tower assumes your radio communication doesnt work, they could give you visual messages by shining light to you. These lights could have different meanings.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Color** | **Pattern** | **On the ground** | **In the air** |
+| --- | --- | --- | --- |
 | Green | Flashing | Taxi clearance | Return to land |
 | Green | Solid | Start clearance (start engines) | Landing clearance |
 | White | Flashing | Return to the platform | Land here and taxi to platform |

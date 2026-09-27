@@ -29,9 +29,8 @@ Hyperventilation and carbon dioxide-poisoning will play together with breathing 
 
 In the Troposphere (0-36.000ft), we have an air mass that consists of the following components:
 
-|  |  |  |
-| --- | --- | --- |
 | **Gasses** | **Symbol** | **Concentration** |
+| --- | --- | --- |
 | Nitrogen (Stikstof) | N₂ | 78,1% |
 | Oxygen (Zuurstof) | O₂ | 21,0% |
 | Several noble gasses (edelgassen) | Not applicable | < 0,1% |
@@ -302,9 +301,8 @@ The causes of hypertension can variate between such different items:
 
 During normal conditions with normal gravity, a human is exposed to around 9,8 m/s of gravity. During maneuvers, this can increase where the power on a body can heavily increase. We will call this G-forces or gravity-force. This number states the force and is a factor of how heavy you feel opposing the gravity.
 
-|  |  |
-| --- | --- |
 | **G force** | **Description** |
+| --- | --- |
 | 1 G | In steady flight, you feel as heavy as you are |
 | 3,5 G | When pulling the yoke, you will feel 3,5 times as heavy as normal, feeling pushed into your seat |
 | -1,2 G | When pushing the yoke, you will feel much lighter and will come out of your seat |
@@ -911,9 +909,8 @@ Decision making is not a objective process. Different persons will make differen
 
 Some attitude exists, but must be prevented at all times:
 
-|  |  |  |
-| --- | --- | --- |
 | **Attitude** | **Symptom** | **Remedy** |
+| --- | --- | --- |
 | Macho | "Look at me, im better than you" | "Don't take unneccesary risks" |
 | Anti-authoritarian | "They can go to hell" | "Rules are there to prevent accidents" |
 | Impulsivity | "Do something" | "Think, than execute" |

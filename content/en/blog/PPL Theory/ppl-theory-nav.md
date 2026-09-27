@@ -140,9 +140,8 @@ ATC can ask for your transponder capability, you can say "Transponder capability
 
 To project the globe which is a round object, we can use multiple different projections, each with their pro's and cons.
 
-|  |  |  |
-| --- | --- | --- |
 | **Type** | **Pro's** | **Cons** |
+| --- | --- | --- |
 | Mercator (Cylindrical) | **Conform = Hoekgetrouw**\* Medians and parralels are straight lines | Greenland looks equal size to Africa but Africa is 14 times the size Poles are not shown correctly |
 | Lambert (Cone) | **Conform = Hoekgetrouw**\* Partly Equadistantie = Afstandsgetrouw Medians and parralels are shown curved | More complex because of the rounded shape |
 
@@ -155,9 +154,8 @@ This makes clear that poth projections are great in their own use:
 
 Then we have "Grootcirkels" and "Loxodromen" (Rhumb lines), which are different on both types of maps:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Projection** | **Medians** | **Grootcirkel** | **Loxodroom** |
+| --- | --- | --- | --- |
 | Mercator | Straight lines | Curved | Straight line |
 | Lambert | Slope in lines because of conal shape | Straight line | Curved |
 
@@ -403,9 +401,8 @@ This means from the 12 knots wind, we get 11 knots onto head and 3 knots from cr
 
 You could also use these numbers to remember quickly (or take a E6-B on board)
 
-|  |  |  |
-| --- | --- | --- |
 | **Wind angle** | **Factor crosswind (sinus)** | **Factor Head/tailwind (cosinus)** |
+| --- | --- | --- |
 | 30 degrees | 0,5 | 0,9 |
 | 45 degrees | 0,7 | 0,7 |
 | 60 degrees | 0,9 | 0,5 |
@@ -809,16 +806,14 @@ To calculate questions about certain headings with variation and deviation into 
 
 Let's say, we have a True Track of 352 degrees, and we want to know some of the other values. Let's do this:
 
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | C | D | M | V | T | Dr | TT |
+| --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  | 352 |
 
 Now we can fill in the blanks step by step to get to the actual other values correctly and in the correct manner:
 
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | C | D | M | V | T | Dr | TT |
+| --- | --- | --- | --- | --- | --- | --- |
 | 358 | 5W | 353 | 11W | 342 | 10R | 352 |
 
 Left to right: Subtract (-) West and Add (+)East numbers (LR -W +E)

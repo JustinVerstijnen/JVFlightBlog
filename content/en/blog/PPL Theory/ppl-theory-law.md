@@ -34,9 +34,8 @@ From the 1944 conference, ICAO was founded and almost all countries around the w
 
 The goal of this conference was to found an organization, ICAO, that creates standardized rules which all pilot in commands around the world must adhere to. From this conference there was signed the Treaty of Chicago which contains a huge load of rules in Annexes, which are attachments to the treaty:
 
-|  |  |
-| --- | --- |
 | **Annex number** | **Description** |
+| --- | --- |
 | Annex 1 | Personnel Licensing |
 | Annex 2 | Rules of the Air |
 | Annex 3 | Meteorological Service for International Air Navigation |
@@ -121,9 +120,8 @@ Every country has it's own code, which you can find here: <https://www.avcodes.c
 
 Here is an example of the registration numbers and method in the Netherlands:
 
-|  |  |  |
-| --- | --- | --- |
 | **Aircraft type** | **Naming Convention** | **Example** |
+| --- | --- | --- |
 | Planes, Helicopters and Hot air balloons | 3 letters | PH-JSV |
 | TMG's and Gliders | 3 or 4 numbers | PH-2653 |
 | Microlight aircraft | Number-Letter-Number | PH-6H9 |
@@ -354,9 +352,8 @@ In this situations, do the following steps:
 - You have to do everything you are told at this point
 - If not possible to communicate because of an language barrier, the following ICAO phrases will be used
 
-|  |  |
-| --- | --- |
 | **Phrase** | **Meaning** |
+| --- | --- |
 | Callsign | Your callsign is? |
 | Descend | Descend to land |
 | Follow | Follow me |
@@ -365,9 +362,8 @@ In this situations, do the following steps:
 
 Based on the situation, its possible to answer the actions:
 
-|  |  |
-| --- | --- |
 | **Phrase** | **Meaning** |
+| --- | --- |
 | Callsign | My callsign is ... |
 | Wilco | Roger, I will follow your instructions |
 | Unable | I am unable to follow your instructions |
@@ -758,9 +754,8 @@ RCL. 160FT AMSL, MARKED AND LGTD.)
 
 I will break this NOTAM down:
 
-|  |  |
-| --- | --- |
 | **NOTAM line** | **Description** |
+| --- | --- |
 | A0116/26 NOTAMN | Series, number, (New) |
 | Q)EHAA/QOBCE/IV/M/A/000/999/5227N00531E005 | FIR Amsterdam, Obstacle, Crane, Erection, IFR/VFR |
 | A)EHLE | Lelystad Airport |
@@ -785,9 +780,8 @@ A)EHTE B)2512300950 C)2603301200EST
 E)IFR APPROACH PROCEDURE RNP RWY 26 NOT AVBL.)
 ```
 
-|  |  |
-| --- | --- |
 | **NOTAM line** | **Description** |
+| --- | --- |
 | (B1293/25 NOTAMR B0960/25 | Series, number, (Replacement) |
 | Q)EHAA/QPIAU/I/NBO/A/000/999/5215N00603E005 | FIR Amsterdam, Procedure instrument, Approach, Unavailable, IFR, NOTAM briefing relevant, operational significance |
 | A)EHTE | Teuge Airport |
@@ -797,9 +791,8 @@ E)IFR APPROACH PROCEDURE RNP RWY 26 NOT AVBL.)
 
 In NOTAMs there will be used some abbreviations of general subjects that are used often:
 
-|  |  |
-| --- | --- |
 | **Abbreviation** | **Full description** |
+| --- | --- |
 | AD | Aerodrome |
 | BTN | Between |
 | DLY | Daily |
@@ -948,9 +941,8 @@ The pilot in command will never proceed the flight if he is not medically able t
 
 In Annex 6 of the Chicago treaty, there is described a minimum of instruments and tools on board before allowed to take-off. These are:
 
-|  |  |  |
-| --- | --- | --- |
 | **Instruments** | **Tools** | **Required** **at** **Day/Night** |
+| --- | --- | --- |
 | Magnetic compass | Clock, which counts hours, minutes and seconds | Day and Night |
 | Altitude indicator | Spare circuit breakers (every type applicable) | Day and Night |
 | Speed indicator | First aid kit (within reach) | Day and Night |
@@ -1140,9 +1132,8 @@ For the states of runways in winter weather we have a SNOWTAM. These are spreade
 
 Next to runway contamination states, we have also braking action. This is an index-number about how good the brakes work in a runway (higher is better)
 
-|  |  |
-| --- | --- |
 | **Runway condition code** | **Pilot report of runway braking action** |
+| --- | --- |
 | 6 | Perfect |
 | 5 | Good |
 | 4 | Good to Medium |

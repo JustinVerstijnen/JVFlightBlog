@@ -36,9 +36,8 @@ In the standard atmosphere, we use these characteristics:
 
 This is a set of conditions, but some numbers can defer in the real world, due to the location or different seasons. Now, lets take a look at the different layers in our atmosphere:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Layer** | **Altitude** | **Characterstics** | **Temperature** **gradient** **(ISA)** |
+| --- | --- | --- | --- |
 | Thermosphere | 280.000ft and up 85km and up | Thin air and high temperature due to solar radiation. Auroras happen in this layer | Increases with altitude |
 | Mesosphere | 160.000ft - 280.000ft 50km - 85km | Meteors burn up in this layer, coldest layer | 0c to -90c |
 | Stratosphere | 36.000ft - 160.000ft 11km - 50km | Contains the ozone layer, stable air with some jet streams at the bottom | -56,5c to 0c |
@@ -615,9 +614,8 @@ Here is described that the lift must not only be equal to the weight, but on the
 
 For reference, here we have some numbers where we describe the load factor and increase of stall speeds in different turns:
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Load factor | 1 | 1,15 | 1,4 | 2 | 3,9 |
+| --- | --- | --- | --- | --- | --- |
 | Increase in stall speed | 0% | 7,5% | 19% | 41% | 97% |
 
 {{% alert title="Info" color="info" %}}
@@ -992,9 +990,8 @@ The static strength of an aircraft is measured in G-force, where a plane on the 
 
 Again, here we have some numbers where we describe the load factor and increase of stall speeds in different turns:
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Load factor | 1 | 1,15 | 1,4 | 2 | 3,9 |
+| --- | --- | --- | --- | --- | --- |
 | Increase in stall speed | 0% | 7,5% | 19% | 41% | 97% |
 
 Now we have some extra numbers for different category airplanes:

@@ -34,9 +34,8 @@ In the standard atmosphere, we use these characteristics:
 
 This is a set of conditions, but some numbers can defer in the real world, due to the location or different seasons. Now, lets take a look at the different layers in our atmosphere:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Layer** | **Altitude** | **Characterstics** | **Temperature** **gradient** **(ISA)** |
+| --- | --- | --- | --- |
 | Thermosphere | 280.000ft and up 85km and up | Thin air and high temperature due to solar radiation. Auroras happen in this layer | Increases with altitude |
 | Mesosphere | 160.000ft - 280.000ft 50km - 85km | Meteors burn up in this layer, coldest layer | 0c to -90c |
 | Stratosphere | 36.000ft - 160.000ft 11km - 50km | Contains the ozone layer, stable air with some jet streams at the bottom | -56,5c to 0c |
@@ -157,9 +156,8 @@ Conduction is the transport of warmth by using physical contact. A warm object w
 
 To summarize all these forms of transport:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | **Form of transport** | **Definition** | **Memory aid** | **Dutch translation** |
+| --- | --- | --- | --- |
 | Radiation | Transport by electromagnetic waves | The sun | Zonnestraling |
 | Convection | Transport of vertical warm air | Hot air balloon | Convectie |
 | Turbulence | Unorganized movements of air masses | Bumpy airplane ride | Turbulentie |
@@ -345,9 +343,8 @@ Right above an inversion, the wind speeds can drastically change, as the atmosph
 
 Advection, which is horizontal transport of air, alters the stability of the atmosphere. This will do it in these ways:
 
-|  |  |
-| --- | --- |
 | **Stability** | Cold surface and warm air |
+| --- | --- |
 | **Instability** | Warm surface and cold air |
 
 The main causes of this are that a cold surface will cool the air above it. With a warm surface, the air in the lower areas will warm up, and warm air will tend to rise. This creates convection and if the air contains enough moist, clouds and precipitation.
