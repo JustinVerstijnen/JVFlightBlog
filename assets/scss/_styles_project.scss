@@ -1594,3 +1594,69 @@ body:not(.home-navbar-transparent) .td-navbar .td-search__input:focus, body:not(
   color: #ffffff;
   box-shadow: 0 3px 9px rgba(0, 0, 0, 0.34);
 }
+
+/* Taxonomy term pages: use the same blog layout and alignment as /blog/ */
+.jv-taxonomy-page {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+
+.jv-taxonomy-page__header {
+  margin-bottom: 0;
+}
+
+.jv-taxonomy-page__type {
+  margin-bottom: 0.35rem;
+  color: #6b7b8a;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.jv-taxonomy-page__header h1 {
+  margin-bottom: 0.65rem;
+}
+
+.jv-taxonomy-page__description {
+  margin: 0 0 1.75rem;
+  color: #5f6f7e;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.jv-taxonomy-page__intro {
+  margin: -0.75rem 0 1.75rem;
+}
+
+.jv-taxonomy-page__intro > :last-child {
+  margin-bottom: 0;
+}
+
+.jv-taxonomy-page__posts {
+  margin-top: 0;
+}
+
+.jv-taxonomy-page__posts > .h2:first-child {
+  margin-top: 0;
+}
+
+.jv-taxonomy-page__pagination {
+  margin-top: 1.5rem;
+}
+
+[data-bs-theme='dark'] .jv-taxonomy-page__type {
+  color: #aeb9c5;
+}
+
+[data-bs-theme='dark'] .jv-taxonomy-page__description {
+  color: #b9c3cd;
+}
+
+@media (max-width: 991.98px) {
+  .jv-taxonomy-page {
+    padding-top: 1.25rem;
+  }
+}
