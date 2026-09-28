@@ -77,6 +77,8 @@ Of course, Im a little bit of a perfectionist so every lesson has some remarks:
 - No altitude changes in turns, keep the plane on the desired altitude
 - More focus on actual flying as radio calls and procedures get more natural now. Example, being on final and the radio is busy? Land the plane, and dont wait to make the call. Aviate, Navigate and then if time left; communicate.
 
+Happy with both lessons on one day. Now it feels like I'm really make some progress, especially when both flights are solo flights.
+
 {{< ads >}}
 
 {{< article-footer >}}
