@@ -7,6 +7,7 @@ categories:
 - Flight Lessons
 description: "In this third solo lesson, I left the circuit/airport area to again fully fly standalone. Then I performed some simple exercises and re-joined the circuit to land."
 hidden: false
+weight: 4
 ---
 
 {{% alert title="Disclaimer" color="warning" %}}
