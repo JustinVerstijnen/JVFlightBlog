@@ -50,8 +50,8 @@ The METAR of a nearby aerodrome stated:
 | 9999 | Visibility of 10 km or more |
 | FEW074 | Few clouds, of maximum 2/8 coverage on 7400 feet AGL |
 | BKN190 | Broken clouds, of maximum 7/8 coverage on 19000 feet AGL |
-| Q1020 | Air pressure calculated back to sealevel: 1020 hPa |
 | 22/15 | Temperature 22 degrees celcuis, dewpoint 15 degrees, relative humidity 68% |
+| Q1020 | Air pressure calculated back to sealevel: 1020 hPa |
 | = | End of METAR |
 
 ## First the lesson with instructor
