@@ -25,3 +25,12 @@ Do not use specific information given like fuel flow, landing/take-off distances
 | 2.12 | UPRT 2 | 06-10-2026 |
 
 The flight lesson 2.12 with the name Navigation Ground School is a non-flying lesson but a deep dive into how to navigate using checkpoints. We can see this as a practical extension of the PPL Theory for Navigation which I passed around a year ago (https://flightblog.justinverstijnen.nl/ppl-theory-nav/)
+
+## Navigation goals
+
+The goal of this lesson is that I am prepared to do on my own:
+
+- Choose a good and recognizable navigation plan with nav log with obvious points on the ground
+- Actually being able to perform the planned route
+- Reconsider the route at any checkpoint in case of being lost or diverted
+- Perform the flight planning with fuel, mass and balance calculations and take-off/landing distances
