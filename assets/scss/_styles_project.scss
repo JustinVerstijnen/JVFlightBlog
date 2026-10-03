@@ -360,6 +360,11 @@ body:not(.home-navbar-transparent) .td-navbar {
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.16) !important;
 }
 
+/* Homepage cover: avoid the Docsy 300ms navbar transition while the hero loads. */
+.home-navbar-transparent .td-navbar.td-navbar-cover {
+  transition: none !important;
+}
+
 .home-navbar-transparent .td-navbar::before, .home-navbar-transparent .td-navbar::after, .home-navbar-transparent .td-navbar-container::before, .home-navbar-transparent .td-navbar-container::after {
   content: none !important;
   background: none !important;

@@ -15,6 +15,22 @@ formats such as RSS, print or Markdown are enabled.
 
 {{- /*
 ==========================================================
+Homepage cover image preload
+
+Preload the original homepage background image directly so the
+browser can start fetching it before the cover markup is parsed.
+==========================================================
+*/ -}}
+
+{{- if .IsHome }}
+  {{- with (.Resources.ByType "image").GetMatch "**background*" }}
+<link rel="preload" as="image" href="{{ .RelPermalink }}" fetchpriority="high">
+  {{- end }}
+{{- end }}
+
+
+{{- /*
+==========================================================
 Identity structured data
 Homepage: Person
 ==========================================================
