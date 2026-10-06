@@ -94,3 +94,5 @@ The first point must be the departure aerodrome and the last point the arrival a
 | GS |  |  |  |  |
 | Fuel - USED |  |  |  |  |
 | Fuel - REM |  |  |  |  |
+
+To be continued...
