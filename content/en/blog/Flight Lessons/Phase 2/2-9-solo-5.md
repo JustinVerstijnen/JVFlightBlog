@@ -5,7 +5,7 @@ date: 2026-11-06
 tags: []
 categories:
 - Flight Lessons
-description: "In this ffth solo lesson, I left the circuit/airport area to again fully fly standalone. Then I performed some more advanced exercises like slow flight and approach to stalls and full stalls and re-joined the circuit to land."
+description: "In this fifth solo lesson, I left the circuit/airport area to again fully fly standalone. Then I performed some more advanced exercises like slow flight and approach to stalls and full stalls and re-joined the circuit to land."
 hidden: false
 weight: 7
 ---
