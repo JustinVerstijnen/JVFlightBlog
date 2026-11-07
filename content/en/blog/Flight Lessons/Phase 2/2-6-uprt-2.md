@@ -1,7 +1,7 @@
 ---
 title: "2.6 UPRT 2"
 slug: "2-6-uprt-2"
-date: 2026-10-06
+date: 2026-11-20
 tags: []
 categories:
 - Flight Lessons
@@ -18,10 +18,14 @@ This page can contain a collection of personal notes, steps to remember, finishe
 Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
 {{% /alert %}}
 
-## Flight lesson 2.6 - UPRT 1
+## Flight lesson 2.6 - UPRT 2
 
 | Lesson number | Lesson name | Lesson date(s) |
 | --- | --- | --- |
-| 2.6 | UPRT 2 | 06-10-2026 |
+| 2.6 | UPRT 2 | 20-11-2026 |
 
 The flight lesson 2.6 with name UPRT 2 is an advanced flight lesson where we learn some Upset Prevention and Recovery Training (UPRT). This means we will be trained to recognize the plane getting in a spin or spiral dive and be able to recover successfully. Getting in those situations can happen, and be better prepared and know what to do than facing this and completely lose control.
+
+{{< ads >}}
+
+{{< article-footer >}}

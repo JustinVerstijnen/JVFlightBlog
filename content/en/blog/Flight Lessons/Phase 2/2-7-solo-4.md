@@ -164,3 +164,7 @@ I want to split the grade into two:
 - Decision making: 7/10
 
 Altough you can always experience slightly different situations as predicted and measured by nearby weather stations, this was a good lesson for me. Do a better assessment of the situation and how to fly it correctly. I skipped the other landing and flapless landing as I was somewhat happy to be on the ground. I and my instructor agreed on taking more crosswind landing lessons when the situation is again like this.
+
+{{< ads >}}
+
+{{< article-footer >}}

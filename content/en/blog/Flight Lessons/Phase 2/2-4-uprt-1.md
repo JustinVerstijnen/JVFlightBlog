@@ -41,3 +41,7 @@ The METAR of a nearby aerodrome published:
 Broken clouds at 1.600 feet means a cloud coverage of at least 5/8 which is not good for VFR flying and the best way to fly is not to fly.
 
 Lesson cancelled, looking forward to the next lesson!
+
+{{< ads >}}
+
+{{< article-footer >}}

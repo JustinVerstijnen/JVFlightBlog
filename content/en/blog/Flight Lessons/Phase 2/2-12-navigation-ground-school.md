@@ -96,3 +96,7 @@ The first point must be the departure aerodrome and the last point the arrival a
 | Fuel - REM |  |  |  |  |
 
 To be continued...
+
+{{< ads >}}
+
+{{< article-footer >}}
