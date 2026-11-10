@@ -1440,6 +1440,21 @@ That was it for Meteorology.
 - Coriolis effect and forces
 - Frontmist is caused by warm fronts and its precipitation
 
+## Additions
+
+Flight Categories
+
+When we look at the weather conditions for flying, we can divide them into 4 different flight categories. These categories are based on the cloud ceiling and the visibility. The lower the ceiling and visibility, the more difficult the flying conditions will become. These are also the labels and colors apps like Aeroweather and Skydemon presents the METARs of aerodeomes.
+
+We have the following categories:
+
+- VFR (Visual Flight Rules) (Green): The cloud ceiling is higher than 3.000ft AGL and the visibility is greater than 5 kilometers. These are good visual flying conditions and the conditions we aim on with VFR flights
+- MVFR (Marginal Visual Flight Rules) (Grey): The cloud ceiling is between 1.000ft and 3.000ft AGL and/or the visibility is between 3 and 5 kilometers. These conditions are somewhat suitable for visual flying, but require more attention and you are on the edge of IFR/IMC
+- IFR (Instrument Flight Rules) (Red): The cloud ceiling is between 500ft and 999ft AGL and/or the visibility is between 1 and 3 miles. Visual flying becomes more difficult and instrument flying conditions are required
+- LIFR (Low Instrument Flight Rules) (Purple): The cloud ceiling is below 500ft AGL and/or the visibility is less than 1 mile. These are very poor weather conditions with very limited visibility
+
+Note that this only tells you the cloud ceiling and visibility. Enough visibility on the ground can still put you in IFR/low visibility conditions. Also this is the current situation and tells you nothing about the conditions in 2 hours and the winds
+
 {{< ads >}}
 
 {{< article-footer >}}
