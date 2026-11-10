@@ -1258,6 +1258,31 @@ A plane is behaving different when loaded differently. As we have an object that
 | **Main risk**              | Aircraft may not rotate or flare properly | Aircraft may become unstable or unrecoverable           |
 | **Summary**                | Stable but heavy on controls              | Efficient but unstable                                  |
 
+## Additions (more clear and better self-understanding)
+
+3 different side effects caused by the propellor which rotates between 800 RPM and 2700 RPM in a Cessna 172:
+
+1. Slipstream effect
+2. Torque effect
+3. Propellor blade effect (P Factor)
+
+Slipstream effect is caused by the propellor rotation, circling around the plane and colliding to the vertical stabilizer causing the plane to yaw to the left in high RPM situations
+
+To compensate
+
+Low RPM: Steer left
+High RPM: Steer right
+
+Torque effect is Newtons third law in action, propellor rotates clockwise as seen from cockpit, plane wants to roll counterclockwise
+
+Most noticable in low airspeed situations
+
+Propellor blade effect also known as the P factor is the assymetrical thrust produced by the propellor as the downward blade (right blade) has a higher angle of attack and so replaces more air, causing the plane to yaw left
+
+To compensate: right rudder in certain situations like a climbing left turn
+
+Also the cause why we need mostly right rudder on take-off
+
 {{< ads >}}
 
 {{< article-footer >}}
