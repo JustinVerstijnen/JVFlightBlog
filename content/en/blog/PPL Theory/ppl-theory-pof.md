@@ -10,11 +10,13 @@ description: >
   This page contains my notes for the Principles of Flight (POF) exam. This contains various subjects like lift, aircraft performance and why an aircraft flies.
 ---
 
-{{% alert title="Exam passed on July 11 2026" %}} For a live overview of my flight lessons, visit: <https://flighttools.justinverstijnen.nl/flightlessontracker>
+{{% alert title="Exam passed on July 11 2026" color="info" %}}
+For a live overview of my flight lessons, visit: [https://flighttools.justinverstijnen.nl/flightlessontracker](https://flighttools.justinverstijnen.nl/flightlessontracker)
 
 This page can contain a collection of personal notes, steps to remember, finished and unfinished content. Please excuse brevity.
 
-Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used. {{% /alert %}}
+Do not use specific information given like fuel flow, landing/take-off distances for your flights. Always refer to the POH of your exact plane for flight preparation. My information is just for references that I used.
+{{% /alert %}}
 
 > The air is best described as "thin water". We humanity live on the floor of the air-ocean.
 
@@ -36,7 +38,7 @@ In the standard atmosphere, we use these characteristics:
 
 This is a set of conditions, but some numbers can defer in the real world, due to the location or different seasons. Now, lets take a look at the different layers in our atmosphere:
 
-| **Layer** | **Altitude** | **Characterstics** | **Temperature** **gradient** **(ISA)** |
+| Layer | Altitude | Characterstics | Temperature gradient (ISA) |
 | --- | --- | --- | --- |
 | Thermosphere | 280.000ft and up 85km and up | Thin air and high temperature due to solar radiation. Auroras happen in this layer | Increases with altitude |
 | Mesosphere | 160.000ft - 280.000ft 50km - 85km | Meteors burn up in this layer, coldest layer | 0c to -90c |
@@ -70,7 +72,7 @@ When going up into the air, the air pressure will decrease like seen in the grap
 For reference, we will use this numbers:
 
 - Every 30 feet up in the air represents an hPa loss in air pressure
-  - Example: 1013 hPa on sea level (0ft AMSL) means a mean pressure of 1000 hPa at 390ft altitude
+    - Example: 1013 hPa on sea level (0ft AMSL) means a mean pressure of 1000 hPa at 390ft altitude
 
 As this is an exponential relationship, this will guide you through the first 10.000ft (3,048km) in altitude, after that this trick does not longer work correctly of course. Some good rules of thumb:
 
@@ -87,7 +89,7 @@ Pressure altitude is the altitude corrected to the International Standard Atmosp
 In short:
 
 - Higher pressures (Low altitiudes): Better engine performance, better propellor performance and more lift
-  - More oxygen and more air molecules
+    - More oxygen and more air molecules
 - Lower pressures (High altitudes): Less engine performance, less propellor performance and less lift
 
 ### Pressure altitude examples
@@ -98,7 +100,7 @@ In the same example with a pressure of 968 hPa on sea level, we will have a pres
 
 As you can already see, this example gives two completely different scenario's with around 1700ft difference. In countries like the USA where airstrips can be at 5000ft altitude, the pressure can be a huge difference which we must take into account.
 
-Check out this tool to calculate and visiualize Pressure/Density altitude: <https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator>
+Check out this tool to calculate and visiualize Pressure/Density altitude: [https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator](https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator)
 
 ### Density altitude
 
@@ -108,7 +110,7 @@ Thinner air means less oxygen and less air molecules, denser air means more air 
 
 To calculate the density altitude from pressure altude, you can use the E6B or the tool below:
 
-Check out this tool to calculate and visiualize Pressure/Density altitude: <https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator>
+Check out this tool to calculate and visiualize Pressure/Density altitude: [https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator](https://flighttools.justinverstijnen.nl/pressuredensityaltitudecalculator)
 
 {{% alert title="Info" color="info" %}}
 Tip: Use an E6B calculator for a quick and thorough calculation of Density altitude based on the outside air temperature (OAT) and pressure altitude.
@@ -199,7 +201,8 @@ The downwash is a descending movement of the airflow after it hit the wings. As 
 Too see this all put into perspective, view this image:
 
 [![jv-media-5667-f108f3b80f2f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f108f3b80f2f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f108f3b80f2f.png)
-* Airspeeds are a reference
+
+- Airspeeds are a reference
 
 ### An wing profile described
 
@@ -219,7 +222,7 @@ A wing profile has various parts, which we will describe now:
 - **The angle of incidence** (AoI) (Instelhoek) is the angle between the longitudinal axis of the plane and the chord. This is how the aircraft is built and is by design, so the plane generates enough lift in straight and level flight.
 - **The angle of attack** (AoA) (Invalshoek) is the angle between incoming airflow and the chord. This is the pitch angle you can set with the yoke, which controls the elevator.
 
-[![jv-media-5667-a64ddda7e0fb.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png) [![jv-media-5667-5a84de383c4d.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-5a84de383c4d.png)
+[![jv-media-5667-a64ddda7e0fb.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-a64ddda7e0fb.png)
 
 The angle of attack will often be reffered as "α". It also is an result of sum angle of incidence, the pitch angle and the glide angle.
 
@@ -260,7 +263,6 @@ This picture does shows how these terms work in both cruise and high angle of at
 
 [![jv-media-5667-f8494ca791a4.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f8494ca791a4.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f8494ca791a4.png)
 
-
 ### Dynamic Pressure
 
 The dynamic pressure is the pressure of the free airflow just before the wings. 1/2 ρ V² altogether is a sum of static and dynamic pressure, where V² means only the dynamic pressure. The V factor is equal to the True Airspeed. Headwind is also counted within this V factor, which means that the more headwind, the more lift.
@@ -272,7 +274,8 @@ Static pressure in this formula is also very important. This is directly depende
 The lift coefficient is a sum of the angle of attack, amount of lift and drag. In a graph, this looks like this:
 
 [![jv-media-5667-ce2d3128b18f.png](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-ce2d3128b18f.png)
-* A fun fact is that because of the angle of incidence of a Cessna 172, a plane wil always have a higher angle of attack than 0.
+
+- A fun fact is that because of the angle of incidence of a Cessna 172, a plane wil always have a higher angle of attack than 0.
 
 This graph outlines that the more angle of attack we have, the more lift. However, there is a bount that this stops which is called the critical angle of attack. In a Cessna 172, this is around 15-16 degrees nose up. Pulling even more on the yoke causes the plane to stall and dip from the sky. This can be very dangerous at lower altitudes.
 
@@ -332,11 +335,22 @@ The reaction of two opposing wings will cause this wake turbulence. The strength
 
 A good advice is if taking of behind an airliner, to wait for at least 3 minutes for the wake turbulence to completely dissipate. Heavy wake turbulence can cause huge problems as the airflow for light planes will be disrupted.
 
-[I found a great video explaining the effects of wake turbulence and wingtip vortices here.](https://www.youtube.com/watch?v=xyKwrU7fRY4)
+<div style="width: 100%; max-width: 960px; aspect-ratio: 16 / 9;">
+  <iframe
+    src="https://www.youtube.com/embed/2_hj6caATHA?autoplay=1&mute=1&playsinline=1"
+    title="JV video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="display: block; width: 100%; height: 100%; border: 0;">
+  </iframe>
+</div>
+
+The video above clearly shows how these vortices are generated.
 
 Some other facts:
 
-- The strength of the wingtip vortices are caused by the amount of ligt
+- The strength of the wingtip vortices are caused by the amount of lift and weight (as more weight needs more lift to fly)
 - The strength of the wingtip vortices are also caused by the angle of attach, where a higher angle of attack will generate more wingtip vortices
 - The wingtip vortices are the strongest during take-off and landing
 - An aircraft in clean configuration produces the most wingtip vortices
@@ -351,7 +365,6 @@ The greatest risks of wake-turbulence are:
 - Loss of height
 - Greatly reduced climb performance
 - Not enough lift at take-off (if taking of after a HEAVY aircraft)
-
 
 ### Wing shapes
 
@@ -566,7 +579,7 @@ The effects of increasing the Angle of Attack (AoA) are the following:
 
 ### Stall speed
 
-When practicing stalls in a plane, we will close the throttle making the engine run stationary and keep our altitude. We do this because power-off stalls are less dangerous than power-on stalls. As we lose speed, we need to correct for it by increasing the angle of attack. All the way to the critical AoA. In the formula of lift coefficient, the lift-coefficient factor increases where the speed factor decreases. 
+When practicing stalls in a plane, we will close the throttle making the engine run stationary and keep our altitude. We do this because power-off stalls are less dangerous than power-on stalls. As we lose speed, we need to correct for it by increasing the angle of attack. All the way to the critical AoA. In the formula of lift coefficient, the lift-coefficient factor increases where the speed factor decreases.
 
 Just for fun, here is the formula again:
 
@@ -671,8 +684,8 @@ Sympthoms of an approach to stall are:
 
 - Stall warning horn rings
 - Buffeting, this is an aerodynamic clue that the plane is about to stall where the drag of the separation layer takes over the lift making the aircraft shake somewhat
-  - This effect is not that audible on a Cessna 172
-  - It does on low-wing aircraft like Piper, Diamond Aircraft or Cirrus types
+    - This effect is not that audible on a Cessna 172
+    - It does on low-wing aircraft like Piper, Diamond Aircraft or Cirrus types
 - Airspeed too low
 - Controls becoming sloppy -> lower airspeed means lower air and less "grip"
 
@@ -736,11 +749,13 @@ The spin can be divided into three phases:
 We can recover from spins safely if we have the altitude:
 
 Recovery from wing dip
+
 - Opposite rudder to level off the plane
 - Unload the wings by pushing the yoke forward
 - Level off using the yoke
 
 Recovery from fully developed spin
+
 - Close the throttle to not be sucked into the spin, this decreases aerodynamic forces on the plane
 - Ailerons neutral, keep them level
 - Full opposite rudder as your spin direction
@@ -1055,7 +1070,7 @@ The angle of attach of a propellor blade is the angle between chord and incoming
 
 At an increasing forward movement speed the AoA will be 0 or even negative. The propellor doesn't produce thrust anymore.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f2c5ebd9761c.png)
+[![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f2c5ebd9761c.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-f2c5ebd9761c.png)
 
 ### Propellor Wrong
 
@@ -1079,7 +1094,7 @@ The power a propellor gives is dependent of the forward speed. Power x speed. If
 
 If we make a relational graph with the power and speed, the curve will be increasing till the point where the AoA is zero. The power will then just like the lift coefficient drop very vast.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9549f533bc19.png)
+[![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9549f533bc19.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9549f533bc19.png)
 
 This is the case for a fixed pitch propellor which only produces optimal thrust during a certain speed, dependent on the construction of the propellor. It works good during or climb or cruising but never both.
 
@@ -1092,7 +1107,7 @@ Aircraft manufactures thought of a clever idea to make propellors where the pilo
 
 This gives the pilot 3 handles instead of two. Next to a throttle and mixture they alsy get a blue for this cause. With that handle you can set a desired propellor RPM where you still control the fuel inlet pressure (manifold pressure) with the black throttle.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-506c2def841b.png)
+[![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-506c2def841b.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-506c2def841b.png)
 
 The graph shows that the line of a constant speed propellor is more flat and spanning the whole range. This means it can convert as much engine power to thrust as possible, and not only during climb or only during cruise.
 
@@ -1112,7 +1127,7 @@ Let's dive deeper into these three effects and how to take them into account as 
 
 The slipstream effect on single engine planes is caused by the right-rotating prop (seen from the cockpit). This slipstream rotates around the longtitudinal axis of the plane and hits the vertical stabilizer and rudder. During climbing situations, this results in a yawing motion to the left as the right-turning air hits the vertical stabilizer on the left side.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9eab604dddcc.png)
+[![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9eab604dddcc.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-9eab604dddcc.png)
 
 Aircrafts are designed to somewhat suppress this effect by assymmetric stabilizers, setting this under a small angle or a small ground adjustable trim surface on the rudder.
 
@@ -1129,7 +1144,7 @@ The P-factor or assymmetric blade-effect with right rotating prop as seen from t
 
 This is the somewhat strange cause of why we need to give some **right rudder** in a **left climbing** turn.
 
-![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8c138ec02d36.png)
+[![](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8c138ec02d36.png)](https://sajvwebsiteblobstorage.blob.core.windows.net/flightblog/ppl-theory-pof-5667/jv-media-5667-8c138ec02d36.png)
 
 #### Torque effect
 
@@ -1238,25 +1253,25 @@ The crosswind-flow will be bent off by the fuselage. At a high-winger this resul
 
 A plane is behaving different when loaded differently. As we have an object that is flying through the air, it needs to be balanced which we do in the mass and balance sheet. It cannot exceed the forward or after limits, but based on how the plane is loaded, it will behave differently.
 
-| Topic                      | Forward CG                                | Aft CG                                                  |
-| -------------------------- | ----------------------------------------- | ------------------------------------------------------- |
-| **Aircraft balance**       | Nose-heavy                                | Tail-heavy                                              |
-| **Longitudinal stability** | More stable                               | Less stable                                             |
-| **Pitch control**          | Heavier control forces                    | Lighter control forces                                  |
-| **Elevator authority**     | More elevator force needed                | Less elevator force needed                              |
-| **Stall speed**            | Higher stall speed                        | Lower stall speed                                       |
-| **Take-off/landing distance** | Longer                                 | Shorter                                                 |
-| **Landing flare**          | More difficult to flare                   | Easier to over-flare or balloon                         |
-| **Stall behaviour**        | Nose tends to drop more naturally         | Nose may not drop as readily                            |
-| **Stall recovery**         | Easier recovery                           | More difficult recovery                                 |
-| **Spin tendency**          | Less likely to enter a spin               | More likely to enter a spin                             |
-| **Spin recovery**          | Generally easier                          | May be difficult or impossible                          |
-| **Drag**                   | More drag, greater tail-down force        | Less drag                                               |
-| **Cruise performance**     | Worse cruise performance                  | Better cruise performance                               |
-| **Fuel consumption**       | Higher fuel consumption                   | Lower fuel consumption                                  |
-| **Trim**                   | More nose-up trim usually required        | Less nose-up trim usually required                      |
-| **Main risk**              | Aircraft may not rotate or flare properly | Aircraft may become unstable or unrecoverable           |
-| **Summary**                | Stable but heavy on controls              | Efficient but unstable                                  |
+| Topic | Forward CG | Aft CG |
+| --- | --- | --- |
+| Aircraft balance | Nose-heavy | Tail-heavy |
+| Longitudinal stability | More stable | Less stable |
+| Pitch control | Heavier control forces | Lighter control forces |
+| Elevator authority | More elevator force needed | Less elevator force needed |
+| Stall speed | Higher stall speed | Lower stall speed |
+| Take-off/landing distance | Longer | Shorter |
+| Landing flare | More difficult to flare | Easier to over-flare or balloon |
+| Stall behaviour | Nose tends to drop more naturally | Nose may not drop as readily |
+| Stall recovery | Easier recovery | More difficult recovery |
+| Spin tendency | Less likely to enter a spin | More likely to enter a spin |
+| Spin recovery | Generally easier | May be difficult or impossible |
+| Drag | More drag, greater tail-down force | Less drag |
+| Cruise performance | Worse cruise performance | Better cruise performance |
+| Fuel consumption | Higher fuel consumption | Lower fuel consumption |
+| Trim | More nose-up trim usually required | Less nose-up trim usually required |
+| Main risk | Aircraft may not rotate or flare properly | Aircraft may become unstable or unrecoverable |
+| Summary | Stable but heavy on controls | Efficient but unstable |
 
 ## Additions (more clear and better self-understanding)
 
@@ -1271,6 +1286,7 @@ Slipstream effect is caused by the propellor rotation, circling around the plane
 To compensate
 
 Low RPM: Steer left
+
 High RPM: Steer right
 
 Torque effect is Newtons third law in action, propellor rotates clockwise as seen from cockpit, plane wants to roll counterclockwise
