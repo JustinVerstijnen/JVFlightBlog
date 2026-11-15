@@ -983,300 +983,200 @@ nav.foldable-nav .ul-1 .with-child > input:checked ~ label::before { color: #8EA
 @media print {
   .jv-post-meta { box-shadow: none; }
 }
-/* Breadcrumbs */
+/* Breadcrumbs — flat Flightblog blue #8EAFDA, consistently spaced.
+ * Home icon ~30% larger than before (0.92rem -> 1.20rem).
+ * Home, category and page pills all share the same minimum height.
+ * The single spacing variable is used on both sides of each chevron.
+ * Compatible with Docsy BEM and Bootstrap breadcrumb classes.
+ * The accessible original Blog link to /blog/ stays in the HTML.
+ */
 .td-breadcrumbs {
-  margin-bottom: 1rem;
+  --jv-breadcrumb-gap: 0.55rem;
+  --jv-breadcrumb-height: 2.2rem;
+  --jv-breadcrumb-pill-bg: #edf3fa;
+  --jv-breadcrumb-pill-hover: #e4edf8;
+  --jv-breadcrumb-text: #486f9f;
+  --jv-breadcrumb-chevron: #8EAFDA;
+  --jv-breadcrumb-home: #486f9f;
+  --jv-breadcrumb-home-bg: #e4edf8;
+  --jv-breadcrumb-home-hover-bg: #486f9f;
+  --jv-breadcrumb-home-hover-text: #ffffff;
+
+  margin-bottom: 0.85rem;
 }
 
-.td-breadcrumbs__list {
+.td-breadcrumbs :is(.td-breadcrumbs__list, .breadcrumb) {
+  /* Docsy inherits Bootstrap's breadcrumb-item spacing. Our flex gap
+     replaces it, so disable the Bootstrap spacing for every item. */
+  --bs-breadcrumb-item-padding-x: 0;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.45rem;
+  gap: 0.45rem var(--jv-breadcrumb-gap);
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.td-breadcrumbs__item {
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) {
   display: inline-flex;
   align-items: center;
   min-width: 0;
   max-width: 100%;
+  margin: 0;
   padding: 0;
-  color: #647487;
-  font-size: 0.82rem;
-  line-height: 1.2;
+  color: var(--jv-breadcrumb-chevron);
+  font-size: 0.98rem;
+  line-height: 1.3;
 }
 
-.td-breadcrumbs__item + .td-breadcrumbs__item::before {
+/* Bootstrap's adjacent-item selector is more specific than the item rule
+   above and can shift category links on article pages by an extra 0.5rem.
+   Reset that shift explicitly. The current-page pill gets its own padding
+   below, so its rounded shape remains unchanged. */
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) + :is(.td-breadcrumbs__item, .breadcrumb-item) {
+  padding-left: 0;
+  padding-inline-start: 0;
+}
+
+/* Disable the original theme separator to avoid doubling the chevrons. */
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) + :is(.td-breadcrumbs__item, .breadcrumb-item)::before {
   display: none !important;
   content: none !important;
   padding: 0 !important;
 }
 
-.td-breadcrumbs__item:not(:last-child)::after {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+/* Left: ::after margin = --jv-breadcrumb-gap.
+   Right: flex gap between this item and the next = same variable. */
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):not(:last-child)::after {
+  display: block;
   flex: 0 0 auto;
-  margin-left: 0.45rem;
-  color: #8EAFDA;
-  content: "›";
-  font-size: 1.05rem;
-  font-weight: 600;
-  line-height: 1;
-  opacity: 0.9;
+  width: 0.82rem;
+  height: 0.82rem;
+  margin-inline-start: var(--jv-breadcrumb-gap);
+  background-color: var(--jv-breadcrumb-chevron);
+  content: '';
+  -webkit-mask: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"%3E%3Cpath d="m7.5 4.5 5.5 5.5-5.5 5.5" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/%3E%3C/svg%3E') center / contain no-repeat;
+  mask: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"%3E%3Cpath d="m7.5 4.5 5.5 5.5-5.5 5.5" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/%3E%3C/svg%3E') center / contain no-repeat;
 }
 
-.td-breadcrumbs__item > a,
-.td-breadcrumbs__item[aria-current='page'] {
-  position: relative;
+/* The category and current page have matching font size and pill height. */
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) > a,
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item)[aria-current='page'] {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
   min-width: 0;
   max-width: 100%;
-  border: 1px solid rgba(142, 175, 218, 0.28);
-  border-radius: 0.7rem;
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.72) 0%,
-      rgba(255, 255, 255, 0.18) 48%,
-      rgba(255, 255, 255, 0) 100%
-    ),
-    rgba(239, 247, 253, 0.72);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.72),
-    0 4px 12px rgba(41, 85, 120, 0.07);
-  backdrop-filter: blur(14px) saturate(125%);
-  -webkit-backdrop-filter: blur(14px) saturate(125%);
+  min-height: var(--jv-breadcrumb-height);
+  margin: 0;
+  padding: 0.4rem 0.82rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--jv-breadcrumb-pill-bg);
+  box-shadow: none;
+  color: var(--jv-breadcrumb-text);
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
   overflow-wrap: anywhere;
-}
-
-.td-breadcrumbs__item > a {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.42rem 0.68rem;
-  color: #658EC4;
-  font-weight: 600;
   text-decoration: none;
-  transition:
-    background-color 0.15s ease,
-    border-color 0.15s ease,
-    box-shadow 0.15s ease,
-    color 0.15s ease,
-    transform 0.15s ease;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
 }
 
-.td-breadcrumbs__item > a:hover,
-.td-breadcrumbs__item > a:focus-visible {
-  border-color: rgba(142, 175, 218, 0.48);
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.82) 0%,
-      rgba(255, 255, 255, 0.22) 48%,
-      rgba(255, 255, 255, 0) 100%
-    ),
-    rgba(226, 241, 251, 0.90);
-  color: #4A79AE;
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) > a {
+  transition: background-color 0.18s ease, color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) > a:hover {
+  background: var(--jv-breadcrumb-pill-hover);
+  color: var(--jv-breadcrumb-text);
   text-decoration: none;
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.82),
-    0 7px 18px rgba(41, 85, 120, 0.11);
-  transform: translateY(-1px);
 }
 
-.td-breadcrumbs__item > a:focus-visible {
-  outline: 2px solid rgba(142, 175, 218, 0.45);
-  outline-offset: 2px;
+.td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) > a:focus-visible {
+  outline: 2px solid var(--jv-breadcrumb-text);
+  outline-offset: 3px;
 }
 
-.td-breadcrumbs__item[aria-current='page'] {
-  padding: 0.42rem 0.68rem;
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.78) 0%,
-      rgba(255, 255, 255, 0.18) 50%,
-      rgba(255, 255, 255, 0) 100%
-    ),
-    rgba(222, 238, 249, 0.88);
-  color: #435566;
-  font-weight: 600;
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.78),
-    0 6px 16px rgba(41, 85, 120, 0.09);
+/* The existing blog-home link remains a real link; display its icon only.
+ * Same height as the other pills. Blue circular background + hover effect.
+ */
+.td-blog .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):first-child > a {
+  justify-content: center;
+  flex: 0 0 var(--jv-breadcrumb-height);
+  width: var(--jv-breadcrumb-height);
+  height: var(--jv-breadcrumb-height);
+  min-height: var(--jv-breadcrumb-height);
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--jv-breadcrumb-home-bg);
+  box-shadow: none;
+  color: var(--jv-breadcrumb-home);
+  font-size: 0; /* Keep 'Blog' accessible to screen readers. */
+  line-height: 0;
+  white-space: nowrap;
 }
 
-[data-bs-theme='dark'] .td-breadcrumbs__item {
-  color: #aebbc8;
+.td-blog .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):first-child > a::before {
+  display: block;
+  flex: 0 0 auto;
+  width: 1.2rem; /* Old: .92rem. Increase ~30%. */
+  height: 1.2rem;
+  background: currentColor;
+  content: '';
+  -webkit-mask: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/%3E%3C/svg%3E') center / contain no-repeat;
+  mask: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/%3E%3C/svg%3E') center / contain no-repeat;
 }
 
-[data-bs-theme='dark'] .td-breadcrumbs__item:not(:last-child)::after {
-  color: var(--jv-code-accent, #B3CFF2);
+.td-blog .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):first-child > a:hover {
+  background: var(--jv-breadcrumb-home-hover-bg);
+  color: var(--jv-breadcrumb-home-hover-text);
+  box-shadow: 0 3px 10px rgba(95, 131, 183, 0.20);
+  transform: translateY(-1px) scale(1.05);
 }
 
-[data-bs-theme='dark'] .td-breadcrumbs__item > a,
-[data-bs-theme='dark'] .td-breadcrumbs__item[aria-current='page'] {
-  border-color: rgba(132, 187, 226, 0.23);
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.08) 0%,
-      rgba(255, 255, 255, 0.025) 48%,
-      rgba(255, 255, 255, 0) 100%
-    ),
-    rgba(38, 51, 62, 0.78);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.07),
-    0 5px 16px rgba(0, 0, 0, 0.20);
+.td-blog .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):first-child > a:active {
+  transform: translateY(0) scale(1);
 }
 
-[data-bs-theme='dark'] .td-breadcrumbs__item > a {
-  color: var(--jv-code-accent, #B3CFF2);
-}
-
-[data-bs-theme='dark'] .td-breadcrumbs__item > a:hover,
-[data-bs-theme='dark'] .td-breadcrumbs__item > a:focus-visible {
-  border-color: rgba(132, 187, 226, 0.38);
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.10) 0%,
-      rgba(255, 255, 255, 0.035) 48%,
-      rgba(255, 255, 255, 0) 100%
-    ),
-    rgba(44, 63, 78, 0.92);
-  color: #DCE9F9;
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.09),
-    0 8px 20px rgba(0, 0, 0, 0.27);
-}
-
-[data-bs-theme='dark'] .td-breadcrumbs__item[aria-current='page'] {
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.09) 0%,
-      rgba(255, 255, 255, 0.025) 50%,
-      rgba(255, 255, 255, 0) 100%
-    ),
-    rgba(49, 72, 90, 0.88);
-  color: #d8e5ef;
+[data-bs-theme='dark'] .td-breadcrumbs {
+  --jv-breadcrumb-pill-bg: #263448;
+  --jv-breadcrumb-pill-hover: #2e435c;
+  --jv-breadcrumb-text: #bad2f0;
+  --jv-breadcrumb-chevron: #8EAFDA;
+  --jv-breadcrumb-home: #bad2f0;
+  --jv-breadcrumb-home-bg: #2e435c;
+  --jv-breadcrumb-home-hover-bg: #8EAFDA;
+  --jv-breadcrumb-home-hover-text: #17324f;
 }
 
 @media (max-width: 575.98px) {
-  /*
-   * Mobile breadcrumbs:
-   * - Blog + category stay together on the first row
-   * - Current post moves to a second, slightly indented row
-   * - No vertical/staircase arrows, keeping the layout calmer
-   */
-  .td-breadcrumbs__list {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.38rem;
+  .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) {
+    font-size: 0.93rem;
   }
 
-  .td-breadcrumbs__item {
-    display: inline-flex;
-    align-items: center;
+  .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) > a,
+  .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item)[aria-current='page'] {
+    padding: 0.4rem 0.7rem;
+  }
+
+  .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item)[aria-current='page'] {
     width: auto;
+    flex: 0 1 auto;
     max-width: 100%;
     margin: 0;
-    gap: 0.38rem;
-    font-size: 0.79rem;
-  }
-
-  .td-breadcrumbs__item > a,
-  .td-breadcrumbs__item[aria-current='page'] {
-    width: fit-content;
-    max-width: 100%;
-    padding: 0.45rem 0.64rem;
-    border-radius: 0.68rem;
-  }
-
-  /* Keep a normal horizontal separator between Blog and category */
-  .td-breadcrumbs__item:first-child::after {
-    display: inline-flex;
-    width: auto;
-    height: auto;
-    margin: 0;
-    border: 0;
-    color: #8EAFDA;
-    content: "›";
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1;
-    opacity: 0.78;
-    transform: none;
-  }
-
-  /* Category ends the first row */
-  .td-breadcrumbs__item:nth-child(2)::after {
-    display: none;
-    content: none;
-  }
-
-  /* Current page gets its own row with a subtle indent */
-  .td-breadcrumbs__item[aria-current='page'] {
-    flex: 0 0 calc(100% - 1rem);
-    width: calc(100% - 1rem);
-    max-width: calc(100% - 1rem);
-    margin-top: 0.18rem;
-    margin-left: 1rem;
-  }
-
-  .td-breadcrumbs__item[aria-current='page'] {
-    padding: 0.5rem 0.68rem;
-  }
-
-  /* Slightly calmer current-page glass card on mobile */
-  .td-breadcrumbs__item[aria-current='page'] {
-    border-color: rgba(142, 175, 218, 0.24);
-    background:
-      linear-gradient(
-        180deg,
-        rgba(255, 255, 255, 0.66) 0%,
-        rgba(255, 255, 255, 0.14) 50%,
-        rgba(255, 255, 255, 0) 100%
-      ),
-      rgba(232, 243, 251, 0.78);
-    box-shadow:
-      inset 0 1px 0 rgba(255, 255, 255, 0.68),
-      0 4px 12px rgba(41, 85, 120, 0.07);
-  }
-
-  [data-bs-theme='dark'] .td-breadcrumbs__item:first-child::after {
-    color: var(--jv-code-accent, #B3CFF2);
-    opacity: 0.72;
-  }
-
-  [data-bs-theme='dark'] .td-breadcrumbs__item[aria-current='page'] {
-    border-color: rgba(132, 187, 226, 0.20);
-    background:
-      linear-gradient(
-        180deg,
-        rgba(255, 255, 255, 0.07) 0%,
-        rgba(255, 255, 255, 0.02) 50%,
-        rgba(255, 255, 255, 0) 100%
-      ),
-      rgba(42, 57, 69, 0.82);
-    box-shadow:
-      inset 0 1px 0 rgba(255, 255, 255, 0.06),
-      0 5px 15px rgba(0, 0, 0, 0.18);
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .td-breadcrumbs__item > a {
+  .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item) > a {
     transition: none;
   }
-
-  .td-breadcrumbs__item > a:hover,
-  .td-breadcrumbs__item > a:focus-visible {
+  .td-blog .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):first-child > a:hover,
+  .td-blog .td-breadcrumbs :is(.td-breadcrumbs__item, .breadcrumb-item):first-child > a:active {
     transform: none;
   }
 }
