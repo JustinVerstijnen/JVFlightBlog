@@ -1,6 +1,6 @@
 ---
 title: 'Language Proficiency Endorsement Course'
-date: 2026-11-29
+date: 2026-11-17
 slug: "language-proficiency-endorsement-course"
 categories:
  - RT Theory
