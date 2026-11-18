@@ -101,7 +101,7 @@ Possible parts to add to the table
 
 ---
 
-## Module 2: Interaction exercise at Malaga Airport
+## Module 2: Interactive exercise at Malaga Airport
 
 In this module, I was given a example of a situation that can happen. The main area's are to understand what is happening between ATC and the pilots of another plane and why various actions are done or wrong. The example of the situation is:
 
@@ -186,7 +186,7 @@ In this table I have some example phrases with a full example of how the sentenc
 
 ## Module 4: Non-standard fluency situations
 
-For each situation, my task is to give a proper/required response to ATC in English. The source material does not provide model answers, so the answer is worked out by myself.
+For each situation, my task is to give a proper/required response to ATC in English. The source material does not provide model answers, so the answer is worked out by myself. The answer contains the sentences/sayings I have to perform where I have to keep the Radio Telephony rules in mind.
 
 ### Situation 4.1: Ground movement incident at Hilversum
 
