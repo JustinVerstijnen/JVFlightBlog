@@ -7,7 +7,7 @@ categories:
 - Flight Lessons
 description: "In this fifth solo lesson, I left the circuit/airport area to again fully fly standalone. Then I performed some more advanced exercises like slow flight and approach to stalls and full stalls and re-joined the circuit to land."
 hidden: false
-weight: 7
+weight: 9
 ---
 
 {{% alert title="Disclaimer" color="warning" %}}
