@@ -335,27 +335,37 @@ No further task or specific question is included in the supplied document.
 
 ---
 
+## Module 5: NOTAMs and abbreviations
+
+In NOTAMs which I have already learned in the LAW theory course:https://flightblog.justinverstijnen.nl/ppl-theory-law/#notam-code some abbreviations are used. These are simple terms which can be used in much different situations. To train myself on those abbreviations, I will again make up the same table as I did before to kick in those terms:
+
+| **Abbreviation** | **Description** |
+|---|---|
+| AD | |
+| BTN | |
+| DLY | |
+| EST | |
+| EV | |
+| FLG | |
+| HEMS | |
+| PJE | |
+| PN | |
+| PPR | |
+| UAS | |
+| U/S | |
+| WEF | |
+| WIP | |
+| WO | |
+
+---
+
 ## Personal preparation checklist
 
-- [ ] [ ] Send a scan of my passport in advance.
-- [ ] [ ] Check that the passport shows my place and date of birth.
-- [ ] [ ] Send a scan of my pilot licence, if applicable.
-- [ ] [ ] Bring my passport on the assessment day.
-- [ ] [ ] Bring the assessment fee.
-- [ ] [ ] Wait for confirmation of the exact time schedule.
-- [ ] [ ] Practise the twenty fluency phrases.
-- [ ] [ ] Prepare an English response for each non-standard situation.
-- [ ] [ ] Prepare answers to the five Malaga Airport questions.
-- [ ] [ ] Practise naming the listed aircraft parts.
-- [ ] [ ] Practise basic instrument-panel vocabulary.
-- [ ] [ ] Practise the listed aviation terminology.
-- [ ] [ ] Practise pronouncing abbreviations in NOTAMs in full.
-- [ ] [ ] Prepare for the listening assessment.
-- [ ] [ ] Give additional attention to fluency because it carries the greatest weight.
-- [ ] Your photo ID. This must be a passport, not a driving licence.
-- [ ] Your pilot licence, which I don't already have
-- [ ] Your passport as photo ID. It must show your place and date of birth. A driving licence is not accepted.
-- [ ] The assessment fee.
+- Bring my passport on the assessment day
+- Practice pronouncing abbreviations in NOTAMs in full
+- Prepare for the listening assessment
+- Give additional attention to fluency because it carries the greatest weight
+- Your passport as photo ID. It must show your place and date of birth. A driving licence is not accepted
 
 {{< ads >}}
 

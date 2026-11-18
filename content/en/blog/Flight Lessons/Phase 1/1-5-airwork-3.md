@@ -2,7 +2,7 @@
 title: "1.5 Airwork 3"
 date: 2025-09-26
 slug: "1-5-airwork-3"
-description: ">"
+description: "In this lesson we performed several airwork exercises, preceded by theory briefings."
 categories:
   - Flight Lessons
 tags: []
