@@ -58,46 +58,44 @@ In module 1, I must announce various parts of an aircraft in english and give a 
 
 ### Parts of a simple motor aircraft
 
-| No. | Aircraft part | Description in the supplied material |
-| --- | --- | --- |
-| 1 | Cockpit | Command and control |
-| 2 | Cockpit door |  |
-| 3 | Fuselage | Carries payload and holds things together |
-| 4 | Horizontal stabiliser | Controls pitch |
-| 5 | Elevator(s) | Change pitch |
-| 6 | Tail fin / vertical stabiliser | Controls yaw |
-| 7 | Anti-collision light / beacon light |  |
-| 8 | Rudder | Changes yaw |
-| 9 | Tail light | White |
-| 10 | Luggage hatch |  |
-| 11 | Flap(s) | Increase lift and drag |
-| 12 | Aileron(s) | Change roll |
-| 13 | Right strobe light |  |
-| 14 | Right navigation light | Green |
-| 15 | Right wing | Generates lift |
-| 16 | Landing light |  |
-| 17 | Fuel inlet |  |
-| 18 | Right main wheel |  |
-| 19 | Oil check hatch |  |
-| 20 | Nose wheel |  |
-| 21 | Engine | Generates thrust through the propeller |
-| 22 | Spinner |  |
-| 23 | Air inlet |  |
-| 24 | Propeller |  |
-| 25 | Left main wheel |  |
-| 26 | Left wing |  |
-| 27 | Left navigation light | Red |
-| 28 | Left strobe light |  |
-| 29 | Aileron(s) |  |
-| 30 | Pitot tube |  |
-| 31 | Static opening |  |
-| 32 | Stall warning |  |
-
-Possible parts to add to the table
-
-- **Winglets:** decrease drag (induced drag)
-- **Slats:** increase lift
-- **Spoilers:** change lift, drag and roll
+| Aircraft part | Description in the supplied material |
+| --- | --- |
+| Cockpit | Command and control |
+| Left cockpit door | Gives access to the cockpit and outside the plane |
+| Right cockpit door | Gives access to the cockpit and outside the plane |
+| Fuselage | Carries payload and holds things together |
+| Horizontal stabiliser | Controls pitch |
+| Elevator(s) | Change pitch |
+| Tail fin / vertical stabiliser | Controls yaw |
+| Anti-collision light / beacon light | Red flashing light on the top of the vertical stabilizer which gives notice about an airplane and the possible starting procedure |
+| Rudder | Changes yaw |
+| Tail light | White |
+| Luggage hatch | Gives access to the cargo compartiment |
+| Cargo door | Gives access to the cargo compartiment |
+| Flap(s) | Increase lift and drag, used primarily on take-off and landing |
+| Aileron(s) | Change roll |
+| Right strobe light | Flashing white light to gain attention |
+| Right navigation light | Green |
+| Right wing | Generates lift |
+| Landing light | Light on the front of the nose or leading edge of the wing to show you are landing |
+| Fuel inlet | The inlet where we tank the fuel |
+| Right main wheel | The right main wheel (as seen from the pilot seat) |
+| Oil check hatch | The (yellow) hatch to check the oil level of the engine |
+| Nose wheel | The wheel up front |
+| Engine | Generates thrust through the propeller |
+| Spinner | Pointy object on the propellor to alter the airflow into the engine for cooling |
+| Air inlet | Air inlet used for ventilation |
+| Propeller | Big fan on the front that produces thrust |
+| Left main wheel | The right main wheel (as seen from the pilot seat) |
+| Left wing | Produces lift |
+| Left navigation light | Red |
+| Left strobe light | Flashing white light to gain attention |
+| Pitot tube | Measures dynamic pressure for our indicators, in the same manner as the wings work |
+| Static opening | Measures static pressure of the air at any altitude, used for our altitude indicator |
+| Stall warning | A mechanical horn which alerts you of an incoming stall by measuring the separation layer |
+| Winglets | decrease drag (induced drag) |
+| Slats | Leading edge flaps, increase lift |
+| Spoilers | Change lift, drag and roll |
 
 ---
 
@@ -105,13 +103,7 @@ Possible parts to add to the table
 
 In this module, I was given a example of a situation that can happen. The main area's are to understand what is happening between ATC and the pilots of another plane and why various actions are done or wrong. The example of the situation is:
 
-A pilot was in a private Cessna on the apron at Malaga Airport. The pilot contacted Ground on 121.70 and requested departure clearance. Clearance was received and the pilot was directed to runway 14.
-
-The pilot then requested permission from Tower to taxi to runway 14 via intersection C-2. Permission was received. At intersection C-2, holding point runway 14, the pilot completed the engine check, or run-up, and then called Tower for take-off clearance using the phrase “Ready for Departure.”
-
-Tower did not answer. The pilot repeated the call, but again received no answer. The pilot then tried to contact Ground and Approach, but neither station answered. The pilot concluded that the radio was out of order.
-
-Because the airport was busy, the pilot could not simply taxi across it. The pilot called the aeroclub using a mobile phone and obtained the telephone number of the Tower. After explaining the situation to the Tower, the aircraft was back on the apron approximately fifteen minutes later. The radio was repaired and the pilot safely reached Granada Airport later that day.
+> A pilot was in a private Cessna on the apron at Malaga Airport. The pilot contacted Ground on 121.70 and requested departure clearance. Clearance was received and the pilot was directed to runway 14.The pilot then requested permission from Tower to taxi to runway 14 via intersection C-2. Permission was received. At intersection C-2, holding point runway 14, the pilot completed the engine check, or run-up, and then called Tower for take-off clearance using the phrase “Ready for Departure.”Tower did not answer. The pilot repeated the call, but again received no answer. The pilot then tried to contact Ground and Approach, but neither station answered. The pilot concluded that the radio was out of order.Because the airport was busy, the pilot could not simply taxi across it. The pilot called the aeroclub using a mobile phone and obtained the telephone number of the Tower. After explaining the situation to the Tower, the aircraft was back on the apron approximately fifteen minutes later. The radio was repaired and the pilot safely reached Granada Airport later that day.
 
 ### Question 1
 
@@ -119,7 +111,7 @@ Because the airport was busy, the pilot could not simply taxi across it. The pil
 
 **My answer:**
 
-> 
+> His decision to try the radio is good. I think he just had to first set 7600 on his transponder after concluding the radio has an error.
 
 ### Question 2
 
@@ -127,7 +119,7 @@ Because the airport was busy, the pilot could not simply taxi across it. The pil
 
 **My answer:**
 
-> 
+> No, I would have been there until I got an specific clearance to taxi from one of the ATC organs.
 
 ### Question 3
 
@@ -135,7 +127,7 @@ Because the airport was busy, the pilot could not simply taxi across it. The pil
 
 **My answer:**
 
-> 
+> 7600 on the transponder and look at the tower for light signals or he could just Google it or call the national aviation authority to transfer to the tower control.
 
 ### Question 4
 
@@ -143,7 +135,7 @@ Because the airport was busy, the pilot could not simply taxi across it. The pil
 
 **My answer:**
 
-> 
+> Yes, if the airfield is uncontrolled we don't need to be cleared for taxi/landing/departure and we could simply turn around while using visual references.
 
 ### Question 5
 
@@ -151,7 +143,7 @@ Because the airport was busy, the pilot could not simply taxi across it. The pil
 
 **My answer:**
 
-> 
+> I think they will give a taxi-back clearance or a number/method of reaching ground to get a taxi-back clearance.
 
 ---
 
@@ -337,35 +329,33 @@ No further task or specific question is included in the supplied document.
 
 ## Module 5: NOTAMs and abbreviations
 
-In NOTAMs which I have already learned in the LAW theory course:https://flightblog.justinverstijnen.nl/ppl-theory-law/#notam-code some abbreviations are used. These are simple terms which can be used in much different situations. To train myself on those abbreviations, I will again make up the same table as I did before to kick in those terms:
+In NOTAMs which I have already learned in the LAW theory course: https://flightblog.justinverstijnen.nl/ppl-theory-law/#notam-code some abbreviations are used. These are simple terms which can be used in much different situations. To train myself on those abbreviations, I will again make up the same table as I did before to kick in those terms:
 
-| **Abbreviation** | **Description** |
-|---|---|
-| AD | |
-| BTN | |
-| DLY | |
-| EST | |
-| EV | |
-| FLG | |
-| HEMS | |
-| PJE | |
-| PN | |
-| PPR | |
-| UAS | |
-| U/S | |
-| WEF | |
-| WIP | |
-| WO | |
+| Abbreviation | Description |
+| --- | --- |
+| AD | Aerodrome |
+| BTN | Between |
+| DLY | Daily |
+| EST | Estimated |
+| EV | Every |
+| FLG | Flashing |
+| HEMS | Helicopter Emergency Medical Service |
+| PJE | Parachute Jumping Exercise |
+| PN | Prior notice |
+| PPR | Prior permission required |
+| UAS | Unmanned Aircraft system |
+| U/S | Unservicable |
+| WEF | With effect from |
+| WIP | Work in progress |
+| WO | Without |
 
 ---
 
 ## Personal preparation checklist
 
 - Bring my passport on the assessment day
-- Practice pronouncing abbreviations in NOTAMs in full
-- Prepare for the listening assessment
-- Give additional attention to fluency because it carries the greatest weight
-- Your passport as photo ID. It must show your place and date of birth. A driving licence is not accepted
+- Send copy of passport
+- Bring the funds
 
 {{< ads >}}
 
