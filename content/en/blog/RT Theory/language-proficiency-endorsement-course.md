@@ -41,9 +41,9 @@ After performing the endorsement, a score is built up where a total of 6 differe
 
 | LPE level | Validity |
 | --- | --- |
-| 1 | Not specified |
-| 2 | Not specified |
-| 3 | Not specified |
+| 1 | Retry |
+| 2 | Retry |
+| 3 | Retry |
 | 4 | 4 years |
 | 5 | 6 years |
 | 6 | Valid for life |
